@@ -30,7 +30,7 @@ A "World" is analyzed through three simultaneous lenses:
 *   **Type**: Novel
 *   **Genealogy**: Born from 2008 recession precarity + smartphone ubiquity (Uber launched 2009).
 *   **Tension**: **Decay**: Rising labor costs/regulation vs. **Mutation**: Transition to autonomous fleets.
-*   **Iteration**: *Somatic Intervention*: The phantom vibration of a notification that never arrived; the driver's spine curving to match the GPS route.
+*   **Iteration**: *Feedback Loops*: The surge pricing algorithm screaming in a language of pure demand; the city eating itself to feed the map.
 *   **Inhabitants**: The Algorithm, Driver, Passenger, Support Bot.
 *   **Phenomenology (Schutz)**: Time as micro-transactions; city as navigation graph; radical solitude; gamified survival.
 *   **Structure (Bourdieu)**: **Capital**: Ratings (4.9 stars), Acceptance Rate. **Doxa**: "Be your own boss." **Habitus**: Constant scanning, anxiety, speed.
@@ -110,7 +110,7 @@ A "World" is analyzed through three simultaneous lenses:
 *   **Type**: Novel
 *   **Genealogy**: LessWrong (2009) + Silicon Valley philanthropy.
 *   **Tension**: **Crisis**: Reputation collapse (FTX) vs. **Mutation**: Pivot to AI Safety/Acc/Decel tribes.
-*   **Iteration**: *Noise*: The hum of the server farm drowning out the cry of the individual; utility calculus dividing by zero.
+*   **Iteration**: *Axiomatization*: Defining "Human Value" as a variable `H` that must be maximized, even if it requires the extinction of the current human species to save the potential of the future `H`.
 *   **Inhabitants**: Blogger, Donor, Researcher.
 *   **Phenomenology (Schutz)**: Bayesian reasoning; decoupling emotion from logic; utilitarian calculus.
 *   **Structure (Bourdieu)**: **Capital**: IQ, Calibration, Impact. **Doxa**: "Shut up and multiply." **Habitus**: Steelmanning, updating priors.
@@ -160,7 +160,7 @@ A "World" is analyzed through three simultaneous lenses:
 *   **Type**: Novel
 *   **Genealogy**: Bellingcat (2014) + Citizen journalism + Ukraine War.
 *   **Tension**: **Growth**: Crowdsourced intelligence vs. **Tension**: Disinformation/Witch-hunts (Boston Bomber).
-*   **Iteration**: *Defamiliarization*: A vacation photo becomes a targeting coordinate; the background becomes the foreground.
+*   **Iteration**: *Externalities*: The crumbling of the sole in 20 years as a delayed cost paid by the archive; the entropy of the glue as a market correction.
 *   **Inhabitants**: Investigator, Target, Crowd.
 *   **Phenomenology (Schutz)**: Digital detective work; world as data points; justice seeking.
 *   **Structure (Bourdieu)**: **Capital**: Accuracy, Speed. **Doxa**: "Everything is visible." **Habitus**: Reverse searching, analyzing.
@@ -170,7 +170,7 @@ A "World" is analyzed through three simultaneous lenses:
 *   **Type**: Novel
 *   **Genealogy**: 1980s Basketball culture (Jordan) -> 2000s Forums -> 2010s Resale Apps.
 *   **Tension**: **Decay**: Market oversaturation ("Bricks") and fatigue with artificial scarcity.
-*   **Iteration**: *Metaphor*: Shoes that never touch the ground; the shoebox as a sarcophagus for value.
+*   **Iteration**: *Externalities*: The crumbling of the sole in 20 years as a delayed cost paid by the archive; the entropy of the glue as a market correction.
 *   **Inhabitants**: Reseller, Collector, Bot.
 *   **Phenomenology (Schutz)**: Artificial scarcity; drop culture anxiety; visual signaling.
 *   **Structure (Bourdieu)**: **Capital**: Rare colorways, Portfolio. **Doxa**: "Wear your kicks." **Habitus**: Camping out, unboxing.
@@ -200,7 +200,7 @@ A "World" is analyzed through three simultaneous lenses:
 *   **Type**: Novel
 *   **Genealogy**: Korean PC Bangs (StarCraft) -> Twitch -> Stadium events.
 *   **Tension**: **Crisis**: "E-sports Winter" (VC funding drying up) vs. **Mutation**: Saudi investment.
-*   **Iteration**: *Technology*: The mouse hand fused with the cursor; the APM (actions per minute) as a heartbeat.
+*   **Iteration**: *Mechanics vs. Flavor*: The avatar is not a hero but a cursor made of flesh; the "kill" is just a boolean state change in a server rack 5,000 miles away.
 *   **Inhabitants**: Pro Player, Coach, Fan.
 *   **Phenomenology (Schutz)**: Embodied virtuality; flow state; high-speed processing.
 *   **Structure (Bourdieu)**: **Capital**: Rank/ELO, Wins. **Doxa**: "Git Gud." **Habitus**: Grinding, reviewing VODs.
@@ -252,7 +252,7 @@ A "World" is analyzed through three simultaneous lenses:
 *   **Type**: Long-lasting
 *   **Genealogy**: East India Company -> Fordism -> Modern MNC.
 *   **Tension**: **Mutation**: Remote work/Flat structures vs. **Tension**: Return to Office/Managerialism.
-*   **Iteration**: *Defamiliarization*: The meeting as a ritual to summon the spirit of "Synergy"; language stripped of meaning (KPI, ROI).
+*   **Iteration**: *Reductionism*: The citizen dissolved into a file number; the tragedy of a life reduced to the thickness of a folder.
 *   **Inhabitants**: CEO, Manager, Worker.
 *   **Phenomenology (Schutz)**: Quarterly time; emotional suppression; abstraction.
 *   **Structure (Bourdieu)**: **Capital**: Title, Budget. **Doxa**: "Shareholder value." **Habitus**: Meetings, email.
@@ -322,7 +322,7 @@ A "World" is analyzed through three simultaneous lenses:
 *   **Type**: Long-lasting
 *   **Genealogy**: Early Radio (1920s) -> Radar -> Modern Automation.
 *   **Tension**: **Tension**: Increasing traffic volume vs. **Mutation**: AI assistance/Remote towers.
-*   **Iteration**: *Technology*: The voice in the headset as the hand of god; the blip on the screen as 300 souls.
+*   **Iteration**: *Emergence*: The collision that *doesn't* happen as a ghost haunting the radar; the safety record as a collective hallucination maintained by fear.
 *   **Inhabitants**: Controller, Pilot.
 *   **Phenomenology (Schutz)**: 3D visualization; zero margin for error; stress.
 *   **Structure (Bourdieu)**: **Capital**: Situational awareness. **Doxa**: "Separation is sacred." **Habitus**: Scanning, speaking.
@@ -352,7 +352,7 @@ A "World" is analyzed through three simultaneous lenses:
 *   **Type**: Long-lasting
 *   **Genealogy**: Medici Bank -> Wall Street (20th C.) -> High Frequency Trading.
 *   **Tension**: **Mutation**: FinTech/Algo-trading vs. **Tension**: Culture clash with Gen Z work-life balance.
-*   **Iteration**: *Defamiliarization*: Money as a fiction that kills; the spreadsheet as a battlefield map.
+*   **Iteration**: *Homeostasis*: The market devouring a bankrupt nation to stabilize its own blood sugar; financial cannibalism as healing.
 *   **Inhabitants**: Banker, Client.
 *   **Phenomenology (Schutz)**: Time as money; transactional; sleep deprivation.
 *   **Structure (Bourdieu)**: **Capital**: Deal volume, Bonus. **Doxa**: "Eat what you kill." **Habitus**: Working late.
@@ -473,7 +473,7 @@ A "World" is analyzed through three simultaneous lenses:
 *   **Type**: Novel
 *   **Genealogy**: D&D (1974) -> SCA -> Vampire: The Masquerade -> Nordic LARP.
 *   **Tension**: **Growth**: Mainstream acceptance (Critical Role) vs. **Tension**: Stigma of "cringe".
-*   **Iteration**: *Metaphor*: The foam sword as Excalibur; the parking lot transformation into a goblin camp.
+*   **Iteration**: *Procedural Generation*: The narrative that writes itself through the chaos of dice; the story emerging like mold on the damp walls of the imagination.
 *   **Inhabitants**: Player, GM.
 *   **Phenomenology (Schutz)**: Enactment of fantasy; dual consciousness.
 *   **Structure (Bourdieu)**: **Capital**: Costume, XP. **Doxa**: "WYSIWYG." **Habitus**: Roleplaying.
@@ -483,7 +483,7 @@ A "World" is analyzed through three simultaneous lenses:
 *   **Type**: Long-lasting
 *   **Genealogy**: Mississippi Riverboats -> Vegas -> Moneymaker Effect (2003).
 *   **Tension**: **Mutation**: GTO (Game Theory Optimal) solvers killing "feel" play.
-*   **Iteration**: *Dialectics*: The bluff vs. the math; the human face as a liability in a game of statistics.
+*   **Iteration**: *The Magic Circle*: The table as a sovereign nation where lying is the only law and the chip is the only citizen.
 *   **Inhabitants**: Pro, Fish.
 *   **Phenomenology (Schutz)**: Probabilistic thinking; emotional suppression.
 *   **Structure (Bourdieu)**: **Capital**: Bankroll, Skill. **Doxa**: "Skill game." **Habitus**: Shuffling, folding.
@@ -623,7 +623,7 @@ A "World" is analyzed through three simultaneous lenses:
 *   **Type**: Novel
 *   **Genealogy**: Prohibition smuggling -> Colombian Cocaine (1980s) -> Mexican Fentanyl.
 *   **Tension**: **Mutation**: Fragmentation into smaller, more violent cells.
-*   **Iteration**: *Noise*: The narcocorrido glorifying the violence; the silence of the mass grave.
+*   **Iteration**: *Arbitrage*: Trading the cheapness of life in the south for the boredom of life in the north; a market maker for oblivion.
 *   **Inhabitants**: Boss, Sicario.
 *   **Phenomenology (Schutz)**: Disposable life; violence.
 *   **Structure (Bourdieu)**: **Capital**: Territory. **Doxa**: "Plata o Plomo." **Habitus**: Killing.
@@ -784,7 +784,7 @@ A "World" is analyzed through three simultaneous lenses:
 *   **Type**: Novel
 *   **Genealogy**: Dot-com Boom (1990s) -> PayPal Mafia -> Big Tech Monopoly.
 *   **Tension**: **Mutation**: Shift from "Don't be evil" to "Move fast and break things" to Techno-Feudalism.
-*   **Iteration**: *Metaphor*: The rocket ship as an escape pod from the burning earth; the algorithm as a new god.
+*   **Iteration**: *Game Theory*: The Prisoner's Dilemma played with planets; the bunker as the "defect" move in a game against humanity.
 *   **Inhabitants**: Founder, VC.
 *   **Phenomenology (Schutz)**: God-complex; longevity.
 *   **Structure (Bourdieu)**: **Capital**: Equity. **Doxa**: "Move fast." **Habitus**: Disrupting.

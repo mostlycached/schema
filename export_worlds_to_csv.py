@@ -48,8 +48,8 @@ def write_csv(worlds, output_path):
             writer.writerow(world)
 
 if __name__ == "__main__":
-    md_path = '/Users/hprasann/Workspace/schema/WORLDS.md'
-    csv_path = '/Users/hprasann/Workspace/schema/WORLDS.csv'
+    md_path = '/Users/hprasann/Documents/GitHub/schema/WORLDS.md'
+    csv_path = '/Users/hprasann/Documents/GitHub/schema/WORLDS.csv'
     
     print(f"Parsing {md_path}...")
     worlds = parse_worlds_md(md_path)
