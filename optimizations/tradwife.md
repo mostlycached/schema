@@ -1,4 +1,5 @@
 # Optimization Report: The TradWife / Cottagecore Sphere
+(See [Intervention Techniques](../INTERVENTION_TECHNIQUES.md) for definitions)
 
 ## Part I: Formal Optimization Analysis
 

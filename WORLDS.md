@@ -14,7 +14,7 @@ A "World" is analyzed through three simultaneous lenses:
 | **Type** | **Novel** (<30 years) or **Long-lasting** (>30 years). |
 | **Genealogy** | **Origin**: The historical, technological, or social root of this world. |
 | **Tension** | **Trajectory**: The internal conflict or external pressure driving growth, decay, or mutation. |
-| **Iteration** | **Shift**: A nuanced intervention (metaphor, noise, somatic) that alters the world's realm. |
+| **Iteration** | **Shift**: A nuanced intervention (see [Intervention Techniques](INTERVENTION_TECHNIQUES.md)) that alters the world's realm. |
 | **Inhabitants** | Key roles and actors. |
 | **Phenomenology (Schutz)** | **Cognitive Style**: Time/Space experience. **Intersubjectivity**: Shared feelings/meanings. |
 | **Structure (Bourdieu)** | **Capital**: What is valued? **Doxa**: Unspoken rules. **Habitus**: Internalized behaviors. |

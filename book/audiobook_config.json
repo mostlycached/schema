@@ -1,0 +1,133 @@
+{
+    "project_name": "Seeking Attention: A Catalog of Worlds",
+    "elevenlabs_model_id": "eleven_turbo_v2_5",
+    "default_voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "chapters": [
+        {
+            "id": "preface",
+            "title": "Stroll",
+            "file_path": "book/preface.md",
+            "music_prompt": "Lo-fi Hip Hop / Chillhop. A relaxed, walking tempo (85 BPM). Soft, dusty drum loops, a jazzy piano chord progression, and the sound of footsteps on gravel. The vibe is 'hands in pockets', leisurely, and observant. No vocals, just a pleasant, hazy atmosphere that invites the listener to wander. Structure: Intro (footsteps) -> Main Loop (Piano & Drums) -> Bridge (Saxophone solo) -> Outro (Fade to wind). Length: 2:00."
+        },
+        {
+            "id": "chapter_01",
+            "title": "The Tuareg Caravan",
+            "file_path": "book/chapter_01_tuareg_caravan.md",
+            "music_prompt": "Desert Blues (Assouf). Solo electric guitar with heavy reverb and delay. Accompanied by a slow, driving calabash percussion and handclaps. The mood is vast, hypnotic, and dusty. Male vocals singing in Tamashek (or vocables) about the endless horizon. Structure: Intro (Wind & Guitar) -> Verse (Vocals enter) -> Trance-like Repetition -> Outro (Guitar solo fading into distance). Length: 2:30."
+        },
+        {
+            "id": "chapter_02",
+            "title": "The Jain Ascetic",
+            "file_path": "book/chapter_02_jain_ascetic.md",
+            "music_prompt": "Indian Classical / Minimalist. A solo Bansuri (bamboo flute) playing a slow, meditative Raga (like Raga Marwa). Very sparse. No percussion. The sound of a broom sweeping softly in the background. The atmosphere is extremely delicate and non-violent. Structure: Alap (Slow, free time intro) -> Jor (Pulse begins with breath sounds) -> Jhala (Fast, fluttering flute notes) -> Silence. Length: 2:15."
+        },
+        {
+            "id": "chapter_03",
+            "title": "The Aghori Sect",
+            "file_path": "book/chapter_03_aghori_sect.md",
+            "music_prompt": "Dark Psytrance / Ritual Ambient. Deep, distorted chanting (Mantra) over a drone made of human bone flutes (Kangling). A slow, heavy kick drum enters at 1:00. The sound of crackling fire and cremation pyres. Intense, scary, and transcendent. Structure: Intro (Chanting & Fire) -> Build (Drums enter) -> Trance State (Repetitive, hypnotic loops) -> Outro (Sudden stop). Length: 2:45."
+        },
+        {
+            "id": "chapter_04",
+            "title": "The Imperial Eunuch",
+            "file_path": "book/chapter_04_imperial_eunuch.md",
+            "music_prompt": "Traditional Chinese Court Music / Opera. High-pitched, piercing falsetto vocals (Beijing Opera style). Accompanied by the Pipa (lute) and sharp, staccato percussion (Gongs and Woodblocks). The mood is elegant but tense, full of intrigue and hidden danger. Structure: Intro (Gong strike) -> Aria (High vocals) -> Instrumental Interlude (Pipa tremolo) -> Finale (Rapid percussion). Length: 2:20."
+        },
+        {
+            "id": "chapter_05",
+            "title": "The Gondolier Guild",
+            "file_path": "book/chapter_05_gondolier_guild.md",
+            "music_prompt": "Barcarolle / Italo-Disco Fusion. Starts with a traditional romantic accordion melody and the sound of water lapping against wood. Then, a modern, throbbing synthesizer bassline enters. Male vocals singing a 'Canzone' in Italian, but processed with a vocoder. The tension between the old romance and the modern tourist trap. Structure: Intro (Water & Accordion) -> Drop (Synth Bass & Vocoder) -> Disco Groove -> Outro (Return to acoustic accordion). Length: 2:30."
+        },
+        {
+            "id": "chapter_06",
+            "title": "The Ama Divers",
+            "file_path": "book/chapter_06_ama_divers.md",
+            "music_prompt": "Japanese Ambient / Field Recordings. Deep, underwater sub-bass drones. The sound of bubbles and ocean pressure. The piercing, high-pitched whistle of the 'Iso-bue' (the Ama's whistle) cuts through the mix. Female vocals humming a lullaby. Ethereal, submerged, and breathless. Structure: Descent (Bubbles & Drone) -> The Bottom (Whistle & Hum) -> Ascent (Rushing water sound) -> Surface (Gasp for air). Length: 2:40."
+        },
+        {
+            "id": "chapter_07",
+            "title": "The Falconer",
+            "file_path": "book/chapter_07_falconer.md",
+            "music_prompt": "Cinematic Orchestral / Epic. Soaring strings and French Horns. The sound of wind rushing past. A fast, driving rhythm section (taiko drums) representing the heartbeat of the hunt. The 'Stoop' section at 1:30 should be a chaotic, dissonant dive. Structure: Waiting (High strings) -> The Flush (Drums enter) -> The Stoop (Fast, chaotic crescendo) -> The Kill (Sudden silence). Length: 2:25."
+        },
+        {
+            "id": "chapter_08",
+            "title": "The Bullfighting Ring",
+            "file_path": "book/chapter_08_bullfighting_ring.md",
+            "music_prompt": "Pasodoble / Flamenco. A solo trumpet playing a mournful, heroic melody. Aggressive acoustic guitar strumming (Rasgueado). Hand claps (Palmas) providing the rhythm. No drums. The mood is tragic, noble, and violent. Structure: Paseo (Trumpet Fanfare) -> Faena (Guitar & Claps, building speed) -> Estocada (A single, loud guitar chord) -> Silence. Length: 2:35."
+        },
+        {
+            "id": "chapter_09",
+            "title": "The Tea Ceremony",
+            "file_path": "book/chapter_09_tea_ceremony.md",
+            "music_prompt": "Japanese Koto / Minimalist ASMR. A solo Koto (harp) playing sparse, plucked notes. The sound of water boiling (Matsukaze) and the rhythmic whisking of bamboo (Chasen). Extremely quiet and spacious. Every note decays fully before the next one. Structure: Preparation (Water sounds) -> The Whisk (Rhythmic scraping) -> The Drink (Koto melody) -> Silence. Length: 2:10."
+        },
+        {
+            "id": "chapter_10",
+            "title": "The Ancient Scribe",
+            "file_path": "book/chapter_10_ancient_scribe.md",
+            "music_prompt": "Ancient Near East Reconstruction / Drone. A deep, resonant Lyre (bull-headed lyre) and clay percussion. A male voice reciting a list in Sumerian (or a constructed language) in a monotone, bureaucratic chant. The sound of a stylus pressing into wet clay. Dusty, dry, and permanent. Structure: The List (Chant & Percussion) -> The Tablet (Lyre solo) -> The Oven (Fire sounds) -> Outro (Chant fades). Length: 2:20."
+        },
+        {
+            "id": "chapter_11",
+            "title": "The Coal Mine",
+            "file_path": "book/chapter_11_coal_mine.md",
+            "music_prompt": "Dark Appalachian Folk / A Cappella Stomp. Intro: Pickaxe hitting rock in 4/4 beat. Verse: Deep gravelly male voice singing a work song. Chorus: Male choir harmonizing in low fifths, hand claps replace pickaxe. Bridge: Silence, then a high-pitched flute (canary). Outro: Low hum and pickaxe fading. Mood: Claustrophobic, heavy, industrial. Length: 2:30."
+        },
+        {
+            "id": "chapter_12",
+            "title": "The Whaling Ship",
+            "file_path": "book/chapter_12_whaling_ship.md",
+            "music_prompt": "Sea Shanty / Industrial. A raucous, shouting male choir singing a rhythmic shanty. Accompanied by a wheezing accordion and the sound of heavy machinery (gears, chains). The rhythm is the heaving of the ship. At 1:30, the sound of a whale song merges with the machinery. Structure: The Chant (Choir & Accordion) -> The Chase (Tempo speeds up, machinery sounds) -> The Whale (Sub-bass moan) -> Outro (Choir fades). Length: 2:40."
+        },
+        {
+            "id": "chapter_13",
+            "title": "The Plague Doctor",
+            "file_path": "book/chapter_13_plague_doctor.md",
+            "music_prompt": "Baroque / Darkwave. A Harpsichord playing a fast, mathematical fugue, but heavily processed with reverb and delay. Rhythmic coughing and breathing sounds woven into the beat. A cello plays a low, mourning melody. The mood is elegant decay. Structure: The City (Harpsichord & Coughs) -> The Ward (Cello enters) -> The Fever (Tempo increases, chaotic) -> The Silence (Harpsichord solo). Length: 2:30."
+        },
+        {
+            "id": "chapter_14",
+            "title": "The Court Jester",
+            "file_path": "book/chapter_14_court_jester.md",
+            "music_prompt": "Medieval Folk / Circus. A Lute and a Pipe playing a jaunty, happy melody that keeps changing tempo unexpectedly. The sound of bells jingling. Manic laughter in the background. The music should feel slightly 'off' or 'drunk'. Structure: The Joke (Upbeat melody) -> The Mockery (Dissonant chords, laughter) -> The Silence (Sudden stop) -> The Punchline (A single bell). Length: 2:15."
+        },
+        {
+            "id": "chapter_15",
+            "title": "The Executioner",
+            "file_path": "book/chapter_15_executioner.md",
+            "music_prompt": "Doom Metal. Extremely slow (40 BPM). Heavily distorted, down-tuned guitars playing a crushing riff. A massive, reverberant snare drum. The sound of a blade being sharpened on a stone. No vocals, just a wall of sound. The mood is heavy, inevitable, and final. Structure: The Walk (Slow drums) -> The Riff (Guitars enter) -> The Blade (Sharpening sound) -> The Drop (Final chord rings out). Length: 2:50."
+        },
+        {
+            "id": "chapter_16",
+            "title": "The Bodybuilder",
+            "file_path": "book/chapter_16_bodybuilding.md",
+            "music_prompt": "Aggressive Phonk / Industrial Techno. Intro: Distorted 808 cowbells, siren, vocal sample 'Grow...'. Drop: Heavy distorted bass, fast drums (140 BPM). Breakdown: Pumping synth pad, weights clanking. Climax: High energy, chaotic. Outro: Chopped and screwed slow-down. Mood: Aggressive, pumped, synthetic. Length: 2:30."
+        },
+        {
+            "id": "chapter_17",
+            "title": "The Sommelier",
+            "file_path": "book/chapter_17_sommelier.md",
+            "music_prompt": "Jazz / Lounge. A double bass walking line and a brush drum kit. A smooth, sophisticated piano melody. The sound of a cork popping and wine being poured into a glass. Background chatter of a restaurant. Elegant, refined, but slightly intoxicated. Structure: The Order (Bass & Drums) -> The Pour (Liquid sounds, Piano solo) -> The Taste (Swirling sound) -> Outro (Glass clink). Length: 2:20."
+        },
+        {
+            "id": "chapter_18",
+            "title": "The Perfumer",
+            "file_path": "book/chapter_18_perfumer.md",
+            "music_prompt": "French Chanson / Dream Pop. Verse: Breathy female vocal, French accent, melancholic piano loop. Chorus: Swelling strings, 'blooming' synth effect, layered vocals. Bridge: Dissonant, distorted 'synthetic' bassline. Outro: Distant piano. Mood: Nostalgic, airy, chemical. Length: 2:30."
+        },
+        {
+            "id": "chapter_19",
+            "title": "The Watchmaker",
+            "file_path": "book/chapter_19_watchmaker.md",
+            "music_prompt": "Mechanical Minimalism / Glitch. Rhythmic track built entirely from ticking clocks, gears winding, and springs. 120 BPM. Poly-rhythmic. No melody, just texture. At 1:30, the rhythm 'breaks' or glitches, representing the Quartz Crisis. Structure: The Escapement (Ticking intro) -> The Train (Gears enter) -> The Glitch (Electronic distortion) -> The Heartbeat (Return to simple tick-tock). Length: 2:15."
+        },
+        {
+            "id": "chapter_20",
+            "title": "The Glassblower",
+            "file_path": "book/chapter_20_glassblower.md",
+            "music_prompt": "Glass Music / Synthwave. A melody played on a Glass Harmonica (pure, ringing tones). Underneath, a warm, analog synthesizer pad (representing the heat). The sound of fire roaring. Breath sounds. Fragile yet dangerous. Structure: The Gather (Fire & Synth) -> The Blow (Breath & Glass Harmonica) -> The Spin (Arpeggiated synth) -> The Break (A shattering sound) -> Outro (Silence). Length: 2:30."
+        }
+    ]
+}
