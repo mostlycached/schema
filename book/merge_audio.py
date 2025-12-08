@@ -17,47 +17,43 @@ def merge_audio():
         chapter_id = chapter['id']
         music_file = os.path.join(output_dir, f"{chapter_id}_music.mp3")
         speech_file = os.path.join(output_dir, f"{chapter_id}.mp3")
+        
         # Construct descriptive filename: "Chapter XX - Title.mp3"
-        # Handle "preface" case
         if chapter_id == "preface":
             output_filename = f"Preface - {chapter['title']}.mp3"
         else:
-            # chapter_id is "chapter_XX"
-            # We want "Chapter XX" (capitalized)
             chapter_prefix = chapter_id.replace("chapter_", "Chapter ")
             output_filename = f"{chapter_prefix} - {chapter['title']}.mp3"
             
         output_file = os.path.join(output_dir, output_filename)
         
         if not os.path.exists(music_file):
-            print(f"Skipping {chapter_id}: Music file missing")
+            print(f"Skipping {chapter_id}: Music file missing ({music_file})")
             continue
             
         if not os.path.exists(speech_file):
-            print(f"Skipping {chapter_id}: Speech file missing")
+            print(f"Skipping {chapter_id}: Speech file missing ({speech_file})")
             continue
-            
-        # if os.path.exists(output_file):
-        #     print(f"Skipping {chapter_id}: Full audio already exists")
-        #     continue
             
         print(f"Merging {chapter_id}...")
         
-        # ffmpeg command to concatenate
-        # ffmpeg -i music.mp3 -i speech.mp3 -filter_complex "[0:a][1:a]concat=n=2:v=0:a=1[out]" -map "[out]" output.mp3
+        # ffmpeg command to concatenate: Music + Speech + 3s Silence
+        # Use lavfi for 3s silence
         cmd = [
             "ffmpeg",
             "-y", # Overwrite
             "-i", music_file,
             "-i", speech_file,
-            "-filter_complex", "[0:a][1:a]concat=n=2:v=0:a=1[out]",
+            "-f", "lavfi", "-t", "3", "-i", "anullsrc=r=44100:cl=stereo",
+            "-filter_complex", "[0:a][1:a][2:a]concat=n=3:v=0:a=1[out]",
             "-map", "[out]",
+            "-q:a", "2", # High quality VBR
             output_file
         ]
         
         try:
             subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-            print(f"Successfully merged to {output_file}")
+            print(f"Successfully merged to: {output_filename}")
         except subprocess.CalledProcessError as e:
             print(f"Error merging {chapter_id}: {e}")
 

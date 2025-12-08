@@ -1,19 +1,20 @@
 # The Whaling Ship
 
-The Whaler pays attention to the *Try-Works*. It is a factory built on a wooden deck. Two massive cast-iron pots are set into a brick furnace. The fire is fueled by the whale itself—the "fritters" of boiled blubber are thrown into the flames to melt the next batch. The smoke is black and oily, coating the sails, the rigging, and the men in a layer of grime that never washes off. The Whaler pays attention to the Boil. If the oil gets too hot, it will catch fire, and the ship—soaked in oil from stem to stern—will burn to the waterline in minutes. He stands in the smoke, stirring the pots with a long pike, a demon in a floating hell.
+This room floats on blood. It is an Attempt at Exhausting a Slaughterhouse.
 
-The Whaler pays attention to the *Spermaceti*. This is the prize. It is a liquid wax found in the head of the Sperm Whale. It is not blubber; it is a clear, high-quality oil that burns with a bright, smokeless flame. It is the substance that lights the lamps of London and Paris. To get it, the whaler must cut a hole in the whale's head (the "Case") and bail the oil out with a bucket. A single whale can yield 500 gallons of this "head matter." It is the gold standard of illumination, harvested from the darkness of the deep.
+Item: One wooden ship, the *Pequod*, smelling of rancid oil.
+Item: Three masts scraping the grey sky.
+Item: Try-works (brick furnaces) built on the deck, burning the blubber of the whale to boil the oil of the whale. The fire acts as a cannibal, fed by the body of the victim.
 
-This mode of attention is the precursor to the petroleum age. Before we drilled for oil in the ground, we hunted for it in the sea. The genealogy is one of Extraction. The whale is not seen as an animal; it is seen as a swimming barrel of oil. The whaler is a resource extraction worker, operating in a frontier zone where the laws of land do not apply. The genealogy is also one of Boredom. A whaling voyage lasts three or four years. To pass the time, they invented *Scrimshaw*. They took the teeth of the Sperm Whale and polished them with shark skin. Then, using a sail needle or a knife, they etched intricate drawings into the ivory. It is an art form born of idleness and violence, a delicate beauty scratched into the bones of the victim.
+Item: One Harpoon. Iron. Cold. Barbed.
+Item: One "Nantucket Sleighride"—the rope singing smoke as the leviathan drags the boat towards the horizon.
 
-The Whaler exists in the realm of the Nantucket Sleighride. When a whale is harpooned, it runs. It drags the small whaleboat behind it at terrifying speeds. The line smokes as it runs out of the tub. The men hold on for dear life, spraying water on the line to keep it from catching fire. This creates a unique *Habitus*. The whaler is a globalist before globalization. He visits the Pacific islands, the Arctic, the coast of Japan. He brings back tattoos, diseases, and stories. The ship is a melting pot: Quakers from Nantucket, Azoreans, Cape Verdeans, Polynesians. They are united by the pursuit of the Leviathan.
+Item: The Flensing Knives, long and spade-shaped.
+Item: The Blanket Piece, a strip of skin and fat peeled like an orange rind.
+Item: The Case. The head of the Sperm Whale, a tank containing 500 gallons of *Spermaceti*—liquid light. A man stands waist-deep in the brain of the beast to bucket it out.
 
-The *Ambergris* is the lottery ticket of this web. It is a waxy substance formed in the intestines of a Sperm Whale to protect it from the sharp beaks of squid. But when it is vomited up and floats in the ocean for years, it oxidizes and acquires a sweet, musky scent. It is used as a fixative in high-end perfumes. A single lump can be worth more than the entire cargo of oil. Every whaler dreams of finding ambergris floating on the waves.
+Item: The Economy. The oil lights the lamps of London and Paris. The civilization of the Enlightenment glows with the murder of monsters.
 
-But worlds, like stars, are subject to decay. The tension in the Whaling world is the Finite Resource. The whales are disappearing. The "Decay" is the longer voyages, the empty oceans. The industry is killing itself by destroying its own raw material. The tension is between the Romanticism and the Butchery. Herman Melville wrote *Moby Dick* and turned whaling into a metaphysical quest. But the reality is a slaughterhouse. The deck is slippery with blood and guts. The whaler is not a philosopher; he is a butcher who works on a moving platform.
-
-The Discovery of Petroleum in Pennsylvania in 1859 is the death knell. Kerosene is cheaper than whale oil. It is easier to get. The whaling industry collapses not because of moral outrage, but because of market forces. The whaler is replaced by the oil driller. The harpoon is replaced by the drill bit. The Whaler is a Logistics Manager. The optimization is Processing. The try-works turned the ship into a factory. It is the first example of the "factory ship," a concept that would later strip the oceans of fish.
-
-The "Spermaceti" evolves into the Precision Lubricant. Even after kerosene replaced whale oil for lighting, spermaceti was used for high-precision machinery, like watches and transmission fluids, because it does not freeze or gum up. The space program used sperm whale oil. The Hubble Space Telescope was lubricated with it. We reached the stars on the back of the whale.
-
-The Whaler stands in the crow's nest. He is a hundred feet above the deck. The ship is a tiny speck in the vast blue circle of the ocean. He pays attention to the Horizon. To be a Whaler is to be Scanning. Your eyes are always focused on the line where the sky meets the sea. He sees a spout. "There she blows!" The cry goes down to the deck. The ship wakes up. The boats are lowered. The chase begins. He feels the adrenaline, the ancient hunting instinct kicking in. But underneath it, there is a sadness. He knows that he is hunting a ghost. He knows that the lights are going out in Nantucket. He knows that the age of the monster is ending, and the age of the machine is beginning.
+Item: The ocean. Indifferent. Flat.
+Item: The silence after the whale sounds.
+Item: The red wake.

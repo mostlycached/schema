@@ -27,17 +27,24 @@ def generate_music(prompt, duration, output_path):
         "prompt_influence": 0.5
     }
     
-    print(f"Generating music for prompt: {prompt[:50]}... ({duration}s)")
+    print(f"Generating music for prompt: {prompt[:50]}... ({duration}s)", flush=True)
     
-    response = requests.post(url, json=data, headers=headers)
+    try:
+        response = requests.post(url, json=data, headers=headers, timeout=300) # 5 minute timeout
+    except requests.exceptions.Timeout:
+        print("Error: Request timed out", flush=True)
+        return False
+    except Exception as e:
+        print(f"Error: {e}", flush=True)
+        return False
     
     if response.status_code == 200:
         with open(output_path, "wb") as f:
             f.write(response.content)
-        print(f"Saved to {output_path}")
+        print(f"Saved to {output_path}", flush=True)
         return True
     else:
-        print(f"Error: {response.status_code} - {response.text}")
+        print(f"Error: {response.status_code} - {response.text}", flush=True)
         return False
 
 if __name__ == "__main__":

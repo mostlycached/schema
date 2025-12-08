@@ -1,15 +1,11 @@
-# Stroll
+# Preface: The Poetics of the Room
 
-This book is not a study. It is a stroll.
+We are accustomed to the City—the open grid, the map, the thoroughfare. But the lives described in these pages do not inhabit cities. They inhabit Rooms.
 
-We are not here to analyze these worlds, to pin them like butterflies to a board, or to extract their "value" for some modern utility. We are here to inhabit them. To walk through them slowly, with hands in pockets, taking in the air, the light, and the strange, specific gravity of each place.
+A Room is a constraint. It is a universe enclosed by a specific law of physics. For the Watchmaker, the room is a brass ring where gravity is weak. For the Tuareg, the room is a shell of indigo cotton where the outside is hostile. For the Tea Master, the room is four and a half mats of absolute silence.
 
-The aim is not to look *at* the Tuareg, the Watchmaker, or the Perfumer, but to see *through* them.
+To enter these rooms, you must leave your own laws at the door. You must accept that here, time moves in a loop, or air is a currency, or silence is weight.
 
-To see the desert not as a barren wasteland, but as a high-contrast map of survival, filtered through an indigo veil. To see a watch not as a gadget, but as a cage for eternity, beating against the wrist. To smell a rose not as a flower, but as a chemical equation of desire and decay.
+These are the Invisible Rooms of our world. They are pockets of intense, specialized reality, floating in the generic noise of the global city. The people inside are not merely inhabitants; they are architects of their own confinement. They have built these shells to survive, to optimize, or to transcend.
 
-Each chapter is a doorway. You are invited to step through, to try on a different pair of eyes, a different set of hands, a different history. It is a lazy, pleasurable exercise in shifting perspective. It is the leisure of trying on other lives, of feeling the texture of other realities.
-
-There is no test at the end. There is no lesson to be learned. There is only the pleasure of the immersion, the slight vertigo of stepping out of your own world and into another.
-
-So, take your time. Wander. Get lost. The worlds are waiting.
+Welcome to the Interior. Use the key. Step inside. Close the door.
