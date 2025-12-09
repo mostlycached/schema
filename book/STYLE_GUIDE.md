@@ -48,3 +48,7 @@ We do not use **Meta-Commentary**; the technique must be invisible.
 *   "The Doxa is..." (Banned).
 *   "The tension is..." (Banned).
 *   Passive Voice ("The city is built by..."). Use Active Voice ("The city roots into the earth...").
+*   **Onomatopoeia** (*whish*, *splash*, *tick-tock*). These sound absurd when read aloud by TTS. Describe the action or sensation instead.
+    *   *Incorrect*: "*Whish, whish.* The foam mirrors the silence."
+    *   *Correct*: "The whisk spins. The foam mirrors the silence."
+

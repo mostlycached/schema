@@ -1,0 +1,68 @@
+{
+    "project_name": "The Tea Ceremony: Ten Variations (Cello Edition)",
+    "elevenlabs_model_id": "eleven_turbo_v2_5",
+    "default_voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "musical_concept": "Ten complete cello compositions with full song structures (Intro-A-B-A'-Coda). Solo cello for solitary chapters; duo for relational chapters.",
+    "chapters": [
+        {
+            "id": "chapter_01",
+            "title": "The Scalded Ceremony",
+            "file_path": "book/tea_ceremony_variations/chapter_01_scalded.md",
+            "music_prompt": "Solo Cello in D minor. Aggressive, sul ponticello bowing. Structure: Intro (0:00-0:20, tense harmonics establishing unease) -> A Section (0:20-0:50, main melody played with harsh, metallic timbre) -> B Section (0:50-1:20, contrasting lyrical passage that tries to be beautiful but keeps getting interrupted by aggressive stabs) -> A' Section (1:20-1:45, main melody returns, faster, more violent) -> Coda (1:45-2:00, sudden exhaustion, melody collapses into silence). Mood: Suppressed rage. Length: 2:00. No vocals."
+        },
+        {
+            "id": "chapter_02",
+            "title": "The Delayed Ceremony",
+            "file_path": "book/tea_ceremony_variations/chapter_02_delayed.md",
+            "music_prompt": "Solo Cello. Extremely slow (40 BPM). Structure: Intro (0:00-0:30, a single sustained note that takes 30 seconds to bloom) -> A Section (0:30-1:00, slow melody where each note decays fully before the next) -> Silence (1:00-1:10, 10 seconds of nothing) -> B Section (1:10-1:45, the melody tries to continue but keeps pausing mid-phrase) -> Coda (1:45-2:15, unresolved final note left hanging). Mood: Anticipatory dread. Length: 2:15. No vocals."
+        },
+        {
+            "id": "chapter_03",
+            "title": "The Silent Ceremony",
+            "file_path": "book/tea_ceremony_variations/chapter_03_silent.md",
+            "music_prompt": "Solo Cello. Played entirely in harmonics (high, bell-like, ghostly). Structure: Intro (0:00-0:30, near-silence with faint harmonic overtones) -> A Section (0:30-1:00, melody in harmonics, ethereal and distant) -> B Section (1:00-1:30, lower harmonics, slightly warmer but still ghostly) -> The Tick (1:30-1:35, one sharp pizzicato note breaks the spell) -> Coda (1:35-2:00, return to silence, harmonics fade to nothing). Mood: Uncanny, deathlike. Length: 2:00. No vocals."
+        },
+        {
+            "id": "chapter_04",
+            "title": "The First-Timer",
+            "file_path": "book/tea_ceremony_variations/chapter_04_first_timer.md",
+            "music_prompt": "Solo Cello. Nervous, searching. Structure: Intro (0:00-0:20, hesitant open strings, tuning-like) -> A Section (0:20-0:50, melody begins but keeps sliding between notes uncertainly) -> Mistake (0:50-0:55, wrong note, pause) -> B Section (0:55-1:30, second attempt, more confident but still shaky) -> A' Section (1:30-1:50, melody finally flows correctly) -> Coda (1:50-2:15, relief expressed through a warm, resolved final phrase). Mood: Initiation, vulnerability. Length: 2:15. No vocals."
+        },
+        {
+            "id": "chapter_05",
+            "title": "The Unseen Servant",
+            "file_path": "book/tea_ceremony_variations/chapter_05_unseen_servant.md",
+            "music_prompt": "Solo Cello con sordino (muted). Muffled, as if heard through walls. Structure: Intro (0:00-0:20, sound of sweeping, then muffled cello enters distantly) -> A Section (0:20-0:50, beautiful melody but barely audible, low register) -> B Section (0:50-1:20, melody becomes slightly clearer, yearning quality) -> A' Section (1:20-1:45, returns to muffled distance) -> Coda (1:45-2:00, cello fades entirely, only sweeping sound remains). Mood: Invisible labor. Length: 2:00. No vocals."
+        },
+        {
+            "id": "chapter_06",
+            "title": "The Estranged",
+            "file_path": "book/tea_ceremony_variations/chapter_06_estranged.md",
+            "music_prompt": "Cello Duo. Two cellos, slightly out of sync. Structure: Intro (0:00-0:20, both cellos play same note but one enters late) -> A Section (0:20-0:50, canon where second cello follows first, they almost harmonize) -> B Section (0:50-1:15, they attempt to play together, occasional dissonance when timing clashes) -> Rupture (1:15-1:30, one cello stops abruptly) -> Coda (1:30-2:00, remaining cello plays alone, then also stops mid-phrase). Mood: Unresolved tension. Length: 2:00. No vocals."
+        },
+        {
+            "id": "chapter_07",
+            "title": "The Final Meeting",
+            "file_path": "book/tea_ceremony_variations/chapter_07_final_meeting.md",
+            "music_prompt": "Solo Cello. Largo, deep and resonant. Structure: Intro (0:00-0:30, rich low C drone establishing gravity) -> A Section (0:30-1:00, the most beautiful melody of the collection, full vibrato, emotional) -> B Section (1:00-1:30, melody continues but notes begin to be missing, phrases trail off) -> Fragmentation (1:30-2:00, theme falls apart, long silences between notes) -> Coda (2:00-2:30, unfinished phrase fades to silence, breath sounds). Mood: Valediction, the last lesson. Length: 2:30. No vocals."
+        },
+        {
+            "id": "chapter_08",
+            "title": "The Memory",
+            "file_path": "book/tea_ceremony_variations/chapter_08_memory.md",
+            "music_prompt": "Solo Cello processed like old recording (tape warble, crackle). Structure: Intro (0:00-0:20, static and hiss, then cello emerges through noise) -> A Section (0:20-0:50, beautiful nostalgic melody, slightly out of tune from tape degradation) -> B Section (0:50-1:20, melody develops, golden and warm but unstable) -> Loop (1:20-1:50, one phrase repeats three times as if the memory is stuck) -> Coda (1:50-2:15, tape slows down, pitch drops, music dies). Mood: Haunting nostalgia. Length: 2:15. No vocals."
+        },
+        {
+            "id": "chapter_09",
+            "title": "The Rehearsal",
+            "file_path": "book/tea_ceremony_variations/chapter_09_rehearsal.md",
+            "music_prompt": "Solo Cello with spoken interruptions. Structure: Take 1 (0:00-0:20, beautiful melody begins, stops abruptly, voice says 'Again') -> Take 2 (0:20-0:45, melody gets further, stops at different point, 'Again') -> Take 3 (0:45-1:15, almost completes but stops near end, 'Again') -> Final Take (1:15-2:00, melody plays through completely but sounds exhausted, stripped of spontaneity). Mood: Performativity exposed. Length: 2:00."
+        },
+        {
+            "id": "chapter_10",
+            "title": "The Paranoid Ceremony",
+            "file_path": "book/tea_ceremony_variations/chapter_10_paranoid.md",
+            "music_prompt": "Solo Cello with low C drone. Tense, unsettling. Structure: Intro (0:00-0:20, sustained low drone, ominous) -> A Section (0:20-0:50, fragmented melody over drone, interrupted by pizzicato snaps) -> B Section (0:50-1:20, drone intensifies, melody becomes more frantic) -> Climax (1:20-1:45, maximum tension, melody and drone clash) -> Coda (1:45-2:00, sudden silence, one final Bartók pizzicato snap). Mood: Paranoia, unresolved. Length: 2:00. No vocals."
+        }
+    ]
+}
