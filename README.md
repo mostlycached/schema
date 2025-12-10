@@ -24,6 +24,20 @@ This repository contains research materials, computational workflows, and audiob
 
 See the [Repository Guide](https://hyperframes.org/guide) for detailed documentation of directories and workflows.
 
+## Local Development
+
+To run the site locally:
+
+```bash
+cd docs
+bundle install
+bundle exec jekyll serve
+```
+
+Then open http://127.0.0.1:4000/ — changes auto-reload.
+
+*Requires Ruby 3.x. We recommend [rbenv](https://github.com/rbenv/rbenv).*
+
 ## License
 
 See [LICENSE](LICENSE) for details.

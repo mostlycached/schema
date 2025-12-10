@@ -17,6 +17,8 @@ Each track opens with 2-3 minutes of vocal texture—no instruments, only the hu
 
 Listen to both editions—this one and the [Found Sounds version](/updates/2025/12/09/nyc-subway-musique-concrete/). Notice how the same words land differently when the sonic frame changes. That noticing is the point. Once you start hearing the difference between editions, you start hearing differences everywhere. The subway becomes less a route and more a forest canopy—you swing from hold to hold, each grip opening the next.
 
+*These editions stop at the edge of something. Beyond here: the subway as pure rhythm, no words at all. The commute narrated in a language you don't speak. The train that runs through dreams, stops at stations that don't exist. We stopped where voice still held.*
+
 **Tracks**: Packed Car · Stalled Train · Silent Car · First Day · Last Day · Driver · Descent · Doors Closing · Existenz · Dream Commute
 
 [🎧 Listen on Bandcamp](https://72rooms.bandcamp.com/album/doors-closing-acapella)

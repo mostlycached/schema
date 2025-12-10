@@ -21,6 +21,8 @@ One room leads to another. That's how worlds get wider.
 
 This is the *Found Sounds* edition—all music made from processed subway recordings. There's also an [A Cappella edition](/updates/2025/12/09/nyc-subway-acappella/) using only human voice. Same variations, different sonic frame.
 
+*You may already know variations we haven't imagined. The subway you ride is not the subway we rendered—yours has different light, different strangers, different gravity. The platform where you wait is more specific than our platform. That specificity is yours to carry. What variation lives in your commute that we couldn't have guessed?*
+
 **Tracks**: Packed Car · Stalled Train · Silent Car · First Day · Last Day · Driver · Descent · Doors Closing · Existenz · Dream Commute
 
 [🎧 Listen on Bandcamp](https://72rooms.bandcamp.com/album/doors-closing-found-sounds)

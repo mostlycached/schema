@@ -34,6 +34,16 @@ Art requires time, skill, and access. To commission a personalized audiobook—m
 
 These tools let me, one person build what probably requires a studio, a composer, a narrator, a producer. The result is imperfect—but imperfection isn't always bad. Mistakes have sometimes been generative. I intend to find more of them. And the machinic voice's particularity in content makes up for its roboticity in structure.
 
+## On Music and Speech Together
+
+One map offers clarity. Two maps reveal that maps themselves are necessary but insufficient.
+
+Each audiobook begins with music and continues with speech—not because one mode is better, but because the combination produces something neither can alone. Listen to the same story twice in different modes. The first pass orients; the second defamiliarizes, just because it comes second. Something like a parallax effect emerges between them: a depth that neither the instrumental intro nor the spoken word creates independently.
+
+This is still an open question for me. What exactly is that depth? How do you navigate through it? The music sets a tone the words cannot name. The words give shape the music cannot hold. Together they don't find the coordinates, they create a shimmering parallax that becomes a kind of continual pregnancy, something arriving more and more into itself, but the horizon keeps moving.
+
+Future work will explore this further. For now, I offer both modes as an invitation: listen once, listen twice, and see what opens up.
+
 ## On Systems Used Loosely
 
 The Hyperframes research framework behind these projects includes schemas, taxonomies, and systematic methods. Worlds are cataloged. Variations are enumerated. Lenses are named.

@@ -19,6 +19,8 @@ The cello was chosen because it's the instrument closest to the human voice—an
 
 Listen to both versions—this one and the [standard edition](/updates/2025/12/07/tea-ceremony-variations/). The scalded ceremony lands differently when introduced by synthesizer than by aggressive bowing. That landing difference teaches you something about how frames shape meaning. And knowing that, you move differently through framed experiences everywhere.
 
+*There are variations we cannot render because we don't know if they exist. Does the host ever perform the ceremony purely for themselves, with no guest at all? Does the student ever surpass the master and feel grief instead of triumph? We suspect so. But these cannot be made—only discovered.*
+
 **Tracks**: Scalded · Delayed · Silent · First Timer · Unseen Servant · Estranged · Final Meeting · Memory · Rehearsal · Paranoia
 
 [🎧 Listen on Bandcamp](https://72rooms.bandcamp.com/album/cello-book-of-tea)

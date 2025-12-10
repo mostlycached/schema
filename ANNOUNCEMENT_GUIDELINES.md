@@ -59,12 +59,73 @@ Audiobook announcements should provide **depth and context** rather than generic
 > **Track 4: "Reading Fractal"** — Alexander's wholeness explored through recursive self-similarity  
 > **Track 5: "Writing as Alexander"** — Second-person narration positioning the reader as architect
 
-### 7. Musical Approach
+### 7. Opening the Space / Gesturing Toward Infinity
+
+**Purpose:** Each announcement should acknowledge that the tracks covered are *doorways*, not an exhaustive map. The unexplored variations create a sense of infinity rather than completeness.
+
+**Technique Options:**
+
+### Temporal Techniques
+1. **The Delayed Bloom** (Rilke's "live the questions")
+   > *Some variations we held back. Not because they couldn't be rendered, but because some rooms are better entered alone, years from now, when you've forgotten you were looking for them.*
+
+2. **The Temporal Deferral** (explicit futurity)
+   > *Some variations require a future version of the listener. The ceremony of forgiveness—you may not be ready. The ceremony of mastery—you may need decades. These wait.*
+
+3. **The Hauntology** (past that never was)
+   > *And there are variations that almost happened. The ceremony you nearly attended. The train you almost caught. These exist in the conditional tense, and we leave them there.*
+
+### Structural Techniques
+4. **The Asymptotic Gesture** (infinity as structural)
+   > *Ten rooms out of infinite rooms. What happens when the water is too cold? When there are too many witnesses? Some questions have answers. Some have only more ceremony.*
+
+5. **The Deliberate Incompleteness** (incompleteness as design)
+   > *We stopped at ten. Not because the variations end, but because infinity requires a door to close behind you.*
+
+6. **The Threshold Marker** (acknowledging the edge)
+   > *These ten stop at the edge of something. Beyond here: the ceremony as pure mathematics. The ceremony as animal instinct. We stopped where language still held.*
+
+### Epistemic Techniques
+7. **The Koan** (unanswerable by design)
+   > *What is the sound of a ceremony performed for the ten-thousandth time? Does mastery empty the bowl, or fill it? We leave this one burning.*
+
+8. **The Negative Theology** (apophatic—what it is NOT)
+   > *We haven't made the version where the ceremony fails completely. Where the bowl shatters. Where someone laughs. Perhaps that version cannot be made—only encountered.*
+
+9. **The Epistemic Limit** (what can't be known)
+   > *There are variations we cannot render because we don't know if they exist. Does the host ever forget why they're pouring? Does the guest ever stop performing gratitude? We suspect so, but cannot prove it.*
+
+### Participatory Techniques
+10. **The Unanswered Gift** (leave with the reader's imagination)
+    > *There are variations we haven't touched. The ceremony where the host never arrives. The one performed for the ten-thousandth time. These remain yours—to dream, or to never resolve.*
+
+11. **The Reader as Author** (inversion of authority)
+    > *You may already know variations we haven't imagined. The subway you ride is not the subway we rendered. Yours is more specific, more strange. That one is yours to speak.*
+
+12. **The Invitation to Contribute** (generative)
+    > *What variation would you make? The form is open. The dials are named. Turn one we haven't touched.*
+
+### Medium-Limit Techniques
+13. **The Seed for Dreams** (explicit invitation to the unconscious)
+    > *And there are variations that can only happen while you sleep. The ceremony where your face is the host's. The bowl that has no bottom. These are not ours to give.*
+
+14. **The Sensory Deprivation** (what can't be conveyed in this medium)
+    > *We cannot give you the smell of the matcha. The weight of the bowl in your hands. The temperature of the water on your tongue. Some variations exist only in presence. Go find them.*
+
+**Best Practice:** Match the technique to the world's register:
+- **Zen/contemplative worlds** (tea ceremony): Koan, Seed for Dreams, Negative Theology
+- **Urban/existential worlds** (subway): Asymptotic Gesture, Deliberate Incompleteness, Reader as Author
+- **Literary/intellectual worlds** (reading, coffee shop): Delayed Bloom, Epistemic Limit, Hauntology
+- **Embodied/sensory worlds**: Sensory Deprivation, Threshold Marker
+
+**Source Material:** Consult the original variation files (e.g., `TEA_CEREMONY_VARIATIONS.md`) to find specific unexplored variations to reference. These gestures toward infinity are more effective when grounded in actual conceived-but-unrendered variations.
+
+### 8. Musical Approach
 - Overall aesthetic choices
 - How music relates to conceptual framework
 - Specific musical techniques or styles used
 
-### 8. Listen Now / Embedded Player
+### 9. Listen Now / Embedded Player
 - Bandcamp link
 - Embedded iframe player
 - Repository location (if relevant)
@@ -137,6 +198,10 @@ categories: audiobooks releases
 ## Musical Aesthetic
 
 [Overall musical approach, how it relates to concepts, specific techniques]
+
+## Opening the Space
+
+[Use one of the six infinity gesture techniques—consult variation source files for unexplored variations to reference. Match register to world.]
 
 ---
 

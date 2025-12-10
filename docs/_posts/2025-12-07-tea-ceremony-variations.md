@@ -19,6 +19,8 @@ The tea ceremony is the most formalized ritual imaginable, which makes it the pe
 
 There's also a [Cello edition](/updates/2025/12/05/cello-book-of-tea/)—the same ten variations, but all music performed solo cello. Same ceremonies, different voice.
 
+*We cannot give you the smell of the matcha. The weight of the bowl in your hands. The heat that stings the tongue. Some variations exist only in presence—the ceremony performed alone at 4 AM, the one where the guest weeps, the one no one remembers afterward. Go find them.*
+
 **Tracks**: Scalded · Delayed · Silent · First Timer · Unseen Servant · Estranged · Final Meeting · Memory · Rehearsal · Paranoia
 
 [🎧 Listen on Bandcamp](https://72rooms.bandcamp.com/album/book-of-tea)

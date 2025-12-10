@@ -19,6 +19,8 @@ The coffee shop is a fragile machine. It runs on WiFi, playlists, and the unspok
 
 The third place stops being background and becomes terrain. And terrain is something you can move through with intention.
 
+*And there are variations that almost happened. The morning you almost spoke to the regular—but didn't. The conversation you overheard but forgot. The coffee shop that closed last month, still open in your memory, tables still warm. These exist in the conditional tense. We leave them there.*
+
 **Tracks**: WiFi Fails · Accidental Collaborator · Music Changes · Breakthrough · Watcher · Time Collapse · Regular Club · Spill · Too Long · Construction
 
 [🎧 Listen on Bandcamp](https://72rooms.bandcamp.com/album/devoc-on-coffee-variations)
