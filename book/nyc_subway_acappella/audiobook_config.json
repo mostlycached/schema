@@ -1,0 +1,68 @@
+{
+    "project_name": "The NYC Subway Commuter: Ten Variations (A Cappella Edition)",
+    "elevenlabs_model_id": "eleven_turbo_v2_5",
+    "default_voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "musical_concept": "A Cappella: All sound comes from human voice. Beatboxing, throat singing, harmonies, muttering, whispering, breathing. The subway as a chorus of strangers.",
+    "chapters": [
+        {
+            "id": "chapter_01",
+            "title": "The Packed Car",
+            "file_path": "book/nyc_subway_acappella/chapter_01_packed.md",
+            "music_prompt": "A cappella vocal soundscape. Layered human voices creating density: overlapping murmurs, whispers, breathing in different rhythms. Beatbox percussion mimics heartbeat. Low bass vocals hum underneath. The sound of many bodies in one space, all made with voices. No instruments. Structure: Sparse whispers (0:00-0:20) -> Voices layer (0:20-1:00) -> Maximum density, chaotic (1:00-1:30) -> Voices thin out (1:30-2:00). Length: 2:00. Human voices only."
+        },
+        {
+            "id": "chapter_02",
+            "title": "The Stalled Train",
+            "file_path": "book/nyc_subway_acappella/chapter_02_stalled.md",
+            "music_prompt": "A cappella vocal soundscape. Near silence with occasional human sounds: a sigh, a cleared throat, a nervous hum. One voice holds a long sustained note. The sound of waiting, made only with breath and voice. No instruments. Structure: Silence with breathing (0:00-0:45) -> Single sigh (0:45-0:50) -> Long held note (0:50-1:45) -> Second voice joins (1:45-2:15). Length: 2:15. Human voices only."
+        },
+        {
+            "id": "chapter_03",
+            "title": "The Silent Car",
+            "file_path": "book/nyc_subway_acappella/chapter_03_silent.md",
+            "music_prompt": "A cappella vocal soundscape. Extreme quiet. Distant humming barely audible. One person breathing softly. The sound of suppressed voices, held-back words. A single cough breaks the silence. No instruments. Structure: Near silence (0:00-0:45) -> Distant hum (0:45-1:00) -> Return to quiet (1:00-1:30) -> Cough (1:30-2:00). Length: 2:00. Human voices only."
+        },
+        {
+            "id": "chapter_04",
+            "title": "The First Day",
+            "file_path": "book/nyc_subway_acappella/chapter_04_first_day.md",
+            "music_prompt": "A cappella vocal soundscape. Chaotic overlapping voices speaking fragments in different languages. Nervous stuttering vocal sounds. Beatbox mimics frantic footsteps. Voices going in different directions, confusing. No instruments. Structure: Single confused whisper (0:00-0:15) -> Voices multiply (0:15-0:45) -> Cacophony (0:45-1:15) -> Sudden silence (1:15-1:20) -> Calmer voices (1:20-2:15). Length: 2:15. Human voices only."
+        },
+        {
+            "id": "chapter_05",
+            "title": "The Last Day",
+            "file_path": "book/nyc_subway_acappella/chapter_05_last_day.md",
+            "music_prompt": "A cappella vocal soundscape. Nostalgic vocal harmonies, slow and warm. Voices humming a simple melody together, as if remembering. Slight reverb on the voices. The sound of saying goodbye. No instruments. Structure: Single voice hums (0:00-0:30) -> Harmonies join (0:30-1:00) -> Full warmth (1:00-1:45) -> Voices fade one by one (1:45-2:15). Length: 2:15. Human voices only."
+        },
+        {
+            "id": "chapter_06",
+            "title": "The Driver",
+            "file_path": "book/nyc_subway_acappella/chapter_06_driver.md",
+            "music_prompt": "A cappella vocal soundscape. Steady rhythmic vocal percussion like a machine. One voice beatboxing a regular pulse. Vocal static and radio crackle sounds. The loneliness of a single voice responsible for many. No instruments. Structure: Vocal radio crackle (0:00-0:20) -> Steady beatbox pulse (0:20-1:00) -> Low bass voice drone (1:00-1:30) -> Radio crackle returns (1:30-2:00). Length: 2:00. Human voices only."
+        },
+        {
+            "id": "chapter_07",
+            "title": "The Descent",
+            "file_path": "book/nyc_subway_acappella/chapter_07_descent.md",
+            "music_prompt": "A cappella vocal soundscape. Voices singing descending scales, going lower and lower. Footstep sounds made by beatbox. The transition from high to low registers, light to dark. Echo on the voices. No instruments. Structure: High voices (0:00-0:30) -> Descending (0:30-1:00) -> Low bass voices (1:00-1:30) -> Distant singing (1:30-2:00). Length: 2:00. Human voices only."
+        },
+        {
+            "id": "chapter_08",
+            "title": "The Doors Closing",
+            "file_path": "book/nyc_subway_acappella/chapter_08_doors_closing.md",
+            "music_prompt": "A cappella vocal soundscape. The three-second drama. Whispered anticipation, then beatbox running footsteps accelerating. Voices gasping, then a sharp percussive door slam sound made by voice. Breathing. No instruments. Structure: Whispered waiting (0:00-0:45) -> Voice says arrival (0:45-1:00) -> Running footsteps beatbox accelerating (1:00-1:25) -> Door slam sound (1:25-1:30) -> Heavy breathing (1:30-2:00). Length: 2:00. Human voices only."
+        },
+        {
+            "id": "chapter_09",
+            "title": "The Existentialist Commute",
+            "file_path": "book/nyc_subway_acappella/chapter_09_existentialist.md",
+            "music_prompt": "A cappella vocal soundscape. Throat singing drone, infinite and circular. Multiple voices humming the same low note. Meditative, contemplative, endless. The sound of being suspended in time. No instruments. Structure: Drone begins (0:00-0:45) -> Breathing layers in (0:45-1:15) -> Slight pitch shift (1:15-1:45) -> Return to original (1:45-2:15). Circular. Length: 2:15. Human voices only."
+        },
+        {
+            "id": "chapter_10",
+            "title": "The Dream Commute",
+            "file_path": "book/nyc_subway_acappella/chapter_10_dream.md",
+            "music_prompt": "A cappella vocal soundscape. Voices reversed and slowed, underwater quality. Words spoken backwards, incomprehensible whispers. Eerie vocal harmonies dissolving. The uncanny subway made of human sound. No instruments. Structure: Normal whispers (0:00-0:20) -> Voices start reversing (0:20-0:45) -> Fully underwater (0:45-1:30) -> Single clear voice cuts through (1:30-1:35) -> Silence (1:35-2:00). Length: 2:00. Human voices only."
+        }
+    ]
+}

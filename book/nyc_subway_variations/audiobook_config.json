@@ -1,0 +1,68 @@
+{
+    "project_name": "The NYC Subway Commuter: Ten Variations",
+    "elevenlabs_model_id": "eleven_turbo_v2_5",
+    "default_voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "musical_concept": "Musique Concrète: All sound built from processed subway field recordings. No melodic instruments. Turnstile clicks as percussion, door chimes as melody, wheel clatter as rhythm, announcements as vocal samples, air brakes as bass.",
+    "chapters": [
+        {
+            "id": "chapter_01",
+            "title": "The Packed Car",
+            "file_path": "book/nyc_subway_variations/chapter_01_packed.md",
+            "music_prompt": "Musique concrete built from subway sounds. Dense overlapping crowd murmur. Shuffling feet as percussion. Muffled heartbeats mixed with train rumble. Breathing sounds, fabric rustling. Door chime loops. No instruments, only processed human and machine sounds layered until claustrophobic. Structure: Sparse (0:00-0:20) -> Layers multiply (0:20-1:00) -> Maximum density (1:00-1:30) -> Doors open, rush of air (1:30-2:00). Length: 2:00. No music, no vocals."
+        },
+        {
+            "id": "chapter_02",
+            "title": "The Stalled Train",
+            "file_path": "book/nyc_subway_variations/chapter_02_stalled.md",
+            "music_prompt": "Musique concrete built from subway sounds. Near silence. Occasional metal creaks. Fluorescent light hum. Distant tunnel echo. A phone vibrates. Someone sighs. The ventilation stops, then restarts. No instruments, only environmental sounds stretched and suspended. Structure: Stillness (0:00-0:45) -> Light flicker sound (0:45-1:00) -> Deeper silence (1:00-1:45) -> Train finally moves (1:45-2:15). Length: 2:15. No music, no vocals."
+        },
+        {
+            "id": "chapter_03",
+            "title": "The Silent Car",
+            "file_path": "book/nyc_subway_variations/chapter_03_silent.md",
+            "music_prompt": "Musique concrete built from subway sounds. Extreme quiet. Low frequency train rumble felt more than heard. Single page turning. Distant wheel clatter. One cough. No instruments, only the texture of enforced silence. The absence of sound becomes the sound. Structure: Near silence (0:00-0:45) -> One footstep (0:45-0:50) -> Return to quiet (0:50-1:30) -> Train rumble rises (1:30-2:00). Length: 2:00. No music, no vocals."
+        },
+        {
+            "id": "chapter_04",
+            "title": "The First Day",
+            "file_path": "book/nyc_subway_variations/chapter_04_first_day.md",
+            "music_prompt": "Musique concrete built from subway sounds. Chaotic overlapping announcements in different languages. Turnstile clicks out of rhythm. Doors opening and closing rapidly. Running footsteps. An escalator whine. Confusion of urban transit sounds competing for attention. Structure: Single sound (0:00-0:15) -> Sounds multiply (0:15-0:45) -> Cacophony (0:45-1:15) -> Wrong train sound, silence (1:15-1:20) -> Restart, calmer (1:20-2:00). Length: 2:15. No music, no vocals."
+        },
+        {
+            "id": "chapter_05",
+            "title": "The Last Day",
+            "file_path": "book/nyc_subway_variations/chapter_05_last_day.md",
+            "music_prompt": "Musique concrete built from subway sounds. Familiar sounds slowed down and reverbed: door chime stretched, announcement echoing, train arriving in slow motion. The sounds become nostalgic through processing. Time-stretched wheel clatter. Reverbed footsteps fading. Structure: Normal speed (0:00-0:30) -> Sounds begin slowing (0:30-1:00) -> Maximum stretch (1:00-1:45) -> Fade to silence (1:45-2:15). Length: 2:15. No music, no vocals."
+        },
+        {
+            "id": "chapter_06",
+            "title": "The Driver",
+            "file_path": "book/nyc_subway_variations/chapter_06_driver.md",
+            "music_prompt": "Musique concrete built from subway sounds. Dispatch radio crackle and static. Dead man's switch clicking rhythmically. Track clatter from the front of the train. Brake release hiss. Door mechanism sounds. The cab perspective: industrial, rhythmic, alone. Structure: Radio crackle intro (0:00-0:20) -> Steady clatter rhythm (0:20-1:00) -> Brake sounds (1:00-1:30) -> Radio crackle returns (1:30-2:00). Length: 2:00. No music, no vocals."
+        },
+        {
+            "id": "chapter_07",
+            "title": "The Descent",
+            "file_path": "book/nyc_subway_variations/chapter_07_descent.md",
+            "music_prompt": "Musique concrete built from subway sounds. Footsteps on metal stairs, echoing. Street sounds fading. Underground acoustics taking over. Turnstile click. Platform ambience. Distant train approaching through tunnel. The transition from above to below. Structure: Street sounds (0:00-0:15) -> Stairwell descent, echoes (0:15-0:45) -> Turnstile (0:45-0:50) -> Platform wait (0:50-1:30) -> Train arrives (1:30-2:00). Length: 2:00. No music, no vocals."
+        },
+        {
+            "id": "chapter_08",
+            "title": "The Doors Closing",
+            "file_path": "book/nyc_subway_variations/chapter_08_doors_closing.md",
+            "music_prompt": "Musique concrete built from subway sounds. The three-second drama. Platform ambience, then running footsteps accelerating. Door chime warning loops. Rubber door edges meeting. Breath. Then: success or failure. Train departing. Structure: Platform wait (0:00-0:45) -> Train arrives (0:45-1:00) -> Running footsteps, accelerating (1:00-1:25) -> Door chime, slam (1:25-1:30) -> Train departs (1:30-2:00). Length: 2:00. No music, no vocals."
+        },
+        {
+            "id": "chapter_09",
+            "title": "The Existentialist Commute",
+            "file_path": "book/nyc_subway_variations/chapter_09_existentialist.md",
+            "music_prompt": "Musique concrete built from subway sounds. Infinite train hum drone. Wheel clatter as meditation. Breathing layered over mechanical rhythm. The underground as eternal return. Sounds loop seamlessly, no beginning or end. Structure: Drone establishes (0:00-0:45) -> Breathing mixes in (0:45-1:15) -> Slight shift (1:15-1:45) -> Return to original (1:45-2:15). Circular. Length: 2:15. No music, no vocals."
+        },
+        {
+            "id": "chapter_10",
+            "title": "The Dream Commute",
+            "file_path": "book/nyc_subway_variations/chapter_10_dream.md",
+            "music_prompt": "Musique concrete built from subway sounds. Familiar sounds reversed, slowed, underwater processed. Announcements played backwards. Time-stretched door chimes. Pitch-shifted wheel clatter. The uncanny subway, wrong but recognizable. Structure: Normal sounds (0:00-0:20) -> Sounds reverse (0:20-0:45) -> Fully underwater (0:45-1:30) -> Alarm clock cuts through (1:30-1:35) -> Silence (1:35-2:00). Length: 2:00. No music, no vocals."
+        }
+    ]
+}

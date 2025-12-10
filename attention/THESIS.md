@@ -3,6 +3,9 @@ In an RL sense, it is the frame within which, event/reward/trajectory/policy are
 
 Thus, managing attention becomes a schematic problem that needs to be managed in the context of open and closed systems to navigate a multidimensional manifold.
 
+A room is a means of arranging attention in such way that the body, memory, material, pleasure, desire, perception, apperception, environment are all coupled in a way that is more than its parts. The names Detective, Matador, Homeless become
+a way of describing the sum, still allowing its parts to remake the whole into a qualitatively different whole.
+
 ## Architecture of Attention
 
 ```mermaid
