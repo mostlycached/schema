@@ -214,3 +214,9 @@ __marimo__/
 *.m4a
 *.flac
 *.aac
+
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/

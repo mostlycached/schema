@@ -4,7 +4,7 @@ import time
 from dotenv import load_dotenv
 
 # Load environment variables
-load_dotenv('/Users/hprasann/Documents/GitHub/schema/.env')
+load_dotenv(os.path.join(os.path.dirname(__file__), '../../.env'))
 
 API_KEY = os.getenv("ELEVENLABS_API_KEY")
 VOICE_ID = "JBFqnCBsd6RMkjVDRZzb" # Using the default voice ID from config

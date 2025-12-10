@@ -76,7 +76,7 @@ MEMOIR_REPO=/path/to/your/private/memoir/repo
 ### 2. Initialize Memoir Repository
 
 ```bash
-cd /Users/hprasann/Documents/GitHub/schema
+cd . # Repository root
 python probe/memoir_manager.py --init
 ```
 
@@ -126,7 +126,7 @@ python probe/memoir_manager.py --stats
 Example output:
 ```
 Repository Statistics:
-  Location: /Users/hprasann/Documents/memoir
+  Location: ~/Documents/memoir (or your preferred location)
   Total scenes: 15
   Total tags: 28
   Popular tags:
@@ -271,7 +271,7 @@ The interrogator captures the current "room" (life-world scene) with rich detail
 - **Room Expander**: Suggest adjacent possible rooms based on current scenes
 - **Room Affordance Helper**: Identify actions/interventions to move between rooms
 
-See [ADJACENT.md](file:///Users/hprasann/Documents/GitHub/schema/ADJACENT.md) for the full architecture.
+See [ADJACENT.md](file:///ADJACENT.md) for the full architecture.
 
 ## Privacy Considerations
 
@@ -330,19 +330,19 @@ Otherwise, the interrogator will use manual prompts only.
 
 Ensure you're running from the schema repository root:
 ```bash
-cd /Users/hprasann/Documents/GitHub/schema
+cd . # Repository root
 python probe/interrogator.py
 ```
 
 Or add the repo to your PYTHONPATH:
 ```bash
-export PYTHONPATH="/Users/hprasann/Documents/GitHub/schema:$PYTHONPATH"
+export PYTHONPATH="$(pwd):$PYTHONPATH"
 ```
 
 ## File Reference
 
-- [SCHEMA.md](file:///Users/hprasann/Documents/GitHub/schema/probe/SCHEMA.md) - Complete schema definition
-- [interrogator.py](file:///Users/hprasann/Documents/GitHub/schema/probe/interrogator.py) - Interactive interview module
-- [memoir_manager.py](file:///Users/hprasann/Documents/GitHub/schema/probe/memoir_manager.py) - Repository manager
-- [graph.py](file:///Users/hprasann/Documents/GitHub/schema/probe/graph.py) - Graph data structures
-- [THESIS.md](file:///Users/hprasann/Documents/GitHub/schema/probe/THESIS.md) - High-level intent
+- [SCHEMA.md](file:///probe/SCHEMA.md) - Complete schema definition
+- [interrogator.py](file:///probe/interrogator.py) - Interactive interview module
+- [memoir_manager.py](file:///probe/memoir_manager.py) - Repository manager
+- [graph.py](file:///probe/graph.py) - Graph data structures
+- [THESIS.md](file:///probe/THESIS.md) - High-level intent

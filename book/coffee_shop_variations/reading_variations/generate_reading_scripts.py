@@ -66,7 +66,7 @@ if __name__ == "__main__":
     
     for chapter in config['chapters']:
         chapter_id = chapter['id']
-        md_path = os.path.join('/Users/hprasann/Documents/GitHub/schema', chapter['file_path'])
+        md_path = os.path.join(os.path.dirname(__file__), '../../..', chapter['file_path'])
         
         if not os.path.exists(md_path):
             print(f"Warning: {md_path} not found")

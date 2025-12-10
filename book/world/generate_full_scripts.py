@@ -52,7 +52,7 @@ def process_text(text):
     return text.strip()
 
 def main():
-    source_dir = '/Users/hprasann/Documents/GitHub/schema/book'
+    source_dir = '../../book'
     dest_dir = os.path.join(source_dir, 'scripts')
     
     if not os.path.exists(dest_dir):

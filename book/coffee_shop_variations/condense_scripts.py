@@ -59,7 +59,7 @@ def condense_script(text, target_chars=4800):
     return result
 
 if __name__ == "__main__":
-    scripts_dir = "/Users/hprasann/Documents/GitHub/schema/book/coffee_shop_variations/scripts"
+    scripts_dir = "../../book/coffee_shop_variations/scripts"
     
     # Chapters that need condensing (over 5000 chars)
     chapters_to_condense = ['chapter_01', 'chapter_04', 'chapter_05', 'chapter_08', 'chapter_10']

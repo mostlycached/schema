@@ -48,8 +48,11 @@ def write_csv(worlds, output_path):
             writer.writerow(world)
 
 if __name__ == "__main__":
-    md_path = '/Users/hprasann/Documents/GitHub/schema/WORLDS.md'
-    csv_path = '/Users/hprasann/Documents/GitHub/schema/WORLDS.csv'
+    # Get paths relative to repository root
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    repo_root = os.path.dirname(script_dir)
+    md_path = os.path.join(repo_root, 'world', 'WORLDS.md')
+    csv_path = os.path.join(repo_root, 'world', 'WORLDS.csv')
     
     print(f"Parsing {md_path}...")
     worlds = parse_worlds_md(md_path)
