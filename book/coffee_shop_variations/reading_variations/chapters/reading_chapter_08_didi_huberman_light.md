@@ -1,0 +1,52 @@
+# Didi-Huberman: Seeing Light as Light
+
+You sit still. You stop reading. You apply the Roden Crater method.
+"The apprehension of light as a thing in itself."
+
+---
+
+**THE GANZFIELD**
+
+You stare at the white wall opposite you.
+Usually, you look *at* the wall. You see the paint, the texture, the scuff marks.
+Turrell asks you to look *at the light* in front of the wall.
+
+You soften your gaze. You de-focus.
+You try to see the air between you and the wall.
+It is vibrating.
+Dust motes? Maybe.
+But also: photons.
+The space is full. It is not empty space between objects. It is a plenum of radiation.
+
+You are sitting in a soup of light.
+It presses against your eyes. It presses against your skin.
+
+The foliage is not a "thing." It is a hole in the light. A place where the light is absorbed.
+The shadow behind the column is not darkness. It is just less light. A thinner soup.
+
+You lose the sense of distance.
+When you see objects, you know how far away they are.
+When you see light, distance collapses.
+The blue of the window is right *here*, on your retina.
+The yellow of the tile is right *here*.
+
+You feel a sudden intimacy with the room.
+You are touching everything with your eyes.
+Or rather: everything is touching you.
+The woman's sweater (Red) is throwing red photons at you. She is physically touching your eyes with her redness.
+
+"Michael," she says.
+Sound waves touching your ears.
+Red light touching your eyes.
+Coffee vapor touching your nose.
+
+You are being touched by the world in every modality.
+Didi-Huberman calls this "the tactile eye."
+The eye that touches. The eye that is touched.
+
+You feel vulnerable. You are transparent.
+The world is flooding in.
+You close your eyes.
+But the light is still there. Orange-red through the eyelids.
+You cannot escape the medium.
+You are the medium.

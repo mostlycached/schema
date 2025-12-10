@@ -1,0 +1,58 @@
+# The Triad: The Syncretic System
+
+You have climbed with Serres.
+You have fractured with Alexander.
+You have descended with Didi-Huberman.
+
+Now, you put all three books on the table.
+The Trinity.
+
+---
+
+**THE SYNTHESIS**
+
+You look at the scene one last time.
+
+**The Foliage**
+*Serres*: It is a climber. A vertical vector against gravity.
+*Alexander*: It is a "chlorophyll antenna," a "green specter in the concrete void."
+*Didi-Huberman*: It is an aperture. A filter that modulates the light-volume of the room.
+
+It is all three.
+It is a climbing, spectral, light-modulating entity.
+
+**The Women**
+*Serres*: They are thermodynamic knots. Circulations of energy and language.
+*Alexander*: They are "relational shards," "echoes in the void."
+*Didi-Huberman*: They are surfaces touched by the Amber and Green light.
+
+**The Exit**
+You have to leave.
+The coffee is done. The ritual is complete.
+
+But how do you leave?
+
+Do you *descend* (Serres) from the mountain of the café?
+Do you *shatter* (Alexander) the scene and walk out through the shards?
+Do you *ascend* (Didi-Huberman) out of the crater?
+
+You choose all three.
+You stand up. (The Ascent).
+You pack the books. (The Condensation of the Fractal).
+You walk to the door. (The Traverse).
+
+You push the door open.
+The cold air hits you.
+The noise of the street.
+The light of the sun.
+
+You have been reading.
+And because you have been reading, you have been everywhere.
+On a mountain. In a prism. In a volcano.
+
+You step onto the sidewalk.
+You are just a person again.
+But you are carrying the mountain, the prism, and the volcano in your bag.
+
+You walk away.
+The city is waiting to be read.

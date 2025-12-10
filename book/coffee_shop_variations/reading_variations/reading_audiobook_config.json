@@ -1,0 +1,68 @@
+{
+    "project_name": "Variations on Reading - Genre Songs",
+    "elevenlabs_model_id": "eleven_turbo_v2_5",
+    "default_voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "musical_concept": "Genre Songs: Blues Rock (Serres), Psychedelic Soul (Alexander), Slowcore/Sadcore (Didi-Huberman)",
+    "chapters": [
+        {
+            "id": "reading_chapter_01_serres_climbing",
+            "title": "Serres: Climbing",
+            "file_path": "book/coffee_shop_variations/reading_chapter_01_serres_climbing.md",
+            "music_prompt": "Slow blues rock instrumental. Heavy distorted electric guitar riffs, gritty and raw. Steady, plodding drums like footsteps climbing uphill. Deep walking bassline. The feeling of physical work and struggle. Muscular, sweaty, determined. No vocals, just instruments grinding forward."
+        },
+        {
+            "id": "reading_chapter_02_serres_applied",
+            "title": "Serres: Applied",
+            "file_path": "book/coffee_shop_variations/reading_chapter_02_serres_applied.md",
+            "music_prompt": "Swampy blues rock. Slide guitar with thick reverb creating fluid, flowing textures. Rhythm section that pulses and circulates like a heat engine. Electric blues with a hypnotic, systems-based groove. Thermodynamic feel—hot, humid, circulating energy."
+        },
+        {
+            "id": "reading_chapter_03_serres_method",
+            "title": "Serres: The Method",
+            "file_path": "book/coffee_shop_variations/reading_chapter_03_serres_method.md",
+            "music_prompt": "Rugged blues rock with irregular changes. The song stumbles and recovers, like traversing difficult terrain. Gritty electric guitar soloing over uneven rhythms. Mix of clean melodic passages and sudden rough distorted sections. The sound of a hard journey with obstacles."
+        },
+        {
+            "id": "reading_chapter_04_alexander_fractal",
+            "title": "Alexander: Reading Fractal",
+            "file_path": "book/coffee_shop_variations/reading_chapter_04_alexander_fractal.md",
+            "music_prompt": "Psychedelic soul with cosmic elements. Wah-wah guitar, electric piano, swirling organ. Polyrhythmic percussion with congas and tambourine. Falsetto melodies with a smooth, soulful vibe (instrumental version with high strings). Ecstatic, colorful, dense with layers. The fractal made musical."
+        },
+        {
+            "id": "reading_chapter_05_alexander_writing",
+            "title": "Alexander: Writing as Alexander",
+            "file_path": "book/coffee_shop_variations/reading_chapter_05_alexander_writing.md",
+            "music_prompt": "Alchemical psychedelic soul. Transforming simple funk groove into something cosmic and strange. Heavy bass, wah guitar that mutates, backwards tape effects. The mundane made mystical through production. Dense, bombastic, overwhelming with texture."
+        },
+        {
+            "id": "reading_chapter_06_alexander_poem",
+            "title": "Alexander: The Poem as Event",
+            "file_path": "book/coffee_shop_variations/reading_chapter_06_alexander_poem.md",
+            "music_prompt": "Driving psychedelic soul with strong groove. Afrobeat-influenced polyrhythms, urgent and pulsating. Horn stabs, funky bass, tight drums. The vibration made physical. High energy, synchronized, hypnotic. The beat that makes you move involuntarily."
+        },
+        {
+            "id": "reading_chapter_07_didi_huberman_walk",
+            "title": "Didi-Huberman: The Walk Through Color",
+            "file_path": "book/coffee_shop_variations/reading_chapter_07_didi_huberman_walk.md",
+            "music_prompt": "Slowcore ballad with shifting colors. Gentle electric guitar with chorus and reverb. The song moves through three moods: cool and blue (clean guitar), warm and amber (slight overdrive), then subaqueous green (underwater echo). Slow tempo, walking pace, meditative."
+        },
+        {
+            "id": "reading_chapter_08_didi_huberman_light",
+            "title": "Didi-Huberman: Seeing Light as Light",
+            "file_path": "book/coffee_shop_variations/reading_chapter_08_didi_huberman_light.md",
+            "music_prompt": "A sadcore drone song that is extremely slow, featuring a single sustained guitar chord soaked in cathedral reverb. Minimal rhythm, just a wash of sound. Hushed, gentle, and luminous, with minimal melody and maximum atmosphere. The sound of light hanging in the air, evoking a deeply emotional and ambient mood."
+        },
+        {
+            "id": "reading_chapter_09_didi_huberman_descent",
+            "title": "Didi-Huberman: The Descent",
+            "file_path": "book/coffee_shop_variations/reading_chapter_09_didi_huberman_descent.md",
+            "music_prompt": "Dark slowcore. Deep reverb like the bottom of a well. Minimal strummed guitar, sparse bass notes, distant cymbal washes. The sound of descending into a crater. Solemn, vast, echoing. Beautiful but melancholic and heavy with space."
+        },
+        {
+            "id": "reading_chapter_10_triad_system",
+            "title": "The Triad: System Synthesis",
+            "file_path": "book/coffee_shop_variations/reading_chapter_10_triad_system.md",
+            "music_prompt": "Genre fusion finale. Blues rock guitar riffs meet psychedelic soul horns and slowcore atmosphere. All three genres weaving together—the grit, the ecstasy, the space. A complete synthesis. The sound of walking out carrying all three universes. Triumphant but thoughtful."
+        }
+    ]
+}
