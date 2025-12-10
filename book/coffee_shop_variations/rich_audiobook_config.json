@@ -1,0 +1,68 @@
+{
+    "project_name": "Coffee Shop Variations: Rich Edition (Wild Variety)",
+    "elevenlabs_model_id": "eleven_turbo_v2_5",
+    "default_voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "musical_concept": "Wild variety: 10 completely different genres matching each chapter's conceptual content. From French New Wave to Brutalist Techno to Deep Listening drone.",
+    "chapters": [
+        {
+            "id": "rich_chapter_01",
+            "title": "The Women Notice You",
+            "file_path": "book/coffee_shop_variations/rich_chapter_01_women_notice.md",
+            "music_prompt": "French New Wave film score. Sparse, dissonant piano in the style of Erik Satie but unsettling. Nouvelle Vague awkwardness. Structure: Intro (0:00-0:20, simple repeating piano figure, slightly out of tune) -> Tension (0:20-1:00, the figure becomes hesitant, pauses between notes get longer, as if self-conscious) -> Caught (1:00-1:30, discordant chord that hangs, no resolution, strings enter with uneasy sustained tone) -> Aftermath (1:30-2:00, piano tries to resume but stumbles, fades to silence). Mood: The cool evaporating. Being seen. Length: 2:00. No vocals. Acoustic piano and strings only."
+        },
+        {
+            "id": "rich_chapter_02",
+            "title": "Michael Appears",
+            "file_path": "book/coffee_shop_variations/rich_chapter_02_michael_appears.md",
+            "music_prompt": "Soap opera organ music. Literal daytime TV drama scoring. Structure: Intro (0:00-0:15, pleasant coffee shop muzak, light and forgettable) -> Door Chime (0:15-0:17, actual door bell sound effect) -> Recognition (0:17-0:45, dramatic organ swell, classic soap opera 'the villain enters' music, Hammond B3 style) -> Confrontation (0:45-1:30, tension building with tremolo strings and organ, unresolved suspense) -> Exit (1:30-2:00, organ fades, uncomfortable silence, then light muzak tries to return but feels wrong). Mood: Telenovela in real life. Length: 2:00. No vocals. Organ, strings, cheesy but sincere."
+        },
+        {
+            "id": "rich_chapter_03",
+            "title": "The Foliage Is Gone",
+            "file_path": "book/coffee_shop_variations/rich_chapter_03_foliage_gone.md",
+            "music_prompt": "Brutalist techno. Cold, industrial, concrete sound. Berlin warehouse at 4am. Structure: Intro (0:00-0:30, harsh metallic drone, no warmth, grey frequencies) -> Kick (0:30-1:00, heavy distorted kick drum enters at 130 BPM, relentless, mechanical) -> Stripped (1:00-1:30, industrial textures layer in - metal scrapes, factory sounds, processed noise) -> Concrete (1:30-2:00, everything reduces to just the kick and a cold sine wave, brutalist minimalism). Mood: All organic warmth removed. Plants gone, humanity gone. Length: 2:00. No vocals. Industrial, techno, harsh."
+        },
+        {
+            "id": "rich_chapter_04",
+            "title": "What If Deleuze Instead of Serres?",
+            "file_path": "book/coffee_shop_variations/rich_chapter_04_deleuze.md",
+            "music_prompt": "Free jazz collision. Two different jazz groups playing simultaneously, neither acknowledging the other. Structure: Intro (0:00-0:20, Jazz Group A enters - bebop piano trio, swinging) -> Collision (0:20-0:30, Jazz Group B enters in different key and tempo - free saxophone and drums) -> Chaos (0:30-1:30, both groups play at full volume, clashing harmonies, competing rhythms, Ornette Coleman meets Cecil Taylor) -> Exhaustion (1:30-2:00, both groups tire, fragments of melody poke through the noise, no resolution. Rhizomatic). Mood: No center, no hierarchy. Deterritorialized. Length: 2:00. No vocals. Acoustic jazz instruments only."
+        },
+        {
+            "id": "rich_chapter_05",
+            "title": "No AirPods",
+            "file_path": "book/coffee_shop_variations/rich_chapter_05_no_airpods.md",
+            "music_prompt": "Musique concrete made entirely from coffee shop field recordings. No music - only processed cafe sounds. Structure: Intro (0:00-0:30, espresso machine hiss, elongated and pitch-shifted) -> Voices (0:30-1:00, layered unintelligible conversations, reversed, granulated, but still recognizably human) -> Objects (1:00-1:30, cup clinks, spoon stirring, chair scrapes, cash register, all rhythmically arranged but not quite musical) -> Overwhelm (1:30-2:00, all layers playing together, the ambient you cannot escape). Mood: The environment made into art. Inescapable. Length: 2:00. No vocals. Found sounds only."
+        },
+        {
+            "id": "rich_chapter_06",
+            "title": "The Conversation Gets Interesting",
+            "file_path": "book/coffee_shop_variations/rich_chapter_06_interesting.md",
+            "music_prompt": "Minimalist revelation in the style of Steve Reich. Structure: Intro (0:00-0:30, near silence, just room tone and faint distant cafe sounds) -> The Tone (0:30-0:35, one pure crystalline note enters, sustained, like light appearing) -> Phasing (0:35-1:15, a second tone enters slightly detuned, creating slow beating patterns, then a third, Reich-style phase shifting) -> Beauty (1:15-1:45, the tones align momentarily into a chord, unexpectedly beautiful, Roden Crater as sound) -> Fade (1:45-2:00, tones slowly separate and dim). Mood: Unexpected revelation. The moment something boring becomes transcendent. Length: 2:00. No vocals. Pure tones, marimba, or bells."
+        },
+        {
+            "id": "rich_chapter_07",
+            "title": "The Holiday Blend Runs Out",
+            "file_path": "book/coffee_shop_variations/rich_chapter_07_no_holiday_blend.md",
+            "music_prompt": "Expensive jazz trio. Clean, polished Blue Note style piano trio. Structure: Intro (0:00-0:30, upright bass walking line, brushed drums, sophisticated) -> Piano (0:30-1:15, elegant piano melody, Bill Evans or Keith Jarrett influence, tasteful, every note costs money) -> Solo (1:15-1:45, bass solo, woody and warm but obviously premium) -> Tag (1:45-2:00, return to head, ritardando, ends on an unresolved maj7 chord). Mood: Beautiful but you're aware it costs more. Boutique. Length: 2:00. No vocals. Piano, upright bass, drums with brushes."
+        },
+        {
+            "id": "rich_chapter_08",
+            "title": "You Stay Listening",
+            "file_path": "book/coffee_shop_variations/rich_chapter_08_stay_listening.md",
+            "music_prompt": "70s AM radio warmth. Soft rock, Fleetwood Mac vibes, Laurel Canyon. Structure: Intro (0:00-0:30, warm electric piano, gentle strummed acoustic guitar, analog tape hiss) -> Verse (0:30-1:15, soft drums enter, bass guitar, the full band but unhurried, Rumors-era vibe) -> Chorus (1:15-1:45, harmony vocals could appear here but instrumental instead, strings swell gently) -> Fade (1:45-2:00, classic radio fade out, warm and complete). Mood: The sound of being fully present, comfortable, unhurried. Sunday morning. Length: 2:00. No vocals. Warm analog production, guitars, keys, drums."
+        },
+        {
+            "id": "rich_chapter_09",
+            "title": "No Books",
+            "file_path": "book/coffee_shop_variations/rich_chapter_09_no_books.md",
+            "music_prompt": "Near silence with room tone. John Cage adjacent. Structure: Full Duration (0:00-2:00, the sound of an empty room. Faint HVAC hum. Occasional distant sounds - a car passing outside, a door closing far away, someone coughing in another room. No music. No rhythm. No melody. Just the sound of a space without intellectual scaffolding. The absence of books as the absence of music). Mood: Perception collapse. The scaffold removed. What's left when there's nothing to read. Length: 2:00. No vocals. Ambient room tone only."
+        },
+        {
+            "id": "rich_chapter_10",
+            "title": "Didi-Huberman's Chapter Applied",
+            "file_path": "book/coffee_shop_variations/rich_chapter_10_didi_huberman.md",
+            "music_prompt": "Deep Listening drone in the style of Pauline Oliveros. Structure: Intro (0:00-0:30, a single sustained accordion tone, impossibly long, overtones emerging) -> Shift (0:30-1:15, the pitch bends slowly upward by a semitone over 45 seconds, like light wavelengths shifting from orange to violet) -> Breath (1:15-1:30, brief silence, as if the tone is breathing) -> Return (1:30-2:00, tone returns slightly lower, richer harmonics, meditation on attention itself). Mood: Music as attention practice. Turrell translated to sound. Seeing light as hearing sustained tone. Length: 2:00. No vocals. Accordion, voice drone, or harmonium. Very slow, very deliberate."
+        }
+    ]
+}
