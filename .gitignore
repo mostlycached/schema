@@ -207,7 +207,7 @@ marimo/_lsp/
 __marimo__/
 
 # Audio files
-*.mp3
+# *.mp3  <-- Allowed (User Request)
 *.wav
 *.aiff
 *.m4a
