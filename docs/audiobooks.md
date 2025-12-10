@@ -4,7 +4,7 @@ title: Audiobooks
 permalink: /audiobooks/
 ---
 
-# Audiobook Projects
+# Projects
 
 The Hyperframes project explores generative narrative techniques through audiobook production. Each project applies **variational storytelling methods** to classical philosophical texts, creating multiple distinct variations on the same source material.
 

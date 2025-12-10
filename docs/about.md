@@ -18,7 +18,7 @@ Polo answers: "Without stones there is no arch."
 
 ---
 
-I began this project because I wanted to make my world wider, richer.
+I work on this project because I want to make my world wider, richer. And let that gesture reach out to make yours wider, richer too.
 
 More specifically: I noticed that Calvino made Venice richer through *Invisible Cities*. And despite its universal appeal that every reader can enter those cities—underneath, it felt very much like Venice. His Venice. A Venice that became infinite through seeing.
 

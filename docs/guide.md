@@ -4,13 +4,11 @@ title: Repository Guide
 permalink: /guide/
 ---
 
-# Repository Guide
-
 This guide explains how to navigate and use the Hyperframes repository, including its structure, workflows, and generative tools.
 
 ---
 
-## Repository Structure
+## Structure
 
 The repository is organized into several major directories:
 

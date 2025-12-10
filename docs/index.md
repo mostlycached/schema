@@ -3,9 +3,7 @@ layout: home
 title: Hyperframes
 ---
 
-# Hyperframes
-
-**Hyperframes** is a research project exploring the intersection of sociological worlds, attention architectures, and narrative variation through computational and literary methods.
+A research project exploring the intersection of sociological worlds, attention architectures, and narrative variation through computational and literary methods.
 
 ## Current Focus Areas
 

@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-# Research Areas
+# Areas
 
 This page provides conceptual introductions to the major research areas currently being explored in the Hyperframes project. For detailed research materials and full schemas, visit the [GitHub repository](https://github.com/mostlycached/schema).
 
