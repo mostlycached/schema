@@ -35,6 +35,16 @@ The script removes stale `chapter_*.mp3` speech files to ensure new text edits a
     4.  Concatenate: `[Music] -> [Speech] -> [Silence]`.
 *   **Output**: `book/Chapter XX - Title.mp3`.
 
+### Step 5: Cover Art
+*   **Prompting**: Create a "subtle, constraint-driven" visual. 
+    *   *Avoid*: Text in image, overly busy collages.
+    *   *Prefer*: Single subtle variation, "glitch in the matrix" style, minimalist architectural photography.
+*   **Resolution**: Must be at least 1400x1400px (standard audiobook requirement).
+*   **Tools**:
+    *   Generate: DALL-E 3 / Imagen.
+    *   Upscale: Use `sips -Z 1400 cover.png` (macOS) or ffmpeg.
+
+
 ## 3. How to Run
 ```bash
 python3 book/produce_audiobook.py

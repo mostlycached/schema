@@ -1,0 +1,68 @@
+{
+    "project_name": "Coffee Shop Variations: Ten Rooms in One Morning (Lo-Fi Deconstructed)",
+    "elevenlabs_model_id": "eleven_turbo_v2_5",
+    "default_voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "musical_concept": "Lo-fi hip hop deconstructed. Each track takes the coffee shop soundtrack and applies a variation - cutting beats, morphing genres, manipulating time, adding noise. 2-3 minute instrumentals that sonically mirror the chapter's conceptual variation.",
+    "chapters": [
+        {
+            "id": "chapter_01",
+            "title": "The WiFi Fails",
+            "file_path": "book/coffee_shop_variations/chapter_01_wifi_fails.md",
+            "music_prompt": "Lo-fi hip hop track at 85 BPM. Structure: Intro (0:00-0:30, standard chill lo-fi with vinyl crackle, mellow piano, soft drums) -> DROPOUT (0:30-0:35, beat suddenly cuts out completely) -> Ambient Only (0:35-1:30, just cafe ambient sounds: distant conversations, espresso machine hiss, chair scrapes, no music) -> Attempted Reconnection (1:30-2:00, beat tries to come back, glitches, fails, leaves only crackle and ambience). Mood: Disconnection anxiety. Length: 2:00. No vocals."
+        },
+        {
+            "id": "chapter_02",
+            "title": "The Accidental Collaborator",
+            "file_path": "book/coffee_shop_variations/chapter_02_accidental_collaborator.md",
+            "music_prompt": "Two separate lo-fi melodies forced to share the same track. Structure: Intro (0:00-0:20, Melody A alone, clean lo-fi piano in C major) -> Entry (0:20-0:30, Melody B enters, different key, slightly different tempo) -> Negotiation (0:30-1:30, both melodies play simultaneously, creating tension, occasional dissonance, neither quite fitting) -> Awkward Coexistence (1:30-2:00, they find uncomfortable harmony but you can hear the strain). Mood: Forced sharing. Length: 2:00. No vocals."
+        },
+        {
+            "id": "chapter_03",
+            "title": "The Music Changes",
+            "file_path": "book/coffee_shop_variations/chapter_03_music_changes.md",
+            "music_prompt": "Morphing track: lo-fi to EDM. Structure: Intro (0:00-0:30, chill lo-fi, 80 BPM, jazzy) -> Transition Begin (0:30-1:00, tempo gradually increases, bass gets stronger, drums more aggressive) -> The Drop (1:00-1:15, full morph to aggressive EDM at 128 BPM, heavy bass, harsh synths) -> EDM Section (1:15-2:00, maintain EDM energy, completely different vibe from start). Mood: Jarring transformation. Length: 2:00. No vocals."
+        },
+        {
+            "id": "chapter_04",
+            "title": "The Breakthrough",
+            "file_path": "book/coffee_shop_variations/chapter_04_breakthrough.md",
+            "music_prompt": "Building euphoric progression that gets CUT OFF. Structure: Intro (0:00-0:20, simple lo-fi foundation) -> Build (0:20-1:00, layers adding, melody developing, getting more complex and beautiful) -> Flow (1:00-1:30, peak flow state, everything clicking, euphoric) -> HARD CUT (1:30, music stops abruptly mid-phrase) -> Silence (1:30-2:00, nothing, just empty space where music should be). Mood: Interrupted ecstasy. Length: 2:00. No vocals."
+        },
+        {
+            "id": "chapter_05",
+            "title": "The Watcher",
+            "file_path": "book/coffee_shop_variations/chapter_05_watcher.md",
+            "music_prompt": "Extremely minimal observational soundscape. Structure: Intro (0:00-0:30, barely-there lo-fi, just vinyl crackle and faint ambient tones) -> Observation (0:30-1:30, distant muffled conversations (no words), occasional coffee cup sounds, pages turning, very sparse melodic elements) -> Presence (1:30-2:00, everything fades to almost nothing, just breathing room and crackle). Mood: Witnessing, not participating. Length: 2:00. No vocals."
+        },
+        {
+            "id": "chapter_06",
+            "title": "The Time Collapse",
+            "file_path": "book/coffee_shop_variations/chapter_06_time_collapse.md",
+            "music_prompt": "Time-warped lo-fi. Structure: Intro (0:00-0:20, normal lo-fi at 85 BPM) -> Slow Stretch (0:20-1:00, same melody but tempo drops to 50 BPM, pitch drops, time dilating) -> Fast Forward (1:00-1:30, suddenly jumps to 140 BPM, pitch up, time accelerating) -> Collapse (1:30-2:00, tempo unstable, warping between fast and slow randomly, disorienting). Mood: Temporal distortion. Length: 2:00. No vocals."
+        },
+        {
+            "id": "chapter_07",
+            "title": "The Regular Club",
+            "file_path": "book/coffee_shop_variations/chapter_07_regular_club.md",
+            "music_prompt": "Two identical lo-fi loops slightly out of phase. Structure: Intro (0:00-0:15, Loop A plays alone, standard lo-fi) -> Entry (0:15-0:20, Loop B enters, identical melody but 0.3 seconds delayed) -> Phase Dancing (0:20-1:30, both loops play, creating phasing effect, sometimes in sync, sometimes echoing) -> Recognition (1:30-2:00, loops sync up briefly, then drift apart again). Mood: Familiar strangers. Length: 2:00. No vocals."
+        },
+        {
+            "id": "chapter_08",
+            "title": "The Spill",
+            "file_path": "book/coffee_shop_variations/chapter_08_spill.md",
+            "music_prompt": "Interrupted flow with catastrophe. Structure: Intro (0:00-0:30, smooth lo-fi, everything perfect) -> THE SPILL (0:30-0:32, loud glass shatter/water splash sound) -> Awkward Silence (0:32-1:00, music stops completely, just ambient room tone, uncomfortable) -> Tentative Return (1:00-1:30, music tries to resume, hesitant, not quite recovered) -> Damaged (1:30-2:00, music back but slightly off, some notes missing). Mood: Public embarrassment. Length: 2:00. No vocals."
+        },
+        {
+            "id": "chapter_09",
+            "title": "The Too Long",
+            "file_path": "book/coffee_shop_variations/chapter_09_too_long.md",
+            "music_prompt": "A loop that overstays its welcome. Structure: Intro (0:00-0:15, pleasant 4-bar lo-fi loop) -> Loop (0:15-1:00, same loop repeats, still okay) -> Wearing (1:00-1:30, same loop continues, starting to grate) -> Oppressive (1:30-2:00, loop keeps going, you want it to stop, it doesn't, slight pitch drift adds to discomfort). Mood: Overstaying. Length: 2:00. No vocals."
+        },
+        {
+            "id": "chapter_10",
+            "title": "The Construction",
+            "file_path": "book/coffee_shop_variations/chapter_10_construction.md",
+            "music_prompt": "Beautiful lo-fi violated by industrial noise. Structure: Intro (0:00-0:30, serene lo-fi, peaceful) -> JACKHAMMER (0:30-0:32, sudden loud industrial drilling sound) -> Interrupted (0:32-1:00, lo-fi tries to continue under constant jackhammer rhythm) -> Struggle (1:00-1:30, music and construction noise compete, harsh industrial sounds dominate) -> Surrender (1:30-2:00, music fades, only construction noise remains, then cuts to silence). Mood: External intrusion. Length: 2:00. No vocals."
+        }
+    ]
+}
