@@ -18,11 +18,13 @@ Polo answers: "Without stones there is no arch."
 
 ---
 
-This is a project about learning to see arches.
+I began this project because I wanted to make my world richer.
 
-The world you walk through every day—the subway, the coffee shop, the ritual, the occupation—is not one world but many. The packed car and the empty car are different rooms. The tea ceremony performed too fast and the one performed too slow are different ceremonies. The executioner and the tea master inhabit enclosures equally complete.
+More specifically: I noticed that Calvino made Venice richer through *Invisible Cities*. And despite its universal appeal—every reader can enter those cities—underneath, it felt very much like Venice. His Venice. A Venice that became infinite through seeing.
 
-The audiobooks here are attempts to make these rooms visible. Music creates the phenomenological space; narration speaks to you directly—*you descend, you taste, you enter*—so that the next time you're in the subway or the coffee shop, something in you remembers. You recognize the variation. You see the arch.
+I began to explore what my world looked like. In NYC, on the subway, in the coffee shop, I found new things that resonated. Old methods didn't always translate—the rhythms here are different, the density, the anonymity. But as I explored more, something shifted. My solitude became richer. I got more curious about my neighbors. I started seeing the packed car as one variation, the empty car as another. I started recognizing the rooms.
+
+I hope this is what these audiobooks bring to you too. Not my world, but yours—made visible through the practice of variation.
 
 ## On Using Generative AI
 
