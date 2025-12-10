@@ -100,6 +100,14 @@ categories: audiobooks releases
 
 **[Album Title]** is now available on Bandcamp!
 
+## Listen Now
+
+🎵 **[Listen on Bandcamp]([URL])**
+
+<iframe...></iframe>
+
+---
+
 ## The Seed
 
 [Describe source material, original world/scenario, why chosen]
@@ -129,12 +137,6 @@ categories: audiobooks releases
 ## Musical Aesthetic
 
 [Overall musical approach, how it relates to concepts, specific techniques]
-
-## Listen Now
-
-🎵 **[Listen on Bandcamp]([URL])**
-
-<iframe...></iframe>
 
 ---
 
