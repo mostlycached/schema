@@ -13,11 +13,11 @@ Ten variations on the act of reading. Ten ways the text enters you.
 
 ---
 
-Each track begins with music—blues rock for Serres (gritty, embodied), psychedelic soul for Alexander (fractal, expansive), slowcore for Didi-Huberman (contemplative, suspended)—then a voice speaks to you. *You grip the page. You trace the pattern. You walk into the light.* The text becomes instruction; the instruction becomes sensation.
+Each track begins with music—blues rock for Serres (gritty, embodied), psychedelic soul for Alexander (fractal, expansive), slowcore for Didi-Huberman (contemplative, suspended)—then a voice speaks to you. *You grip the page. You trace the pattern. You walk into the light.*
 
-The "Venn" refers to overlapping frameworks. Phenomenology (how experience is lived). Structure (how fields and positions organize). Systems (how communication closes on itself). Each track occupies a different intersection. What happens when you read Serres through a methodological lens? When you experience Alexander as poem? When you anticipate Didi-Huberman instead of remembering?
+The "Venn" refers to overlapping frameworks: phenomenology, structure, systems. But the point isn't the frameworks—it's what happens when you start seeing through multiple lenses. You read one philosopher through another's method, and suddenly both are strange. That strangeness is productive. It makes you lean in. And leaning in, you find passages you skimmed before now open into rooms.
 
-The intent is not interpretation but inhabitation. After listening, something shifts. The next time you read—really read, absorbed—you'll recognize the room. You'll know which variation you're in.
+Reading becomes climbing. The page becomes a surface with holds. Each book leads to another, and another, and the world fills with texts you never noticed—graffiti, receipts, the posture of the person across from you. Everything readable, once you've practiced variation.
 
 **Tracks**: Serres Climbing · Serres Applied · Serres Method · Reading Fractal · Writing as Alexander · Poem as Event · Walk through Color · Seeing Light as Light · Didi Huberman Descent · Dirty Triad
 

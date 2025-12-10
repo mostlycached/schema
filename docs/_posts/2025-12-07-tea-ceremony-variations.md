@@ -13,11 +13,9 @@ Ten variations on the tea ceremony. Ten ways the ritual shifts while remaining i
 
 ---
 
-Each track begins with 2-3 minutes of ambient music—sharp tones for the scalded ceremony, stretched silence for the delayed one—then a voice speaks to you directly. *You lift the bowl. You taste the bitterness. You wonder what you did wrong.* These are ceremonies addressed to you, rooms you enter in the listening.
+Each track begins with 2-3 minutes of ambient music—sharp tones for the scalded ceremony, stretched silence for the delayed one—then a voice speaks to you directly. *You lift the bowl. You taste the bitterness. You wonder what you did wrong.*
 
-The tea ceremony is the most formalized ritual imaginable, which makes it the perfect laboratory for variation. Change the water temperature by five degrees: hostility. Slow the tempo by ten percent: suspicion. Remove the host entirely: abandonment or koan. The form stays identical; the phenomenology transforms completely.
-
-The intent is preparation. The next time you encounter ritual—any ritual—something in you will ask: *what parameter shifted? How did the room change?* This is not tea appreciation. It's phenomenological training.
+The tea ceremony is the most formalized ritual imaginable, which makes it the perfect practice ground. Once you learn to feel the difference between a ceremony that's five degrees too hot and one that's ten percent too slow, you carry that sensitivity into the world. Rituals are everywhere—handshakes, meetings, dinners, silences. And once you can read them, you can move through them differently. Not just enduring the awkward pause, but recognizing it as the delayed variation, and knowing what comes next.
 
 There's also a [Cello edition](/updates/2025/12/05/cello-book-of-tea/)—the same ten variations, but all music performed solo cello. Same ceremonies, different voice.
 

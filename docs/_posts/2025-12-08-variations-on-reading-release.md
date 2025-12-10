@@ -15,9 +15,9 @@ Ten variations on a morning at the coffee shop. Ten ways the third place can shi
 
 Each track begins with lo-fi hip hop—the soundtrack of the third place—then it breaks. The beat cuts out (WiFi fails). The music morphs to aggressive EDM (someone changed the playlist). A glass shatters (spill). Then a voice speaks to you. *You look up from your screen. You realize everyone is watching. You calculate the damage.*
 
-The coffee shop is a fragile machine. It runs on WiFi, playlists, and the unspoken contract between you and the barista. Stay too long? Side-eye. Spill your water? Public shame. Need an outlet? You're at the mercy of architecture. These ten tracks explore what happens when the machine glitches.
+The coffee shop is a fragile machine. It runs on WiFi, playlists, and the unspoken contract between you and the barista. But once you learn to see these parameters—once you feel the moment the room shifts from productive to awkward, from solitary to invaded—you start navigating differently. You find the quiet corners before they fill. You sense when to leave. You read the regulars like weather.
 
-The intent is recognition. The next time you're in the coffee shop—botanical interior, yellow tiles, strangers performing productivity—something in you will ask: *which variation is this?* The breakthrough that gets interrupted. The regular who nods. The person who just sat at your table.
+The third place stops being background and becomes terrain. And terrain is something you can move through with intention.
 
 **Tracks**: WiFi Fails · Accidental Collaborator · Music Changes · Breakthrough · Watcher · Time Collapse · Regular Club · Spill · Too Long · Construction
 

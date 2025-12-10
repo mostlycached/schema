@@ -13,11 +13,11 @@ What does it feel like to live inside a vocation that separates you from the ord
 
 ---
 
-Each track begins with music that evokes the room—desert wind for the Tuareg, silence and bells for the Jain, dark weight for the executioner—then a voice speaks to you. *You cross the dune. You hold the blade. You watch the glass cool.* Second person, present tense. These are not portraits to observe but rooms to enter.
+Each track begins with music that evokes the room—desert wind for the Tuareg, silence and bells for the Jain, dark weight for the executioner—then a voice speaks to you. *You cross the dune. You hold the blade. You watch the glass cool.*
 
-The intent is phenomenological preparation. Once you've heard the Tuareg track, something in you understands: vast space can be claustrophobia. The desert horizon is a wall you can never reach. This is the paradox of the solitary room—the more specialized the practice, the smaller the world becomes.
+These are not portraits to observe. They are postures to try on. After listening to the Tuareg track, something shifts when you walk a long avenue—you feel how vast space can become its own enclosure, how the horizon can be a wall. After the watchmaker, your hands notice the weight of small things. After the executioner, you understand that some rooms are built by others looking away.
 
-Twenty rooms. Some are ancient (scribe, falconer, tea master). Some are dangerous (bullfighter, whaler, miner). Some are impossible to leave (bodybuilder, executioner, plague doctor). All of them are real, and all of them are prisons shaped like devotion.
+Each room you enter gives you a new way to move through the next. Twenty rooms, and then the twenty-first: your own life, made stranger by the practice.
 
 **Tracks**: Tuareg · Jain · Aghori · Eunuch · Gondolier · Ama · Falconer · Bullfighter · Tea · Scribe · Miner · Whaler · Plague Doctor · Jester · Executioner · Bodybuilder · Sommelier · Perfumer · Watchmaker · Glassblower
 

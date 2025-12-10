@@ -13,11 +13,9 @@ The machine becomes the body. The city becomes the throat.
 
 ---
 
-Each track opens with 2-3 minutes of vocal texture—no instruments, only the human voice in all its forms—then narration speaks to you directly. *You enter the silent car. You feel the collective breath being held.* The second person is intentional: these are rooms addressed to you. The goal is not description but inhabitation.
+Each track opens with 2-3 minutes of vocal texture—no instruments, only the human voice in all its forms—then narration speaks to you directly. *You enter the silent car. You feel the collective breath being held.*
 
-The A Cappella approach humanizes what the [Found Sounds edition](/updates/2025/12/09/nyc-subway-musique-concrete/) renders industrial. Where that version gives you metallic screech and hydraulic hiss, this one gives you the human hum beneath it. The stalled train becomes held breath. The packed car becomes layered whispers. The dream commute becomes distorted echo.
-
-Listen to both editions. Hear what changes when the same phenomenology passes through different sonic bodies. The words are identical—but the rooms feel different.
+Listen to both editions—this one and the [Found Sounds version](/updates/2025/12/09/nyc-subway-musique-concrete/). Notice how the same words land differently when the sonic frame changes. That noticing is the point. Once you start hearing the difference between editions, you start hearing differences everywhere. The subway becomes less a route and more a forest canopy—you swing from hold to hold, each grip opening the next.
 
 **Tracks**: Packed Car · Stalled Train · Silent Car · First Day · Last Day · Driver · Descent · Doors Closing · Existenz · Dream Commute
 

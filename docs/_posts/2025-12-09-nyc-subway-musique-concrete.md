@@ -15,9 +15,9 @@ Ten variations on the commute. Ten ways the underground shifts beneath you.
 
 This is not just music. Each track begins with a 2-3 minute sonic introduction—processed subway sounds, no instruments—then a voice speaks to you directly. Second person, present tense. *You descend the stairs. You enter the packed car. You feel the train stall between stations.*
 
-The intent is preparation. The next time you take the subway, something in you will remember. The music creates the space; the narration gives you a way to see it. These are rooms you can now enter on purpose.
+The point is not just that you'll see the subway differently tomorrow. It's that seeing differently means moving differently. The staircase you used to descend on autopilot becomes a threshold you choose to cross. The platform becomes a place you can inhabit, not just endure. And from that new posture, you notice things you never noticed—the regular who nods, the silence that is performance, the door that almost closed on someone else's day.
 
-The project explores what makes the subway feel the way it does—not the facts but the phenomenology. The packed car where you learn a stranger's shampoo. The stalled train where time thickens. The silent car where everyone performs solitude together. Each track shifts one parameter: density, sound, perspective, temporality. The final track asks: what if the commute never ends?
+One room leads to another. That's how worlds get wider.
 
 This is the *Found Sounds* edition—all music made from processed subway recordings. There's also an [A Cappella edition](/updates/2025/12/09/nyc-subway-acappella/) using only human voice. Same variations, different sonic frame.
 
