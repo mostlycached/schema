@@ -21,6 +21,8 @@ Custom musical introductions reflect the conceptual layering and intersection of
 
 🎵 **[Listen on Bandcamp](https://72rooms.bandcamp.com/album/venn-vision)**
 
+<iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=2210966734/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://72rooms.bandcamp.com/album/venn-vision">Venn Vision by 72 Rooms</a></iframe>
+
 ---
 
 This project demonstrates how multiple analytical frameworks can be applied simultaneously to create richer, more nuanced understanding of complex phenomena.

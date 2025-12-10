@@ -31,6 +31,8 @@ The audiobook features custom music introductions tailored to each variation's m
 
 🎵 **[Listen on Bandcamp](https://72rooms.bandcamp.com/album/devoc-on-coffee-variations)**
 
+<iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=497377324/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://72rooms.bandcamp.com/album/devoc-on-coffee-variations">Devocíon Coffee Variations by 72 Rooms</a></iframe>
+
 ---
 
 This project represents an experiment in **variational storytelling** — using the same source material to generate multiple perspectives, each revealing different facets of the philosophical concepts at play.

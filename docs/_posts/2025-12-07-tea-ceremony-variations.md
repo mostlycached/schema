@@ -35,6 +35,8 @@ Custom musical introductions reflect each variation's aesthetic and philosophica
 
 🎵 **[Listen on Bandcamp](https://72rooms.bandcamp.com/album/book-of-tea)**
 
+<iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=899703433/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://72rooms.bandcamp.com/album/book-of-tea">Book of Tea by 72 Rooms</a></iframe>
+
 ---
 
 This project demonstrates the **variational techniques** framework in action — showing how a single scenario can become a lens for exploring radically different worldviews and experiential modes.

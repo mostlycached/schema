@@ -28,6 +28,8 @@ The result is a more **unified sonic palette** — the cello as a single interpr
 
 🎵 **[Listen on Bandcamp](https://72rooms.bandcamp.com/album/cello-book-of-tea)**
 
+<iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=3272068787/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://72rooms.bandcamp.com/album/cello-book-of-tea">Cello Book of Tea by 72 Rooms</a></iframe>
+
 ---
 
 This edition demonstrates how a single instrumental voice can reveal different facets of the same narrative — proving that limitation can be a source of creative richness.

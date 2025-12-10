@@ -28,6 +28,8 @@ Sparse, intimate musical introductions emphasize space and silence — the sonic
 
 🎵 **[Listen on Bandcamp](https://72rooms.bandcamp.com/album/solitary-rooms)**
 
+<iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=1211465815/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://72rooms.bandcamp.com/album/solitary-rooms">Solitary Rooms by 72 Rooms</a></iframe>
+
 ---
 
 This project examines how physical and psychological isolation shapes perception, time, and self-understanding — exploring solitude not as mere absence, but as its own rich phenomenological territory.
