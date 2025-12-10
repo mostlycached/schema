@@ -38,6 +38,8 @@ The script removes stale `chapter_*.mp3` speech files to ensure new text edits a
 ### Step 5: Generate .wav files from .mp3 files
 *   **Tool**: `ffmpeg` (via `subprocess`).
 *   **Logic**: Convert `book/Chapter XX - Title.mp3` to `book/Chapter XX - Title.wav`.
+*   **Format**: 24-bit PCM, 48 kHz sample rate, stereo (2117 kbps).
+*   **Command**: `ffmpeg -i input.mp3 -acodec pcm_s24le -ar 48000 output.wav`
 *   **Output**: `book/Chapter XX - Title.wav`.
 
 ### Step 6: Cover Art
