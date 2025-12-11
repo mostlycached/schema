@@ -14,7 +14,6 @@ Hyperframes produces immersive audiobook experiences called **Rooms** — distin
 
 ## Featured Rooms
 
-<div class="room-grid">
 
 ### ◈ Devoción Coffee Variations
 *10 rooms exploring the phenomenology of reading*
@@ -91,8 +90,6 @@ Meditations on solitude, interiority, and the architecture of being alone.
 **Released:** December 2025
 
 [🎧 Listen on Bandcamp](https://72rooms.bandcamp.com/album/solitary-rooms)
-
-</div>
 
 ---
 
