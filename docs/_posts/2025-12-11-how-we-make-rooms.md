@@ -150,9 +150,9 @@ I believe that human agency must be explicitly designed for in AI heavy projects
 
 One lies in choosing the world to explore — selecting *The Tea Ceremony* rather than *The Oil Rig* or *The Emergency Room*, or bringing an entirely new world of your own. That choice cuts the path. After that, the agent routes itself like water finding its way downhill.
 
-The second lies in the guides in the framework(literary structures, variational techniques, style guide, etc.) — those are the terrain I designed, and you can reshape while you navigate. They shape where the water can go, but they don't dictate the exact route. And it's interesting to watch where that fails — where the agent encounters resistance, where the expected path doesn't work, and new shapes form come to be that I did not foresee.
+The second lies in the guides in the framework(literary structures, variational techniques, style guide, etc.) — those are the terrain I designed, and you can reshape while you navigate. They shape where the water can go, but they don't dictate the exact route. And it's interesting to watch where that fails — where the agent encounters resistance, where the expected path doesn't work, and new expressions come to be that I did not foresee.
 
-The third lies in the participatory and negative spaces opened up as a part of the blog announcements.
+The third lies in the participatory and negative spaces opened up towards the end in the blog announcements such as this [one](https://hyperframes.org/updates/2025/12/05/cello-book-of-tea/).
 
 ---
 
