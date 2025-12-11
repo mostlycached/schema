@@ -71,6 +71,31 @@ Based on this enriched scene, variations could explore:
 
 ---
 
+## Embodied Practice: Movements as Affordances
+
+To anchor the Serresian vision ("The body is a river"), practice these movements to shift from a static observer to a fluid participant.
+
+### 1. The Thermal Drift (Navigating Gradients)
+*Instead of "sitting at a table," visualize yourself stabilizing a temperature gradient.*
+- **Affordance**: The temperature differential between the espresso machine (steam/heat) and the door (cold drafts).
+- **Action**: Feel your skin not as a barrier, but as a heat exchanger. Notice your body radiating 98.6°F into the cooler room.
+- **Practice**: When the door opens, don't tense up against the cold. "Drink" the cold air with your skin. Trace its flow around your neck. You are a thermal packet seeking equilibrium.
+
+### 2. The Turbulent Navigate (Social Fluid Dynamics)
+*Instead of "overhearing gossip," visualize yourself navigating a fluid current.*
+- **Affordance**: The conversation of the women nearby is a wave propagation, a turbulence in the room's medium.
+- **Action**: Do not listen to the *words* (semantic content). Listen to the *pressure* (acoustic volume, pitch, speed).
+- **Practice**: Treat "Michael" and "Patrick" not as people, but as rocks in the stream creating eddies. Let their words flow past you like water around a stone. Smooth your own internal surface so their turbulence doesn't catch on you.
+
+### 3. The Porous Exchange (Dissolving Boundaries)
+*Instead of "looking at a plant," visualize a chemical trade.*
+- **Affordance**: The foliage on the column is a breathing apparatus paired with your lungs.
+- **Action**: Synchronize your breath with the idea of the plant. You exhale carbon; it builds structure. It exhales oxygen; you fuel your blood.
+- **Practice**: Visualize the column not as concrete, but as the solidified byproduct of this exchange. Your breath is becoming the room. The room is entering your blood. There is no "inside" vs "outside," only circulation.
+
+---
+
+
 ## Production Notes
 
 This enriched base scene serves as source material for a new or revised set of Coffee Shop Variations that are:
