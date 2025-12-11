@@ -18,13 +18,49 @@ Polo answers: "Without stones there is no arch."
 
 ---
 
-I work on this project because I want to make my world wider, richer. And let that gesture reach out to make yours wider, richer too.
+## Entry Points
 
-More specifically: I noticed that Calvino made Venice richer through *Invisible Cities*. And despite its universal appeal that every reader can enter those cities—underneath, it felt very much like Venice. His Venice. A Venice that became infinite through seeing.
+Different doors into the same room:
 
-I began to explore what my world looked like. In NYC, on the subway, in the coffee shop, I found new things that resonated. Old methods didn't always translate—the rhythms here are different, the density, the anonymity. But as I explored more through this project, something shifted. My solitude became richer. I got more curious about my neighbors. I started seeing the packed car as one variation, the empty car as another. I started recognizing the rooms. I began looking forward to tomorrows where worlds revealed themselves in cramped spaces.
+**For Listeners**
 
-I hope this is what these audiobooks bring to you too. Not looking at my worlds, but finding yours, made visible through the practice of framing and variation.
+Listening is a form of active intervention. When the narrative hits close to home, the body reacts—prepares to move differently. The structure maps onto your lived experience and makes openings visible, and thus possible. This research covers ground horizontally through an enumeration of the worlds that exist, and vertically through interrogation that builds on your specific experience. It begins with resonance and moves toward intervention.
+
+We've released five audiobooks so far: *Book of Tea*, *Doors Closing* (NYC subway in two editions), and *Devocíon Coffee Variations*. More worlds are coming. If a world you inhabit isn't yet covered, it might be—or you could help us see it.
+
+**For Music & Narrative Makers**
+
+A listener's world shapes what they hear—you didn't put that there, but it arrived. You can aim to envelop them, pull them along, or leave pregnant questions that someone else answers in their own voice. The interesting move is building a scaffold that expands into new structures based on who listens. Try it across people in different worlds. Based on the echo, the music either gets richer or loses its uniqueness. Both outcomes teach you something.
+
+We've scored the same stories in blues rock, slowcore, musique concrète, and a cappella. The results show how sonic context reshapes meaning. We're exploring multi-voice podcast formats next and would welcome collaborations with composers interested in narrative scaffolding.
+
+**For Sociologists & Phenomenologists**
+
+Understanding a person is not the same as describing them. The question is whether lived experiences can systematically probe existing structures and morph them—whether every incremental variable reshapes the manifold, and whether that transformation is visualizable as narrative. This research asks if the scaffolding can evolve to reflect the sociological worlds as they themselves evolve.
+
+The project includes a taxonomy of 105 life-worlds, analyzed through Schütz, Bourdieu, and Luhmann. We've rendered tea ceremonies, subway commutes, and coffee shop mornings as phenomenological experiments in sound. User-submitted worlds are coming—send us a scene, and we'll explore what variations reveal.
+
+**For Semioticians**
+
+Meaning systems interact with physical systems. Stance—of the speaker, of the listener—reshapes meaning. Expression of lived experience in different forms (music, speech, text) transforms it. The parallax between two modes reveals what neither alone could show.
+
+We've tested this by keeping the signified constant while modulating the sign-vehicle: same ceremony, different temperature; same subway, different sonic frame. Coming next: formalization of which parameters carry meaning and which are mere substrate.
+
+**For AI Researchers**
+
+The question is whether an LLM can model sociological worlds in their requisite detail—and whether it can generate new spaces from a core of validated ones rather than merely interpolating. Narrative capacity may or may not capture the nuances necessary to communicate rich, situated meaning. When error appears, it's either generative or just pixelated. We're finding out which.
+
+This project generates thousands of phenomenological variants from structured schemas: 105 worlds × 14 techniques × multiple stances. The corpus is open. We're developing a formal evaluation framework for understanding variation—if you're interested, the schemas await.
+
+**For Journalers & Contemplatives**
+
+Thinking *with* a model doesn't erase your autonomy—it can let you lay down the weight you hold in your head. You externalize your chains of thought, see where they lead, and travel ten times faster. Sometimes it saves you the trouble of dead ends. Sometimes it carries you further along what was fruitful. The practice tells you which.
+
+The coffee shop variations began as a personal scene—my morning at Devocíon, books open, strangers nearby. Documentation became expression; expression became generative seeing. Coming next: a workflow for your own scenes. Bring a memory; we'll help you find the variations.
+
+**—**
+
+These are different doors into the same room. What you find depends on what you bring—and what you contribute may open doors for others.
 
 ## On Using Generative AI
 
@@ -53,7 +89,14 @@ But systematic does not mean rigid. These systems are used in a loose fashion—
 There is no authority here except recognition. Does it feel true? Does it work when you try it?
 
 ---
+## Coda
 
-*72 Rooms. I rent out rooms.*
+I work on this project because I want to make my world wider, richer. And let that gesture reach out to make yours wider, richer too.
+
+More specifically: I noticed that Calvino made Venice richer through *Invisible Cities*. And despite its universal appeal that every reader can enter those cities—underneath, it felt very much like Venice. His Venice. A Venice that became infinite through seeing.
+
+I began to explore what my world looked like. In NYC, on the subway, in the coffee shop, I found new things that resonated. Old methods didn't always translate—the rhythms here are different, the density, the anonymity. But as I explored more through this project, something shifted. My solitude became richer. I got more curious about my neighbors. I started seeing the packed car as one variation, the empty car as another. I started recognizing the rooms. I began looking forward to tomorrows where worlds revealed themselves in cramped spaces.
+
+I hope this is what these audiobooks bring to you too. Not looking at my worlds, but finding yours, made visible through the practice of framing and variation.
 
 [Listen on Bandcamp →](https://72rooms.bandcamp.com)
