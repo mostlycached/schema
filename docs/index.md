@@ -7,9 +7,8 @@ A research project exploring the intersection of sociological worlds, attention 
 
 ## Current Focus Areas
 
-- **[Research](/research)** — Conceptual introductions to ongoing research in phenomenological worlds, attention systems, and intervention techniques
-- **[Audiobooks](/audiobooks)** — Narrative audiobook projects generated through variational storytelling techniques
-- **[Repository Guide](/guide)** — How to navigate and use this repository's tools and workflows
+- **[Rooms](/rooms)** — Immersive audiobook experiences as distinct narrative environments
+- **[Upcoming](/upcoming)** — Kiln: the interactive, personalized evolution of Hyperframes
 
 ---
 

@@ -12,9 +12,8 @@ show_excerpts: true
 # Navigation
 header_pages:
   - about.md
-  - research.md
-  - audiobooks.md
-  - guide.md
+  - rooms.md
+  - upcoming.md
 
 # Build settings
 markdown: kramdown
