@@ -144,11 +144,15 @@ Start to finish, producing one album (10 chapters) takes about 3-4 hours of acti
 
 ---
 
-## What You Learn From Doing This
+## AI Apologia
 
-The AI doesn't choose which variations matter, or which literary structure to use, or that "The Scalded Ceremony" should feel like suppressed rage. Those are human decisions.
+_I believe that human agency must be intentionally designed for in AI heavy projects so that subjectivity is not lost. In this project, I have allowed three openings for agency._
 
-The tools accelerate *execution*. The art remains in the *choosing*.
+_One lies in choosing the world to explore — selecting *The Tea Ceremony* rather than *The Oil Rig* or *The Emergency Room*, or bringing an entirely new world of your own. That choice cuts the path. After that, the agent routes itself like water finding its way downhill._
+
+_The second lies in the guides in the framework(literary structures, variational techniques, style guide, etc.) — those are the terrain I designed, and you can reshape while you navigate. They shape where the water can go, but they don't dictate the exact route. And it's interesting to watch where that fails — where the agent encounters resistance, where the expected path doesn't work, and new shapes form come to be that I did not foresee._
+
+_The third lies in the participatory and negative spaces opened up as a part of the blog announcements._
 
 ---
 
