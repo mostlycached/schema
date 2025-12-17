@@ -17,6 +17,181 @@ This analysis examines 10 rooms spanning the Castle's wings, applying IIT concep
 
 ---
 
+## Karl Jaspers' Existentialist Framework: A Complementary Lens
+
+### Introduction: Why Jaspers?
+
+While Tononi's IIT provides a *formal* framework for qualia (geometry, information, integration), Karl Jaspers' existentialist philosophy provides an *existential* framework—addressing what experiences *mean* for human existence, selfhood, and transcendence. The two frameworks are remarkably complementary:
+
+| IIT | Jaspers | Intersection |
+|-----|---------|--------------|
+| Φ (integrated information) | *Existenz* (authentic selfhood) | Both require integration/unity |
+| Qualia space geometry | *Das Umgreifende* (the Encompassing) | Both gesture at totality beyond parts |
+| Modes and submodes | Modes of the Encompassing | Both recognize structured layers of experience |
+| Informational relationships | *Ciphers* of transcendence | Both see meaning as relational |
+| Intersubjective limits | *Existential communication* | Both acknowledge the privacy of experience |
+
+### Core Concepts from Jaspers' *Philosophy* (3 Volumes, 1932)
+
+#### Volume I: *Philosophical World Orientation* (Philosophische Weltorientierung)
+
+Jaspers begins with the recognition that we are always *situated*—embedded in a world we did not choose. This **situatedness** is inescapable:
+
+> "Knowledge is always immersed within the situation."
+
+**IIT Parallel**: The effective information matrix is always historically shaped—by evolution, development, and culture. There is no "view from nowhere."
+
+**Castle Application**: Every room presupposes the occupant's prior life—their traumas, trainings, and temperaments. The rooms cannot transcend situatedness; they can only work *with* it.
+
+#### Volume II: *Existential Illumination* (Existenzerhellung)
+
+This is the heart of Jaspers' work, containing his doctrine of **Grenzsituationen** (limit situations) and his account of authentic selfhood (*Existenz*).
+
+##### Grenzsituationen: The Six Limit Situations
+
+Limit situations are experiences where ordinary rational frameworks fail, pushing us to the boundaries of understanding. They cannot be changed or evaded—only confronted:
+
+| Limit Situation | Description | Castle Room Mapping |
+|-----------------|-------------|---------------------|
+| **Death** | Awareness of mortality, finitude | The Void (Active), The Crypt |
+| **Suffering** | Inescapable pain and loss | The Confessional, The Void |
+| **Struggle** | Conflict inherent in existence | The Mosh Pit, The Salon |
+| **Guilt** | Irrevocable responsibility for harm caused | The Confessional |
+| **Historical Determinedness** | Being thrown into circumstances | The Airlock (transitions between worlds) |
+| **The Questionable Nature of All Existence** | Radical uncertainty | The Void, The Tarot |
+
+> "Becoming aware of these limit situations is a profound source of philosophy, akin to wonder and doubt."
+
+**IIT Reinterpretation**: Limit situations are moments when the effective information matrix confronts its own *boundaries*—the edges of the quale where integration fails or transforms. They force what Tononi might call a "restructuring of the main complex."
+
+##### Existenz: Authentic Selfhood
+
+*Existenz* is not mere existence (*Dasein*)—it is the **irreducible, unobjectifiable self** that emerges through confronting limit situations. Key features:
+
+- Cannot be studied or measured—only *clarified* (hence "illumination")
+- Not a given but a *possibility* we realize through choices
+- Emerges especially through limit situations
+- Always in relation to *Transcendence* (the ultimate ground)
+
+**IIT Parallel**: *Existenz* may correspond to the *main complex* at its highest integration—the unified center of experience that cannot be decomposed into parts. Like Φ, it is a measure of wholeness.
+
+**Castle Application**: The rooms are not just for experiences; they are for the *realization of Existenz*. Each room, properly used, should bring the occupant closer to authentic selfhood.
+
+##### Existential Communication & Loving Struggle
+
+Jaspers distinguishes three levels of communication:
+
+| Level | Type | Description |
+|-------|------|-------------|
+| 1 | Objective | Exchange of information about objects |
+| 2 | Pseudo-communication | Social performance, role-playing |
+| 3 | **Existential Communication** | Authentic encounter between two *Existenzen* |
+
+Existential communication has unique properties:
+- **Vulnerability**: Both parties must risk exposing their authentic selves
+- **Equality**: Neither dominates; both are transformed
+- **Loving Struggle** (*liebender Kampf*): Non-violent mutual critique for growth
+
+> "Individuals come to realize themselves only through their relationship with another self."
+
+**IIT Parallel**: If each person has their own Q-space, existential communication is the attempt to create *overlapping* effective information matrices—shared concepts, shared modes, shared entanglements.
+
+**Castle Application**: The Salon is explicitly a space for loving struggle. The Confessional, though solo, prepares for it by integrating the shadow. The Mosh Pit is physical loving struggle—consent-based collision for mutual release.
+
+#### Volume III: *Metaphysics*
+
+This volume addresses **Transcendence**—that which lies beyond the boundaries of all possible experience yet grounds experience itself.
+
+##### Das Umgreifende: The Encompassing
+
+Jaspers argues that all our knowledge takes place *within* a larger context—the Encompassing (*das Umgreifende*)—which itself cannot be made into an object of knowledge. It has multiple **modes**:
+
+**Immanent Modes** (within ordinary awareness):
+| Mode | Description |
+|------|-------------|
+| *Dasein* | Empirical existence, being-there |
+| Consciousness-as-such | The formal structures of awareness |
+| Spirit (*Geist*) | Cultural, historical, communal meaning |
+
+**Transcendent Modes** (pointing beyond):
+| Mode | Description |
+|------|-------------|
+| *Existenz* | Authentic selfhood (as described above) |
+| Transcendence | The ultimate ground, Being-itself |
+
+**IIT Parallel**: The modes of the Encompassing map roughly onto IIT's modal structure:
+- *Dasein* → the basic sensory modes
+- Consciousness-as-such → the formal structure of qualia space
+- Spirit → culturally shaped effective information matrices
+- *Existenz* → the main complex at highest integration
+- Transcendence → what lies *beyond* qualia space (if anything)
+
+##### Ciphers of Transcendence
+
+Since Transcendence cannot be directly known, it reveals itself through **ciphers** (*Chiffren*)—symbols that point beyond themselves:
+
+> "Consciousness only acquires knowledge of its transcendence by contemplating its evanescent ciphers."
+
+Ciphers are found in:
+- Nature (the sublime, the beautiful)
+- Art (authentic expression of Being)
+- Religious symbolism (myths, rituals, sacred texts)
+- Metaphysical philosophy (limit-concepts, paradoxes)
+- Limit situations themselves
+
+**IIT Parallel**: Ciphers may be experiences with unusually high Φ that seem to *gesture beyond* the effective information matrix—moments when the quale's shape seems to point to something that cannot itself become a quale.
+
+**Castle Application**: Several rooms work explicitly with ciphers:
+- The Cathedral: Music as cipher
+- The Tarot/I-Ching: Symbols as ciphers
+- The Void: Limit situations as ciphers
+- The Camera Obscura: The witness itself as cipher
+
+##### Philosophical Faith
+
+Jaspers distinguishes philosophical faith from religious faith:
+
+| Religious Faith | Philosophical Faith |
+|-----------------|---------------------|
+| Institutional, dogmatic | Personal, non-dogmatic |
+| Claims certainty | Embraces uncertainty |
+| Specific content | Formal orientation |
+| Revelation-based | Reason + openness |
+
+Philosophical faith is:
+- Commitment to seeking truth without guarantees
+- Openness to transcendence without claiming to possess it
+- The ground that enables *Existenz* without reducing it to doctrine
+
+**Castle Application**: The rooms presuppose philosophical faith—they work only for those willing to engage without certainty of outcome. Superstitious use of the Tarot, for instance, corrupts it.
+
+---
+
+## Jaspers-IIT Synthesis: A Unified Framework for Room Analysis
+
+### The Expanded Analysis Template
+
+For each room, we now analyze:
+
+**IIT Dimensions** (as before):
+- Φ modulation
+- Mode activation
+- Quale shape
+- Entanglement
+
+**Jaspers Dimensions** (new):
+- **Limit Situation Addressed**: Which Grenzsituation does the room confront?
+- **Existenz Potential**: How does the room enable authentic selfhood?
+- **Communication Mode**: Objective, pseudo, or existential?
+- **Cipher Present**: What symbols point beyond the immediate experience?
+- **Encompassing Mode**: Which modes of the Encompassing are active?
+
+### Room-by-Room Jaspers Integration
+
+Below, after each room's IIT analysis, we add a Jaspers analysis section.
+
+---
+
 ## Room 001: The Crypt
 
 ### IIT Analysis
@@ -48,6 +223,18 @@ This analysis examines 10 rooms spanning the Castle's wings, applying IIT concep
 | **Cultural Noise Tolerance** | Some cultures have higher baseline stimulation; the Crypt may feel more alien |
 | **Communicability** | The default quale is maximally difficult to communicate—there's "nothing" to describe |
 | **Individual Variation** | Anxiety thresholds differ; some cannot tolerate sensory deprivation |
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Death** (simulated pre-birth/death) and **Historical Determinedness** (temporary escape from thrownness) |
+| **Existenz Potential** | High—stripping away external demands reveals what remains of the authentic self |
+| **Communication Mode** | None—the Crypt is radically solitary, preparing for future communication |
+| **Cipher Present** | Darkness itself as cipher; the void as symbol of death and rebirth |
+| **Encompassing Mode** | Retreat from *Dasein* toward pure *Existenz* |
+
+> "I descend to rise" — the entry rite acknowledges the Crypt as a simulated death, a limit situation deliberately entered.
 
 ---
 
@@ -83,6 +270,18 @@ This analysis examines 10 rooms spanning the Castle's wings, applying IIT concep
 | **Architectural Support** | Not all spaces have physical transitions (open-plan offices, studio apartments) |
 | **Pace Expectations** | Cultures with different tempo expectations may resist the "measured pace" |
 
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Historical Determinedness**—the Airlock acknowledges that we are always thrown between worlds |
+| **Existenz Potential** | Medium—the Airlock protects *Existenz* from fragmentation but doesn't directly cultivate it |
+| **Communication Mode** | Transitional—neither the previous world's communication nor the next's |
+| **Cipher Present** | The threshold itself as cipher; keys, jackets, the liminal space |
+| **Encompassing Mode** | Manages transitions between different configurations of *Dasein*, *Geist*, and *Existenz* |
+
+> "I am in passage" — the entry rite names the fundamental Jaspersian condition of being *between* worlds.
+
 ---
 
 ## Room 020: The Confessional
@@ -116,6 +315,18 @@ This analysis examines 10 rooms spanning the Castle's wings, applying IIT concep
 | **Shame Cultures vs. Guilt Cultures** | Shame-based cultures may find solo confession less effective |
 | **Religious Frameworks** | Catholic confession involves an interlocutor; Protestant confession is often solo |
 | **Communicability** | The Confessional is explicitly private—how do we verify its effects intersubjectively? |
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Guilt**—the central limit situation; also **Suffering** (facing painful truths) |
+| **Existenz Potential** | Very high—guilt confrontation is one of Jaspers' primary paths to authentic selfhood |
+| **Communication Mode** | Pre-existential—confession prepares for loving struggle by integrating shadow |
+| **Cipher Present** | The journal as cipher; writing as externalization of inner truth |
+| **Encompassing Mode** | Moves from *Dasein* (surface existence) toward *Existenz* through guilt integration |
+
+> "I face what I avoid" — the entry rite is essentially Jaspers' prescription: confront the limit situation rather than flee.
 
 ---
 
@@ -151,6 +362,18 @@ This analysis examines 10 rooms spanning the Castle's wings, applying IIT concep
 | **Cultural Music Systems** | Bach assumes 12-tone equal temperament; Indian classical or gamelan create different pitch-space qualia |
 | **Quality Standards** | "Great music only" is culturally specific—whose canon? |
 
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Indirect—music can evoke all limit situations without directly confronting them |
+| **Existenz Potential** | Medium—receptive rather than active; *Existenz* is nurtured, not forged |
+| **Communication Mode** | Cipher-mediated—communication with the composer's *Existenz* through the artwork |
+| **Cipher Present** | Music as paradigmatic cipher of transcendence; "beauty" pointing beyond itself |
+| **Encompassing Mode** | Activates *Geist* (cultural-spiritual) and gestures toward Transcendence |
+
+> Jaspers saw art as one of the primary sources of ciphers. The Cathedral makes this explicit: music is not entertainment but a window onto transcendence.
+
 ---
 
 ## Room 039: The Mosh Pit
@@ -184,6 +407,18 @@ This analysis examines 10 rooms spanning the Castle's wings, applying IIT concep
 | **Physical Contact Norms** | Cultures with different touch norms experience the Pit differently |
 | **Aggression Expression** | Some cultures actively suppress physical aggression; the Pit may be liberating or disturbing |
 | **Gender Dynamics** | Historical mosh pits have been male-dominated; gendered body-experiences differ |
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Struggle**—the primary limit situation; physicalized and made safe |
+| **Existenz Potential** | High—*Existenz* emerges through struggle, including physical |
+| **Communication Mode** | **Loving Struggle** (*liebender Kampf*)—the Pit is literally this, embodied |
+| **Cipher Present** | The collision as cipher; "picking someone up" as cipher of care-within-violence |
+| **Encompassing Mode** | Grounds *Existenz* in *Dasein* (bodily existence) while enacting struggle |
+
+> The Mosh Pit is Jaspers' "loving struggle" made literal: non-violent (despite appearances), non-coercive, mutual, and transformative.
 
 ---
 
@@ -219,6 +454,18 @@ This analysis examines 10 rooms spanning the Castle's wings, applying IIT concep
 | **Existentialist Tradition** | This is a specifically Western philosophical practice—other traditions may approach differently |
 | **Mental Health Considerations** | Clinical depression already involves Void-like states—the room may be contraindicated |
 
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Death**, **Suffering**, and **The Questionable Nature of All Existence**—the Void confronts multiple limits simultaneously |
+| **Existenz Potential** | Maximum—this is the furnace in which *Existenz* is forged or destroyed |
+| **Communication Mode** | Pre-communicative—the Void strips away all communication to prepare for authentic encounter |
+| **Cipher Present** | The abyss itself as cipher; the unanswerable questions as ciphers of transcendence |
+| **Encompassing Mode** | Direct confrontation with Transcendence through its apparent absence |
+
+> "When you gaze long into an abyss, the abyss also gazes into you." — The Void is Jaspers' limit situation doctrine made into a practice. It is dangerous precisely because it works.
+
 ---
 
 ## Room 050: The Salon
@@ -250,8 +497,20 @@ This analysis examines 10 rooms spanning the Castle's wings, applying IIT concep
 | Constraint | Consideration |
 |------------|---------------|
 | **Debate Traditions** | Cultures differ in adversarial vs. collaborative truth-seeking norms |
-| **Face Concerns**: High face-concern cultures may find public argumentation threatening |
+| **Face Concerns** | High face-concern cultures may find public argumentation threatening |
 | **Language Barriers** | The Salon depends on shared linguistic precision—translation losses matter |
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Struggle**—intellectual rather than physical, but still confrontational |
+| **Existenz Potential** | Very high—*Existenz* is realized *through* the other in loving struggle |
+| **Communication Mode** | **Existential Communication**—the Salon's explicit purpose |
+| **Cipher Present** | The moment of genuine mind-change as cipher; the experience of "being wrong" |
+| **Encompassing Mode** | Maximizes *Geist* (shared spirit) while testing individual *Existenz* |
+
+> "Individuals come to realize themselves only through their relationship with another self." — The Salon is Jaspers' prescription for authentic selfhood through dialogue.
 
 ---
 
@@ -287,6 +546,18 @@ This analysis examines 10 rooms spanning the Castle's wings, applying IIT concep
 | **Dissociation Risk** | Western psychology sometimes pathologizes what contemplatives cultivate |
 | **Communicability** | "Be the witness" is difficult to convey to those without practice |
 
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | All—the witness can observe any limit situation without being overwhelmed |
+| **Existenz Potential** | Ambiguous—the witness may be *Existenz* itself, or may be dissociation from it |
+| **Communication Mode** | Reflexive—communication with oneself as other |
+| **Cipher Present** | The witness itself as cipher; the "I" that observes as pointer to transcendence |
+| **Encompassing Mode** | Attempts to stand in Consciousness-as-such, observing *Dasein* and *Existenz* |
+
+> The Camera Obscura raises a Jaspersian question: Is the witness *Existenz* observing its own states? Or is it a flight from *Existenz* into pure consciousness? The answer may depend on the practitioner.
+
 ---
 
 ## Room 068: The Tarot / I-Ching
@@ -321,6 +592,18 @@ This analysis examines 10 rooms spanning the Castle's wings, applying IIT concep
 | **Symbol Systems** | Tarot is European; I-Ching is Chinese—different cultural qualia spaces |
 | **Secular Resistance** | Rationalist cultures may reject oracular practices as superstition |
 
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **The Questionable Nature of All Existence**—randomness reveals the contingency of patterns |
+| **Existenz Potential** | Medium—depends on whether the practitioner projects *Existenz* or evades it |
+| **Communication Mode** | Cipher-mediated—"communication" with transcendence through random symbols |
+| **Cipher Present** | The symbols themselves as ciphers; randomness as cipher of fate/freedom |
+| **Encompassing Mode** | Attempts to contact Transcendence through structured randomness |
+
+> Jaspers would insist: the Tarot works only through *philosophical faith*—openness without certainty. Literal belief (superstition) or total rejection (rationalism) both miss the cipher.
+
 ---
 
 ## Room 069: The Silent Retreat
@@ -354,6 +637,18 @@ This analysis examines 10 rooms spanning the Castle's wings, applying IIT concep
 | **Monastic Traditions** | Christian, Buddhist, Hindu silence practices differ |
 | **Economic Access** | Multi-day retreat requires time and resources not everyone has |
 | **Social Obligations** | Some cultures simply don't permit extended disappearance |
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | All—extended silence allows any limit situation to surface |
+| **Existenz Potential** | Maximum—multi-day silence is a crucible for *Existenz* |
+| **Communication Mode** | Pre-communicative—silence prepares for future authentic communication |
+| **Cipher Present** | Silence itself as cipher; the "still voice" as pointer to transcendence |
+| **Encompassing Mode** | Systematic withdrawal from *Dasein* and *Geist* toward *Existenz* and Transcendence |
+
+> "In solitude, we are least alone." — The Silent Retreat enacts Jaspers' insight that authentic selfhood requires withdrawal from the everyday (*Dasein*) to encounter what lies beneath.
 
 ---
 
@@ -404,6 +699,66 @@ Based on IIT's insight that "each complex has its own Q-space," inter-room and i
 3. **Ritual Synchronization**: Shared entry/exit rites create temporal entanglement
 4. **Failure Mode Discussion**: Talking about traps and leaks may be more communicable than talking about successes
 
+### Jaspers Synthesis: The Castle as Existenz Laboratory
+
+#### Limit Situation Mapping
+
+```
+                    DEATH          SUFFERING       STRUGGLE        GUILT           UNCERTAINTY
+                      │                │              │               │                  │
+    ┌─────────────────┼────────────────┼──────────────┼───────────────┼──────────────────┤
+    │                 │                │              │               │                  │
+  Crypt ─────────────●│                │              │               │                  │
+  Void ──────────────●├───────────────●│              │               │                 ●│
+  Confessional ───────┤               ●├──────────────┤──────────────●│                  │
+  Mosh Pit ───────────┤                │             ●│               │                  │
+  Salon ──────────────┤                │             ●│               │                  │
+  Silent Retreat ────●├───────────────●├─────────────●├──────────────●├─────────────────●│
+  Tarot ──────────────┤                │              │               │                 ●│
+    └─────────────────┴────────────────┴──────────────┴───────────────┴──────────────────┘
+```
+
+#### Existenz Cultivation Spectrum
+
+| Room | Existenz Potential | Mechanism |
+|------|-------------------|------------|
+| Silent Retreat | Maximum | Duration allows all limit situations to surface |
+| Void (Active) | Maximum | Direct confrontation with multiple limits |
+| Confessional | Very High | Guilt as primary path to authentic self |
+| Salon | Very High | Existential communication through loving struggle |
+| Mosh Pit | High | Physical struggle as Existenz-formation |
+| Crypt | High | Stripping away to reveal authentic core |
+| Camera Obscura | Ambiguous | May be Existenz or flight from it |
+| Tarot | Medium | Depends on philosophical faith vs. superstition |
+| Cathedral | Medium | Receptive nurturing rather than active forging |
+| Airlock | Medium | Protection rather than cultivation |
+
+#### The Three Levels of Room Practice
+
+Jaspers' distinction between levels of communication applies to room practice:
+
+| Level | Type | Room Experience |
+|-------|------|----------------|
+| 1 | **Objective** | Following the protocol mechanically; "doing" the room |
+| 2 | **Pseudo-practice** | Performing the room for self-image; spiritual materialism |
+| 3 | **Existential Practice** | Genuine engagement with limit situations; Existenz at stake |
+
+> The same room can be used at any level. The Void done mechanically is tourism. The Void done existentially is transformation.
+
+#### Ciphers as Qualia Bridges
+
+Jaspers' cipher concept offers a solution to IIT's intersubjective problem: if direct qualia communication is impossible (each Q-space is private), **ciphers** provide indirect communication through shared symbols that point beyond themselves.
+
+| Room | Cipher Function |
+|------|-----------------|
+| Cathedral | Music as shared cipher of order/beauty |
+| Tarot | Symbols as shared cipher of meaning/fate |
+| Mosh Pit | Collision as shared cipher of care-within-struggle |
+| Confessional | Writing as cipher externalization |
+| Crypt | Darkness as cipher of death/rebirth |
+
+Through ciphers, two practitioners can communicate *about* transcendence without claiming to directly transmit qualia.
+
 ---
 
 ## Extension Proposals: Beyond Current Rooms
@@ -444,23 +799,46 @@ Based on IIT's insight that "each complex has its own Q-space," inter-room and i
 
 ## Conclusion: The Castle as Qualia Laboratory
 
-Each Castle room is an experiment in consciousness—a designed intervention in the geometry of experience. Through IIT's framework, we can:
+Each Castle room is an experiment in consciousness—a designed intervention in the geometry of experience. Through the dual framework of **IIT** and **Jaspers**, we can:
 
-1. **Analyze** what each room does to the shape of the quale
-2. **Extend** room practices with IIT-informed strategies
-3. **Discover** new qualia possibilities at room boundaries
-4. **Navigate** cultural and intersubjective constraints on communication
+**From IIT:**
+1. **Analyze** what each room does to the shape of the quale (Φ, modes, entanglement)
+2. **Extend** room practices with information-theoretic strategies
+3. **Navigate** intersubjective limits on qualia communication
 
-The rooms are not just psychological tools—they are **probes into qualia space**, systematic explorations of what it is possible to experience.
+**From Jaspers:**
+4. **Confront** limit situations that forge authentic selfhood (*Existenz*)
+5. **Engage** ciphers that point beyond the immediate experience
+6. **Practice** existential communication and loving struggle
+7. **Cultivate** philosophical faith—openness without certainty
 
-> "The quale is determined by both the mechanism and state of the system."
+The rooms are not just psychological tools—they are **probes into qualia space** and **crucibles for Existenz**, systematic explorations of what it is possible to experience and who it is possible to become.
 
-By designing rooms that create specific states and recruit specific mechanisms, the Castle becomes a technology for navigating the geometry of consciousness itself.
+> "The quale is determined by both the mechanism and state of the system." — Tononi
+>
+> "Existenz is either in relation to transcendence or not at all." — Jaspers
+
+By designing rooms that create specific states, recruit specific mechanisms, confront specific limit situations, and engage specific ciphers, the Castle becomes a technology for navigating both the **geometry of consciousness** and the **terrain of authentic existence**.
 
 ---
 
 ## References
 
-- Balduzzi, D., & Tononi, G. (2009). Qualia: The Geometry of Integrated Information. *PLoS Computational Biology*.
-- Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*.
-- Castle Rooms Specifications, Wing I-VI.
+### Integrated Information Theory
+- Balduzzi, D., & Tononi, G. (2009). Qualia: The Geometry of Integrated Information. *PLoS Computational Biology*, 5(8), e1000462.
+- Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5, 42.
+
+### Karl Jaspers
+- Jaspers, K. (1932). *Philosophie*. 3 vols. Berlin: Springer.
+  - Vol. I: *Philosophische Weltorientierung* (Philosophical World Orientation)
+  - Vol. II: *Existenzerhellung* (Existential Illumination)
+  - Vol. III: *Metaphysik* (Metaphysics)
+- Jaspers, K. (1919). *Psychologie der Weltanschauungen*. Berlin: Springer. (First articulation of Grenzsituationen)
+- Jaspers, K. (1948). *Philosophie und Welt*. Munich: Piper. (On philosophical faith)
+
+### Castle Framework
+- Castle Rooms Specifications, Wings I-VI.
+
+---
+
+*Document synthesizes Tononi's Integrated Information Theory and Jaspers' existentialist philosophy as complementary frameworks for analyzing designed experiences that modulate qualia and cultivate authentic selfhood.*
