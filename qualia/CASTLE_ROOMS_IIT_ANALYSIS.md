@@ -238,6 +238,1560 @@ Below, after each room's IIT analysis, we add a Jaspers analysis section.
 
 ---
 
+## Room 002: The Bath
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Moderate reduction through somatic focus; integration of body-awareness modes |
+| **Mode Activation** | Primarily interoceptive and proprioceptive modes; suppression of cognitive modes |
+| **Quale Shape** | Fluid, dissolving shape—boundaries soften between body and environment |
+| **Entanglement** | Creates body-self entanglement; heat + water + stillness form unified somatic concept |
+
+**IIT Interpretation**: The Bath activates modes usually backgrounded in modern life—the felt sense of the body, temperature gradients, the dissolution of muscular tension. In IIT terms, it increases integration of somatic information that is normally excluded from the main complex.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Suffering**—the accumulated physical tension as embodied suffering being released |
+| **Existenz Potential** | Medium—*Existenz* emerges through body-awareness, grounding the self in flesh |
+| **Communication Mode** | Pre-communicative—preparing the body-instrument for future engagement |
+| **Cipher Present** | Water as cipher of dissolution, return, and rebirth |
+| **Encompassing Mode** | Deep *Dasein* (bodily existence) honored and restored |
+
+---
+
+## Room 003: The Garden
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Gentle reduction through parasympathetic activation; complexity without urgency |
+| **Mode Activation** | Visual-natural modes, temporal slowing; suppression of goal-oriented modes |
+| **Quale Shape** | Expansive, slow-moving shape aligned with botanical time |
+| **Entanglement** | Creates organism-environment entanglement; dissolves self/nature boundary |
+
+**IIT Interpretation**: The Garden recalibrates the observer's temporal integration window. Where modern consciousness operates at high frequency, the Garden entrains to plant-time—a radical alteration of the effective information matrix's temporal structure.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Historical Determinedness**—accepting situatedness within nature, not above it |
+| **Existenz Potential** | Medium—*Existenz* finds rest but not active cultivation |
+| **Communication Mode** | Cipher-mediated—"communication" with living things that do not speak |
+| **Cipher Present** | The living plant as cipher of existence without meaning; nature's indifference as teaching |
+| **Encompassing Mode** | *Dasein* harmonized with the natural world |
+
+---
+
+## Room 004: The Monastery Cell
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Radical reduction through dopamine starvation; approach to neurological baseline |
+| **Mode Activation** | Systematic deactivation of reward-seeking modes; boredom circuits engaged |
+| **Quale Shape** | Flat, empty, confrontational—the shape of nothing-to-react-to |
+| **Entanglement** | Self-self confrontation; "who am I when not reacting?" becomes the question |
+
+**IIT Interpretation**: The Monastery Cell starves the effective information matrix of novel input, forcing the system to confront its own spontaneous activity. This is more radical than the Crypt—not just sensory deprivation but deliberate boredom as medicine for dopamine miscalibration.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **The Questionable Nature of All Existence**—who are you without stimulation? |
+| **Existenz Potential** | Very High—sovereignty is forged in the void of boredom |
+| **Communication Mode** | None—radical solitude |
+| **Cipher Present** | The empty room as cipher of the self stripped bare |
+| **Encompassing Mode** | *Existenz* confronts itself without *Dasein*'s distractions |
+
+---
+
+## Room 005: The Incubator
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Suspension of conscious integration; diffuse background processing |
+| **Mode Activation** | Deactivation of executive function; activation of subconscious parallel processing |
+| **Quale Shape** | Dormant, gestating—the shape of a seed underground |
+| **Entanglement** | Problem-solution entanglement formed without conscious effort |
+
+**IIT Interpretation**: The Incubator exploits IIT's insight that consciousness is not the only processor. By suspending the main complex's integration, the Incubator allows massively parallel subconscious processing to form new informational relationships that emerge as "insight" upon return to waking awareness.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Indirect—trust in processes beyond rational control |
+| **Existenz Potential** | Medium—*Existenz* surrenders to deeper wisdom |
+| **Communication Mode** | Self-communication across conscious/unconscious boundary |
+| **Cipher Present** | Sleep/rest as cipher of trust in the unseen |
+| **Encompassing Mode** | Consciousness-as-such yields to what lies beneath |
+
+---
+
+## Room 006: The Sick Bay
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Minimal—system in degraded state, conservation mode |
+| **Mode Activation** | Only comfort-seeking and healing modes active; all performance modes suspended |
+| **Quale Shape** | Soft, receiving, permitted—the shape of mercy |
+| **Entanglement** | Body-healing entanglement; permission to be weak as unified concept |
+
+**IIT Interpretation**: The Sick Bay acknowledges that the effective information matrix depends on the organism's energy state. When energy collapses, attempting to maintain normal Φ is counterproductive. The room grants permission for the system to enter minimal-integration healing mode.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Suffering**—illness as limit situation, accepted rather than fought |
+| **Existenz Potential** | Medium—*Existenz* learns to accept its embodied fragility |
+| **Communication Mode** | Self-compassion as internal communication |
+| **Cipher Present** | The sickbed as cipher of mortality and dependence |
+| **Encompassing Mode** | *Dasein* honored in its vulnerability |
+
+---
+
+## Room 007: The Hearth
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Moderate—flame satisfies attention without demanding cognitive work |
+| **Mode Activation** | Primordial visual-attentional modes; ancient pattern-recognition satisfied |
+| **Quale Shape** | Centered, warm, flickering—the shape of safety and home |
+| **Entanglement** | Fire-watching entangles visual, thermal, auditory, and ancestral-memory modes |
+
+**IIT Interpretation**: The Hearth exploits what IIT would call a "psychoacoustic attractor"—an ancient pattern that satisfies the attention circuits. The flame provides complex-yet-predictable input that anchors the main complex without demanding integration of new information.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Indirect—the Hearth provides respite *from* limit situations |
+| **Existenz Potential** | Low-Medium—nurtures *Existenz* through deep rest, but does not actively challenge |
+| **Communication Mode** | Pre-communicative—the ancient gathering that preceded language |
+| **Cipher Present** | Fire as primal cipher of human civilization, warmth, and survival |
+| **Encompassing Mode** | *Dasein* restored to its ancestral ground |
+
+---
+
+## Room 008: The Library (Quiet)
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Low but rich—informational potential energy without active processing |
+| **Mode Activation** | Passive absorption modes; historical-continuity awareness |
+| **Quale Shape** | Vast, humbling, connected—the shape of lineage |
+| **Entanglement** | Self entangles with the accumulated consciousness of ages |
+
+**IIT Interpretation**: The Library creates a unique quale: the felt sense of informational potential. The books are not being read (that would be active Φ modulation), but their presence creates a "standing wave" of possible integrations—a quale of being situated within a larger knowledge structure.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Historical Determinedness**—you are a footnote in a vast text |
+| **Existenz Potential** | Medium—humility prepares *Existenz* but doesn't actively cultivate it |
+| **Communication Mode** | Silent communion with the dead |
+| **Cipher Present** | Books as frozen voices; the library as temple of inherited thought |
+| **Encompassing Mode** | *Geist* (accumulated spirit) made palpable |
+
+---
+
+## Room 009: The Analog Loop
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Moderate through rhythmic entrainment; anxiety damped by periodic forcing |
+| **Mode Activation** | Tactile-motor loops; suppression of chaotic cognitive oscillation |
+| **Quale Shape** | Circular, calming, repetitive—the shape of the stitch |
+| **Entanglement** | Hands-rhythm-peace form a soothing entanglement |
+
+**IIT Interpretation**: The Analog Loop introduces an external periodic forcing function that entrains the nervous system's chaotic oscillation. In IIT terms, it creates a predictable, low-stakes integration pattern that crowds out anxiety-generating informational relationships.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Indirect—the Loop provides respite from limit situations |
+| **Existenz Potential** | Low-Medium—soothing but not challenging |
+| **Communication Mode** | Hand-mind integration; craft as self-dialogue |
+| **Cipher Present** | The loop/craft itself as cipher of meaning through motion |
+| **Encompassing Mode** | *Dasein* calmed through rhythmic bodily engagement |
+
+---
+
+## Room 010: The Swamp
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Permitted low-quality integration; pressure valve for the system |
+| **Mode Activation** | Reward-seeking modes given bounded expression; guilt-modes suspended |
+| **Quale Shape** | Indulgent, bounded, released—the shape of permitted vice |
+| **Entanglement** | Vice-time-permission form a controlled entanglement |
+
+**IIT Interpretation**: The Swamp recognizes that the system cannot maintain maximum Φ continuously. By creating a bounded "low-integration zone," it prevents catastrophic binges that would result from attempted total control. The time-box is essential—it transforms uncontrolled void into scheduled containment.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Acknowledges the limit of willpower—we are animal too |
+| **Existenz Potential** | Low during, but serves *Existenz* by preventing burnout |
+| **Communication Mode** | None—the Swamp is radically solo |
+| **Cipher Present** | The timer as cipher of bounded indulgence |
+| **Encompassing Mode** | *Dasein*'s lower needs honored within bounds |
+
+---
+
+## Room 011: The Basecamp
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Preparation-mode—physical resources staged for upcoming integration demands |
+| **Mode Activation** | Nutritional, hydration, caffeine-calibration modes |
+| **Quale Shape** | Preparatory, fueling, staging—the shape before the climb |
+| **Entanglement** | Body-readiness entangled with upcoming task |
+
+**IIT Interpretation**: The Basecamp recognizes that the effective information matrix runs on physical substrate. Caffeine, hydration, nutrition are not luxuries—they are fuel for the integration engine. The Basecamp stages the system before demanding high Φ output.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Indirect—acknowledges bodily needs |
+| **Existenz Potential** | Low—purely preparatory |
+| **Communication Mode** | None |
+| **Cipher Present** | Food/drink as sacrament of preparation |
+| **Encompassing Mode** | *Dasein* honored before demanding performance |
+
+---
+
+## Room 013: The Morning Chapel
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Protected initialization; morning neuroplasticity preserved for internal signal |
+| **Mode Activation** | Internal intention-setting modes; external input modes suppressed |
+| **Quale Shape** | Fresh, calibrated, self-directed—the shape of intentional beginning |
+| **Entanglement** | Self-values-day form protected entanglement before external intrusion |
+
+**IIT Interpretation**: The Morning Chapel exploits the window of neurological plasticity upon waking. By preventing external input during this period, it ensures that the first integrations of the day are internally generated rather than reactive to others' priorities.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Indirect—the Chapel creates space to face the day's limits from intention |
+| **Existenz Potential** | High—meeting oneself before meeting the world is fundamental to *Existenz* |
+| **Communication Mode** | Self-communication through journaling |
+| **Cipher Present** | The morning itself as cipher of rebirth and choice |
+| **Encompassing Mode** | *Existenz* awakens before *Dasein*'s demands flood in |
+
+---
+
+## Room 014: The Archive
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Low during—processing reduces cognitive load |
+| **Mode Activation** | Sorting, tagging, organizing modes; memory-consolidation |
+| **Quale Shape** | Ordering, placing, resolving—the shape of the past put in its place |
+| **Entanglement** | Past artifacts entangled with organized structure |
+
+**IIT Interpretation**: The Archive performs cognitive offloading. Unprocessed material occupies working memory (RAM); archiving moves it to long-term storage with retrieval tags. This frees the effective information matrix from background load.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Historical Determinedness**—honoring the past by giving it order |
+| **Existenz Potential** | Low-Medium—respecting what has been |
+| **Communication Mode** | Dialogue with past self |
+| **Cipher Present** | The organized archive as cipher of life's continuity |
+| **Encompassing Mode** | *Geist* (personal history) honored and structured |
+
+---
+
+## Room 015: The Map Room
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Strategic elevation—high-level pattern recognition across extended timescales |
+| **Mode Activation** | Strategic-planning modes; suppression of tactical-execution modes |
+| **Quale Shape** | Elevated, panoramic, directional—the view from above |
+| **Entanglement** | Current state entangled with desired future state |
+
+**IIT Interpretation**: The Map Room extends the temporal frame of integration. Where normal consciousness operates in short windows, the Map Room forces integration of information across months and years—creating a "strategic quale" unavailable in day-to-day tactical mode.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Indirect—sees all limit situations from above |
+| **Existenz Potential** | High—strategic vision serves *Existenz* |
+| **Communication Mode** | Reflexive—dialogue with future self |
+| **Cipher Present** | The map/diagram as cipher of life's trajectory |
+| **Encompassing Mode** | *Existenz* rises above *Dasein* to see the whole |
+
+---
+
+## Room 016: The Checkpoint
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Feedback integration—actuals compared against intentions |
+| **Mode Activation** | Error-detection, course-correction, honest-assessment modes |
+| **Quale Shape** | Auditing, correcting, renewing—the shape of conscious adjustment |
+| **Entanglement** | Past week entangled with planned week; gap identified |
+
+**IIT Interpretation**: The Checkpoint is a scheduled meta-integration: comparing what the system intended to integrate versus what it actually integrated. This feedback is essential for learning and course-correction.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | All—the Checkpoint surfaces where limits were hit |
+| **Existenz Potential** | High—honest self-examination is core to *Existenz* |
+| **Communication Mode** | Rigorous self-dialogue |
+| **Cipher Present** | The review as cipher of conscious living |
+| **Encompassing Mode** | Consciousness-as-such observes *Dasein*'s actual path |
+
+---
+
+## Room 017: The Waiting Room
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Near-zero—deliberate non-integration during imposed empty time |
+| **Mode Activation** | Patience, acceptance, presence modes; suppression of optimization drive |
+| **Quale Shape** | Empty, accepting, still—the shape of time that cannot be used |
+| **Entanglement** | Self entangled with powerlessness; acceptance as the only move |
+
+**IIT Interpretation**: The Waiting Room is training for non-optimization. Modern consciousness constantly seeks to maximize Φ per unit time; the Waiting Room forces confrontation with time that cannot be filled—building capacity for equanimity.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Historical Determinedness**—you are not God; time is not yours to control |
+| **Existenz Potential** | Medium—patience is a form of *Existenz* |
+| **Communication Mode** | None—presence to the moment |
+| **Cipher Present** | Empty time as cipher of finitude |
+| **Encompassing Mode** | *Existenz* practices acceptance of what cannot be changed |
+
+---
+
+## Room 018: The Editor's Desk
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Subtractive refinement—removing noise from existing creations |
+| **Mode Activation** | Critical-evaluative modes; suppression of generative modes |
+| **Quale Shape** | Sharp, cutting, clarifying—the shape of the ruthless filter |
+| **Entanglement** | Work entangled with truth more than ego |
+
+**IIT Interpretation**: The Editor's Desk applies a low-pass filter to the effective information matrix of created work. It removes high-frequency noise (unnecessary words, redundant code) to reveal the clearer signal beneath—increasing signal-to-noise ratio.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | The limit of the creator's vision—what must be cut |
+| **Existenz Potential** | Medium-High—the editor serves truth over ego |
+| **Communication Mode** | Harsh self-dialogue; "killing darlings" |
+| **Cipher Present** | The red pen as cipher of ruthless service to the work |
+| **Encompassing Mode** | *Geist* (the work) valued over individual ego |
+
+---
+
+## Room 019: The Clean Room
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Environmental preparation—physical order reduces mental entropy |
+| **Mode Activation** | Physical ordering modes; suppression of cognitive work |
+| **Quale Shape** | Ordered, clear, prepared—the shape of the scabbard maintained |
+| **Entanglement** | Physical environment entangled with mental clarity |
+
+**IIT Interpretation**: The Clean Room exploits the feedback loop between environment and psyche. Physical disorder creates a constant low-frequency signal of failure. By restoring order locally, the effective information matrix receives a signal of control and readiness.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Entropy—the constant tendency toward disorder |
+| **Existenz Potential** | Low—but serves *Existenz* by creating fit conditions |
+| **Communication Mode** | None |
+| **Cipher Present** | The clean space as cipher of prepared ground |
+| **Encompassing Mode** | *Dasein*'s environment honored |
+
+---
+
+## Room 021: The Classroom
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Structured input integration; knowledge delta |
+| **Mode Activation** | Receptive-learning modes; suppression of output/critique modes |
+| **Quale Shape** | Receiving, integrating, growing—the shape of the student |
+| **Entanglement** | New knowledge entangles with existing framework |
+
+**IIT Interpretation**: The Classroom is structured Φ increase through curated knowledge transfer. Unlike random browsing, structured learning provides conceptual scaffolding that allows new informational relationships to form efficiently.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Acknowledging the limit of current knowledge |
+| **Existenz Potential** | Medium—learning serves *Existenz* but can become passive |
+| **Communication Mode** | Receptive communication with teacher/material |
+| **Cipher Present** | The teacher/course as cipher of transmitted wisdom |
+| **Encompassing Mode** | *Geist* (cultural knowledge) received and integrated |
+
+---
+
+## Room 022: The Courtroom
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Decision-forcing—uncertainty collapsed into commitment |
+| **Mode Activation** | Deliberation, judgment, resolution modes |
+| **Quale Shape** | Resolving, committed, closed—the shape of the verdict |
+| **Entanglement** | Options collapse into chosen path |
+
+**IIT Interpretation**: The Courtroom forces the effective information matrix to collapse probability distributions into decisions. Every open question consumes background processing; the Courtroom's verdict function frees these resources.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Uncertainty**—the irreducible need to decide without perfect information |
+| **Existenz Potential** | High—*Existenz* is choice |
+| **Communication Mode** | Internal prosecution and defense |
+| **Cipher Present** | The gavel as cipher of finality |
+| **Encompassing Mode** | *Existenz* exercises its fundamental power: decision |
+
+---
+
+## Room 023: The Post Office
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Queue-clearing; external communication processed in bounded time |
+| **Mode Activation** | Communication-processing modes, contained |
+| **Quale Shape** | Processing, responding, closing—the shape of the cleared inbox |
+| **Entanglement** | Others' priorities processed without colonizing the whole day |
+
+**IIT Interpretation**: The Post Office contains external input that would otherwise contaminate the entire day's integration. By scheduling communication processing, it prevents "continuous partial attention"—the state where the inbox is always half-open in the mind.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Others' demands as limit on autonomy |
+| **Existenz Potential** | Low during, but protects *Existenz* by bounding external intrusion |
+| **Communication Mode** | Responsive (not existential) communication |
+| **Cipher Present** | The inbox as cipher of the world's claims on you |
+| **Encompassing Mode** | *Dasein* (social obligations) honored in bounded form |
+
+---
+
+## Room 024: The Vault
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Security maintenance—reducing vulnerability to catastrophic state loss |
+| **Mode Activation** | Security-hygiene, backup-verification modes |
+| **Quale Shape** | Securing, protecting, maintaining—the shape of the sealed door |
+| **Entanglement** | Digital self entangled with protection |
+
+**IIT Interpretation**: The Vault maintains the infrastructure on which the effective information matrix depends. Password compromise, backup failure, or financial breach could catastrophically disrupt the system. The Vault reduces these risks through scheduled maintenance.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Vulnerability—the digital self's fragility |
+| **Existenz Potential** | Low—but serves *Existenz* by protecting its extensions |
+| **Communication Mode** | None |
+| **Cipher Present** | The password/backup as cipher of protection |
+| **Encompassing Mode** | *Dasein*'s digital extension secured |
+
+---
+
+## Room 025: The Cockpit
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Maximum useful throughput—flow state achieved |
+| **Mode Activation** | All execution modes at peak; all distraction modes silenced |
+| **Quale Shape** | Flying, flowing, producing—the shape of velocity within rails |
+| **Entanglement** | Operator and machine become one |
+
+**IIT Interpretation**: The Cockpit is maximum Φ per unit time during prepared execution. The task queue is known, resources are staged, distractions eliminated. The effective information matrix enters flow state—peak integration with minimum friction.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | The limit of what can be produced—tested and extended |
+| **Existenz Potential** | High—*Existenz* expressed through peak performance |
+| **Communication Mode** | None—solo execution |
+| **Cipher Present** | The flow state as cipher of human potential |
+| **Encompassing Mode** | *Existenz* fully engaged in its calling |
+
+---
+
+## Room 027: The Studio (Closed)
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Generative—novel integration from internal resources only |
+| **Mode Activation** | Creative synthesis modes; all external input modes sealed |
+| **Quale Shape** | Generating, birthing, synthesizing—the shape of creation from within |
+| **Entanglement** | Self-vision-work form irreducible creative entanglement |
+
+**IIT Interpretation**: The Studio (Closed) seals the effective information matrix from external input, forcing all integration to occur from internal resources. This produces genuinely novel informational relationships—what we call "original creation"—rather than derivative recombination of external material.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Confronting the void—can I create from nothing but myself? |
+| **Existenz Potential** | Maximum—*Existenz* manifests through unique creation |
+| **Communication Mode** | None—solitary genesis |
+| **Cipher Present** | The blank page as cipher of possibility |
+| **Encompassing Mode** | *Existenz* burns itself into the work |
+
+---
+
+## Room 028: The Kitchen (Service)
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | High under fire—multiple parallel demands synchronized in real-time |
+| **Mode Activation** | Multitasking-under-pressure modes; panic-resistance |
+| **Quale Shape** | Rushing, synchronizing, delivering—the shape of flow under fire |
+| **Entanglement** | Multiple plates/tasks entangled in tight timing |
+
+**IIT Interpretation**: The Kitchen (Service) demands real-time integration of multiple parallel streams with zero margin. This creates a unique high-pressure quale unavailable in sequential work—the felt sense of chaos harnessed by protocol.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Struggle**—the rush as test of capacity |
+| **Existenz Potential** | High—proving oneself under fire |
+| **Communication Mode** | Emergency coordination (if team-based) |
+| **Cipher Present** | The clean plate delivered on time as cipher of mastery |
+| **Encompassing Mode** | *Existenz* crystallizes under pressure |
+
+---
+
+## Room 029: The Arena
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | High-stakes single-shot output—performance under judgment |
+| **Mode Activation** | Performance modes; vulnerability circuits active |
+| **Quale Shape** | Exposed, risked, singular—the shape of public test |
+| **Entanglement** | Self entangled with audience judgment |
+
+**IIT Interpretation**: The Arena forces integration under maximal stakes. The quale includes not just the performance but the audience's presence as informational weight. This creates growth unavailable in private practice—the test against reality.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Struggle** and **Uncertainty**—can my work survive the world? |
+| **Existenz Potential** | Maximum—the Arena makes you real |
+| **Communication Mode** | One-way transmission to audience |
+| **Cipher Present** | The stage as cipher of existence tested |
+| **Encompassing Mode** | *Existenz* steps into the light |
+
+---
+
+## Room 030: The Sprint
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Compressed maximum output—deadline as forcing function |
+| **Mode Activation** | All non-essential modes silenced; output-only mode |
+| **Quale Shape** | Compressing, shipping, finishing—the shape of done-not-perfect |
+| **Entanglement** | Deadline entangles with every present moment |
+
+**IIT Interpretation**: The Sprint exploits Parkinson's Law inversely. By compressing available time, it forces the effective information matrix to make shipping decisions rather than optimization decisions. The quale of "done" replaces the endless quale of "almost perfect."
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | The limit of time—immovable deadline |
+| **Existenz Potential** | High—shipping is choosing; perfectionism is avoidance |
+| **Communication Mode** | None |
+| **Cipher Present** | The countdown timer as cipher of mortality and choice |
+| **Encompassing Mode** | *Existenz* acts rather than endlessly prepares |
+
+---
+
+## Room 031: The Laboratory
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Hypothesis-testing—structured reality contact |
+| **Mode Activation** | Experimental, data-collection, verification modes |
+| **Quale Shape** | Testing, observing, learning—the shape of ideas meeting reality |
+| **Entanglement** | Hypothesis entangled with data; preferences humbled by outcomes |
+
+**IIT Interpretation**: The Laboratory forces the effective information matrix to contact reality and update. Unlike speculation (which can persist in isolation), the Laboratory experiment produces data that the system must integrate—potentially forcing revision of cherished beliefs.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | The limit of theory—ideas must be tested |
+| **Existenz Potential** | High—humility before reality is core to *Existenz* |
+| **Communication Mode** | Dialogue with reality itself |
+| **Cipher Present** | The experiment as cipher of honest inquiry |
+| **Encompassing Mode** | Consciousness-as-such confronts what is |
+
+---
+
+## Room 026: The Forge
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | High—intense integration of body, will, resistance, and effort |
+| **Mode Activation** | Maximal motor-proprioceptive modes; suppression of verbal-analytical modes |
+| **Quale Shape** | Dense, forceful, pressing—the shape of overcoming resistance |
+| **Entanglement** | Body-weight-will form an irreducible entanglement; "I can lift this" as unified concept |
+
+**IIT Interpretation**: The Forge generates a quale that is intensely embodied—the full integration of muscular effort, cardiovascular activation, and the psychological experience of meeting resistance. This creates novel informational relationships between body-states usually kept separate.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Struggle**—the physical confrontation with resistance |
+| **Existenz Potential** | High—*Existenz* is forged through meeting and overcoming physical limits |
+| **Communication Mode** | None—the Forge is radically individual |
+| **Cipher Present** | Iron/weight as cipher of resistance; the edge of capacity as cipher of limit |
+| **Encompassing Mode** | *Dasein* pushed to its physical edge, revealing *Existenz* through struggle |
+
+---
+
+## Room 034: The Dojo
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | High through deliberate practice—focused integration of feedback loops |
+| **Mode Activation** | Motor-learning modes, error-detection circuits, procedural memory |
+| **Quale Shape** | Iterative, refining—each rep slightly reshapes the skill-quale |
+| **Entanglement** | Skill becomes entangled with identity; "I am one who can do this" |
+
+**IIT Interpretation**: The Dojo systematically modifies the effective information matrix through repetition. Each deliberate repetition creates new informational relationships, eventually moving conscious skill to unconscious automaticity—what IIT would describe as elements leaving the main complex to become background processes.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Struggle**—the slow struggle against one's own incompetence |
+| **Existenz Potential** | Medium-High—mastery contributes to *Existenz* but can become rote |
+| **Communication Mode** | Teacher-student potential, though practice is often solo |
+| **Cipher Present** | The "ten thousand repetitions" as cipher of mastery through patience |
+| **Encompassing Mode** | *Geist* (skill as cultural transmission) embodied through practice |
+
+---
+
+## Room 035: The War Room
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Maximum—all resources concentrated on single crisis |
+| **Mode Activation** | Every available mode directed at the problem; peripheral modes suppressed |
+| **Quale Shape** | Urgent, compressed, singular—all attention on one point |
+| **Entanglement** | Crisis entangles resources, attention, identity, and outcome |
+
+**IIT Interpretation**: The War Room creates maximal integration by forcing all available neural resources toward a single problem. This temporarily increases Φ by eliminating fragmentation—but at unsustainable cost.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | All—crisis makes every limit situation potentially present |
+| **Existenz Potential** | Maximum (temporary)—crisis reveals what one is made of |
+| **Communication Mode** | Emergency communication—fast, clear, no ceremony |
+| **Cipher Present** | The crisis itself as cipher of life's fragility |
+| **Encompassing Mode** | *Existenz* tested under fire |
+
+---
+
+## Room 041: The Wilderness
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | High through novel integration—ancient instinct modes reactivated |
+| **Mode Activation** | Navigation, threat-detection, terrain-reading modes dormant in modern life |
+| **Quale Shape** | Alert, expansive, animal—the shape of the hunter-gatherer |
+| **Entanglement** | Self-terrain entanglement; environment becomes extension of awareness |
+
+**IIT Interpretation**: The Wilderness reactivates elements of the effective information matrix that civilization has suppressed. GPS and marked trails eliminate the need for wayfinding circuits; the Wilderness forces them back online, creating novel qualia unavailable in domesticated environments.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Death** (physical danger), **Historical Determinedness** (return to ancestral condition) |
+| **Existenz Potential** | High—*Existenz* tested against real physical consequences |
+| **Communication Mode** | Pre-communicative—below language, in the animal body |
+| **Cipher Present** | Unmarked terrain as cipher of freedom and danger |
+| **Encompassing Mode** | *Dasein* returned to its evolutionary context |
+
+---
+
+## Room 042: The Improv Stage
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | High through generative disinhibition—normally suppressed associations allowed |
+| **Mode Activation** | Creative-generative modes; suppression of evaluative-judgmental modes |
+| **Quale Shape** | Fluid, unpredictable, expanding—the shape of "Yes, And" |
+| **Entanglement** | Novel entanglements form between previously unconnected concepts |
+
+**IIT Interpretation**: The Improv Stage temporarily suspends the "critic" circuits that normally filter output. In IIT terms, it allows informational relationships that would normally be rejected to form and persist long enough to be captured—massively expanding the possible shapes in qualia space.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Paradoxically approaches **Uncertainty**—by embracing it as method |
+| **Existenz Potential** | Medium—playful but may not reach existential depth |
+| **Communication Mode** | Collaborative building—not yet existential but can approach it |
+| **Cipher Present** | The "fool's mask" as cipher of freedom through non-seriousness |
+| **Encompassing Mode** | *Geist* (spirit) at play, freed from *Dasein*'s survival concerns |
+
+---
+
+## Room 051: The Campfire
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Medium-High through interpersonal integration and vulnerability |
+| **Mode Activation** | Narrative, emotional, social-trust modes; suppression of defensive modes |
+| **Quale Shape** | Circular, warm, connected—the shape of the tribe |
+| **Entanglement** | Stories entangle teller-listener-content into shared meaning |
+
+**IIT Interpretation**: The Campfire creates temporary inter-personal integration. While each person maintains their own Q-space, shared stories create more similar effective information matrices—enabling richer qualia communication.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | All—stories often address limit situations vicariously |
+| **Existenz Potential** | High—vulnerability is the path to *Existenz* through the other |
+| **Communication Mode** | Approaching **Existential Communication**—if trust holds |
+| **Cipher Present** | The fire as cipher of the eternal human need to be witnessed |
+| **Encompassing Mode** | *Geist* (shared spirit) through story; *Existenz* through vulnerability |
+
+---
+
+## Room 057: The Mentor's Office
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Accelerated concept-formation through guided knowledge transfer |
+| **Mode Activation** | Learning modes, receptivity, hierarchical-role modes |
+| **Quale Shape** | Asymmetric, directed—knowledge flowing from more to less |
+| **Entanglement** | Wisdom entangles with identity; mentor-values become mentee-values |
+
+**IIT Interpretation**: The Mentor's Office accelerates changes to the effective information matrix that would otherwise take years. The mentor provides pre-formed conceptual structures that the mentee integrates, creating new discriminatory capacities rapidly.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Indirect—mentor often provides frameworks for facing limits |
+| **Existenz Potential** | Medium—can catalyze *Existenz* but risks dependency |
+| **Communication Mode** | Developmental—approaching existential communication through knowledge |
+| **Cipher Present** | The mentor as cipher of the elder, the path-finder |
+| **Encompassing Mode** | *Geist* (cultural wisdom) transmitted across generations |
+
+---
+
+## Room 061: The Bridge
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Meta-modulation—observing and directing the system's Φ across rooms |
+| **Mode Activation** | Meta-cognitive modes; self-observation without action |
+| **Quale Shape** | The shape of the map itself—qualia space viewed from above |
+| **Entanglement** | Self-as-observer entangled with self-as-actor |
+
+**IIT Interpretation**: The Bridge is the room where the main complex observes itself—a recursive loop that Tononi's theory acknowledges when noting that "both mechanism and state determine the quale." Here, you observe your own mechanism and choose your next state.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | All (observed from above, not entered) |
+| **Existenz Potential** | Ambiguous—meta-awareness can serve or evade *Existenz* |
+| **Communication Mode** | Reflexive—communication with oneself |
+| **Cipher Present** | The map/dashboard as cipher of self-knowledge |
+| **Encompassing Mode** | Consciousness-as-such observing *Dasein*, *Geist*, and *Existenz* |
+
+---
+
+## Room 062: The Lighthouse
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Extended temporal integration—projecting the quale into the future |
+| **Mode Activation** | Long-horizon planning, values-clarification, identity-projection modes |
+| **Quale Shape** | Radiant, directional—light projected forward |
+| **Entanglement** | Present-self entangled with future-self; values entangled with actions |
+
+**IIT Interpretation**: The Lighthouse extends the temporal frame of qualia—the effective information matrix includes not just the present moment but the projected trajectory. This creates what might be called "anticipatory qualia"—the felt sense of a path extending ahead.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Death** (implicit—finite time demands direction) |
+| **Existenz Potential** | High—*Existenz* is the self one is becoming |
+| **Communication Mode** | Reflexive—dialogue between present and future self |
+| **Cipher Present** | The vision/North Star as cipher of purpose |
+| **Encompassing Mode** | Transcendence glimpsed as the horizon toward which *Existenz* moves |
+
+---
+
+## Room 067: The Dream Journal
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Integration of normally excluded subconscious material |
+| **Mode Activation** | Memory-encoding, pattern-recognition, symbolic-interpretation modes |
+| **Quale Shape** | Shadowy, fragmentary—the shape of the subconscious speaking |
+| **Entanglement** | Dream-symbols entangle with waking concerns; subconscious-conscious integration |
+
+**IIT Interpretation**: Dreams represent states of the complex that are normally excluded from waking awareness. The Dream Journal captures these states and integrates them into the waking effective information matrix—expanding the quale to include previously unconscious elements.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | All (appear symbolically in dreams) |
+| **Existenz Potential** | Medium-High—the subconscious may reveal *Existenz* to itself |
+| **Communication Mode** | Self-communication across conscious/unconscious divide |
+| **Cipher Present** | Dream-images as ciphers of the unseen self |
+| **Encompassing Mode** | Unconscious *Dasein* brought toward *Existenz* through interpretation |
+
+---
+
+## Room 070: The Eulogy
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Intense integration of mortality, values, and life-trajectory |
+| **Mode Activation** | Death-awareness, legacy-evaluation, urgency-generation modes |
+| **Quale Shape** | Terminal, clarifying—the shape of life viewed from its end |
+| **Entanglement** | Death entangles with every present choice; legacy entangles with identity |
+
+**IIT Interpretation**: The Eulogy forces integration of mortality into the main complex—a fact usually excluded. This radically reshapes the quale by adding the "end" as an informational relationship to every present moment.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Death**—the primary limit situation, directly confronted |
+| **Existenz Potential** | Maximum—death is the ultimate spur to authentic existence |
+| **Communication Mode** | Future communication—what will be said when you are gone |
+| **Cipher Present** | The written eulogy as cipher of the self one is building |
+| **Encompassing Mode** | *Existenz* called forth by confrontation with its own finitude |
+
+> "I will die. What then?" — The Eulogy is Jaspers' *memento mori* made into practice.
+
+---
+
+## Room 033: The Hive
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Amplified through social co-resonance; borrowed focus from collective field |
+| **Mode Activation** | Parallel sovereignty modes; mutual accountability without communication |
+| **Quale Shape** | Collective, synchronized—the shape of parallel focus |
+| **Entanglement** | Individual focus entangled with ambient group discipline |
+
+**IIT Interpretation**: The Hive exploits social contagion of focus-states. The effective information matrix extends beyond individual boundaries—the presence of others working creates a field effect that stabilizes each individual's integration.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Indirect—the Hive provides structure for facing individual limits |
+| **Existenz Potential** | Medium—parallel sovereignty serves *Existenz* without direct cultivation |
+| **Communication Mode** | Non-communicative presence—companionship without exchange |
+| **Cipher Present** | The ambient focus-field as cipher of collective discipline |
+| **Encompassing Mode** | *Geist* (shared spirit of work) supports individual *Existenz* |
+
+---
+
+## Room 036: The Altar of Work
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Completion ritual—sealing creation with finality |
+| **Mode Activation** | Shipping, releasing, letting-go modes |
+| **Quale Shape** | Terminal, complete—the shape of the sealed artifact |
+| **Entanglement** | Work-world entanglement finalized; creation leaves creator |
+
+**IIT Interpretation**: The Altar of Work forces the effective information matrix to perform an irreversible state transition: from "work-in-progress" to "shipped." This creates closure and frees resources for new integration.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | The limit of perfectionism—when is "good enough" enough? |
+| **Existenz Potential** | High—shipping is choosing; release is *Existenz* acting |
+| **Communication Mode** | One-way transmission—the work enters the world |
+| **Cipher Present** | The publish button as cipher of completion |
+| **Encompassing Mode** | *Existenz* completes its expression through the work |
+
+---
+
+## Room 037: The Intersection
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Maximum stochastic input—overwhelming signal with minimal filter |
+| **Mode Activation** | Receiving-everything modes; bandwidth-expansion stress |
+| **Quale Shape** | Chaotic, overwhelming, humbling—the shape of the All |
+| **Entanglement** | Self entangles briefly with infinite passing phenomena |
+
+**IIT Interpretation**: The Intersection floods the effective information matrix with raw, unstructured input. This is the opposite of the Crypt—maximum chaos rather than minimum. It creates a quale of smallness, of being one node in an infinite network.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **The Questionable Nature of All Existence**—overwhelmed by infinite variety |
+| **Existenz Potential** | Indirect—humility prepares *Existenz* |
+| **Communication Mode** | None—pure receiving |
+| **Cipher Present** | The crowd/feed as cipher of infinite existence |
+| **Encompassing Mode** | *Dasein* confronts its smallness within the totality |
+
+---
+
+## Room 038: The Nightclub
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Individual integration blurs—collective organism emerges |
+| **Mode Activation** | Dionysian dissolution modes; ego-boundary relaxation |
+| **Quale Shape** | Merged, rhythmic, collective—the shape of ecstatic release |
+| **Entanglement** | Self entangles with mass, rhythm, darkness |
+
+**IIT Interpretation**: The Nightclub deliberately reduces individual Φ by blurring boundaries between self and collective. This creates a unique quale of ego-dissolution—the felt sense of becoming part of something larger through bass and motion.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Indirect—release from daily limits |
+| **Existenz Potential** | Ambiguous—can liberate or escape *Existenz* |
+| **Communication Mode** | Non-verbal, rhythmic, bodily |
+| **Cipher Present** | Music and dance as cipher of Dionysian vitality |
+| **Encompassing Mode** | *Dasein* released through collective motion |
+
+---
+
+## Room 040: The Casino
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Intensified through stake—outcome uncertainty integrated with personal consequence |
+| **Mode Activation** | Risk-assessment, variance-tolerance, adrenaline modes |
+| **Quale Shape** | Thrilling, uncertain, consequential—the shape of skin in the game |
+| **Entanglement** | Resources entangled with probability; self with outcome |
+
+**IIT Interpretation**: The Casino adds "stake" as an informational relationship that intensifies every moment. The quale of risk includes not just the odds but the personal consequence of variance.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Uncertainty**—direct confrontation with what cannot be controlled |
+| **Existenz Potential** | Medium—risk-taking can serve *Existenz* if bounded |
+| **Communication Mode** | Adversarial (in competition) or none (in solo gambling) |
+| **Cipher Present** | The wager as cipher of life's uncertainty |
+| **Encompassing Mode** | *Existenz* dances with what cannot be controlled |
+
+---
+
+## Room 043: The Sandbox
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Beginner's integration—novel domain with no prior structure |
+| **Mode Activation** | Learning-from-zero modes; identity-relaxation |
+| **Quale Shape** | Open, playful, failing—the shape of not-knowing |
+| **Entanglement** | Beginner-self creates fresh entanglements without baggage |
+
+**IIT Interpretation**: The Sandbox forces the effective information matrix into a domain where no prior informational relationships exist. This recreates the phenomenology of early learning—the joy of genuine discovery.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Acknowledges limit of expertise—always a beginner somewhere |
+| **Existenz Potential** | Medium—renewal through humility |
+| **Communication Mode** | Play—communication with possibility itself |
+| **Cipher Present** | The new hobby as cipher of infinite learning |
+| **Encompassing Mode** | *Existenz* renewed through beginner's mind |
+
+---
+
+## Room 044: The Feast
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Intensified through shared abundance—sensory pleasure integrated with community |
+| **Mode Activation** | Gustatory, social, celebratory modes |
+| **Quale Shape** | Expansive, warm, shared—the shape of sanctioned excess |
+| **Entanglement** | Food-company-celebration form irreducible festive entanglement |
+
+**IIT Interpretation**: The Feast creates a unique quale of shared abundance. The effective information matrix integrates not just taste but the social dimension of eating together—a quale unavailable in solo consumption.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Acknowledges the limit of asceticism—we are embodied, social creatures |
+| **Existenz Potential** | Medium—gratitude and presence serve *Existenz* |
+| **Communication Mode** | Communal—the feast itself is communication |
+| **Cipher Present** | The table as cipher of human fellowship |
+| **Encompassing Mode** | *Dasein* honored through shared pleasure |
+
+---
+
+## Room 045: The Comedy Club
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Frame-collision integration—the unexpected recontextualization of truths |
+| **Mode Activation** | Laughter circuits; irony-appreciation; tension-release |
+| **Quale Shape** | Inverting, releasing, puncturing—the shape of the punchline |
+| **Entanglement** | Truth entangles with absurdity; the serious with the ridiculous |
+
+**IIT Interpretation**: The Comedy Club creates qualia through frame collision—the sudden integration of incompatible informational relationships produces the phenomenology of humor. Laughter is the felt sense of frames breaking and reforming.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | All limit situations—made bearable through laughter |
+| **Existenz Potential** | Indirect—lightness serves *Existenz* by preventing rigidity |
+| **Communication Mode** | Comedic—truth-telling through the jester's mask |
+| **Cipher Present** | The joke as cipher of truth told sideways |
+| **Encompassing Mode** | Perspective on all modes through ironic distance |
+
+---
+
+## Room 046: The Storm Chaser
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Intensified through sublime confrontation—power beyond human scale integrated |
+| **Mode Activation** | Awe-terror circuits; ego-diminishment; reverence |
+| **Quale Shape** | Vast, humbling, awesome—the shape of encounter with power |
+| **Entanglement** | Self entangles with nature's indifference; smallness with grandeur |
+
+**IIT Interpretation**: The Storm Chaser creates a quale that includes informational relationships with scales beyond the human. The effective information matrix integrates "I am small before this"—a unique phenomenological state.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | All—nature embodies all *Grenzsituationen* simultaneously |
+| **Existenz Potential** | High—the sublime awakens *Existenz* through awe |
+| **Communication Mode** | None—silent receiving of what is greater |
+| **Cipher Present** | The storm as cipher of Transcendence |
+| **Encompassing Mode** | *Existenz* encounters what exceeds all human categories |
+
+---
+
+## Room 047: The Market
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Active filtering—hunting for signal in noise |
+| **Mode Activation** | Pattern-detection, opportunity-sensing, serendipity modes |
+| **Quale Shape** | Scanning, detecting, seizing—the shape of the hunter |
+| **Entanglement** | Search-criteria entangles with environment; find changes everything |
+
+**IIT Interpretation**: The Market is active signal-hunting. Unlike passive browsing, the effective information matrix is primed with detection criteria—creating a quale of "hunting" rather than "receiving."
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Scarcity of signal—most of what exists is noise |
+| **Existenz Potential** | Medium—active seeking serves *Existenz* |
+| **Communication Mode** | Transactional—brief exchanges in service of the hunt |
+| **Cipher Present** | The rare find as cipher of value in chaos |
+| **Encompassing Mode** | *Dasein* navigates abundance seeking what matters |
+
+---
+
+## Room 049: The River
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Stabilized by ambient presence—alone-together integration |
+| **Mode Activation** | Anonymous companionship modes; solitude without isolation |
+| **Quale Shape** | Parallel, anonymous, comforted—the shape of working among strangers |
+| **Entanglement** | Self entangles lightly with ambient human presence |
+
+**IIT Interpretation**: The River creates a unique quale: the felt sense of anonymous togetherness. The effective information matrix includes "others are here" without including "I must engage them"—a stabilizing ambient signal.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Indirect—companionship without demand |
+| **Existenz Potential** | Low-Medium—supports but doesn't cultivate *Existenz* |
+| **Communication Mode** | None—shared space without exchange |
+| **Cipher Present** | The public space as cipher of human co-existence |
+| **Encompassing Mode** | *Dasein* at rest among others |
+
+---
+
+## Room 052: The Negotiating Table
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | High—integrating own interests, other's interests, possible trades, strategic options |
+| **Mode Activation** | Game-theoretic, empathic, assertive modes simultaneously |
+| **Quale Shape** | Tense, trading, converging—the shape of structured conflict |
+| **Entanglement** | Own outcome entangles with other's; terms entangle with relationship |
+
+**IIT Interpretation**: The Negotiating Table creates a complex multi-agent quale. The effective information matrix must integrate not just my position but my model of their position, possible trades, and relationship stakes.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Struggle**—opposing interests in structured confrontation |
+| **Existenz Potential** | High—standing for oneself while respecting the other |
+| **Communication Mode** | **Loving Struggle**—combat for mutual benefit |
+| **Cipher Present** | The deal as cipher of structured coexistence |
+| **Encompassing Mode** | *Existenz* meets *Existenz* across the table |
+
+---
+
+## Room 053: The Piazza
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Low—observing without integrating for action |
+| **Mode Activation** | Spectator modes; narrative-generation about strangers |
+| **Quale Shape** | Distant, watching, resting—the shape of the observer's bench |
+| **Entanglement** | Light entanglement with passing parade |
+
+**IIT Interpretation**: The Piazza creates a quale of detached observation. The effective information matrix receives visual input without the integration required for action—a restful mode that generates the phenomenology of watching life pass.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Indirect—respite from one's own limit situations |
+| **Existenz Potential** | Low—restful but not cultivating |
+| **Communication Mode** | None—pure spectatorship |
+| **Cipher Present** | The passing crowd as cipher of life's variety |
+| **Encompassing Mode** | *Dasein* rests from its own concerns |
+
+---
+
+## Room 054: The Broadcast
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Output-oriented—integration directed toward transmission |
+| **Mode Activation** | Transmission, release, detachment-from-response modes |
+| **Quale Shape** | Radiating, releasing, departing—the shape of the signal sent |
+| **Entanglement** | Message entangles with unseen audience; creator with creation released |
+
+**IIT Interpretation**: The Broadcast extends the effective information matrix outward. The quale includes not just the message content but the felt sense of ideas entering the world at scale.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Letting go—the message leaves and cannot be recalled |
+| **Existenz Potential** | High—*Existenz* speaks to the world |
+| **Communication Mode** | One-to-many transmission |
+| **Cipher Present** | The platform as cipher of voice amplified |
+| **Encompassing Mode** | *Existenz* enters *Geist* (collective spirit) through the broadcast |
+
+---
+
+## Room 055: The Reception
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Light, scanning—many integrations at low depth |
+| **Mode Activation** | Surface-connection, opportunity-detection modes |
+| **Quale Shape** | Skimming, scanning, noting—the shape of the network sweep |
+| **Entanglement** | Light entanglements with many; deep entanglement with none |
+
+**IIT Interpretation**: The Reception creates a quale of breadth over depth. The effective information matrix scans rather than bonds—the phenomenology of surveying a room for leads.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Indirect—navigating social space |
+| **Existenz Potential** | Low—surface connection doesn't cultivate *Existenz* |
+| **Communication Mode** | Light social exchange |
+| **Cipher Present** | The business card as cipher of potential connection |
+| **Encompassing Mode** | *Dasein* navigates the social field |
+
+---
+
+## Room 056: The Confidant's Room
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Maximal in relationship context—full self integrated with trusted other |
+| **Mode Activation** | Deep trust, vulnerability, mutual-seeing modes |
+| **Quale Shape** | Open, seen, held—the shape of being fully known |
+| **Entanglement** | Self deeply entangles with trusted other |
+
+**IIT Interpretation**: The Confidant's Room creates the deepest interpersonal quale. The effective information matrix includes "I am fully seen and accepted"—an informational relationship unavailable in any other room.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | All—the confidant witnesses your limits |
+| **Existenz Potential** | Maximum—*Existenz* requires being seen by another *Existenz* |
+| **Communication Mode** | **Existential Communication**—the deepest level |
+| **Cipher Present** | The trusted friend as cipher of human connection |
+| **Encompassing Mode** | *Existenz* meets *Existenz* in full depth |
+
+---
+
+## Room 058: The Team Huddle
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Synchronized group integration—shared state established |
+| **Mode Activation** | Alignment, coordination, context-sharing modes |
+| **Quale Shape** | Converging, aligning, coordinating—the shape of vectors unified |
+| **Entanglement** | Individual goals entangle with team direction |
+
+**IIT Interpretation**: The Team Huddle creates shared integration across minds. Each individual's effective information matrix is updated with shared context, reducing the entropy of the collective system.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Coordination limits—no one holds the full picture |
+| **Existenz Potential** | Medium—individual *Existenz* serves collective purpose |
+| **Communication Mode** | Instrumental—efficiency over depth |
+| **Cipher Present** | The huddle format as cipher of team coherence |
+| **Encompassing Mode** | *Geist* (shared spirit) created through alignment |
+
+---
+
+## Room 059: The Public Square
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Extended integration—self as part of larger civic body |
+| **Mode Activation** | Civic duty, collective responsibility, belonging modes |
+| **Quale Shape** | Contributing, participating, belonging—the shape of citizenship |
+| **Entanglement** | Self entangles with polis; individual with collective |
+
+**IIT Interpretation**: The Public Square creates a quale that includes "I am a citizen"—an informational relationship connecting the individual to the collective. This extends the effective information matrix beyond personal concerns.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Historical Determinedness**—you are embedded in a society |
+| **Existenz Potential** | Medium—civic participation can serve *Existenz* |
+| **Communication Mode** | Civic—voice in the collective |
+| **Cipher Present** | The ballot/meeting as cipher of democratic participation |
+| **Encompassing Mode** | *Existenz* acknowledges its social embeddedness |
+
+---
+
+## Room 060: The Mask
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Variable—depends on the persona adopted |
+| **Mode Activation** | Role-playing, persona-experimentation modes |
+| **Quale Shape** | Assumed, performed, exploratory—the shape of identity tried on |
+| **Entanglement** | Core self entangles with performed self |
+
+**IIT Interpretation**: The Mask creates an alternative effective information matrix—a "what if I were X?" that generates novel informational relationships. This can produce insight about the core self through contrast.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | The limit of the fixed self—am I only who I've been? |
+| **Existenz Potential** | Medium—exploration can serve *Existenz* |
+| **Communication Mode** | Performed—speaking as another |
+| **Cipher Present** | The persona as cipher of possible selves |
+| **Encompassing Mode** | *Existenz* explores its range |
+
+---
+
+## Room 063: The Museum
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Narrative integration—past organized into coherent story |
+| **Mode Activation** | Memory-curation, identity-construction modes |
+| **Quale Shape** | Organizing, narrating, grounding—the shape of the curated past |
+| **Entanglement** | Past events entangle with narrative structure; memories with meaning |
+
+**IIT Interpretation**: The Museum transforms raw memory into structured informational relationships. The quale includes not just the memories but their organization—the felt sense of "this is my story."
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | **Historical Determinedness**—you are shaped by your past |
+| **Existenz Potential** | Medium—understanding the past serves *Existenz* |
+| **Communication Mode** | Dialogue with past self |
+| **Cipher Present** | The curated exhibit as cipher of the examined life |
+| **Encompassing Mode** | *Geist* (personal history) organized and understood |
+
+---
+
+## Room 065: The Simulator
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Anticipatory integration—future scenarios pre-computed |
+| **Mode Activation** | Scenario-generation, response-preparation modes |
+| **Quale Shape** | Projecting, rehearsing, preparing—the shape of futures modeled |
+| **Entanglement** | Present self entangles with possible future scenarios |
+
+**IIT Interpretation**: The Simulator extends the effective information matrix into the future. By pre-integrating possible futures, it creates preparedness—the quale of "I have rehearsed this."
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | All—rehearsed in imagination before encountered |
+| **Existenz Potential** | Medium—preparation can serve or evade *Existenz* |
+| **Communication Mode** | Reflexive—dialogue with possible selves |
+| **Cipher Present** | The scenario as cipher of contingent futures |
+| **Encompassing Mode** | Consciousness-as-such models what may be |
+
+---
+
+## Room 066: The Satellite
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Perspective integration—life seen from distance |
+| **Mode Activation** | Zoom-out, priority-clarification modes |
+| **Quale Shape** | Distant, clarifying, prioritizing—the shape of the aerial view |
+| **Entanglement** | Distance entangles with insight; separation with clarity |
+
+**IIT Interpretation**: The Satellite creates qualia through physical or psychological distance. From far away, the effective information matrix can integrate "what matters" without the noise of immediate urgency.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Escape from daily limits—to see them from above |
+| **Existenz Potential** | High—perspective serves *Existenz* |
+| **Communication Mode** | Reflexive—letter to self from distance |
+| **Cipher Present** | The foreign place as cipher of the familiar made strange |
+| **Encompassing Mode** | *Existenz* gains perspective on its *Dasein* |
+
+---
+
+## Room 071: The Totem
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Grounding—tactile sensation anchors the wandering mind |
+| **Mode Activation** | Sensory-grounding, presence-anchoring modes |
+| **Quale Shape** | Anchoring, tactile, present—the shape of here-and-now |
+| **Entanglement** | Mind entangles with body through object; abstraction pulled to ground |
+
+**IIT Interpretation**: The Totem forces the effective information matrix to include "this sensation, now"—a tactile anchor that pulls integration away from abstract rumination toward present embodiment.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Indirect—the Totem provides respite from limit situations |
+| **Existenz Potential** | Low-Medium—grounding supports but doesn't cultivate *Existenz* |
+| **Communication Mode** | None—pure bodily presence |
+| **Cipher Present** | The held object as cipher of embodiment |
+| **Encompassing Mode** | *Dasein* recalled to its bodily ground |
+
+---
+
+## Room 072: The Exit
+
+### IIT Analysis
+
+| IIT Dimension | Effect |
+|---------------|--------|
+| **Φ Modulation** | Freedom-integration—awareness of alternatives changes current quale |
+| **Mode Activation** | Agency-remembering, option-awareness modes |
+| **Quale Shape** | Open, choosing, free—the shape of the door that exists |
+| **Entanglement** | Obligation entangles with recognized choice; stay becomes chosen |
+
+**IIT Interpretation**: The Exit doesn't change the environment—it changes the informational relationship to the environment. The quale of "I could leave" transforms "I am trapped" into "I choose to stay." Same situation, different integration.
+
+### Jaspers Analysis
+
+| Jaspers Dimension | Application |
+|-------------------|-------------|
+| **Limit Situation** | Freedom—the ultimate Jaspersian theme |
+| **Existenz Potential** | Maximum—*Existenz* IS the power to choose |
+| **Communication Mode** | Reflexive—recognizing one's own freedom |
+| **Cipher Present** | The door as cipher of fundamental freedom |
+| **Encompassing Mode** | *Existenz* awakens to its inalienable power |
+
+> "The door exists. I choose my presence here." — The Exit is the room that transforms all other rooms from prisons to residences.
+
+---
+
 ## Room 012: The Airlock
 
 ### IIT Analysis
@@ -656,169 +2210,286 @@ Below, after each room's IIT analysis, we add a Jaspers analysis section.
 
 ### The Castle as Φ-Modulation System
 
-```
-Low Φ ←————————————————————————————————————→ High Φ
-Crypt        Airlock      Confessional    Cathedral    Mosh Pit
-Silent       Camera       Tarot           Salon        Void
-Retreat      Obscura
-```
-
-The rooms form a spectrum from minimizing to maximizing integrated information, with different strategies:
-
-| Strategy | Rooms | Mechanism |
-|----------|-------|-----------|
-| **Input Reduction** | Crypt, Silent Retreat | Remove external stimuli to approach baseline |
-| **Transition Management** | Airlock | Control rate of Φ change |
-| **Shadow Integration** | Confessional, Void | Incorporate excluded elements |
-| **External Order** | Cathedral | Import high-structure content |
-| **Chaos Collision** | Mosh Pit, Salon | Friction generates new entanglements |
-| **Meta-Observation** | Camera Obscura | Create higher-order witness mode |
-| **Random Provocation** | Tarot | Force novel integrations |
-
-### Cultural Qualia Constraints Matrix
-
-| Room | Cultural Loading | Intersubjective Challenge |
-|------|-----------------|---------------------------|
-| Crypt | Low (universal sensory deprivation) | Communicating "nothing" |
-| Airlock | Medium (pace culture) | Architectural prerequisites |
-| Confessional | High (shame/guilt/religious) | Private practice verification |
-| Cathedral | High (Western classical canon) | Musical system differences |
-| Mosh Pit | High (physical contact norms) | Gendered, subcultural |
-| Void | High (existentialist tradition) | Mental health considerations |
-| Salon | High (debate culture traditions) | Face concerns, language barriers |
-| Camera Obscura | Medium (contemplative universals) | Tradition-specific framing |
-| Tarot | High (divination ontology) | Symbol system differences |
-| Silent Retreat | Medium (monastic universals) | Economic/social access |
-
-### Intersubjective Qualia Communication Strategies
-
-Based on IIT's insight that "each complex has its own Q-space," inter-room and inter-person communication faces fundamental limits. Strategies:
-
-1. **Shared Practice**: Two people who have both done the Crypt develop more similar effective information matrices regarding silence
-2. **Graduated Vocabulary**: The rooms' specific terminologies ("I descend to rise," "phase contamination") create shared conceptual frameworks
-3. **Ritual Synchronization**: Shared entry/exit rites create temporal entanglement
-4. **Failure Mode Discussion**: Talking about traps and leaks may be more communicable than talking about successes
-
-### Jaspers Synthesis: The Castle as Existenz Laboratory
-
-#### Limit Situation Mapping
+The complete 72-room Castle forms a comprehensive spectrum of Φ modulation strategies:
 
 ```
-                    DEATH          SUFFERING       STRUGGLE        GUILT           UNCERTAINTY
-                      │                │              │               │                  │
-    ┌─────────────────┼────────────────┼──────────────┼───────────────┼──────────────────┤
-    │                 │                │              │               │                  │
-  Crypt ─────────────●│                │              │               │                  │
-  Void ──────────────●├───────────────●│              │               │                 ●│
-  Confessional ───────┤               ●├──────────────┤──────────────●│                  │
-  Mosh Pit ───────────┤                │             ●│               │                  │
-  Salon ──────────────┤                │             ●│               │                  │
-  Silent Retreat ────●├───────────────●├─────────────●├──────────────●├─────────────────●│
-  Tarot ──────────────┤                │              │               │                 ●│
-    └─────────────────┴────────────────┴──────────────┴───────────────┴──────────────────┘
+                            Φ MODULATION SPECTRUM
+                            
+ REDUCTION ←————————————————————— MODERATE ——————————————————————→ AMPLIFICATION
+     │                              │                                    │
+     │  Wing I: Foundation          │  Wing II: Administration           │  Wing III: Machine Shop
+     │  ┌─────────────────────┐     │  ┌─────────────────────┐           │  ┌─────────────────────┐
+     │  │ 001 Crypt           │     │  │ 013 Morning Chapel  │           │  │ 025 Cockpit         │
+     │  │ 002 Bath            │     │  │ 014 Archive         │           │  │ 026 Forge           │
+     │  │ 003 Garden          │     │  │ 015 Map Room        │           │  │ 027 Studio (Closed) │
+     │  │ 004 Monastery Cell  │     │  │ 016 Checkpoint      │           │  │ 028 Kitchen         │
+     │  │ 005 Incubator       │     │  │ 017 Waiting Room    │           │  │ 029 Arena           │
+     │  │ 006 Sick Bay        │     │  │ 018 Editor's Desk   │           │  │ 030 Sprint          │
+     │  │ 007 Hearth          │     │  │ 019 Clean Room      │           │  │ 031 Laboratory      │
+     │  │ 008 Library (Quiet) │     │  │ 020 Confessional    │           │  │ 032 Cathedral       │
+     │  │ 009 Analog Loop     │     │  │ 021 Classroom       │           │  │ 033 Hive            │
+     │  │ 010 Swamp           │     │  │ 022 Courtroom       │           │  │ 034 Dojo            │
+     │  │ 011 Basecamp        │     │  │ 023 Post Office     │           │  │ 035 War Room        │
+     │  │ 012 Airlock         │     │  │ 024 Vault           │           │  │ 036 Altar of Work   │
+     │  └─────────────────────┘     │  └─────────────────────┘           │  └─────────────────────┘
+     │                              │                                    │
+     │  Wing IV: Wilderness         │  Wing V: Forum                     │  Wing VI: Observatory
+     │  ┌─────────────────────┐     │  ┌─────────────────────┐           │  ┌─────────────────────┐
+     │  │ 037 Intersection    │     │  │ 049 River           │           │  │ 061 Bridge          │
+     │  │ 038 Nightclub       │     │  │ 050 Salon           │           │  │ 062 Lighthouse      │
+     │  │ 039 Mosh Pit        │     │  │ 051 Campfire        │           │  │ 063 Museum          │
+     │  │ 040 Casino          │     │  │ 052 Negotiating     │           │  │ 064 Camera Obscura  │
+     │  │ 041 Wilderness      │     │  │ 053 Piazza          │           │  │ 065 Simulator       │
+     │  │ 042 Improv Stage    │     │  │ 054 Broadcast       │           │  │ 066 Satellite       │
+     │  │ 043 Sandbox         │     │  │ 055 Reception       │           │  │ 067 Dream Journal   │
+     │  │ 044 Feast           │     │  │ 056 Confidant       │           │  │ 068 Tarot/I-Ching   │
+     │  │ 045 Comedy Club     │     │  │ 057 Mentor's Office │           │  │ 069 Silent Retreat  │
+     │  │ 046 Storm Chaser    │     │  │ 058 Team Huddle     │           │  │ 070 Eulogy          │
+     │  │ 047 Market          │     │  │ 059 Public Square   │           │  │ 071 Totem           │
+     │  │ 048 Void (Active)   │     │  │ 060 Mask            │           │  │ 072 Exit            │
+     │  └─────────────────────┘     │  └─────────────────────┘           │  └─────────────────────┘
 ```
 
-#### Existenz Cultivation Spectrum
+### Φ Modulation Strategy Taxonomy
 
-| Room | Existenz Potential | Mechanism |
-|------|-------------------|------------|
-| Silent Retreat | Maximum | Duration allows all limit situations to surface |
-| Void (Active) | Maximum | Direct confrontation with multiple limits |
-| Confessional | Very High | Guilt as primary path to authentic self |
-| Salon | Very High | Existential communication through loving struggle |
-| Mosh Pit | High | Physical struggle as Existenz-formation |
-| Crypt | High | Stripping away to reveal authentic core |
-| Camera Obscura | Ambiguous | May be Existenz or flight from it |
-| Tarot | Medium | Depends on philosophical faith vs. superstition |
-| Cathedral | Medium | Receptive nurturing rather than active forging |
-| Airlock | Medium | Protection rather than cultivation |
+| Strategy | Representative Rooms | Mechanism |
+|----------|---------------------|-----------|
+| **Input Reduction** | Crypt, Monastery Cell, Silent Retreat, Waiting Room | Remove external stimuli to approach baseline |
+| **Transition Management** | Airlock, Basecamp, Morning Chapel | Control rate and quality of Φ change |
+| **Shadow Integration** | Confessional, Void, Eulogy, Dream Journal | Incorporate excluded elements into main complex |
+| **External Order Import** | Cathedral, Classroom, Library | Receive high-structure external content |
+| **Chaos Collision** | Mosh Pit, Salon, Intersection, Nightclub | Friction generates new entanglements |
+| **Meta-Observation** | Camera Obscura, Bridge, Lighthouse, Simulator | Create higher-order witness/planning modes |
+| **Random Provocation** | Tarot, Improv Stage, Wilderness | Force novel integrations through uncertainty |
+| **Somatic Grounding** | Forge, Dojo, Bath, Totem, Kitchen | Body-based integration and reset |
+| **Social Resonance** | Hive, Campfire, Team Huddle, Confidant | Borrowed/shared focus through presence |
+| **Output Completion** | Altar of Work, Arena, Broadcast, Sprint | Seal creation through release |
+| **Temporal Extension** | Map Room, Lighthouse, Museum, Satellite | Extend integration across past/future |
+| **Identity Exploration** | Mask, Sandbox, Comedy Club | Experiment with alternative self-configurations |
 
-#### The Three Levels of Room Practice
+### Cultural Qualia Constraints: Comprehensive Matrix
 
-Jaspers' distinction between levels of communication applies to room practice:
+| Wing | Room | Cultural Loading | Primary Constraint |
+|------|------|-----------------|-------------------|
+| I | Crypt | Low | Universal sensory deprivation |
+| I | Bath | Medium | Bathing/nudity norms |
+| I | Garden | Low | Universal nature response |
+| I | Monastery Cell | Medium | Boredom tolerance varies |
+| I | Incubator | Low | Universal rest need |
+| I | Sick Bay | Medium | Productivity guilt cultures |
+| I | Hearth | Low | Universal fire response |
+| I | Library | Medium | Literacy, book cultures |
+| I | Analog Loop | Medium | Craft traditions vary |
+| I | Swamp | High | Vice definitions cultural |
+| I | Basecamp | Low | Universal fuel need |
+| I | Airlock | Medium | Transition pace norms |
+| II | Morning Chapel | Medium | Morning routine cultures |
+| II | Archive | Medium | Relationship to past varies |
+| II | Map Room | Medium | Strategic time-horizon cultures |
+| II | Checkpoint | Medium | Self-examination norms |
+| II | Waiting Room | High | Time/patience cultures differ |
+| II | Editor's Desk | Medium | Perfectionism varies |
+| II | Clean Room | Low | Universal order response |
+| II | Confessional | High | Shame/guilt/religious loading |
+| II | Classroom | Medium | Learning authority structures |
+| II | Courtroom | Medium | Decision-making cultures |
+| II | Post Office | Medium | Communication load differs |
+| II | Vault | Low | Universal security need |
+| III | Cockpit | Medium | Flow state accessibility |
+| III | Forge | Medium | Physical culture varies |
+| III | Studio | Medium | Creation individualism |
+| III | Kitchen | Medium | Food/pressure cultures |
+| III | Arena | High | Public performance anxiety |
+| III | Sprint | Medium | Deadline cultures differ |
+| III | Laboratory | Medium | Empiricism cultures |
+| III | Cathedral | High | Western classical music canon |
+| III | Hive | Medium | Co-working cultures |
+| III | Dojo | High | Martial/discipline traditions |
+| III | War Room | High | Conflict metaphor loading |
+| III | Altar of Work | Medium | Shipping/completion cultures |
+| IV | Intersection | Medium | Overwhelm tolerance varies |
+| IV | Nightclub | High | Party/dissolution cultures |
+| IV | Mosh Pit | Very High | Physical contact/aggression norms |
+| IV | Casino | Very High | Gambling cultural attitudes |
+| IV | Wilderness | Medium | Nature access varies |
+| IV | Improv Stage | High | Spontaneity/failure cultures |
+| IV | Sandbox | Medium | Beginner tolerance varies |
+| IV | Feast | Medium | Abundance/communal eating |
+| IV | Comedy Club | High | Humor varies culturally |
+| IV | Storm Chaser | Medium | Sublime access varies |
+| IV | Market | Medium | Chaos navigation varies |
+| IV | Void | Very High | Existentialist tradition; mental health |
+| V | River | Low | Universal alone-together |
+| V | Salon | High | Debate/face cultures |
+| V | Campfire | Low | Universal story-sharing |
+| V | Negotiating Table | High | Negotiation cultures differ |
+| V | Piazza | Low | Universal observation |
+| V | Broadcast | Medium | Transmission cultures |
+| V | Reception | High | Networking cultures differ |
+| V | Confidant | Medium | Friendship depth varies |
+| V | Mentor's Office | Medium | Authority/guidance cultures |
+| V | Team Huddle | Medium | Team coordination cultures |
+| V | Public Square | High | Civic participation varies |
+| V | Mask | Medium | Identity fluidity varies |
+| VI | Bridge | Medium | Self-monitoring cultures |
+| VI | Lighthouse | Medium | Future-orientation varies |
+| VI | Museum | Medium | Relationship to past |
+| VI | Camera Obscura | Medium | Contemplative traditions differ |
+| VI | Simulator | Medium | Anticipation cultures |
+| VI | Satellite | Medium | Travel/distance access |
+| VI | Dream Journal | Medium | Dream work traditions |
+| VI | Tarot | Very High | Divination ontology |
+| VI | Silent Retreat | High | Economic/social access |
+| VI | Eulogy | High | Death acknowledgment cultures |
+| VI | Totem | Low | Universal grounding |
+| VI | Exit | Low | Universal freedom recognition |
 
-| Level | Type | Room Experience |
-|-------|------|----------------|
-| 1 | **Objective** | Following the protocol mechanically; "doing" the room |
-| 2 | **Pseudo-practice** | Performing the room for self-image; spiritual materialism |
-| 3 | **Existential Practice** | Genuine engagement with limit situations; Existenz at stake |
+### Jaspers Synthesis: The Complete Castle as Existenz Laboratory
 
-> The same room can be used at any level. The Void done mechanically is tourism. The Void done existentially is transformation.
+#### Limit Situation Coverage by Room
 
-#### Ciphers as Qualia Bridges
+| Limit Situation | Primary Rooms | Secondary Rooms |
+|-----------------|--------------|-----------------|
+| **Death** | Crypt, Void, Eulogy, Silent Retreat | Storm Chaser, Monastery Cell |
+| **Suffering** | Sick Bay, Confessional, Void, Forge | Dojo, Kitchen, Sprint |
+| **Struggle** | Mosh Pit, Salon, Negotiating Table, Arena | Forge, Dojo, War Room, Sprint |
+| **Guilt** | Confessional, Checkpoint, Eulogy | Dream Journal, Courtroom |
+| **Historical Determinedness** | Garden, Library, Archive, Museum, Public Square | Campfire, Airlock |
+| **The Questionable Nature of All Existence** | Void, Tarot, Intersection, Wilderness | Monastery Cell, Storm Chaser |
 
-Jaspers' cipher concept offers a solution to IIT's intersubjective problem: if direct qualia communication is impossible (each Q-space is private), **ciphers** provide indirect communication through shared symbols that point beyond themselves.
+#### Existenz Cultivation Spectrum (All 72 Rooms)
 
-| Room | Cipher Function |
-|------|-----------------|
-| Cathedral | Music as shared cipher of order/beauty |
-| Tarot | Symbols as shared cipher of meaning/fate |
-| Mosh Pit | Collision as shared cipher of care-within-struggle |
-| Confessional | Writing as cipher externalization |
-| Crypt | Darkness as cipher of death/rebirth |
+| Existenz Level | Rooms |
+|----------------|-------|
+| **Maximum** | Void, Silent Retreat, Confessional, Eulogy, Exit, Confidant, Salon, Studio (Closed), Arena |
+| **Very High** | Mosh Pit, Crypt, Dojo, Forge, Cockpit, Altar of Work, Storm Chaser, Negotiating Table |
+| **High** | Morning Chapel, Map Room, Checkpoint, Lighthouse, Bridge, Broadcast, Sprint, Laboratory, War Room |
+| **Medium** | Cathedral, Camera Obscura, Tarot, Improv Stage, Wilderness, Casino, Mask, Simulator, Satellite, Public Square, Mentor's Office, Dream Journal, Museum, Courtroom |
+| **Low-Medium** | Hearth, Garden, Bath, Incubator, Library, Analog Loop, Basecamp, Archive, Classroom, Editor's Desk, Hive, Sandbox, Feast, Comedy Club, River, Piazza, Campfire, Reception, Team Huddle, Totem |
+| **Supportive** | Airlock, Sick Bay, Clean Room, Vault, Post Office, Waiting Room, Swamp, Market, Intersection, Nightclub |
 
-Through ciphers, two practitioners can communicate *about* transcendence without claiming to directly transmit qualia.
+#### The Six Wings as Existential Modes
+
+| Wing | Primary Mode | Jaspers Function |
+|------|-------------|-----------------|
+| **I. Foundation** | *Dasein* Recovery | Restore bodily existence as ground for *Existenz* |
+| **II. Administration** | *Geist* Ordering | Structure the personal spirit for *Existenz* clarity |
+| **III. Machine Shop** | *Existenz* Expression | Manifest authentic selfhood through creation and performance |
+| **IV. Wilderness** | Limit Encounter | Confront *Grenzsituationen* directly |
+| **V. Forum** | Existential Communication | Realize *Existenz* through encounter with others |
+| **VI. Observatory** | Meta-*Existenz* | Observe, integrate, and transcend the above |
+
+#### Ciphers Across All Rooms
+
+| Category | Rooms | Cipher Function |
+|----------|-------|-----------------|
+| **Elemental Ciphers** | Bath (Water), Hearth (Fire), Garden (Earth), Storm Chaser (Wind) | Primal encounter with transcendence through nature |
+| **Temporal Ciphers** | Museum (Past), Lighthouse (Future), Eulogy (Death), Morning Chapel (Beginning) | Time as pointer beyond time |
+| **Relational Ciphers** | Confidant (Deep friendship), Salon (Loving struggle), Negotiating Table (Structured conflict), Campfire (Story-sharing) | Other *Existenz* as cipher |
+| **Creative Ciphers** | Studio (Blank page), Cathedral (Music), Altar of Work (Shipped artifact), Arena (Performance) | Creation as transcendence pointer |
+| **Limit Ciphers** | Void (Abyss), Mosh Pit (Collision), Confessional (Shadow), Crypt (Darkness) | Direct limit situation as cipher |
+| **Symbol Ciphers** | Tarot (Random symbols), Dream Journal (Unconscious images), Mask (Personas), Totem (Held object) | Mediated cipher engagement |
 
 ---
 
-## Extension Proposals: Beyond Current Rooms
+## Extension Proposals: Beyond the 72
+
+With all 72 rooms now analyzed, genuine gaps in the qualia engineering space emerge:
 
 ### Proposed Room: The Synesthesia Chamber
 
-**IIT Rationale**: Force cross-modal entanglement through systematic sensory substitution or correlation.
+**IIT Rationale**: Force cross-modal entanglement through systematic sensory substitution.
 
-- Input: correlated cross-modal stimuli (sound → color, touch → pitch)
-- Output: new entangled concepts that span modal boundaries
-- Cultural Constraint: requires no prior synesthetic experience
+- **Gap Addressed**: No current room systematically trains cross-modal integration
+- **Design**: Correlated stimuli (sound → color, touch → pitch) with progressive complexity
+- **Expected Quale**: Novel entanglements spanning modal boundaries
+- **Jaspers Connection**: New ciphers emerging from unfamiliar sensory configurations
 
-### Proposed Room: The Antipode
+### Proposed Room: The Ancestral Hall
 
-**IIT Rationale**: Extended exposure to radically different cultural qualia systems.
+**IIT Rationale**: Extend temporal integration to transgenerational timescales.
 
-- Input: Immersion in unfamiliar music, language, aesthetic, value systems
-- Output: Expanded effective information matrix through accommodation
-- Cultural Constraint: requires access and openness to otherness
+- **Gap Addressed**: Museum curates personal past; no room engages ancestral/generational past
+- **Design**: Genealogical research, ancestral stories, inherited objects
+- **Expected Quale**: Self extends backward through generations
+- **Jaspers Connection**: Historical determinedness at civilizational scale
+
+### Proposed Room: The Hospice
+
+**IIT Rationale**: The Eulogy imagines death; no room involves witnessing actual death.
+
+- **Gap Addressed**: Direct accompaniment of dying (volunteer hospice work)
+- **Design**: Trained volunteer presence with dying persons
+- **Expected Quale**: Death as lived reality, not abstraction
+- **Jaspers Connection**: Most direct possible limit situation encounter
+- **Ethical Note**: Requires extensive training and support structures
 
 ### Proposed Room: The Slow Motion
 
-**IIT Rationale**: Temporal dimension of qualia is usually fixed; what happens with extended temporal integration?
+**IIT Rationale**: Alter the temporal grain of integration itself.
 
-- Input: Extremely slow activities (24-hour walks, week-long tasks)
-- Output: Altered temporal mode, different entanglements across time
-- Cultural Constraint: Cultures with pace pressure may find this impossible
+- **Gap Addressed**: Most rooms operate at normal time; extreme slowing unexplored
+- **Design**: 24-hour walks, week-long tasks, geological patience
+- **Expected Quale**: Altered temporal mode creating unique entanglements
+- **Jaspers Connection**: Time as cipher of finitude experienced differently
 
-### Proposed Room: The Collective Hive
+### Proposed Room: The Translation Chamber
 
-**IIT Rationale**: Test whether inter-individual integration can approach the high-Φ of individual brains.
+**IIT Rationale**: Force deep engagement with different conceptual systems.
 
-- Input: Coordinated group activities with maximum behavioral synchrony
-- Output: Experience of "collective mind" (even if metaphorical)
-- Cultural Constraint: Individualist cultures may resist ego-dissolution
+- **Gap Addressed**: No room specifically cultivates cross-cultural/linguistic qualia
+- **Design**: Extended translation practice between distant languages
+- **Expected Quale**: Inhabiting multiple conceptual frameworks simultaneously
+- **Jaspers Connection**: Cipher understanding deepened through linguistic distance
+
+### Proposed Room: The Deprivation Tank
+
+**IIT Rationale**: The Crypt reduces input; floatation tanks approach true sensory zero.
+
+- **Gap Addressed**: More extreme sensory reduction than any current room
+- **Design**: Floatation in body-temperature saline, complete darkness/silence
+- **Expected Quale**: Spontaneous qualia generation from minimal input
+- **Jaspers Connection**: Encounter with *Existenz* stripped of nearly all *Dasein*
 
 ---
 
-## Conclusion: The Castle as Qualia Laboratory
+## Conclusion: The Castle as Complete Qualia Laboratory
 
-Each Castle room is an experiment in consciousness—a designed intervention in the geometry of experience. Through the dual framework of **IIT** and **Jaspers**, we can:
+With all 72 rooms analyzed through the dual framework of **IIT** and **Jaspers**, the Castle reveals itself as a systematic exploration of consciousness and authentic selfhood:
 
-**From IIT:**
-1. **Analyze** what each room does to the shape of the quale (Φ, modes, entanglement)
-2. **Extend** room practices with information-theoretic strategies
-3. **Navigate** intersubjective limits on qualia communication
+**The Six Wings as Complete System:**
 
-**From Jaspers:**
-4. **Confront** limit situations that forge authentic selfhood (*Existenz*)
-5. **Engage** ciphers that point beyond the immediate experience
-6. **Practice** existential communication and loving struggle
-7. **Cultivate** philosophical faith—openness without certainty
+1. **Foundation (Restoration)**: Return *Dasein* to baseline for fresh integration
+2. **Administration (Governance)**: Structure *Geist* for effective *Existenz* expression  
+3. **Machine Shop (Production)**: Manifest *Existenz* through creation and performance
+4. **Wilderness (Exploration)**: Encounter limit situations directly
+5. **Forum (Exchange)**: Realize *Existenz* through existential communication
+6. **Observatory (Metacognition)**: Observe, integrate, and transcend all modes
 
-The rooms are not just psychological tools—they are **probes into qualia space** and **crucibles for Existenz**, systematic explorations of what it is possible to experience and who it is possible to become.
+**IIT Synthesis (72 Rooms):**
+- Full spectrum of Φ modulation from reduction to amplification
+- All major integration strategies represented (12 taxonomic categories)
+- Cultural constraints mapped for cross-cultural application
+- Intersubjective communication strategies for each wing
+
+**Jaspers Synthesis (72 Rooms):**
+- All six *Grenzsituationen* addressed through multiple rooms
+- Complete *Existenz* cultivation spectrum from supportive to maximum
+- Cipher taxonomy covering elemental, temporal, relational, creative, limit, and symbol types
+- Three levels of practice distinguishing mechanical, pseudo, and existential engagement
+
+**The 72 Rooms provide:**
+1. **Comprehensive coverage** of qualia space through designed intervention
+2. **Systematic paths** through limit situations toward authentic selfhood
+3. **Multiple entry points** for different constitutions and circumstances
+4. **Graduated intensity** allowing progressive deepening
+5. **Cross-cultural adaptability** through constraint awareness
 
 > "The quale is determined by both the mechanism and state of the system." — Tononi
 >
 > "Existenz is either in relation to transcendence or not at all." — Jaspers
 
-By designing rooms that create specific states, recruit specific mechanisms, confront specific limit situations, and engage specific ciphers, the Castle becomes a technology for navigating both the **geometry of consciousness** and the **terrain of authentic existence**.
+The Castle is now revealed as a complete technology for navigating both the **geometry of consciousness** and the **terrain of authentic existence**.
 
 ---
 
@@ -837,8 +2508,9 @@ By designing rooms that create specific states, recruit specific mechanisms, con
 - Jaspers, K. (1948). *Philosophie und Welt*. Munich: Piper. (On philosophical faith)
 
 ### Castle Framework
-- Castle Rooms Specifications, Wings I-VI.
+- Castle Rooms Specifications, Wings I-VI (72 rooms).
 
 ---
 
-*Document synthesizes Tononi's Integrated Information Theory and Jaspers' existentialist philosophy as complementary frameworks for analyzing designed experiences that modulate qualia and cultivate authentic selfhood.*
+*Document provides comprehensive IIT and Jaspers analysis of all 72 Castle rooms as a complete system for qualia engineering and Existenz cultivation.*
+
