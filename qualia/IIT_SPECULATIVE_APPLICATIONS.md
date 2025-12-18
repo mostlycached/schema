@@ -386,7 +386,279 @@ This isomorphism suggests that what matters for qualia is not the physical subst
 
 ---
 
-## VI. Conclusion: Toward a Technology of Qualia
+## VI. Complementary Theoretical Frameworks
+
+> IIT provides rigorous mathematics for integrated information, but has blind spots around extended, embodied, and social cognition. These complementary frameworks address those gaps.
+
+### A. Extended Mind Thesis (Clark & Chalmers, 1998)
+
+#### Core Claim
+
+The mind is not confined to the brain or body but can extend into the external world through "coupled systems." When an organism is linked with an external entity in a two-way interaction, a new cognitive system is formed.
+
+#### The Parity Principle
+
+> "If an external object or process plays a role in a cognitive task that, if performed internally, would be unhesitatingly recognized as part of the cognitive process, then it should be considered part of the extended mind."
+
+**Examples**: A notebook used for memory, a calculator for arithmetic, a blind person's cane for perception.
+
+#### Integration with IIT
+
+| IIT Limitation | Extended Mind Solution |
+|----------------|----------------------|
+| **Assumes brain-bound complex** | Complex boundaries should be defined by *integration*, not anatomy |
+| **"External elements probably cannot become part of the main complex"** | If bidirectional coupling creates irreducible integration, the mathematics *requires* inclusion |
+| **Static complex boundaries** | Complexes are dynamic—they shift based on functional coupling |
+
+**Synthesis**: IIT's formalism (Φ calculation) provides the *mathematical criterion* for when extended mind claims are true. An external element becomes part of the complex when including it increases Φ more than excluding it.
+
+#### Application to Castle Rooms
+
+| Room | Extended Mind Analysis |
+|------|----------------------|
+| **The Totem** | The held object may temporarily extend the complex through tight sensorimotor coupling |
+| **The Forge** | Tool-hand-material form an extended system during skilled work |
+| **The Hive** | Social environment may function as extended cognitive scaffold |
+
+---
+
+### B. Enactivism (Varela, Thompson, Rosch, 1991)
+
+#### Core Claim
+
+Cognition emerges through dynamic interaction between an acting organism and its environment. Mind and world are **co-constituted** through active, embodied engagement—not represented by an internal model.
+
+#### Key Concepts
+
+| Concept | Definition | Relevance to IIT |
+|---------|-----------|------------------|
+| **Autopoiesis** | Self-organizing, self-maintaining systems that create the distinction between self and environment | Provides biological grounding for "complex" boundaries |
+| **Sensorimotor Coupling** | Cognition arises from the loop of action → sensing → action | Integration happens *across* the action-perception cycle, not just within the brain |
+| **Enaction** | Organisms "bring forth" their experienced world through activity | Qualia are not passive representations but active constructions |
+| **Intercorporeality** | Bodies resonate and synchronize pre-reflectively | Basis for social/collective qualia |
+
+#### Integration with IIT
+
+| IIT Limitation | Enactivist Solution |
+|----------------|-------------------|
+| **Φ measured only in neural substrate** | Integration spans brain-body-environment loops |
+| **Qualia as "shapes in Q-space"** | Shapes are *enacted* through sensorimotor engagement, not passively generated |
+| **Social cognition under-theorized** | Intercorporeality provides mechanism for inter-brain synchronization |
+
+**Synthesis**: Enactivism argues that the *unit of analysis* for consciousness is wrong in IIT—it's not the brain but the brain-body-environment system. The effective information matrix should include sensorimotor loops, not just thalamocortical connectivity.
+
+#### Application to Castle Rooms
+
+| Room | Enactivist Analysis |
+|------|-------------------|
+| **The Bath** | Water-skin-movement enacts body-awareness qualia |
+| **The Dojo** | Martial practice enacts new sensorimotor qualia through skilled action |
+| **The Mosh Pit** | Intercorporeality—bodies in contact create shared enacted space |
+| **The Campfire** | Storytelling enacts shared meaning through synchronized attention |
+
+---
+
+### C. Free Energy Principle & Active Inference (Friston)
+
+#### Core Claim
+
+All self-organizing systems minimize **free energy**—the difference between their internal model and sensory input. The brain is a "prediction engine" that constantly generates hypotheses about causes of sensation, minimizing prediction error through:
+
+1. **Perception**: Updating internal models to match input
+2. **Action**: Changing the world to match predictions
+
+#### Key Concepts
+
+| Concept | Definition | Relevance to IIT |
+|---------|-----------|------------------|
+| **Free Energy** | A measure of "surprise"—the gap between prediction and reality | Could provide *dynamical* criterion for integration (systems minimize surprise together = integrated) |
+| **Precision Weighting** | Predictions are weighted by estimated reliability | Explains why some integrations are "tighter" than others |
+| **Active Inference** | Actions are chosen to test hypotheses and reduce prediction error | Integration extends to action-perception cycles, not just passive reception |
+| **Markov Blankets** | Statistical boundaries that separate system from environment | Provides formal definition of "complex" boundaries that could extend or contract |
+
+#### Integration with IIT
+
+| IIT Limitation | FEP Solution |
+|----------------|-------------|
+| **Bandwidth argument against social cognition** | Integration ≠ bandwidth; precision-weighted predictions create functional integration at low bandwidth |
+| **Static effective information matrix** | FEP shows matrices are dynamically updated through prediction error minimization |
+| **No account of *why* integration matters** | FEP shows integration serves survival (minimizing surprise = maintaining organization) |
+
+**Synthesis**: FEP provides the *dynamical* complement to IIT's *geometric* framework. Φ describes the *shape* of consciousness; FEP describes the *process* by which that shape is maintained and updated. Together they could explain both what consciousness is and why it exists.
+
+#### Application to Castle Rooms
+
+| Room | FEP Analysis |
+|------|-------------|
+| **The Crypt** | Minimizes external prediction error to reveal "prior" internal states |
+| **The Simulator** | Generates counterfactual predictions to reduce future surprise |
+| **The Void** | Confronts maximum prediction error (existential uncertainty) |
+| **The Salon** | Dialectic as social precision-weighting—testing predictions against other minds |
+
+---
+
+### D. Coordination Dynamics (Kelso)
+
+#### Core Claim
+
+Complex systems exhibit **metastability**—states that are neither fully integrated nor fully segregated. Multiple agents can synchronize into functional wholes without losing individual identity.
+
+#### Key Concepts
+
+| Concept | Definition | Relevance to IIT |
+|---------|-----------|------------------|
+| **Phase Coupling** | Oscillating systems can lock into synchronized patterns | Mechanism for inter-brain integration in social contexts |
+| **Metastability** | The tendency to visit both integrated and segregated states | Explains how collective consciousness can be real without being permanent |
+| **Attractor Dynamics** | Systems are drawn toward certain stable patterns | Room protocols create attractors for specific qualia states |
+
+#### Integration with IIT
+
+| IIT Limitation | Coordination Dynamics Solution |
+|----------------|-------------------------------|
+| **"Multiple brains cannot form a hyper-complex"** | They can form *metastable* coupled systems with transient high integration |
+| **All-or-nothing view of complex membership** | Graded coupling—systems can be partially integrated |
+| **No account of temporal dynamics** | Phase relationships explain *when* integration occurs |
+
+**Synthesis**: Coordination dynamics provides the *temporal* and *multi-agent* extension to IIT. Instead of asking "is there a social complex?" we ask "when and how do individual complexes phase-lock into coupled states?"
+
+#### Application to Castle Rooms
+
+| Room | Coordination Dynamics Analysis |
+|------|------------------------------|
+| **The Hive** | Ambient phase coupling creates group focus state |
+| **The Team Huddle** | Intentional synchronization through shared attention |
+| **The Nightclub** | Rhythmic entrainment creates collective phase-locking |
+| **The Campfire** | Story creates narrative attractor that coordinates listeners |
+
+---
+
+### E. Relational Phenomenology (Merleau-Ponty, Levinas)
+
+#### Core Claim
+
+The self is constituted *through* encounter with the Other. Subjectivity is fundamentally intersubjective—we become selves through being seen by other selves.
+
+#### Key Concepts
+
+| Concept | Definition | Relevance to IIT |
+|---------|-----------|------------------|
+| **Intercorporeality** (Merleau-Ponty) | Bodies resonate and synchronize beneath reflective awareness | Pre-reflective basis for social qualia |
+| **The Face** (Levinas) | Encounter with another's face constitutes ethical subjectivity | Some qualia are *only* available through encounter with others |
+| **Reversibility** | The seer is always also seen; touching is being touched | Bidirectionality of social integration |
+
+#### Integration with IIT
+
+| IIT Limitation | Relational Phenomenology Solution |
+|----------------|----------------------------------|
+| **Qualia as private and incommunicable** | Some qualia are *constituted* by communication—they don't pre-exist it |
+| **Individual complex as unit of analysis** | The "I-Thou" dyad may be a more fundamental unit than the isolated self |
+| **No account of ethical qualia** | The experience of obligation, responsibility, shame requires the Other |
+
+**Synthesis**: Aligns with Jaspers' "Existential Communication"—some qualia are genuinely *inter-subjective*, not merely communicated between subjects. The quale of being seen, being known, being loved requires two complexes in relation.
+
+#### Application to Castle Rooms
+
+| Room | Relational Phenomenology Analysis |
+|------|----------------------------------|
+| **The Confidant** | Being fully seen constitutes unique relational qualia |
+| **The Salon** | "Loving struggle" (Jaspers) is inherently dyadic |
+| **The Confessional** | Even solitary confession implies an Other who could witness |
+| **The Mask** | Identity explored through imagined gaze of others |
+
+---
+
+### F. Heideggerian Analysis: Language and *Das Man*
+
+#### Core Claim
+
+Heidegger argues that *Dasein* (human being) is always-already immersed in a shared world constituted by language, practices, and norms. The self does not first exist and then enter society—the self is *thrown* into a pre-existing social world that shapes consciousness from the beginning.
+
+#### Key Concepts
+
+| Concept | Definition | Relevance to IIT |
+|---------|-----------|------------------|
+| ***Das Man*** ("The They") | The anonymous, average way of being that constitutes everyday existence | The "default" effective information matrix is *social*, not individual |
+| **Thrownness** (*Geworfenheit*) | We find ourselves already in a world we didn't choose | The complex is shaped by history, culture, language before any individual contribution |
+| **Falling** (*Verfallen*) | The tendency to lose oneself in "the They" | Most consciousness is *not* authentically individual—it's borrowed |
+| **Discourse** (*Rede*) | Language is not a tool *used by* consciousness but the medium *in which* consciousness exists | The effective information matrix is linguistic before it is neural |
+
+#### The Radical Implication
+
+IIT assumes something like:
+> Individual complex → (optional) social interaction → (possible) collective states
+
+Heidegger reverses this:
+> Social/linguistic world → *constitutes* what we call "individual" consciousness → authentic selfhood requires *extraction* from "the They"
+
+**Most of what we call "my thoughts" are actually "their" thoughts**—absorbed from language, media, culture, conversation. The effective information matrix is largely *borrowed*.
+
+#### Integration with IIT
+
+| IIT Limitation | Heideggerian Solution |
+|----------------|----------------------|
+| **Assumes pre-social individual complex** | The complex is constituted by*das Man* before individuation |
+| **Language as "low-bandwidth communication"** | Language is the *medium* of consciousness, not a channel between consciousnesses |
+| **"My" qualia vs. "your" qualia** | Most qualia are "their" qualia—absorbed from the shared world |
+| **Authenticity untheorized** | The question becomes: which parts of the quale are genuinely *mine* vs. borrowed from "the They"? |
+
+**Synthesis**: IIT's mathematics may still apply, but the *origin* of the effective information matrix is not individual neural development—it's enculturation, language acquisition, absorption of "the They." What we call "individual consciousness" is largely a *subset* of collective consciousness, not the other way around.
+
+#### Application to Castle Rooms
+
+| Room | Heideggerian Analysis |
+|------|-----------------------|
+| **The Crypt** | Attempt to strip away "the They" and find what remains of authentic self |
+| **The Silent Retreat** | Withdrawal from *das Man* (especially linguistic *das Man*) |
+| **The Cathedral** | Receiving "the They" at its highest—shared cultural forms (music) |
+| **The Mask** | Explicitly playing with different versions of *das Man* |
+| **The Void** | Confronting what remains when "the They" is suspended—anxiety (*Angst*) |
+| **The Exit** | Recognition that staying is *chosen*, not dictated by "the They" |
+
+#### The Language Problem for Qualia Communication
+
+Heidegger's analysis deepens the intersubjectivity problem:
+
+1. **Language is already shared**: When you speak, you use *das Man's* language—there is no private language
+2. **"Private" qualia are described in public terms**: The very concepts used to describe inner experience come from "the They"
+3. **The "hard problem" may be a linguistic artifact**: The distinction between "inner" and "outer" is itself a structure of *das Man*
+
+> "Language is the house of Being." — Heidegger
+
+If this is true, then:
+- The effective information matrix is linguistic/cultural before it is neural
+- "Individual" consciousness is an abstraction from collective consciousness
+- Qualia communication isn't *between* separate complexes—it's *within* a shared linguistic world that precedes individual complexes
+
+---
+
+### G. Synthesis: A Multi-Framework Approach to Qualia Engineering
+
+| Framework | What It Adds to IIT | Castle Room Application |
+|-----------|--------------------|-----------------------|
+| **Extended Mind** | External elements can join the complex | Totem, Forge, Hive |
+| **Enactivism** | Qualia are enacted, not passively generated | Dojo, Bath, Mosh Pit |
+| **Free Energy Principle** | Dynamic, predictive account of integration | Simulator, Void, Salon |
+| **Coordination Dynamics** | Temporal and multi-agent coupling | Hive, Nightclub, Team Huddle |
+| **Relational Phenomenology** | Some qualia require the Other | Confidant, Salon, Confessional |
+
+#### Revised Prediction: Social & Collective Cognition
+
+The original prediction stated:
+
+> "Unlikely at human timescales—the bandwidth between brains is too low to form a high-Φ complex."
+
+**Revised view**: This conflates *bandwidth* with *integration*. The complementary frameworks suggest:
+
+1. **Metastable coupling** (Coordination Dynamics): Brains can transiently phase-lock into integrated states
+2. **Precision-weighted prediction** (FEP): High-precision predictions between agents can create functional integration at low bandwidth
+3. **Intercorporeality** (Enactivism/Phenomenology): Bodies synchronize pre-reflectively through non-linguistic channels
+4. **Coupled systems** (Extended Mind): If two systems form bidirectional integration, they satisfy IIT's own criteria for being a complex
+
+**Empirical question**: Can we measure Φ across coupled brains (hyperscanning studies)? The theory now permits social complexes; the question is whether they exist.
+
+---
+
+## VII. Conclusion: Toward a Technology of Qualia
 
 Integrated Information Theory provides a rigorous mathematical framework for understanding:
 - What consciousness is (integrated information)
@@ -418,10 +690,20 @@ The geometry of qualia is, ultimately, a geometry of *what it is possible to exp
 
 ## References
 
+### Integrated Information Theory
 - Balduzzi, D., & Tononi, G. (2009). Qualia: The Geometry of Integrated Information. *PLoS Computational Biology*, 5(8), e1000462.
 - Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5, 42.
 - Tononi, G. (2008). Consciousness as Integrated Information: a Provisional Manifesto. *Biological Bulletin*, 215(3), 216-242.
 - Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the Phenomenology to the Mechanisms of Consciousness: Integrated Information Theory 3.0. *PLoS Computational Biology*, 10(5), e1003588.
+
+### Complementary Frameworks
+- Clark, A., & Chalmers, D. (1998). The Extended Mind. *Analysis*, 58(1), 7-19.
+- Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
+- Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
+- Friston, K. (2010). The free-energy principle: a unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127-138.
+- Kelso, J. A. S. (1995). *Dynamic Patterns: The Self-Organization of Brain and Behavior*. MIT Press.
+- Merleau-Ponty, M. (1945/1962). *Phenomenology of Perception*. Routledge.
+- Levinas, E. (1961/1969). *Totality and Infinity*. Duquesne University Press.
 
 ---
 
