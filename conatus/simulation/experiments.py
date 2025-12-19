@@ -71,6 +71,7 @@ def create_agent(
 def run_simulation(
     context: str = "forge",
     critic_mode: str = "materialist",
+    muse: str = None,
     encounters: List[str] = None,
     force_novelty: bool = True,
     use_vector_store: bool = True,
@@ -81,7 +82,9 @@ def run_simulation(
     
     Args:
         context: Environment context (forge, dance, arena, etc.)
-        critic_mode: Super-ego mode (deleuze, barthes, etc.)
+        critic_mode: Super-ego mode (deleuze, barthes, nietzschean, etc.)
+        muse: Inspirational generator (whitman, nietzsche, bataille, serres, etc.)
+              If None, a random muse is selected per step.
         encounters: List of challenges. If None, uses defaults.
         force_novelty: If True, always generate new stances.
         use_vector_store: If True, retrieve components per-encounter.
@@ -112,9 +115,11 @@ def run_simulation(
         critic_config=CriticConfig(mode=critic_mode),
         force_novelty=force_novelty,
         use_vector_store=use_vector_store,
+        muse=muse,
     )
     
-    print(f"\nRunning simulation: {context} / {critic_mode}...")
+    muse_str = f" / {muse}" if muse else ""
+    print(f"\nRunning simulation: {context} / {critic_mode}{muse_str}...")
     sim.run(encounters)
     
     # Generate report

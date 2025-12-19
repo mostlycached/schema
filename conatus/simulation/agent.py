@@ -268,6 +268,41 @@ Respond in JSON format:
             import random
             return random.uniform(0.3, 0.7), f"LLM error: {e}"
     
+    def _repair_json(self, text: str) -> str:
+        """
+        Attempt to repair common JSON malformations from LLM output.
+        Handles unterminated strings, trailing commas, missing closing brackets.
+        """
+        import re
+        
+        text = text.strip()
+        
+        # Remove trailing commas before closing brackets
+        text = re.sub(r',\s*}', '}', text)
+        text = re.sub(r',\s*]', ']', text)
+        
+        # Count brackets to check balance
+        open_braces = text.count('{')
+        close_braces = text.count('}')
+        open_brackets = text.count('[')
+        close_brackets = text.count(']')
+        
+        # Add missing closing braces/brackets
+        text += '}' * (open_braces - close_braces)
+        text += ']' * (open_brackets - close_brackets)
+        
+        # Try to fix unterminated strings by finding unmatched quotes
+        # This is heuristic: if odd number of quotes, add one before last }
+        quote_count = text.count('"')
+        if quote_count % 2 == 1:
+            # Find the last } and insert a quote before content ends
+            last_brace = text.rfind('}')
+            if last_brace > 0:
+                # Look for the last colon and add closing quote after value
+                text = text[:last_brace] + '"' + text[last_brace:]
+        
+        return text
+    
     def _llm_generate_new_stance(
         self, 
         encounter: str,
@@ -344,7 +379,7 @@ Respond in JSON format:
                 prompt,
                 generation_config=genai.types.GenerationConfig(
                     temperature=0.5,  # Lower for consistency
-                    max_output_tokens=600
+                    max_output_tokens=1200  # Increased to prevent truncation
                 )
             )
             text = response.text.strip()
@@ -352,6 +387,9 @@ Respond in JSON format:
                 text = text.split("```json")[1].split("```")[0]
             elif "```" in text:
                 text = text.split("```")[1].split("```")[0]
+            
+            # Repair common JSON issues from LLM output
+            text = self._repair_json(text)
             
             data = json.loads(text)
             

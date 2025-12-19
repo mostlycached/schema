@@ -111,6 +111,7 @@ class Simulation:
         force_novelty: bool = False,  # Always generate new stances
         use_vector_store: bool = False,  # Per-encounter component retrieval
         component_count: int = 30,
+        muse: str = None,  # Configurable muse for stance generation
     ):
         self.agent = agent
         self.env_config = env_config or EnvironmentConfig()
@@ -120,6 +121,7 @@ class Simulation:
         self.force_novelty = force_novelty
         self.use_vector_store = use_vector_store
         self.component_count = component_count
+        self.muse = muse  # Store configured muse
         
         # Vector store (lazy loaded)
         self._vector_store = None
@@ -327,15 +329,17 @@ Respond in JSON:
         rejection_history = []
         
         # Decide mode
-        current_muse = None
+        # Use configured muse or select randomly
+        if self.muse:
+            current_muse = self.muse
+        else:
+            import random
+            from conatus.simulation.agent import MUSES
+            current_muse = random.choice(list(MUSES.keys()))
         
         if self.force_novelty:
             mode = "NOVELTY_SEARCH"
             should_generate = True
-            # Select a random Muse
-            import random
-            from conatus.simulation.agent import MUSES
-            current_muse = random.choice(list(MUSES.keys()))
         else:
             viability, _ = self.agent._llm_assess_viability(encounter)
             if viability >= self.agent.viability_threshold:
@@ -375,6 +379,7 @@ Respond in JSON:
                     "name": proposed.name,
                     "description": proposed.description,
                     "affect": proposed.affect_register,
+                    "components": proposed.core_components,
                     "feedback": feedback,
                 })
                 
@@ -513,9 +518,18 @@ def generate_report(
                     "",
                     f"**{p['name']}** ({verdict}, {score:.2f})",
                     "",
-                    f"*{p['description'][:200]}...*" if len(p['description']) > 200 else f"*{p['description']}*",
+                    f"*{p['description']}*",
                     "",
-                    f"Affect: \"{p['affect']}\"",
+                ])
+                # Add components if available
+                if p.get("components"):
+                    component_list = ", ".join(p["components"])
+                    lines.extend([
+                        f"**Components**: {component_list}",
+                        "",
+                    ])
+                lines.extend([
+                    f"**Affect**: \"{p['affect']}\"",
                     "",
                 ])
                 if p["feedback"]:
