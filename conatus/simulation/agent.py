@@ -57,10 +57,12 @@ class Stance:
     Determines which FCs are active, which are inhibited, and how they coordinate.
     """
     name: str
-    description: str
-    core_components: list[str]      # Component names that define this stance
+    description: str  # What this stance enables
+    core_components: list[str]  # Component names that define this stance
     active_weights: dict[str, float] = field(default_factory=dict)
-    affect_register: str = ""       # The felt-sense name of this stance
+    affect_register: str = ""  # The evocative name for the felt-sense
+    affect_description: str = ""  # Rich phenomenological description of how it feels
+    embodiment: str = ""  # Somatic instructions: HOW to physically enact this stance
     viability_history: list[float] = field(default_factory=list)
     
     def get_component_config(self) -> dict[str, float]:
@@ -359,9 +361,20 @@ Following the Novelty Search process:
 1. Identify which core components should be inhibited
 2. Identify which dormant components should be activated
 3. Synthesize a NEW stance configuration
-4. Name the new AFFECT REGISTER (the felt-sense of this new coordination)
+4. Name the new AFFECT REGISTER and describe what it FEELS LIKE
+5. Write EMBODIMENT INSTRUCTIONS that include the body AND the environment
 
-The affect register should be evocative - like "grounded fluidity" or "shearing awareness".
+The affect register should have an evocative name like "grounded fluidity" or "shearing awareness".
+The affect description should be rich and phenomenological - what does it actually FEEL LIKE from the inside?
+Include: sensations in the body, quality of attention, emotional texture, any images or metaphors that capture it.
+
+The embodiment instructions should describe HOW to enact this stance in relation to:
+- Your BODY: breath, posture, muscle tone, gaze, micro-movements
+- Your EQUIPMENT/TOOLS: how you hold, touch, or relate to any instruments, objects, or materials
+- Your ENVIRONMENT: how you orient to the space, other people, audience, or surroundings
+- Your ATTENTION: what you focus on, what you let fall to periphery, how you distribute awareness
+
+Like a cello instructor describes the bow arm AND the relationship to the instrument AND awareness of the audience.
 
 Respond in JSON format:
 {{
@@ -370,7 +383,9 @@ Respond in JSON format:
   "components_to_inhibit": ["<component names>"],
   "components_to_activate": ["<component names>"],
   "weights": {{"<component_name>": <weight 0.0-1.0>}},
-  "affect_register": "<evocative name for the new felt-sense>",
+  "affect_register": "<evocative 2-3 word name for the felt-sense>",
+  "affect_description": "<2-3 sentences describing what this affect FEELS LIKE from inside - the sensations, textures, emotional qualities>",
+  "embodiment": "<3-5 sentences describing HOW to enact this stance: body, equipment/tools, environment, and attention>",
   "rationale": "<why this configuration might work>"
 }}"""
 
@@ -379,7 +394,7 @@ Respond in JSON format:
                 prompt,
                 generation_config=genai.types.GenerationConfig(
                     temperature=0.5,  # Lower for consistency
-                    max_output_tokens=1200  # Increased to prevent truncation
+                    max_output_tokens=1800  # Increased for affect description
                 )
             )
             text = response.text.strip()
@@ -398,7 +413,9 @@ Respond in JSON format:
                 description=data["description"],
                 core_components=data["components_to_activate"],
                 active_weights=data.get("weights", {}),
-                affect_register=data["affect_register"]
+                affect_register=data["affect_register"],
+                affect_description=data.get("affect_description", ""),
+                embodiment=data.get("embodiment", "")
             )
             return new_stance
             

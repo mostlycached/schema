@@ -106,7 +106,6 @@ class Simulation:
         self,
         agent,  # ConatusAgent
         env_config: EnvironmentConfig = None,
-        critic_config: CriticConfig = None,
         model_name: str = "gemini-2.0-flash",
         force_novelty: bool = False,  # Always generate new stances
         use_vector_store: bool = False,  # Per-encounter component retrieval
@@ -115,7 +114,7 @@ class Simulation:
     ):
         self.agent = agent
         self.env_config = env_config or EnvironmentConfig()
-        self.critic = Critic(critic_config or CriticConfig(), model_name)
+        self.critic = Critic(CriticConfig(), model_name)
         self.model = genai.GenerativeModel(model_name)
         
         self.force_novelty = force_novelty
@@ -274,9 +273,11 @@ DORMANT COMPONENTS:
 Respond in JSON:
 {{
   "name": "<stance name>",
-  "description": "<what this stance CAN DO>",
+  "description": "<what this stance enables>",
   "components_to_activate": ["<component names>"],
-  "affect_register": "<the felt-sense>"
+  "affect_register": "<2-3 word evocative name for the felt-sense>",
+  "affect_description": "<what this affect FEELS LIKE from inside - sensations, textures, emotional qualities>",
+  "embodiment": "<HOW to enact: body (breath, posture), equipment/tools, environment/space/others, and attention>"
 }}"""
 
         try:
@@ -284,7 +285,7 @@ Respond in JSON:
                 prompt,
                 generation_config=genai.types.GenerationConfig(
                     temperature=0.6,
-                    max_output_tokens=500
+                    max_output_tokens=1000
                 )
             )
             
@@ -302,7 +303,9 @@ Respond in JSON:
                 description=data["description"],
                 core_components=data["components_to_activate"],
                 active_weights={c: 0.8 for c in data["components_to_activate"]},
-                affect_register=data["affect_register"]
+                affect_register=data["affect_register"],
+                affect_description=data.get("affect_description", ""),
+                embodiment=data.get("embodiment", "")
             )
             
         except Exception:
@@ -379,7 +382,9 @@ Respond in JSON:
                     "name": proposed.name,
                     "description": proposed.description,
                     "affect": proposed.affect_register,
+                    "affect_description": proposed.affect_description,
                     "components": proposed.core_components,
+                    "embodiment": proposed.embodiment,
                     "feedback": feedback,
                 })
                 
@@ -474,7 +479,7 @@ def generate_report(
         "",
         "| Parameter | Value |",
         "|-----------|-------|",
-        f"| Critic Mode | {sim.critic.config.mode} |",
+        f"| Muse | {sim.muse or 'random'} |",
         f"| Environment Stability | {sim.env_config.stability} |",
         f"| Force Novelty | {sim.force_novelty} |",
         f"| Per-Encounter Components | {sim.use_vector_store} |",
@@ -528,12 +533,33 @@ def generate_report(
                         f"**Components**: {component_list}",
                         "",
                     ])
-                lines.extend([
-                    f"**Affect**: \"{p['affect']}\"",
-                    "",
-                ])
-                if p["feedback"]:
-                    lines.append(f"> Critic: {p['feedback'].reasoning}")
+                # Add embodiment instructions if available
+                if p.get("embodiment"):
+                    lines.extend([
+                        "**How to Embody**:",
+                        f"> {p['embodiment']}",
+                        "",
+                    ])
+                # Add affect with description
+                affect_line = f"**Affect**: \"{p['affect']}\""
+                if p.get("affect_description"):
+                    lines.extend([
+                        affect_line,
+                        f"> {p['affect_description']}",
+                        "",
+                    ])
+                else:
+                    lines.extend([affect_line, ""])
+                # Add dimensional analysis if available
+                if p["feedback"] and hasattr(p["feedback"], 'dimensions') and p["feedback"].dimensions:
+                    lines.append("##### Dimensional Analysis")
+                    lines.append("")
+                    for dim in p["feedback"].dimensions:
+                        lines.append(f"- **{dim.dimension}**: {dim.insight}")
+                    lines.append("")
+                # Add synthesis
+                if p["feedback"] and p["feedback"].reasoning:
+                    lines.append(f"> **Synthesis**: {p['feedback'].reasoning}")
                     lines.append("")
         
         lines.extend([

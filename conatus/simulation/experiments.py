@@ -9,7 +9,7 @@ import os
 
 from conatus.simulation import (
     ConatusAgent, Simulation,
-    EnvironmentConfig, CriticConfig,
+    EnvironmentConfig,
     generate_report
 )
 from conatus.simulation.agent import FunctionalComponent, Stance
@@ -70,7 +70,6 @@ def create_agent(
 
 def run_simulation(
     context: str = "forge",
-    critic_mode: str = "materialist",
     muse: str = None,
     encounters: List[str] = None,
     force_novelty: bool = True,
@@ -82,8 +81,7 @@ def run_simulation(
     
     Args:
         context: Environment context (forge, dance, arena, etc.)
-        critic_mode: Super-ego mode (deleuze, barthes, nietzschean, etc.)
-        muse: Inspirational generator (whitman, nietzsche, bataille, serres, etc.)
+        muse: Inspirational generator (whitman, nietzsche, bataille, serres, rilke, etc.)
               If None, a random muse is selected per step.
         encounters: List of challenges. If None, uses defaults.
         force_novelty: If True, always generate new stances.
@@ -112,26 +110,24 @@ def run_simulation(
     sim = Simulation(
         agent=agent,
         env_config=EnvironmentConfig.for_context(context),
-        critic_config=CriticConfig(mode=critic_mode),
         force_novelty=force_novelty,
         use_vector_store=use_vector_store,
         muse=muse,
     )
     
-    muse_str = f" / {muse}" if muse else ""
-    print(f"\nRunning simulation: {context} / {critic_mode}{muse_str}...")
+    muse_name = muse or "random"
+    print(f"\nRunning simulation: {context} / {muse_name}...")
     sim.run(encounters)
     
     # Generate report
-    timestamp = os.path.getmtime(__file__) # Use file access time just for uniqueness or standard ts
     import time
-    filename = f"{context}_{critic_mode}_{int(time.time())}.md"
+    filename = f"{context}_{muse_name}_{int(time.time())}.md"
     path = os.path.join(output_dir, context, filename)
     
     generate_report(
         sim,
-        f"{context.title()}: {critic_mode.title()} Critique",
-        f"Context: {context}. Critic: {critic_mode}. Force Novelty: {force_novelty}",
+        f"{context.title()}: {muse_name.title()} Muse",
+        f"Context: {context}. Muse: {muse_name}. Force Novelty: {force_novelty}",
         path
     )
     
@@ -144,7 +140,7 @@ if __name__ == "__main__":
     # Example run
     run_simulation(
         context="forge",
-        critic_mode="nietzschean",
+        muse="nietzsche",
         encounters=["Heavy lift failed", "Injury occurred"],
         output_dir="conatus/simulation/results"
     )

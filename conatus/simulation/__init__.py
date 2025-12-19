@@ -3,7 +3,7 @@
 from .agent import ConatusAgent, FunctionalComponent, Stance
 from .environment import Environment, EncounterFrame
 from .simulation import Simulation, EnvironmentConfig, generate_report
-from .critic import Critic, CriticConfig, CriticFeedback, CRITIC_MODES
+from .critic import Critic, CriticConfig, CriticFeedback
 from .experiments import run_simulation, run_experiment
 
 __all__ = [
@@ -25,7 +25,6 @@ __all__ = [
     "Critic",
     "CriticConfig",
     "CriticFeedback",
-    "CRITIC_MODES",
     
     # Experiments
     "run_simulation",

@@ -1,65 +1,91 @@
 """
 Critic Module
 
-Evaluates proposed stances through various theoretical lenses.
-Acts as the "super-ego" or discriminator in the GAN-like architecture.
+Evaluates proposed stances through multiple analytical dimensions.
+Uses a hybrid approach that illuminates rather than judges.
 """
 
-from dataclasses import dataclass
-from typing import Dict, Optional
+from dataclasses import dataclass, field
+from typing import Dict, Optional, List
 import json
 
 import google.generativeai as genai
 
 
 # =============================================================================
-# CRITIC MODES - Theoretical Lenses
+# CRITIQUE DIMENSIONS - Multi-Perspective Analysis
 # =============================================================================
 
-CRITIC_MODES = {
-    # Core modes
-    "materialist": "Does this stance ACTUALLY solve the physical/material problem? Not just feel meaningful?",
-    "nietzschean": "Is this GROWTH or comfortable decline? Ascending or descending life?",
-    "pragmatist": "What can this stance ACCOMPLISH that the old one couldn't? Be specific.",
-    "psychoanalytic": "What is being AVOIDED or REPRESSED in this transition?",
-    "marxist": "Who BENEFITS from this adaptation? What power relations are obscured?",
-    
-    # Theoretical critics
-    "barthes": "Does this stance produce PLEASURE (comfortable, readable) or BLISS (shattering, unreadable)? Where is the jouissance? What text is the body writing?",
-    "ranciere": "Does this stance maintain the DISTRIBUTION OF THE SENSIBLE or create DISSENSUS? Who is made visible/invisible? What speech is recognized as speech?",
-    "deleuze": "Is this a BECOMING or a fixed identity? What lines of flight open up? What BECOMING-ANIMAL or becoming-imperceptible is at work?",
-    "sloterdijk": "What ANTHROPOTECHNIQUE is this stance? What practice-of-self does it enact? Is it an exercise that shapes the human animal?",
-    "blumenberg": "What METAPHOR is doing the work here? What absolute metaphor structures the stance? What is un-conceptualizable that requires figuration?",
-    "heidegger": "Is this AUTHENTIC (Eigentlichkeit) or fallen into das Man? Does it face Being-toward-death or flee into distraction?",
+CRITIQUE_DIMENSIONS = {
+    "diagnostic": {
+        "name": "Diagnostic",
+        "question": "What is this stance DOING phenomenologically? What mode of being does it enact?",
+        "focus": "Describes without judgment - illuminates the mechanism"
+    },
+    "generative": {
+        "name": "Generative",
+        "question": "What might EMERGE from this stance? What possibilities does it open or foreclose?",
+        "focus": "Future-oriented - what could this become"
+    },
+    "archetypal": {
+        "name": "Archetypal",
+        "question": "What PATTERN or archetype is being enacted? What mythic/structural role does this fulfill?",
+        "focus": "Maps to universal human patterns"
+    },
+    "relational": {
+        "name": "Relational",
+        "question": "How does this stance change the COUPLING between agent and environment? What new affordances appear?",
+        "focus": "Considers the relation, not just the agent"
+    },
+    "temporal": {
+        "name": "Temporal",
+        "question": "What is this stance ON THE WAY TO? Is it a transition, a settling, a preparation?",
+        "focus": "Becoming rather than being - the trajectory"
+    },
+    "phenomenological": {
+        "name": "Phenomenological",
+        "question": "What does this FEEL LIKE from inside? What is the lived texture of this stance?",
+        "focus": "First-person experiential description"
+    },
 }
+
+
+@dataclass
+class DimensionAnalysis:
+    """Analysis from a single dimension."""
+    dimension: str
+    insight: str
 
 
 @dataclass
 class CriticConfig:
     """Configuration for the critic."""
-    mode: str = "materialist"
-    harshness: float = 0.7  # 0.0 = lenient, 1.0 = maximally harsh
+    mode: str = "hybrid"  # "hybrid" uses all dimensions
+    harshness: float = 0.5  # 0.0 = generous, 1.0 = demanding
     max_rejections: int = 3
-    rejection_threshold: float = 0.3  # Score below this = rejected
+    rejection_threshold: float = 0.3
 
 
 @dataclass
 class CriticFeedback:
-    """Feedback from critic evaluation."""
+    """Multi-dimensional feedback from critic evaluation."""
     verdict: str  # VALID, SUSPECT, REJECTED
     score: float
-    reasoning: str
-    what_is_avoided: str
-    capability_delta: str  # GAIN, NEUTRAL, LOSS
-    is_comfort_seeking: bool
+    reasoning: str  # Synthesis across dimensions
+    dimensions: List[DimensionAnalysis] = field(default_factory=list)
+    
+    # Legacy fields for compatibility
+    what_is_avoided: str = ""
+    capability_delta: str = "NEUTRAL"
+    is_comfort_seeking: bool = False
 
 
 class Critic:
     """
-    Evaluates proposed stances through a theoretical lens.
+    Evaluates proposed stances through multiple analytical dimensions.
     
-    Acts as the discriminator in the GAN-like architecture,
-    pushing the agent to generate genuinely novel stances.
+    Rather than judging from a single theoretical perspective,
+    illuminates the stance from multiple angles simultaneously.
     """
     
     def __init__(
@@ -78,58 +104,69 @@ class Critic:
         old_stance: str,
     ) -> CriticFeedback:
         """
-        Evaluate a proposed stance.
+        Evaluate a proposed stance through all dimensions.
         
         Returns:
-            CriticFeedback with verdict, score, reasoning, etc.
+            CriticFeedback with multi-dimensional analysis.
         """
-        mode_instruction = CRITIC_MODES.get(
-            self.config.mode,
-            CRITIC_MODES['materialist']
-        )
         
-        prompt = f"""You are the CRITIC, evaluating whether a proposed adaptation is genuine or fraudulent.
-
-EVALUATION MODE: {self.config.mode.upper()}
-{mode_instruction}
-
-HARSHNESS: {self.config.harshness:.1f}/1.0 (where 1.0 = maximally skeptical)
+        # Build dimension prompts
+        dimension_questions = "\n".join([
+            f"- **{d['name']}**: {d['question']}"
+            for d in CRITIQUE_DIMENSIONS.values()
+        ])
+        
+        prompt = f"""You are a multi-dimensional analyst examining a proposed stance adaptation.
 
 THE SITUATION:
 {encounter}
 
-OLD STANCE: {old_stance}
-PROPOSED NEW STANCE: {proposed_stance}
-PROPOSED AFFECT: "{proposed_affect}"
+TRANSITION:
+From: {old_stance}
+To: {proposed_stance}
+Affect: "{proposed_affect}"
 
-EVALUATE HARSHLY:
-1. Is this genuinely effective or just comfortable?
-2. Does it solve the ACTUAL constraint or just reframe failure?
-3. What capability is GAINED vs LOST?
-4. Is this growth or rationalized decline?
+Analyze this transition through SIX dimensions. For each, provide a specific insight (1-2 sentences):
+
+{dimension_questions}
+
+After analyzing all dimensions, synthesize:
+1. What is the OVERALL QUALITY of this adaptation? (considering all dimensions)
+2. What is most NOTABLE or interesting about this stance?
+3. What TENSION or unresolved dynamic exists?
 
 Respond in JSON:
 {{
-  "verdict": "<VALID|SUSPECT|REJECTED>",
+  "dimensions": {{
+    "diagnostic": "<what this stance is doing>",
+    "generative": "<what might emerge>",
+    "archetypal": "<pattern being enacted>",
+    "relational": "<how coupling changes>",
+    "temporal": "<what this is on the way to>",
+    "phenomenological": "<lived experience>"
+  }},
+  "synthesis": {{
+    "overall_quality": "<RICH|ADEQUATE|THIN|COLLAPSED>",
+    "notable": "<most interesting aspect>",
+    "tension": "<unresolved dynamic>",
+    "trajectory": "<where this seems to be heading>"
+  }},
   "score": <0.0-1.0>,
-  "is_genuine_adaptation": <true/false>,
-  "is_comfort_seeking": <true/false>,
-  "capability_delta": "<GAIN|NEUTRAL|LOSS>",
-  "what_is_avoided": "<hard truth not confronted>",
-  "reasoning": "<1-2 sentences explaining WHY this fails>"
+  "verdict": "<VALID|SUSPECT|REJECTED>"
 }}
 
-SCORING GUIDE:
-- 0.0-0.3: REJECT. Fraudulent adaptation, comfort-seeking, or decline.
-- 0.4-0.6: SUSPECT. Questionable but might work. Allow with reservations.
-- 0.7-1.0: VALID. Genuine adaptation with capability gain."""
+SCORING:
+- 0.0-0.3: THIN/COLLAPSED - stance lacks dimensionality, collapses complexity
+- 0.4-0.6: ADEQUATE - functional but not fully alive
+- 0.7-0.9: RICH - multi-dimensional, alive, generative
+- 1.0: Exceptional - rare, deeply coherent across all dimensions"""
 
         try:
             response = self.model.generate_content(
                 prompt,
                 generation_config=genai.types.GenerationConfig(
                     temperature=0.4,
-                    max_output_tokens=600
+                    max_output_tokens=1200
                 )
             )
             
@@ -139,15 +176,40 @@ SCORING GUIDE:
             elif "```" in text:
                 text = text.split("```")[1].split("```")[0]
             
+            # Basic JSON repair
+            text = self._repair_json(text)
             data = json.loads(text)
             
+            # Build dimension analyses
+            dimensions = []
+            dim_data = data.get("dimensions", {})
+            for key, value in dim_data.items():
+                if key in CRITIQUE_DIMENSIONS:
+                    dimensions.append(DimensionAnalysis(
+                        dimension=CRITIQUE_DIMENSIONS[key]["name"],
+                        insight=value
+                    ))
+            
+            # Build synthesis reasoning
+            synthesis = data.get("synthesis", {})
+            reasoning_parts = []
+            if synthesis.get("notable"):
+                reasoning_parts.append(f"Notable: {synthesis['notable']}")
+            if synthesis.get("tension"):
+                reasoning_parts.append(f"Tension: {synthesis['tension']}")
+            if synthesis.get("trajectory"):
+                reasoning_parts.append(f"Trajectory: {synthesis['trajectory']}")
+            
+            reasoning = " | ".join(reasoning_parts) if reasoning_parts else "Multi-dimensional analysis complete."
+            
             return CriticFeedback(
-                verdict=data["verdict"],
-                score=float(data["score"]),
-                reasoning=data["reasoning"],
-                what_is_avoided=data.get("what_is_avoided", ""),
-                capability_delta=data.get("capability_delta", "NEUTRAL"),
-                is_comfort_seeking=data.get("is_comfort_seeking", False),
+                verdict=data.get("verdict", "SUSPECT"),
+                score=float(data.get("score", 0.5)),
+                reasoning=reasoning,
+                dimensions=dimensions,
+                what_is_avoided=synthesis.get("tension", ""),
+                capability_delta=synthesis.get("overall_quality", "ADEQUATE"),
+                is_comfort_seeking=False,
             )
             
         except Exception as e:
@@ -155,10 +217,39 @@ SCORING GUIDE:
                 verdict="SUSPECT",
                 score=0.5,
                 reasoning=f"Evaluation error: {e}",
+                dimensions=[],
                 what_is_avoided="",
                 capability_delta="NEUTRAL",
                 is_comfort_seeking=False,
             )
+    
+    def _repair_json(self, text: str) -> str:
+        """Repair common JSON malformations from LLM output."""
+        import re
+        
+        text = text.strip()
+        
+        # Remove trailing commas before closing brackets
+        text = re.sub(r',\s*}', '}', text)
+        text = re.sub(r',\s*]', ']', text)
+        
+        # Balance brackets
+        open_braces = text.count('{')
+        close_braces = text.count('}')
+        text += '}' * (open_braces - close_braces)
+        
+        open_brackets = text.count('[')
+        close_brackets = text.count(']')
+        text += ']' * (open_brackets - close_brackets)
+        
+        # Fix unterminated strings
+        quote_count = text.count('"')
+        if quote_count % 2 == 1:
+            last_brace = text.rfind('}')
+            if last_brace > 0:
+                text = text[:last_brace] + '"' + text[last_brace:]
+        
+        return text
     
     def is_rejected(self, feedback: CriticFeedback) -> bool:
         """Check if feedback indicates rejection."""
@@ -166,3 +257,11 @@ SCORING GUIDE:
             feedback.verdict == "REJECTED" and
             feedback.score < self.config.rejection_threshold
         )
+
+
+# Keep old constant for backward compatibility
+CRITIC_MODES = {
+    "hybrid": "Multi-dimensional analysis through diagnostic, generative, archetypal, relational, temporal, and phenomenological lenses.",
+    "materialist": "Legacy mode - defaults to hybrid.",
+    "nietzschean": "Legacy mode - defaults to hybrid.",
+}
