@@ -136,11 +136,121 @@ def run_simulation(
 # Alias for backward compatibility
 run_experiment = run_simulation
 
-if __name__ == "__main__":
-    # Example run
-    run_simulation(
-        context="forge",
-        muse="nietzsche",
-        encounters=["Heavy lift failed", "Injury occurred"],
-        output_dir="conatus/simulation/results"
+
+# =============================================================================
+# BIOGRAPHY RUNNER (LONGITUDINAL SIMULATION)
+# =============================================================================
+
+def run_biography(
+    name: str = "Anonymous Subject",
+    starting_age: int = 22,
+    starting_institution: str = "phd_program",
+    num_phases: int = 5,
+    muse: str = None,
+    narrative_mode: str = None,  # "tragedy", "comedy", "redemption", etc.
+    output_dir: str = "conatus/simulation/results/biographies",
+) -> str:
+    """
+    Run a longitudinal life simulation spanning years/decades.
+    
+    This extends the single-encounter simulation to track:
+    - Habitus formation (repeated stances → dispositions)
+    - Wounds from failures
+    - Phase transitions through career/life stages
+    - Accumulating repertoire
+    - Relationships with significant Others
+    - Narrative arc (tragedy/comedy/redemption/etc.)
+    
+    Args:
+        name: Name of the simulated subject
+        starting_age: Age at simulation start
+        starting_institution: Initial life context (from institutions.py)
+        num_phases: Number of life phases to simulate
+        muse: Inspirational generator for stance naming
+        narrative_mode: Optional narrative arc ("tragedy", "comedy", "romance", 
+                       "satire", "bildung", "redemption")
+        output_dir: Where to save the biography report
+        
+    Returns:
+        Path to generated biography report.
+    """
+    from conatus.simulation.biography import (
+        Biography, LifePhase, PhaseArc, generate_biography_report
     )
+    from conatus.simulation.institutions import get_institution, INSTITUTIONS
+    
+    # Get starting institution
+    inst = get_institution(starting_institution)
+    if not inst:
+        available = ", ".join(INSTITUTIONS.keys())
+        raise ValueError(f"Unknown institution: {starting_institution}. Available: {available}")
+    
+    # Create initial phase from institution
+    initial_phase = LifePhase(
+        name=f"Early {inst.name}",
+        institution=starting_institution,
+        age_start=starting_age,
+        arc=PhaseArc.ASCENT,
+        central_commitments=inst.expected_stances[:2],
+        encounter_types=inst.encounter_patterns[:4],
+    )
+    
+    # Create and run biography
+    bio = Biography(
+        name=name,
+        starting_age=starting_age,
+        context=starting_institution,
+        muse=muse,
+        narrative_mode=narrative_mode,
+    )
+    
+    print(f"\n{'='*60}")
+    print(f"BIOGRAPHY SIMULATION: {name}")
+    print(f"Starting age: {starting_age}, Institution: {starting_institution}")
+    print(f"Phases: {num_phases}, Muse: {muse or 'random'}")
+    if narrative_mode:
+        print(f"Narrative Arc: {narrative_mode.upper()}")
+    print(f"{'='*60}")
+    
+    bio.run_biography(initial_phase, num_phases=num_phases)
+    
+    # Generate report
+    import time
+    filename = f"{name.lower().replace(' ', '_')}_{int(time.time())}.md"
+    path = os.path.join(output_dir, filename)
+    
+    generate_biography_report(bio, path)
+    
+    # Summary
+    print(f"\n{'='*60}")
+    print(f"BIOGRAPHY COMPLETE")
+    print(f"Final age: {bio.state.current_age:.0f}")
+    print(f"Phases: {len(bio.phase_records)}")
+    print(f"Repertoire: {len(bio.state.repertoire)} stances")
+    print(f"Wounds: {len(bio.state.wounds)}")
+    print(f"Report: {path}")
+    print(f"{'='*60}")
+    
+    return path
+
+
+if __name__ == "__main__":
+    import sys
+    
+    # Check for biography mode
+    if len(sys.argv) > 1 and sys.argv[1] == "biography":
+        run_biography(
+            name="Test Subject",
+            starting_institution="phd_program",
+            num_phases=4,
+            muse="serres",
+        )
+    else:
+        # Default: single simulation
+        run_simulation(
+            context="forge",
+            muse="nietzsche",
+            encounters=["Heavy lift failed", "Injury occurred"],
+            output_dir="conatus/simulation/results"
+        )
+
