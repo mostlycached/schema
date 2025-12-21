@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assemblage Network Navigator</title>
+    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            height: 100vh;
+            background: #1a1a2e;
+            color: #eee;
+        }
+
+        #network-container {
+            flex: 1;
+            border-right: 2px solid #16213e;
+        }
+
+        #info-panel {
+            width: 400px;
+            padding: 20px;
+            overflow-y: auto;
+            background: #0f3460;
+        }
+
+        #info-panel h2 {
+            margin-top: 0;
+            color: #e94560;
+            border-bottom: 2px solid #e94560;
+            padding-bottom: 10px;
+        }
+
+        .section {
+            margin: 15px 0;
+            padding: 10px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 5px;
+        }
+
+        .section h3 {
+            margin: 0 0 10px 0;
+            color: #00adb5;
+            font-size: 14px;
+            text-transform: uppercase;
+        }
+
+        .intensity-bar {
+            margin: 5px 0;
+        }
+
+        .intensity-bar .label {
+            display: inline-block;
+            width: 120px;
+            font-size: 12px;
+        }
+
+        .intensity-bar .bar-container {
+            display: inline-block;
+            width: 200px;
+            height: 20px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 3px;
+            overflow: hidden;
+        }
+
+        .intensity-bar .bar-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #00adb5, #e94560);
+            transition: width 0.3s ease;
+        }
+
+        .tag {
+            display: inline-block;
+            padding: 3px 8px;
+            margin: 3px;
+            background: rgba(233, 69, 96, 0.2);
+            border: 1px solid #e94560;
+            border-radius: 3px;
+            font-size: 11px;
+        }
+
+        .controls {
+            padding: 10px;
+            background: #16213e;
+            text-align: center;
+        }
+
+        button {
+            padding: 8px 15px;
+            margin: 5px;
+            background: #e94560;
+            border: none;
+            color: white;
+            cursor: pointer;
+            border-radius: 3px;
+            font-size: 12px;
+        }
+
+        button:hover {
+            background: #c23b51;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="network-container"></div>
+    <div id="info-panel">
+        <h2>Assemblage Navigator</h2>
+        <div id="node-info">
+            <p style="color: #888;">Click on a node to view details</p>
+        </div>
+    </div>
+
+    <div class="controls">
+        <button onclick="network.fit()">Fit View</button>
+        <button onclick="togglePhysics()">Toggle Physics</button>
+        <button onclick="loadData()">Reload Data</button>
+    </div>
+
+    <script>
+        let network;
+        let physicsEnabled = true;
+        let assemblageData = {}; // Will store full assemblage details
+
+        function loadData() {
+            // Load the network JSON
+            fetch('example_network.json')
+                .then(response => response.json())
+                .then(data => {
+                    initializeNetwork(data);
+                })
+                .catch(err => {
+                    console.error('Error loading network:', err);
+                    // Fallback to embedded example data
+                    loadEmbeddedData();
+                });
+        }
+
+        function loadEmbeddedData() {
+            // Embedded example data (fallback)
+            const data = {
+                "nodes": [
+                    { "id": "person", "label": "Alex", "type": "person", "size": 30 },
+                    { "id": "asm_0", "label": "Professional", "type": "assemblage", "size": 20, "stratification": 0.7 },
+                    { "id": "asm_1", "label": "Creative", "type": "assemblage", "size": 20, "stratification": 0.3 },
+                    { "id": "asm_2", "label": "Athletic", "type": "assemblage", "size": 20, "stratification": 0.4 },
+                    { "id": "comp_Hands", "label": "Hands", "type": "component", "size": 15 },
+                    { "id": "comp_Eyes", "label": "Eyes", "type": "component", "size": 15 }
+                ],
+                "edges": [
+                    { "source": "person", "target": "asm_0", "type": "plugs_into" },
+                    { "source": "person", "target": "asm_1", "type": "plugs_into" },
+                    { "source": "person", "target": "asm_2", "type": "plugs_into" },
+                    { "source": "asm_0", "target": "comp_Hands", "type": "uses" },
+                    { "source": "asm_1", "target": "comp_Hands", "type": "uses" },
+                    { "source": "asm_0", "target": "comp_Eyes", "type": "uses" },
+                    { "source": "asm_1", "target": "comp_Eyes", "type": "uses" },
+                    { "source": "asm_2", "target": "comp_Eyes", "type": "uses" }
+                ]
+            };
+            initializeNetwork(data);
+        }
+
+        function initializeNetwork(data) {
+            const container = document.getElementById('network-container');
+
+            // Convert to vis.js format
+            const nodes = new vis.DataSet(data.nodes.map(node => {
+                const opacity = node.opacity || 1.0;
+                const depth = node.depth || 0;
+
+                return {
+                    id: node.id,
+                    label: node.label + (depth > 0 ? ` (Future ${depth})` : ''),
+                    shape: node.type === 'person' ? 'star' :
+                        node.type === 'assemblage' ? 'box' :
+                            node.type === 'transversal_line' ? 'diamond' :
+                                node.type === 'synergistic_line' ? 'hexagon' : 'ellipse',
+                    color: getNodeColor(node.type, node.stratification, opacity),
+                    size: node.size || 20,
+                    font: {
+                        color: depth > 0 ? '#ccc' : '#fff',
+                        size: (node.type === 'transversal_line' || node.type === 'synergistic_line') ? 11 : 14
+                    },
+                    opacity: opacity,
+                    borderWidth: depth > 0 ? 1 : 2,
+                    borderWidthSelected: depth > 0 ? 2 : 4,
+                    meta: node
+                };
+            }));
+
+            const edges = new vis.DataSet(data.edges.map(edge => {
+                const depth = edge.depth || 0;
+                const opacity = depth === 0 ? 1.0 : depth === 1 ? 0.6 : 0.3;
+
+                return {
+                    from: edge.source,
+                    to: edge.target,
+                    arrows: edge.type === 'plugs_into' ? 'to' : '',
+                    dashes: edge.type === 'uses' || edge.type === 'generates' || edge.type === 'composes' || depth > 0,
+                    color: {
+                        color: edge.type === 'plugs_into' ? '#e94560' :
+                            edge.type === 'generates' ? '#ff6b6b' :
+                                edge.type === 'composes' ? '#00d4aa' : '#00adb5',
+                        opacity: opacity
+                    },
+                    width: (edge.type === 'generates' || edge.type === 'composes' || depth > 0) ? 1 : 2
+                };
+            }));
+
+            const graphData = { nodes, edges };
+
+            const options = {
+                physics: {
+                    enabled: true,
+                    barnesHut: {
+                        gravitationalConstant: -2000,
+                        centralGravity: 0.3,
+                        springLength: 150,
+                        springConstant: 0.04
+                    }
+                },
+                interaction: {
+                    hover: true,
+                    tooltipDelay: 200,
+                    navigationButtons: true,
+                    keyboard: true
+                },
+                nodes: {
+                    borderWidth: 2,
+                    borderWidthSelected: 4
+                }
+            };
+
+            network = new vis.Network(container, graphData, options);
+
+            // Event handlers
+            network.on('click', function (params) {
+                if (params.nodes.length > 0) {
+                    const nodeId = params.nodes[0];
+                    const node = nodes.get(nodeId);
+                    displayNodeInfo(node);
+                }
+            });
+        }
+
+        function getNodeColor(type, stratification, opacity = 1.0) {
+            let baseColor;
+            if (type === 'person') baseColor = { background: '#e94560', border: '#c23b51' };
+            else if (type === 'component') baseColor = { background: '#00adb5', border: '#007d84' };
+            else if (type === 'transversal_line') baseColor = { background: '#ff6b6b', border: '#e74c3c' };
+            else if (type === 'synergistic_line') baseColor = { background: '#00d4aa', border: '#00a884' };
+            else if (type === 'assemblage') {
+                const hue = stratification * 60;
+                baseColor = {
+                    background: `hsl(${hue}, 70%, 50%)`,
+                    border: `hsl(${hue}, 70%, 35%)`
+                };
+            }
+            else baseColor = { background: '#888', border: '#555' };
+
+            // Apply opacity
+            if (opacity < 1.0) {
+                // Convert hex or hsl background to rgba if needed, or append alpha to hex
+                // For simplicity, assuming baseColor.background is a hex or hsl that can be combined with alpha
+                // This is a simplified approach and might need more robust color parsing for all cases.
+                // For hex colors, append the alpha. For HSL, convert to RGBA.
+                // Given the current HSL format, we'll convert to RGBA.
+                if (baseColor.background.startsWith('hsl')) {
+                    // Extract HSL values
+                    const hslMatch = baseColor.background.match(/hsl\((\d+),\s*(\d+)%,\s*(\d+)%\)/);
+                    if (hslMatch) {
+                        const h = parseInt(hslMatch[1]);
+                        const s = parseInt(hslMatch[2]);
+                        const l = parseInt(hslMatch[3]);
+                        return {
+                            background: `hsla(${h}, ${s}%, ${l}%, ${opacity})`,
+                            border: baseColor.border
+                        };
+                    }
+                } else if (baseColor.background.startsWith('#')) {
+                    // For hex colors, append alpha as 2-digit hex
+                    const alphaHex = Math.round(opacity * 255).toString(16).padStart(2, '0');
+                    return {
+                        background: baseColor.background + alphaHex,
+                        border: baseColor.border
+                    };
+                }
+            }
+            return baseColor;
+        }
+
+        function displayNodeInfo(node) {
+            const panel = document.getElementById('node-info');
+            const meta = node.meta;
+
+            let html = `<h2>${meta.label}</h2>`;
+            html += `<div class="section"><h3>Type</h3>${meta.type}</div>`;
+
+            if (meta.type === 'assemblage') {
+                // Abstract Machine
+                if (meta.abstract_machine) {
+                    html += `<div class="section">`;
+                    html += `<h3>Abstract Machine</h3>`;
+                    html += `<p style="font-style: italic; font-size: 12px;">${meta.abstract_machine}</p>`;
+                    html += `</div>`;
+                }
+
+                // Stratification
+                html += `<div class="section">`;
+                html += `<h3>Stratification</h3>`;
+                html += `<div class="intensity-bar">`;
+                html += `<span class="label">Depth</span>`;
+                html += `<div class="bar-container">`;
+                html += `<div class="bar-fill" style="width: ${meta.stratification * 100}%"></div>`;
+                html += `</div></div>`;
+                html += `<p style="font-size: 11px; color: #888;">`;
+                html += meta.stratification > 0.7 ? 'Rigid' : meta.stratification < 0.4 ? 'Fluid' : 'Mixed';
+                html += `</p></div>`;
+
+                // Territories
+                if (meta.territories && meta.territories.length > 0) {
+                    html += `<div class="section"><h3>Territories</h3>`;
+                    meta.territories.forEach(t => {
+                        html += `<div style="margin: 5px 0; font-size: 12px;">`;
+                        html += `<strong>${t.name}</strong> <span class="tag">${t.space_type}</span><br>`;
+                        html += `<span style="color: #888;">${t.function}</span>`;
+                        html += `</div>`;
+                    });
+                    html += `</div>`;
+                }
+
+                // Codes
+                if (meta.codes && meta.codes.length > 0) {
+                    html += `<div class="section"><h3>Codes</h3>`;
+                    const molar = meta.codes.filter(c => c.level === 'molar');
+                    const molecular = meta.codes.filter(c => c.level === 'molecular');
+
+                    if (molar.length > 0) {
+                        html += `<p style="font-size: 10px; color: #00adb5;">MOLAR (Visible)</p>`;
+                        molar.forEach(c => {
+                            html += `<div style="font-size: 11px; margin: 3px 0;">• ${c.name}</div>`;
+                        });
+                    }
+
+                    if (molecular.length > 0) {
+                        html += `<p style="font-size: 10px; color: #e94560; margin-top: 8px;">MOLECULAR (Invisible)</p>`;
+                        molecular.forEach(c => {
+                            html += `<div style="font-size: 11px; margin: 3px 0;">• ${c.name}</div>`;
+                        });
+                    }
+                    html += `</div>`;
+                }
+
+                // Intensity Field
+                if (meta.intensity_field && Object.keys(meta.intensity_field).length > 0) {
+                    html += `<div class="section"><h3>Intensity Field (BwO)</h3>`;
+                    Object.entries(meta.intensity_field).forEach(([key, val]) => {
+                        html += `<div class="intensity-bar">`;
+                        html += `<span class="label">${key}</span>`;
+                        html += `<div class="bar-container">`;
+                        html += `<div class="bar-fill" style="width: ${val * 100}%"></div>`;
+                        html += `</div></div>`;
+                    });
+                    html += `</div>`;
+                }
+
+                // Becoming Vectors
+                if (meta.becoming_vectors && meta.becoming_vectors.length > 0) {
+                    html += `<div class="section"><h3>Becoming Vectors</h3>`;
+                    meta.becoming_vectors.forEach(bv => {
+                        html += `<span class="tag">${bv}</span>`;
+                    });
+                    html += `</div>`;
+                }
+
+                // Lines of Flight
+                if (meta.lines_of_flight && meta.lines_of_flight.length > 0) {
+                    html += `<div class="section"><h3>Lines of Flight</h3>`;
+                    meta.lines_of_flight.forEach(lof => {
+                        html += `<div style="margin: 10px 0; padding: 8px; background: rgba(233,69,96,0.1); border-left: 3px solid #e94560; border-radius: 3px;">`;
+                        html += `<div style="font-weight: bold; font-size: 12px;">→ ${lof.direction}</div>`;
+                        html += `<div style="font-size: 10px; color: #00adb5; margin-top: 3px;">SOURCE: ${lof.source_type}</div>`;
+                        html += `<div style="font-size: 10px; color: #888; margin-top: 3px;">${lof.source_description}</div>`;
+                        if (lof.trigger_conditions) {
+                            html += `<div style="font-size: 10px; color: #888; margin-top: 3px; font-style: italic;">Trigger: ${lof.trigger_conditions}</div>`;
+                        }
+                        html += `</div>`;
+                    });
+                    html += `</div>`;
+                }
+
+                // Virtual Capacities
+                if (meta.virtual_capacities && meta.virtual_capacities.length > 0) {
+                    html += `<div class="section"><h3>Virtual Capacities</h3>`;
+                    html += `<p style="font-size: 10px; color: #888; margin-bottom: 8px;">Real but unactualized</p>`;
+                    meta.virtual_capacities.forEach(vc => {
+                        html += `<div style="margin: 10px 0; padding: 8px; background: rgba(0,173,181,0.1); border-left: 3px solid #00adb5; border-radius: 3px;">`;
+                        html += `<div style="font-weight: bold; font-size: 12px;">${vc.name}</div>`;
+                        html += `<div style="font-size: 10px; color: #e94560; margin-top: 3px;">ACCESS: ${vc.access_point}</div>`;
+                        html += `<div style="font-size: 10px; color: #888; margin-top: 3px;">Unactualized: ${vc.reason_unactualized}</div>`;
+                        if (vc.actualization_trigger) {
+                            html += `<div style="font-size: 10px; color: #888; margin-top: 3px; font-style: italic;">Trigger: ${vc.actualization_trigger}</div>`;
+                        }
+                        html += `</div>`;
+                    });
+                    html += `</div>`;
+                }
+            }
+
+            if (meta.type === 'component' && meta.shared_by) {
+                html += `<div class="section">`;
+                html += `<h3>Shared By</h3>`;
+                meta.shared_by.forEach(asm => {
+                    html += `<span class="tag">${asm}</span>`;
+                });
+                html += `</div>`;
+            }
+
+            if (meta.type === 'transversal_line' || meta.type === 'synergistic_line') {
+                const typeLabel = meta.type === 'transversal_line' ? 'Conflict-Based' : 'Opportunity-Based';
+                const typeColor = meta.type === 'transversal_line' ? '#e94560' : '#00d4aa';
+
+                html += `<div class="section">`;
+                html += `<h3>Type</h3>`;
+                html += `<p style="color: ${typeColor};">${typeLabel}</p>`;
+                html += `</div>`;
+
+                html += `<div class="section">`;
+                html += `<h3>Source Type</h3>`;
+                html += `<p style="color: ${typeColor};">${meta.source_type}</p>`;
+                html += `</div>`;
+
+                html += `<div class="section">`;
+                html += `<h3>Description</h3>`;
+                html += `<p style="font-size: 12px;">${meta.source_description}</p>`;
+                html += `</div>`;
+
+                if (meta.trigger_conditions) {
+                    html += `<div class="section">`;
+                    html += `<h3>Trigger Conditions</h3>`;
+                    html += `<p style="font-size: 11px; font-style: italic; color: #888;">${meta.trigger_conditions}</p>`;
+                    html += `</div>`;
+                }
+            }
+
+            panel.innerHTML = html;
+        }
+
+        function togglePhysics() {
+            physicsEnabled = !physicsEnabled;
+            network.setOptions({ physics: { enabled: physicsEnabled } });
+        }
+
+        // Initialize on load
+        window.onload = loadData;
+    </script>
+</body>
+
+</html>
