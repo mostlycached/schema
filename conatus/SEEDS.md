@@ -1,244 +1,253 @@
-# Seeds for Lines of Flight: A General Enumeration
+# Seeds: A Catalog of What Has Opened Lines of Flight
 
-> Material and symbolic anchors that could open cracks. Not advice — a taxonomy.
-
----
-
-## Principle
-
-A **line of flight** needs somewhere to go. Without material anchors, deterritorialization becomes abolition. This document enumerates *types* of seeds — concrete things that can serve as entry points, landing zones, or catalysts for experimentation.
-
-The goal: Given any system profile, enumerate what exists that could serve as fuel or ground for molecular becoming.
+> Not a taxonomy from above — examples first, patterns second.
 
 ---
 
-## I. SYMBOLIC SEEDS
+## I. THE ENCOUNTER
 
-Things that operate through meaning, language, representation.
+A specific meeting with a person, work, or situation that reconfigures everything.
 
-### Books / Texts
-Not what to read — categories of what might crack a given stratum:
+### Books That Cracked Worlds
 
-| Category | Function | Example Types |
-|----------|----------|---------------|
-| **Counter-genre** | Works in a mode you don't usually practice | If you read philosophy → poetry, fiction, memoir |
-| **Counter-tradition** | Same discipline but different lineage | If Continental → Analytic, or → non-Western |
-| **Hybrid forms** | Genre-crossers that force new reading | Essay-as-poem, theory-as-memoir, code-as-art |
-| **Practice manuals** | Books that demand you DO something | Exercise books, ritual guides, method texts |
-| **Primary sources** | Unmediated, before commentary | Original texts vs. interpretations |
-| **Affective texts** | Works that operate through feeling not argument | Literature, poetry, sacred texts |
+| Seed | What It Cracked | Who |
+|------|-----------------|-----|
+| Reading **Spinoza** in military school | The entire edifice of transcendence | Deleuze |
+| Finding **Pessoa's Book of Disquiet** in a Paris bookstore | The singular self | — |
+| **Wittgenstein's Tractatus** on a train | Logical positivism (then destroyed it) | Russell |
+| A single line of **Rilke** | "You must change your life" | — |
+| **Borges's "Library of Babel"** | Linear narrative | — |
+| **Simone Weil's Gravity and Grace** | Philosophy as lifestyle | Foucault, Agamben |
+| **Fanon's Wretched of the Earth** | Colonial consciousness | Millions |
+| **The Bible** (any encounter that sticks) | Temporal structure of history | Western culture |
+| **Marx at 17** | The "naturalism" of poverty | — |
+| **Nietzsche at the right age** | Morality | — |
+| **A poem you can't stop thinking about** | The prose-dominance of your mind | — |
 
-### Ideas / Concepts
-Seeds that are purely conceptual but can reconfigure:
+### A Person
 
-| Type | What It Does |
-|------|--------------|
-| **Framework shift** | A different way of cutting up the world |
-| **Counter-value** | An idea that opposes your current dominant value |
-| **Limit concept** | Something your current framework can't think |
-| **Question** | An unresolved problem that generates motion |
+| Seed | What It Cracked | Who |
+|------|-----------------|-----|
+| Meeting **Félix Guattari** at La Borde | Academic philosophy | Deleuze |
+| Studying with **Nadia Boulanger** | Every major American composer had this seed | Copland, Glass, Quincy Jones |
+| **A stranger's offhand comment** | Sometimes more than years of therapy | — |
+| The teacher who said **"you can do this"** | Internalized impossibility | — |
+| The lover who opened **a genre of experience** | Whatever you hadn't accessed | — |
+| The enemy who **clarified what you stood for** | Vagueness | — |
 
----
+### A Performance
 
-## II. INSTITUTIONAL SEEDS
-
-Organized social forms where assemblages happen.
-
-### By Type
-
-| Type | Characteristics | Entry Mode |
-|------|-----------------|------------|
-| **Formal education** | Credentials, structure, hierarchy | Enrollment, extension, audit |
-| **Alternative schools** | Self-directed, experimental | Application, showing up |
-| **Collectives** | Shared identity or function | Joining, being invited |
-| **Workplaces** | Economic exchange | Employment, freelance, contract |
-| **Religious/spiritual** | Shared practice or belief | Attendance, initiation |
-| **Studios/Workshops** | Shared tools/space | Membership, rental |
-| **Libraries/Archives** | Shared resources | Public access, membership |
-| **Venues** | Shared spectatorship or performance | Attendance, participation |
-| **Online spaces** | Distributed, asynchronous | Registration, lurking |
-
-### By Function
-
-| Function | What It Provides |
-|----------|------------------|
-| **Skill acquisition** | Learn to do something |
-| **Resource access** | Tools, materials, space |
-| **Credential** | Legible proof of capacity |
-| **Pack formation** | Find fellow travelers |
-| **Witnessing** | Being seen by others |
-| **Rhythm imposition** | External structure that anchors |
-
----
-
-## III. EVENT SEEDS
-
-Time-bounded occurrences. 
-
-### By Duration
-
-| Duration | Type | Commitment Level |
-|----------|------|------------------|
-| **Hours** | Talk, reading, concert, workshop | Minimal |
-| **Day** | Conference, festival day, retreat day | Low |
-| **Weekend** | Retreat, workshop intensive | Medium |
-| **Week+** | Residency, festival, course | High |
-| **Months** | Program, season, project | Very High |
-
-### By Mode of Participation
-
-| Mode | What It Demands |
+| Seed | What It Cracked |
 |------|-----------------|
-| **Spectator** | Just show up and receive |
-| **Participant** | Active engagement but not central |
-| **Presenter** | You produce something to be witnessed |
-| **Organizer** | You create the container |
-
-### By Repeatability
-
-| Type | Character |
-|------|-----------|
-| **One-off** | Singular, can't be repeated |
-| **Recurring** | Same event, regular schedule |
-| **Serial** | Connected events that build |
-| **Improvised** | Emerges without planning |
+| Hearing **Coltrane live** | What music could be |
+| Seeing **Patti Smith at CBGB's** before fame | The permission structure |
+| A **dance** that reorganized your body | Kinesthetic limitation |
+| **Stand-up comedy** that went somewhere painful | The humor/seriousness divide |
+| Watching **someone do what you wanted to do** | Abstraction → concreteness |
 
 ---
 
-## IV. MATERIAL SEEDS
+## II. THE CRISIS
 
-Physical objects, substances, tools.
+A breaking that becomes an opening.
 
-### By Function
+### Illness / Injury
 
-| Type | What It Does |
-|------|--------------|
-| **Instrument** | Enables production (tools, devices) |
-| **Surface** | Receives inscription (paper, canvas, screen) |
-| **Territory marker** | Defines a space (furniture, decoration) |
-| **Costume** | Changes how body presents |
-| **Substance** | Alters body-state (food, medicine, drugs) |
-| **Archive** | Stores and retrieves (recordings, files, notes) |
-| **Gift object** | Creates or reinforces alliance |
-| **Placeholder** | Reserves future use (ticket, reservation, subscription) |
+| Seed | What It Cracked | Who |
+|------|-----------------|-----|
+| Chronic fatigue syndrome | Time, productivity, identity | Many |
+| Losing eyesight | Visual dominance | Borges, Milton |
+| **Debilitating back pain** | The taken-for-granted body | — |
+| Near-death | The assumption of continuing | — |
+| Mental breakdown | The scaffolding of the self | — |
+| Long COVID | The fantasy of recovery | — |
 
-### By Relation to Body
+### Loss
 
-| Relation | Examples |
-|----------|----------|
-| **Worn** | Clothing, jewelry, prosthetics |
-| **Held** | Tools, instruments, devices |
-| **Inhabited** | Rooms, vehicles, shelters |
-| **Ingested** | Food, drink, supplements |
-| **Looked at** | Art, screens, windows |
-| **Listened to** | Speakers, instruments, voices |
-
----
-
-## V. SPATIAL SEEDS
-
-Places, territories, geographies.
-
-### By Scale
-
-| Scale | Examples |
-|-------|----------|
-| **Micro** | Desk, corner, chair |
-| **Room** | Studio, office, bedroom |
-| **Building** | Home, workplace, institution |
-| **Neighborhood** | District, area, zone |
-| **City** | Urban environment |
-| **Region** | Landscape, climate zone |
-| **Journey** | Movement between places |
-
-### By Function
-
-| Type | What It Enables |
+| Seed | What It Cracked |
 |------|-----------------|
-| **Work space** | Production, labor |
-| **Rest space** | Recovery, sleep |
-| **Social space** | Encounter, assembly |
-| **Transit space** | Movement, passing through |
-| **Nature space** | Non-human encounter |
-| **Sacred space** | Ritualized attention |
-| **Third place** | Neither home nor work |
+| Death of parent | Generational structure |
+| End of relationship | The "we" that was |
+| Loss of job/career | Identity anchored in work |
+| Exile/displacement | Territorial self |
+| Loss of faith | Meaning structure |
+| Miscarriage/infertility | Assumed future |
 
----
+### Failure
 
-## VI. TEMPORAL SEEDS
-
-Rhythms, schedules, punctuations.
-
-### By Scale
-
-| Scale | Examples |
-|-------|----------|
-| **Minute** | Breath, pause, micro-ritual |
-| **Hour** | Session, block, unit |
-| **Day** | Daily practice, routine |
-| **Week** | Weekly rhythm, recurring day |
-| **Month** | Cycle, period |
-| **Season** | Quarterly, agricultural |
-| **Year** | Anniversary, annual event |
-| **Life stage** | Decade, phase, era |
-
-### By Type
-
-| Type | Characteristics |
+| Seed | What It Cracked |
 |------|-----------------|
-| **Routine** | Repeated, expected, stabilizing |
-| **Ritual** | Repeated but set apart, meaning-bearing |
-| **Deadline** | Fixed end point, creates pressure |
-| **Sabbath** | Punctuation of non-work |
-| **Fast** | Temporary withdrawal from flow |
-| **Festival** | Intensification, exception |
-| **Mourning** | Marked time after loss |
+| Rejected manuscript | The path you thought was the path |
+| Failed business | Economic identity |
+| Bombed performance | The fantasy of mastery |
+| Academic rejection | Institutional validation route |
+| Public humiliation | Reputation as ground |
 
 ---
 
-## VII. RELATIONAL SEEDS
+## III. THE PRACTICE
 
-Connections to others.
+A repeated activity that slowly reconfigures.
 
-### By Type
+### Bodily Practices
 
-| Type | Characteristics |
-|------|-----------------|
-| **Dyad** | One-to-one |
-| **Pack** | Small group, functional |
-| **Collective** | Larger group, identity-based |
-| **Crowd** | Anonymous mass |
-| **Audience** | Those who witness |
-| **Antagonist** | Those who oppose |
-| **Ghost** | Those no longer present |
-| **Figure** | Idealized other (model, exemplar) |
+| Seed | What It Can Crack |
+|------|-------------------|
+| **Meditation** (years, not days) | The identification with thought |
+| **Running** (distance, past the first wall) | The fantasy of limitation |
+| **Martial arts** (the ones that break you first) | Violence/peace binary |
+| **Yoga** (not the gym kind) | Western body-mind split |
+| **Breathwork** | Emotional armoring |
+| **Fasting** | The food-scheduled self |
+| **Cold exposure** | Comfort as requirement |
+| **Dancing** (ecstatic, not choreographed) | Self-consciousness |
 
-### By Function
+### Attention Practices
 
-| Function | What It Provides |
-|----------|------------------|
-| **Witness** | Being seen |
-| **Collaborator** | Shared production |
-| **Interlocutor** | Thinking together |
-| **Teacher** | Transmission |
-| **Student** | Receiving transmission |
-| **Care** | Support, maintenance |
-| **Antagonism** | Productive friction |
-| **Play** | Non-purposive encounter |
+| Seed | What It Can Crack |
+|------|-------------------|
+| **Journaling** (morning pages, not plans) | The curated self |
+| **Drawing from observation** | Symbolic seeing |
+| **Birdwatching / nature observation** | Human-only attention |
+| **Listening practice** (Oliveros-style) | Sonic unconsciousness |
+| **Slow reading** (one page per hour) | Information consumption |
+| **Walking without destination** | Purposiveness |
 
----
+### Making Practices
 
-## Using This Enumeration
-
-Given a system profile, you can:
-
-1. **Map existing seeds** — What do they already have in each category?
-2. **Identify gaps** — Which categories are empty or weak?
-3. **Generate possibilities** — What COULD exist in each category for this system?
-4. **Prioritize entry points** — Which category is most ready for experimentation?
-
-The goal is not to fill every category but to recognize that lines of flight need material anchors, and to see what materials are available.
+| Seed | What It Can Crack |
+|------|-------------------|
+| **Writing daily, badly, for no one** | The inner critic |
+| **Improvisation** (music, speech, movement) | The plan |
+| **Cooking without recipes** | Following instructions |
+| **Building/fixing with hands** | Abstraction |
+| **Coding a personal project** | Consumption |
+| **Gardening** | Control |
 
 ---
 
-*Seeds do not determine trajectories. They only make trajectories possible.*
+## IV. THE SITUATION
+
+A context that produces different subjectivity.
+
+### Travel / Displacement
+
+| Seed | What It Can Crack |
+|------|-------------------|
+| Living in **another country** (not visiting) | The naturalism of your culture |
+| **Silence retreat** | The noise you needed |
+| **Solo travel** | Relational identity |
+| **Pilgrimage** (secular or sacred) | Purposelessness |
+| Being **lost** somewhere | The competent self |
+| **Intentional poverty** for a period | Monetary groundedness |
+
+### Altered States
+
+| Seed | What It Can Crack |
+|------|-------------------|
+| **Psychedelics** (the ones that break the self) | Ego boundary |
+| **Sleep deprivation** (vision quest, not burnout) | Waking consciousness |
+| **Sensory deprivation** (float tank) | External world orientation |
+| **Group ritual** (any tradition) | Individualism |
+| **Flow state** (sport, music, coding) | Self-witnessing |
+| **Falling in love** | Bounded selfhood |
+| **Grief** (fully entered) | Defensive structure |
+
+### Social Configurations
+
+| Seed | What It Can Crack |
+|------|-------------------|
+| Joining a **commune/intentional community** temporary | Nuclear family model |
+| **Collective labor** (barn-raising, harvest) | Individual achievement |
+| **Protest** (being in a crowd with a purpose) | Political abstraction |
+| **Crisis response** (disaster, death, emergency) | Normal priorities |
+| Being in a **band** (the democracy of sound) | Solo creator myth |
+| **Therapy** (the right kind, long enough) | Defensive structure |
+| **Mentorship** (being the mentee OR mentor) | Self-sufficiency |
+
+---
+
+## V. THE OBJECT
+
+A thing that reorganizes.
+
+### Instruments / Tools
+
+| Seed | What It Can Crack |
+|------|-------------------|
+| Acquiring a **musical instrument** | Consumption-only life |
+| **A camera** (film, not phone) | Habitual looking |
+| **A notebook** carried everywhere | The forgetting self |
+| **A typewriter** | Digital smoothness |
+| **Woodworking tools** | Abstraction |
+| **A microphone** | Unheard voice |
+
+### Spaces
+
+| Seed | What It Can Crack |
+|------|-------------------|
+| **A room of one's own** | Shared space identity |
+| **A studio** (separate from home) | Work/life blur |
+| **A garden plot** | Nature alienation |
+| **Access to a library** | Poverty of resources |
+| **A car** (or losing it) | Mobility assumptions |
+
+### Symbolic Objects
+
+| Seed | What It Can Crack |
+|------|-------------------|
+| **Inherited object** from someone who died | Generational continuity |
+| **A gift** whose meaning exceeds its value | Exchange economy |
+| **Found object** that speaks | Meaning-from-intention |
+| **Destroyed object** (fire, breakage) | Permanence |
+
+---
+
+## VI. THE REFUSAL
+
+What you stop doing.
+
+| Seed | What It Can Crack |
+|------|-------------------|
+| **Quitting social media** (really) | Attention capture |
+| **Leaving a religion** | Given meaning structure |
+| **Ending a career** | Professional identity |
+| **Going no-contact with family** | Blood obligation |
+| **Celibacy** (chosen, temporary or permanent) | Sexual compulsion |
+| **Refusing a promotion** | Success trajectory |
+| **Dropping out** (school, job, scene) | Belonging requirement |
+| **Bankruptcy** (sometimes liberating) | Financial self |
+| **Quitting drinking** (or starting) | Substance-anchored social |
+
+---
+
+## VII. THE RETURN
+
+Coming back to something abandoned.
+
+| Seed | What It Can Crack |
+|------|-------------------|
+| Returning to **childhood practice** (piano, drawing) | "That's who I was" |
+| **Contacting estranged person** | Frozen conflict |
+| Revisiting **place of origin** | Nostalgia/rejection binary |
+| **Rereading book from decades ago** | Who you were |
+| Attempting **what you failed at before** | Crystallized defeat |
+| **Midlife career change** | It's too late |
+
+---
+
+## Patterns
+
+From these examples, some patterns:
+
+1. **The Encounter** seeds work by **contagion** — something crosses from outside and reconfigures
+2. **The Crisis** seeds work by **subtraction** — something is removed and can't be replaced
+3. **The Practice** seeds work by **accumulation** — tiny changes become structural over time
+4. **The Situation** seeds work by **context shift** — a different surround produces different subject
+5. **The Object** seeds work by **affordance** — new capacities become available
+6. **The Refusal** seeds work by **cessation** — what you stop doing opens what was blocked
+7. **The Return** seeds work by **recursion** — going back is not going back
+
+---
+
+*Seeds: things that were small but became large. Not controllable, but encounterable.*
