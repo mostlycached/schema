@@ -165,7 +165,8 @@ class BiographyState:
     The accumulated state across an entire life trajectory.
     
     This is passed between phases and modified by each.
-    Now includes relational identity (Others) and internalized voices.
+    Now includes relational identity (Others), internalized voices,
+    and the concrete particulars of the LifeWorld.
     """
     name: str
     current_age: float
@@ -183,6 +184,9 @@ class BiographyState:
     
     # Fortuna events that occurred
     fortuna_events: List['FortunaEvent'] = field(default_factory=list)
+    
+    # The concrete particulars of this life
+    lifeworld: Optional['LifeWorld'] = None
     
     def enter_phase(self, phase: LifePhase) -> None:
         """Begin a new life phase."""
@@ -259,7 +263,7 @@ class Biography:
     processing, but adds accumulation, phase transitions, and
     longitudinal coherence.
     
-    Now includes Ricoeurian emplotment and the Other.
+    Now includes Ricoeurian emplotment, the Other, and LifeWorld particulars.
     """
     
     def __init__(
@@ -270,11 +274,13 @@ class Biography:
         model_name: str = "gemini-2.0-flash",
         muse: Optional[str] = None,
         narrative_mode: Optional[str] = None,  # "tragedy", "comedy", etc.
+        life_archetype: Optional[str] = None,  # "caretaker", "seeker", "builder", etc.
     ):
         self.name = name
         self.model = genai.GenerativeModel(model_name)
         self.muse = muse
         self.context = context
+        self.model_name = model_name
         
         # Narrative configuration
         self.narrative_mode = narrative_mode
@@ -286,6 +292,9 @@ class Biography:
                 self.narrative_config = NARRATIVE_CONFIGS.get(mode)
             except ValueError:
                 pass  # Use default if invalid mode
+        
+        # Life archetype for particulars
+        self.life_archetype = life_archetype
         
         # Initialize biography state
         self.state = BiographyState(
@@ -299,7 +308,23 @@ class Biography:
             recognition_events=[],
             internalized_voices=[],
             fortuna_events=[],
+            lifeworld=None,  # Will be generated below
         )
+        
+        # Generate LifeWorld with concrete particulars
+        if life_archetype:
+            from conatus.simulation.lifeworld import LifeArchetype, generate_lifeworld
+            try:
+                archetype = LifeArchetype(life_archetype)
+                self.state.lifeworld = generate_lifeworld(
+                    name=name,
+                    age=starting_age,
+                    archetype=archetype,
+                    institution=context,
+                    model_name=model_name,
+                )
+            except ValueError:
+                pass  # Invalid archetype, skip LifeWorld generation
         
         # Track simulation
         self.phase_records: List[PhaseRecord] = []
@@ -448,6 +473,21 @@ Respond with JUST the encounter description (2-3 sentences), no JSON."""
         if self.state.wounds:
             wounds_context = f"They carry wounds from: {'; '.join([w.description for w in self.state.wounds[-3:]])}. "
         
+        # Build LifeWorld context if available
+        lifeworld_context = ""
+        if self.state.lifeworld:
+            lw = self.state.lifeworld
+            lifeworld_context = f"""
+LIFEWORLD PARTICULARS (use these specific details):
+- Central Concern: {lw.central_concern}
+- Places: {', '.join([f'"{p.name}" ({p.significance})' for p in lw.places[:3]]) or 'unspecified'}
+- Objects: {', '.join([f'"{o.name}" ({o.significance})' for o in lw.objects[:3]]) or 'unspecified'}
+- Practices: {', '.join([f'"{p.name}" ({p.why_it_matters})' for p in lw.practices[:3]]) or 'unspecified'}
+- Body: {', '.join([f'{b.condition} ({b.how_it_shapes})' for b in lw.body_facts[:2]]) or 'no specific conditions'}
+{f"- Field: {lw.domain_field} / {lw.subfield}" if lw.domain_field else ""}
+{f"- Central Question: {lw.central_question}" if lw.central_question else ""}
+"""
+        
         prompt = f"""Generate {count} specific encounters for this life phase.
 
 SUBJECT: {self.name}, age {self.state.current_age:.0f}
@@ -459,19 +499,23 @@ ACCUMULATED DISPOSITIONS:
 
 WOUNDS:
 {wounds_context}
-
+{lifeworld_context}
 CURRENT COMMITMENTS: {', '.join([c.name for c in self.state.active_commitments]) or 'None yet'}
 
 Generate encounters that:
-1. Are typical for this phase and institution
-2. Might activate wounds or require the subject's skilled affects
+1. Use SPECIFIC places, objects, or practices from the LifeWorld (if provided)
+2. Are grounded in the CENTRAL CONCERN of this life
 3. Include at least one that challenges their habitual patterns
 4. Progress across the phase (early → middle → late phase)
+5. Are VIVID and PARTICULAR (not abstract like "a challenge arises")
+
+IMPORTANT: Each encounter should name specific places/objects when available.
+Example: "The letter from the nursing home arrives while she's finishing her morning pages at the kitchen table on Maple Street. Mom has had another fall."
 
 Respond in JSON:
 {{
   "encounters": [
-    {{"description": "<specific, vivid encounter>", "phase_timing": "<early/middle/late>"}},
+    {{"description": "<specific, vivid encounter using particulars>", "phase_timing": "<early/middle/late>"}},
     ...
   ]
 }}"""
@@ -862,6 +906,64 @@ def generate_biography_report(
         f"| Stances Mastered | {len(biography.state.repertoire)} |",
         f"| Wounds Carried | {len(biography.state.wounds)} |",
         "",
+    ])
+    
+    # LifeWorld particulars if available
+    if biography.state.lifeworld:
+        lw = biography.state.lifeworld
+        lines.extend([
+            "## The LifeWorld",
+            "",
+            f"> **Central Concern**: *{lw.central_concern}*",
+            "",
+        ])
+        
+        # Places
+        if lw.places:
+            lines.append("### Places")
+            lines.append("")
+            for p in lw.places[:4]:
+                details_str = f" — {', '.join(p.details[:2])}" if p.details else ""
+                lines.append(f"- **{p.name}** ({p.type}): {p.significance}{details_str}")
+            lines.append("")
+        
+        # Objects
+        if lw.objects:
+            lines.append("### Meaningful Objects")
+            lines.append("")
+            for o in lw.objects[:4]:
+                lines.append(f"- **{o.name}**: {o.significance} ({o.origin})")
+            lines.append("")
+        
+        # Practices
+        if lw.practices:
+            lines.append("### Daily Practices")
+            lines.append("")
+            for p in lw.practices[:4]:
+                time_place = f" ({p.time}, {p.place})" if p.time and p.place else ""
+                lines.append(f"- **{p.name}**{time_place}: {p.why_it_matters}")
+            lines.append("")
+        
+        # Body
+        if lw.body_facts:
+            lines.append("### Body")
+            lines.append("")
+            for b in lw.body_facts[:2]:
+                lines.append(f"- **{b.condition}**: {b.how_it_shapes}")
+            lines.append("")
+        
+        # Field if professional/creator
+        if lw.domain_field:
+            lines.extend([
+                "### Domain",
+                "",
+                f"**Field**: {lw.domain_field} / {lw.subfield or 'general'}",
+                "",
+                f"**Central Question**: *{lw.central_question}*" if lw.central_question else "",
+                "",
+            ])
+    
+    lines.extend([
         "---",
         "",
     ])

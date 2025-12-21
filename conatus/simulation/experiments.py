@@ -148,6 +148,7 @@ def run_biography(
     num_phases: int = 5,
     muse: str = None,
     narrative_mode: str = None,  # "tragedy", "comedy", "redemption", etc.
+    life_archetype: str = None,  # "caretaker", "seeker", "builder", etc.
     output_dir: str = "conatus/simulation/results/biographies",
 ) -> str:
     """
@@ -160,6 +161,7 @@ def run_biography(
     - Accumulating repertoire
     - Relationships with significant Others
     - Narrative arc (tragedy/comedy/redemption/etc.)
+    - LifeWorld particulars (places, objects, practices, body)
     
     Args:
         name: Name of the simulated subject
@@ -169,6 +171,9 @@ def run_biography(
         muse: Inspirational generator for stance naming
         narrative_mode: Optional narrative arc ("tragedy", "comedy", "romance", 
                        "satire", "bildung", "redemption")
+        life_archetype: Optional life type ("builder", "caretaker", "seeker",
+                       "survivor", "drifter", "creator", "professional",
+                       "devotee", "lover", "exile")
         output_dir: Where to save the biography report
         
     Returns:
@@ -202,6 +207,7 @@ def run_biography(
         context=starting_institution,
         muse=muse,
         narrative_mode=narrative_mode,
+        life_archetype=life_archetype,
     )
     
     print(f"\n{'='*60}")
@@ -210,6 +216,10 @@ def run_biography(
     print(f"Phases: {num_phases}, Muse: {muse or 'random'}")
     if narrative_mode:
         print(f"Narrative Arc: {narrative_mode.upper()}")
+    if life_archetype:
+        print(f"Life Archetype: {life_archetype.upper()}")
+    if bio.state.lifeworld:
+        print(f"Central Concern: {bio.state.lifeworld.central_concern}")
     print(f"{'='*60}")
     
     bio.run_biography(initial_phase, num_phases=num_phases)
@@ -230,6 +240,55 @@ def run_biography(
     print(f"Wounds: {len(bio.state.wounds)}")
     print(f"Report: {path}")
     print(f"{'='*60}")
+    
+    return path
+
+
+# =============================================================================
+# SCHIZOANALYTIC SIMULATION
+# =============================================================================
+
+def run_schizo(
+    name: str = "Anonymous Process",
+    initial_stratification: float = 0.5,
+    num_operations: int = 25,
+    output_dir: str = "conatus/simulation/results/schizo",
+) -> str:
+    """
+    Run a schizoanalytic simulation.
+    
+    Unlike biography simulation, this:
+    - Has no phases, only plateaus
+    - Has no development, only intensity variations
+    - Has no coherent self, only BwO inscriptions
+    - Can break down (emptied BwO) or be recaptured (fully stratified)
+    - Possible absolute deterritorialization (lines of flight)
+    
+    Args:
+        name: Name for the process
+        initial_stratification: 0-1, how stratified to start (0.5 = normal)
+        num_operations: Number of cuts/jumps/destratifications to perform
+        output_dir: Where to save the report
+    
+    Returns:
+        Path to generated schizo-report.
+    """
+    from conatus.simulation.schizoanalysis import (
+        run_schizo_process, generate_schizo_report
+    )
+    
+    process = run_schizo_process(
+        name=name,
+        initial_intensity=initial_stratification,
+        num_operations=num_operations,
+    )
+    
+    # Generate report
+    import time
+    filename = f"{name.lower().replace(' ', '_')}_{int(time.time())}.md"
+    path = os.path.join(output_dir, filename)
+    
+    generate_schizo_report(process, path)
     
     return path
 

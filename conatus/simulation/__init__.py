@@ -14,6 +14,9 @@ from .narrative import (
     EmplotmentMode, NarrativeConfiguration, Other, Relationship,
     RecognitionEvent, FortunaEvent, InternalizedVoice
 )
+from .lifeworld import (
+    LifeArchetype, LifeWorld, Place, BodyFact, Object, Practice, Work, Event
+)
 
 __all__ = [
     # Agent
