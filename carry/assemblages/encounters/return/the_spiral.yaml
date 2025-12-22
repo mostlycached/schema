@@ -1,0 +1,768 @@
+assemblages:
+- name: The-Childhood-Instrument-Assemblage
+  abstract_machine: Resurfacing motor skills as ghosts of forgotten melodies, a body
+    re-inscribing its history.
+  entity_type: object
+  territories:
+  - name: Fingertip-Memory-Territory
+    function: Stores and reactivates deeply ingrained motor skills associated with
+      playing the instrument.
+    quality: Automatic
+    space_type: striated
+  - name: Aural-Landscape-Territory
+    function: Constructs a soundscape populated by echoes of past performances, lessons,
+      and musical experiences.
+    quality: Nostalgic
+    space_type: smooth
+  - name: Embodied-Score-Territory
+    function: Houses the internal representation of musical scores, translated into
+      patterns of muscular tension and relaxation.
+    quality: Latent
+    space_type: striated
+  codes:
+  - name: Chord-Progression-Code
+    content: The expected sequence of chords in a particular musical genre or piece.
+    type: habit
+    level: molar
+  - name: Fingering-Code
+    content: The specific finger placements for playing notes on the instrument.
+    type: habit
+    level: molecular
+  - name: Rhythmic-Pattern-Code
+    content: The established patterns of beats and pauses.
+    type: habit
+    level: molar
+  components:
+  - name: Muscle-Memory
+    type: organic
+    capacity: Enables fluid and automatic execution of musical passages.
+  - name: Instrument-Interface
+    type: technical
+    capacity: Facilitates the translation of intention into sound.
+  - name: Sheet-Music-Symbol
+    type: sign
+    capacity: Represents musical ideas visually.
+  intensity_field:
+    focus: 0.7
+    speed: 0.6
+    abstraction: 0.4
+    tactility: 0.9
+    patience: 0.8
+    social: 0.3
+  becoming_vectors:
+  - becoming-fluent-again
+  - becoming-rusty
+  - becoming-improvisational
+- name: Drawing/Visual-Art-Assemblage
+  abstract_machine: Re-wilding the gaze; an untamed line.
+  entity_type: object
+  territories:
+  - name: The Untutored Page
+    function: A field of potential, receptive to instinct.
+    quality: Receptive
+    space_type: smooth
+  - name: The Hand's Muscle Memory
+    function: Automatic gestures, bypassing self-censorship.
+    quality: Fluid
+    space_type: smooth
+  - name: Echoes of Wonder
+    function: Resonant feelings of original observation, before judgement.
+    quality: Innocent
+    space_type: smooth
+  codes:
+  - name: Mimetic Inhibition
+    content: The ingrained expectation of artistic 'correctness'.
+    type: habit
+    level: molar
+  - name: Sensory Priming
+    content: The ritual of sharpening pencils, cleaning brushes, preparing the space.
+    type: habit
+    level: molecular
+  components:
+  - name: Charcoal Dust
+    type: technical
+    capacity: Allows for immediate, erasable expression.
+  - name: Instinctive Gesture
+    type: organic
+    capacity: Direct translation of feeling to form.
+  - name: Raw Canvas
+    type: technical
+    capacity: A blank, inviting space for exploration.
+  intensity_field:
+    focus: 0.3
+    speed: 0.7
+    abstraction: 0.2
+    tactility: 0.8
+    patience: 0.4
+    social: 0.1
+  becoming_vectors:
+  - becoming-animal
+  - becoming-child
+  - becoming-line
+- name: Sport/Movement-Assemblage
+  abstract_machine: A kinetic dance between muscle memory and conscious effort, dissolving
+    the tyranny of structured exertion.
+  entity_type: object
+  territories:
+  - name: Proprioceptive Landscape
+    function: Mapping the internal architecture of movement; sensing position and
+      force.
+    quality: Embodied
+    space_type: smooth
+  - name: Rhythmic Flow-State
+    function: Synchronization of body and environment, achieving effortless action.
+    quality: Fluid
+    space_type: smooth
+  - name: Echoes of Training
+    function: Resonant imprints of past movements, shaping current performance.
+    quality: Persistent
+    space_type: striated
+  codes:
+  - name: Exercise Regimen
+    content: Sets, reps, prescribed routines designed for external validation (e.g.,
+      'lose weight').
+    type: habit
+    level: molar
+  - name: Kinesthetic Improvisation
+    content: Listening to the body's cues and spontaneously adjusting movement patterns.
+    type: habit
+    level: molecular
+  - name: Learned Technique
+    content: Formal knowledge of biomechanics and strategic positioning, initially
+      conscious but becoming automatic.
+    type: habit
+    level: molar
+  components:
+  - name: Muscle Memory
+    type: organic
+    capacity: Unconscious recall of previously performed movements, enabling fluency.
+  - name: Proprioceptors
+    type: organic
+    capacity: Sensory feedback, providing real-time information about body position
+      and movement.
+  - name: Rhythmic Entrainment
+    type: sign
+    capacity: Synchronization with external rhythms (e.g., music, breathing), amplifying
+      flow.
+  intensity_field:
+    focus: 0.7
+    speed: 0.6
+    abstraction: 0.3
+    tactility: 0.8
+    patience: 0.5
+    social: 0.2
+  becoming_vectors:
+  - becoming-flow
+  - becoming-animal
+  - becoming-rhythm
+  - becoming-imperceptible
+- name: Language-Assemblage
+  abstract_machine: Echoes resonating, stuttering toward articulation, rewriting memory's
+    script.
+  entity_type: object
+  territories:
+  - name: Palimpsest-Tongue
+    function: Reconstructing fragmented lexicon, a ghost language overlaying the present.
+    quality: resonant
+    space_type: smooth
+  - name: Articulatory-Landscape
+    function: The mouth as a terrain of forgotten phonemes, rediscovering forgotten
+      muscle memory.
+    quality: tactile
+    space_type: striated
+  codes:
+  - name: Grammatical-Traces
+    content: Subject-verb agreement echoes, like faded graffiti on a building's wall.
+    type: habit
+    level: molar
+  - name: Phonetic-Drift
+    content: The subtle shift in pronunciation, influenced by the dominant language,
+      a corrupted signal.
+    type: habit
+    level: molecular
+  components:
+  - name: Neural-Net-Reconnection
+    type: organic
+    capacity: The brain's plasticity allowing for rewiring of linguistic pathways.
+  - name: Echo-Chamber
+    type: sign
+    capacity: Amplifying half-remembered phrases, creating a feedback loop of linguistic
+      re-emergence.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.8
+    patience: 0.9
+    social: 0.5
+  becoming_vectors:
+  - becoming-fluent-again
+  - becoming-hybridized-speech
+  - becoming-a-living-archive
+- name: The-Hometown-Assemblage
+  abstract_machine: Re-seeing the familiar through the lens of distance, unsettling
+    identity.
+  entity_type: object
+  territories:
+  - name: Memory-Lanes
+    function: Triggers recollection and reinterpretation of past events.
+    quality: Nostalgic
+    space_type: striated
+  - name: The-Familiar-Face
+    function: Navigating known social dynamics with newfound self-awareness.
+    quality: Uncanny
+    space_type: smooth
+  codes:
+  - name: Main-Street-Manners
+    content: Expected social performance, diluted sincerity.
+    type: habit
+    level: molar
+  - name: Whispers-Behind-Closed-Doors
+    content: Local gossip shaping perception and belonging.
+    type: habit
+    level: molecular
+  components:
+  - name: Hometown-Map
+    type: sign
+    capacity: Encoding spatial relationships and their emotional resonance.
+  - name: Childhood-Photographs
+    type: sign
+    capacity: Stimulating memory and prompting reflection on personal evolution.
+  intensity_field:
+    focus: 0.6
+    speed: 0.3
+    abstraction: 0.5
+    tactility: 0.7
+    patience: 0.8
+    social: 0.4
+  becoming_vectors:
+  - becoming-Stranger
+  - becoming-Observer
+  - becoming-Reflexive
+- name: The-Ancestral-Land-Assemblage
+  abstract_machine: A cartographic unfolding of bloodlines, a dance with forgotten
+    soil.
+  entity_type: object
+  territories:
+  - name: The-Burial-Mound
+    function: Acts as a repository and resonating chamber for ancestral memories.
+    quality: Reverberant
+    space_type: striated
+  - name: The-Shifting-River-Bend
+    function: Represents the fluid and ever-changing nature of lineage and identity.
+    quality: Mutable
+    space_type: smooth
+  - name: The-Boundary-Stone
+    function: Marks the limits of inherited land and the responsibilities it entails.
+    quality: Defining
+    space_type: striated
+  codes:
+  - name: Storytelling-Ritual
+    content: Oral tradition dictates the recounting of family history at specific
+      sites.
+    type: habit
+    level: molar
+  - name: Land-Stewardship-Ethic
+    content: A deep-seated respect for the land passed down through generations, influencing
+      farming practices.
+    type: habit
+    level: molar
+  - name: Blood-Memory-Tremors
+    content: Sudden, inexplicable feelings of connection or deja-vu experienced upon
+      contact with certain locales.
+    type: habit
+    level: molecular
+  components:
+  - name: Worn-Walking-Stick
+    type: technical
+    capacity: Facilitates physical connection to the land and symbolizes the journey
+      through generations.
+  - name: Weathered-Photograph-Album
+    type: sign
+    capacity: Stores and triggers visual memories of ancestors and their lives on
+      the land.
+  - name: Spores-of-Native-Plants
+    type: organic
+    capacity: Represents the enduring presence of the past within the present ecosystem.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.3
+    tactility: 0.9
+    patience: 0.7
+    social: 0.6
+  becoming_vectors:
+  - becoming-root
+  - becoming-sediment
+  - becoming-landscape
+  - becoming-echo
+- name: The-Site-of-Trauma-Assemblage
+  abstract_machine: Scar tissue blooms into a garden of resilience.
+  entity_type: object
+  territories:
+  - name: Memory-Garden
+    function: Cultivating fragments of the past into new narratives.
+    quality: Verdant
+    space_type: smooth
+  - name: Echo-Chamber
+    function: Resonating with past experiences, amplifying and distorting.
+    quality: Resonant
+    space_type: striated
+  codes:
+  - name: Repetition-Compulsion
+    content: The ingrained pattern of revisiting the trauma, seeking resolution.
+    type: habit
+    level: molar
+  - name: Forgiveness-Protocol
+    content: A conscious effort to release blame and cultivate compassion.
+    type: habit
+    level: molecular
+  components:
+  - name: Embodied-Sensor
+    type: organic
+    capacity: Reacting to sensory triggers, recalling fragmented memories.
+  - name: Narrative- Loom
+    type: technical
+    capacity: Weaving together disparate threads of experience into a coherent whole.
+  - name: Affective-Resonator
+    type: sign
+    capacity: Amplifying and modulating the emotional landscape.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.5
+    tactility: 0.8
+    patience: 0.9
+    social: 0.2
+  becoming_vectors:
+  - becoming-healed
+  - becoming-storyteller
+  - becoming-resilient
+  - becoming-compassionate
+- name: The-Previous-City-Assemblage
+  abstract_machine: Re-encoding urban memories through pedestrian drifts.
+  entity_type: object
+  territories:
+  - name: Cobblestone-Trace
+    function: Grounding the wanderer in tactile history.
+    quality: Durable
+    space_type: striated
+  - name: Echo-Architecture
+    function: Resonating with the forgotten narratives of buildings.
+    quality: Resonant
+    space_type: smooth
+  - name: Sunlight-Shift
+    function: Illuminating the ephemeral and the overlooked.
+    quality: Fleeting
+    space_type: smooth
+  codes:
+  - name: Street-Grid-Protocol
+    content: Navigate the established routes, resisting deviation.
+    type: habit
+    level: molar
+  - name: Graffiti-Cipher
+    content: Interpret the unauthorized expressions on public surfaces.
+    type: habit
+    level: molecular
+  - name: Cafe-Algorithm
+    content: Order the usual coffee and observe the established routines.
+    type: habit
+    level: molar
+  components:
+  - name: Worn-Shoe
+    type: organic
+    capacity: Sensing subtle variations in street texture.
+  - name: Analog-Camera
+    type: technical
+    capacity: Framing and archiving fragmented perspectives.
+  - name: Mental-Map
+    type: sign
+    capacity: Overlaying past experiences onto present perceptions.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.8
+    patience: 0.9
+    social: 0.2
+  becoming_vectors:
+  - becoming-flâneur
+  - becoming-ghost
+  - becoming-archive
+- name: The-Ex-Assemblage
+  abstract_machine: Echoes of a past self resonate in the present, filtered through
+    the gaze of a changed observer.
+  entity_type: object
+  territories:
+  - name: The Cafe of First Encounters
+    function: Acts as a spatial echo chamber, resonating with the initial frequencies
+      of attraction.
+    quality: Nostalgic
+    space_type: striated
+  - name: The Labyrinth of Shared Memories
+    function: A mental space where fragmented recollections are re-encountered, both
+      familiar and alien.
+    quality: Haunted
+    space_type: smooth
+  - name: The Mirror of Present Self
+    function: Reflects the current persona, juxtaposed against the remembered past.
+    quality: Dissonant
+    space_type: striated
+  codes:
+  - name: The Ritual of the Coffee Order
+    content: The specific drink ordered serves as a temporal marker, attempting to
+      freeze the past.
+    type: habit
+    level: molar
+  - name: The Unspoken Rule of Conversation
+    content: An attempt to navigate the conversation without revealing the extent
+      of personal change.
+    type: habit
+    level: molecular
+  - name: The Gaze Averted
+    content: The habitual avoidance of prolonged eye contact to conceal the present
+      self.
+    type: habit
+    level: molecular
+  components:
+  - name: The Photograph Album
+    type: sign
+    capacity: Acts as a time capsule, triggering sensory memories of the shared past.
+  - name: The Body's Evolving Form
+    type: organic
+    capacity: Registers the passage of time through physical changes, revealing or
+      concealing age and experience.
+  - name: The Carefully Chosen Outfit
+    type: technical
+    capacity: Serves as a disguise or statement, projecting a desired image of the
+      current self.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.2
+    patience: 0.5
+    social: 0.7
+  becoming_vectors:
+  - becoming-stranger
+  - becoming-historian
+  - becoming-ghost
+- name: The-Estranged-Parent-Assemblage
+  abstract_machine: Re-weaving severed threads of kinship across a landscape of regret
+    and hope.
+  entity_type: object
+  territories:
+  - name: The-Scorched-Earth-of-Silence
+    function: Marks the boundary of past hurts, the inertia of unspoken grievances.
+    quality: Barren
+    space_type: striated
+  - name: The-Bridge-of-Second-Chances
+    function: A fragile space for tentative communication, built on shared memories
+      or mutual acquaintances.
+    quality: Precarious
+    space_type: smooth
+  - name: The-Mirror-of-Self-Reflection
+    function: A private space for re-evaluating one's own actions and motivations,
+      fostering empathy.
+    quality: Introspective
+    space_type: smooth
+  codes:
+  - name: The-Law-of-Non-Interference
+    content: Avoid direct confrontation or demands; observe from a distance.
+    type: habit
+    level: molar
+  - name: The-Protocol-of-Neutral-Ground
+    content: Communicate only through intermediaries or agreed-upon channels.
+    type: habit
+    level: molar
+  - name: The-Whisper-of-Forgotten-Joys
+    content: Unbidden memories of happier times; a fleeting sense of connection.
+    type: habit
+    level: molecular
+  components:
+  - name: The-Unsent-Letter
+    type: sign
+    capacity: Embodies the impossibility of perfect communication, the weight of unspoken
+      words.
+  - name: The-Shared-Photograph
+    type: sign
+    capacity: A tangible link to the past, a reminder of shared history and potential
+      future.
+  - name: The-Digital-Echo
+    type: technical
+    capacity: Enables mediated contact through social media or messaging apps.
+  intensity_field:
+    focus: 0.7
+    speed: 0.2
+    abstraction: 0.6
+    tactility: 0.3
+    patience: 0.8
+    social: 0.4
+  becoming_vectors:
+  - becoming-reconciled
+  - becoming-understanding
+  - becoming-forgiving
+- name: The-Old-Friend-Assemblage
+  abstract_machine: A re-weaving of shared history, sparking new connections.
+  entity_type: social
+  territories:
+  - name: Remembered-Laughter
+    function: Recalls shared humor, creating a sense of intimacy and ease.
+    quality: Lightness
+    space_type: smooth
+  - name: Shared-History
+    function: Offers a familiar backdrop against which present selves are understood.
+    quality: Resonance
+    space_type: striated
+  - name: Accepted-Flaws
+    function: Provides a space of non-judgment, fostering authenticity.
+    quality: Understanding
+    space_type: smooth
+  codes:
+  - name: Inside-Joke
+    content: A pre-programmed response of amusement upon specific triggers.
+    type: habit
+    level: molar
+  - name: Empathetic-Listening
+    content: Active listening attuned to the nuances of the other's narrative.
+    type: habit
+    level: molecular
+  - name: Casual-Check-In
+    content: Regular contact established not out of obligation, but genuine care.
+    type: habit
+    level: molar
+  components:
+  - name: Shared-Memory-Bank
+    type: sign
+    capacity: Recalling and re-interpreting past events together.
+  - name: Forgiveness-Mechanism
+    type: organic
+    capacity: Absorbing past hurts and re-establishing trust.
+  - name: Communication-Protocol
+    type: technical
+    capacity: Utilizing familiar communication styles, whether verbal, non-verbal,
+      or digital.
+  intensity_field:
+    focus: 0.6
+    speed: 0.3
+    abstraction: 0.2
+    tactility: 0.4
+    patience: 0.8
+    social: 0.9
+  becoming_vectors:
+  - becoming-Known-Again
+  - becoming-Mutual-Support
+  - becoming-Interwoven-Narratives
+  - becoming-Present-Together
+- name: The-Ghost-Assemblage
+  abstract_machine: A resonating chamber for vanished voices, bridging worlds through
+    ritualized memory.
+  entity_type: object
+  territories:
+  - name: The Grave-Site
+    function: Marks the physical boundary between the living and the deceased, a stabilized
+      point of lamentation.
+    quality: Sacred
+    space_type: striated
+  - name: The Whispering Circle
+    function: A psychic space woven from grief and longing, where communication with
+      the dead feels possible.
+    quality: Ethereal
+    space_type: smooth
+  - name: Memory-Vault
+    function: Internalized repository of shared experiences and personal history,
+      providing context for the encounter.
+    quality: Intimate
+    space_type: striated
+  codes:
+  - name: The Eulogy
+    content: Formalized expressions of grief and respect, channeling communal emotions.
+    type: habit
+    level: molar
+  - name: The Offering
+    content: Gifts presented to appease or honor the deceased, representing a tangible
+      connection.
+    type: habit
+    level: molar
+  - name: Psychic Tremor
+    content: Subtle shifts in emotional energy, signifying a felt presence or response
+      from the beyond.
+    type: habit
+    level: molecular
+  components:
+  - name: Headstone
+    type: technical
+    capacity: Serves as a focal point for grief, a physical marker for the spectral
+      encounter.
+  - name: Voice
+    type: organic
+    capacity: Modulates sound, forming words meant to connect and query the departed.
+  - name: Memory-Image
+    type: sign
+    capacity: Triggers emotional resonance, creating a psychic bridge to the past
+      and the departed.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.6
+    tactility: 0.3
+    patience: 0.9
+    social: 0.5
+  becoming_vectors:
+  - becoming-ancestor
+  - becoming-echo
+  - becoming-placeless
+- name: Rereading-Formative-Books-Assemblage
+  abstract_machine: A palimpsest of self, where echoes argue with the present.
+  entity_type: object
+  territories:
+  - name: Textual-Graveyard
+    function: Burial ground of former convictions, marked by ink-stained headstones.
+    quality: archaeological
+    space_type: striated
+  - name: Echo-Chamber
+    function: Resonance of past selves, their anxieties and aspirations bouncing off
+      the present.
+    quality: spectral
+    space_type: smooth
+  - name: Critique-Arena
+    function: A space to reassess and challenge the limitations of earlier understanding.
+    quality: judgmental
+    space_type: striated
+  codes:
+  - name: Dogmatic-Underlining
+    content: The unquestioned highlighting of 'important' passages.
+    type: habit
+    level: molar
+  - name: Tentative-Questioning
+    content: Faint pencil marks expressing early doubts and uncertainties.
+    type: habit
+    level: molecular
+  - name: Furious-Marginalia
+    content: Aggressive rebuttals scrawled in moments of intellectual fervor.
+    type: habit
+    level: molar
+  components:
+  - name: Dog-Eared-Page
+    type: organic
+    capacity: Spatial memory of favored passages and emotional resonance.
+  - name: Skeptic-Lens
+    type: sign
+    capacity: Enables critical analysis and distance from the text's initial impact.
+  - name: Present-Self-Filter
+    type: technical
+    capacity: Constantly re-evaluating past understanding with current knowledge and
+      experience
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.4
+    patience: 0.8
+    social: 0.2
+  becoming_vectors:
+  - becoming-wiser
+  - becoming-forgiving
+  - becoming-critical
+- name: Rewatching-Films-Assemblage
+  abstract_machine: Unfolding latent narrative landscapes through repeated viewings.
+  entity_type: object
+  territories:
+  - name: Temporal-Loop-Territory
+    function: Re-experiencing the film's duration, noticing variations and echoes.
+    quality: Recursive
+    space_type: smooth
+  - name: Peripheral-Vision-Territory
+    function: 'Focusing on details previously overlooked: set dressing, extras, subtle
+      camera movements.'
+    quality: Attentive
+    space_type: striated
+  - name: Subtextual-Resonance-Territory
+    function: Detecting unspoken themes, symbolic imagery, and emotional undertones.
+    quality: Interpretive
+    space_type: smooth
+  codes:
+  - name: Observational-Protocol
+    content: The active choice to shift focus away from the central narrative.
+    type: habit
+    level: molar
+  - name: De-Familiarization-Directive
+    content: Breaking down pre-conceived notions about the film's meaning.
+    type: habit
+    level: molecular
+  - name: Contextual-Mapping
+    content: Relating the film's background to historical, cultural, and personal
+      contexts.
+    type: habit
+    level: molar
+  components:
+  - name: Memory-Archive
+    type: organic
+    capacity: Recall and comparison of previous viewings.
+  - name: Sensory-Apparatus
+    type: organic
+    capacity: Enhanced perceptual sensitivity to visual and auditory details.
+  - name: Interpretive-Lens
+    type: sign
+    capacity: Decoding symbolic language and unspoken narratives.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.2
+    patience: 0.9
+    social: 0.4
+  becoming_vectors:
+  - becoming-historian
+  - becoming-archivist
+  - becoming-cartographer-of-meaning
+- name: Finishing-the-Unfinished-Assemblage
+  abstract_machine: Resurrecting dormant potential, sculpting echoes into form.
+  entity_type: object
+  territories:
+  - name: Excavation-Site
+    function: Unearthing forgotten fragments of intention.
+    quality: Archaic
+    space_type: smooth
+  - name: Forge-of-Revision
+    function: Transforming raw materials into coherent structure.
+    quality: Malleable
+    space_type: striated
+  - name: Threshold-of-Completion
+    function: Transitioning from potential to actualized presence.
+    quality: Definitive
+    space_type: striated
+  codes:
+  - name: Chronological-Imperative
+    content: Prioritizing tasks based on original timeline.
+    type: habit
+    level: molar
+  - name: Aesthetic-Fidelity
+    content: Maintaining consistency with the initial artistic vision.
+    type: habit
+    level: molar
+  - name: Iterative-Improvement
+    content: Allowing for adjustments and enhancements based on current understanding.
+    type: habit
+    level: molecular
+  components:
+  - name: Memory-Triggers
+    type: sign
+    capacity: Evoking the initial inspiration and context.
+  - name: Skillset-Upgrade
+    type: organic
+    capacity: Applying newfound expertise to overcome previous limitations.
+  - name: Project-Management-Tool
+    type: technical
+    capacity: Organizing tasks and tracking progress towards completion.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.4
+    patience: 0.9
+    social: 0.2
+  becoming_vectors:
+  - becoming-complete
+  - becoming-obsolete
+  - becoming-legacy

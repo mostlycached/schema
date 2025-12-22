@@ -1,0 +1,3324 @@
+assemblages:
+- name: Single-breath-Assemblage
+  abstract_machine: 'Inhalation-Exhalation: a self-folding world.'
+  entity_type: object
+  territories:
+  - name: Alveolar-Sea
+    function: 'Gas exchange: oxygen uptake, CO2 release'
+    quality: Porous
+    space_type: smooth
+  - name: Ribcage-Cage
+    function: Mechanical expansion and contraction
+    quality: Protective
+    space_type: striated
+  - name: Bloodstream-Current
+    function: Transportation of respiratory gases
+    quality: Fluid
+    space_type: smooth
+  codes:
+  - name: Diaphragmatic-Rhythm
+    content: 'Contract-Release: The habit of autonomic respiration.'
+    type: habit
+    level: molar
+  - name: Conscious-Control
+    content: 'Hold-Release: The rule of mindful breathwork.'
+    type: habit
+    level: molecular
+  - name: Cellular-Demand
+    content: 'Consume-Produce: The metabolic imperative for oxygen.'
+    type: habit
+    level: molecular
+  components:
+  - name: Hemoglobin-Carriers
+    type: organic
+    capacity: Oxygen transport
+  - name: Pulmonary-Membrane
+    type: organic
+    capacity: Gas diffusion
+  - name: Nervous-System
+    type: organic
+    capacity: Respiratory regulation
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.2
+    tactility: 0.8
+    patience: 0.9
+    social: 0.1
+  becoming_vectors:
+  - becoming-meditative
+  - becoming-still
+  - becoming-vital
+  - becoming-resonant
+- name: Breath-cycle-Assemblage
+  abstract_machine: A rhythmic exchange structuring interiority and exteriority.
+  entity_type: process
+  territories:
+  - name: Alveolar-Sac-Territory
+    function: Facilitates the gaseous exchange of oxygen and carbon dioxide within
+      the lungs.
+    quality: Porous
+    space_type: smooth
+  - name: Diaphragmatic-Pump-Territory
+    function: Creates pressure gradients to draw air in and expel it out of the lungs.
+    quality: Resilient
+    space_type: striated
+  codes:
+  - name: Tidal-Volume-Code
+    content: The habitual amount of air inhaled and exhaled during a normal breath.
+    type: habit
+    level: molar
+  - name: Cellular-Respiration-Code
+    content: The metabolic process that utilizes oxygen to generate energy at a cellular
+      level.
+    type: rule
+    level: molecular
+  components:
+  - name: Hemoglobin
+    type: organic
+    capacity: Oxygen Transport
+  - name: Respiratory-Rate-Sensor
+    type: technical
+    capacity: Data Acquisition
+  - name: Word
+    type: sign
+    capacity: Meaning production via the articulation of breathed air
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.2
+    tactility: 0.8
+    patience: 0.9
+    social: 0.1
+  becoming_vectors:
+  - becoming-animated
+  - becoming-distributed
+  - becoming-rhythmic
+  - becoming-vital
+- name: Mindful-pause-Assemblage
+  abstract_machine: A fleeting archipelago of stillness blooms in the rush of time.
+  entity_type: event
+  territories:
+  - name: Ribcage-Sanctuary
+    function: Houses the rhythm of internal weather; a felt sense of present being.
+    quality: Intimate
+    space_type: smooth
+  - name: Auditory-Horizon
+    function: Captures the near and far sounds as background hum; a porous boundary.
+    quality: Porous
+    space_type: striated
+  - name: Temporal-Fold
+    function: Collapses the urgent future into the spacious now; an expanded moment.
+    quality: Expanded
+    space_type: smooth
+  codes:
+  - name: Nasal-Gate
+    content: Inhale slowly through the nose, exhale slowly through the mouth.
+    type: habit
+    level: molecular
+  - name: Thought-Balloon
+    content: Notice thoughts arising and passing like clouds, without judgment.
+    type: habit
+    level: molar
+  components:
+  - name: Diaphragm
+    type: organic
+    capacity: Regulating the flow of vital energy; grounding.
+  - name: Attention
+    type: sign
+    capacity: Sensing internal shifts; orienting to the present.
+  - name: Silence
+    type: sign
+    capacity: Amplifying subtle sensations; creating a container.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.3
+    tactility: 0.7
+    patience: 0.9
+    social: 0.1
+  becoming_vectors:
+  - becoming-calm
+  - becoming-present
+  - becoming-centered
+  - becoming-unhurried
+- name: Pause-before-response-Assemblage
+  abstract_machine: A tiny gap, a universe unfolds; reactive flows rerouted towards
+    creation.
+  entity_type: object
+  territories:
+  - name: Inner-Breath-Territory
+    function: Creates a temporary pocket of subjective time for reflection.
+    quality: Silent
+    space_type: smooth
+  - name: Social-Field-Mapping
+    function: Briefly scans the social landscape for potential ramifications of response.
+    quality: Attentive
+    space_type: striated
+  codes:
+  - name: Reflective-Delay-Habit
+    content: Consciously inserting a slight temporal buffer between stimulus and answer.
+    type: habit
+    level: molecular
+  - name: Active-Listening-Protocol
+    content: Employing silence to encourage further elaboration from the speaker.
+    type: habit
+    level: molar
+  components:
+  - name: Prefrontal-Cortex-Node
+    type: organic
+    capacity: Executive function override, impulse control.
+  - name: Language-Processing-Filter
+    type: organic
+    capacity: Reframing immediate emotional reactions into considered articulation.
+  - name: Social-Context-Analyzer
+    type: technical
+    capacity: Simulated understanding of social dynamics based on data input.
+  intensity_field:
+    focus: 0.7
+    speed: 0.2
+    abstraction: 0.6
+    tactility: 0.3
+    patience: 0.8
+    social: 0.9
+  becoming_vectors:
+  - becoming-thoughtful
+  - becoming-strategic
+  - becoming-present
+  - becoming-calm
+- name: Standing-up/sitting-down-Assemblage
+  abstract_machine: A fleeting dance between gravity and will, a momentary negotiation
+    of power and rest.
+  entity_type: object
+  territories:
+  - name: The Chair's Embrace
+    function: Provides a temporary support, grounding the body in stillness and offering
+      respite from verticality.
+    quality: Grounded
+    space_type: striated
+  - name: Vertical Ascent
+    function: A striving against gravity, a brief assertion of agency, a reclaiming
+      of perceptual height.
+    quality: Aspiring
+    space_type: smooth
+  - name: The Interstitial Zone
+    function: The liminal space between states, a moment of instability and potentiality,
+      a brief flirtation with the void.
+    quality: Fluid
+    space_type: smooth
+  codes:
+  - name: Workplace Protocol
+    content: The unspoken rule of standing during meetings to demonstrate engagement
+      or deference.
+    type: habit
+    level: molar
+  - name: The Body's Fatigue
+    content: The nagging ache in the legs, the subtle sway that signals a need for
+      rest, a biological imperative.
+    type: habit
+    level: molecular
+  - name: The Social Cue
+    content: Observing others sitting or standing, unconsciously mimicking their posture,
+      conforming to the group rhythm.
+    type: habit
+    level: molar
+  components:
+  - name: Musculoskeletal System
+    type: organic
+    capacity: Enables the physical act of standing and sitting, providing leverage
+      and stability.
+  - name: Vestibular System
+    type: organic
+    capacity: Maintains balance and spatial orientation during the transition.
+  - name: Chair
+    type: technical
+    capacity: Facilitates the act of sitting, providing a structured support and defining
+      a specific spatial configuration.
+  intensity_field:
+    focus: 0.4
+    speed: 0.2
+    abstraction: 0.1
+    tactility: 0.7
+    patience: 0.6
+    social: 0.3
+  becoming_vectors:
+  - becoming-gravity
+  - becoming-rest
+  - becoming-agency
+  - becoming-rhythm
+- name: Before-eating-Assemblage
+  abstract_machine: Quiet pause blooms into communal nourishment.
+  entity_type: object
+  territories:
+  - name: Gut-Mind-Nexus
+    function: Internal resonance before ingestion, a felt sense of connection.
+    quality: Receptive
+    space_type: smooth
+  - name: The Table
+    function: Shared space; potential communion around food, a space for sociality
+      and exchange.
+    quality: Hospitable
+    space_type: striated
+  - name: Field of Origin
+    function: A conceptual territory evoking the source of the food, the land, the
+      labor, the sun.
+    quality: Grateful
+    space_type: smooth
+  codes:
+  - name: Gratitude-Gesture
+    content: Briefly closing eyes, bowing head, or offering a silent thank you.
+    type: habit
+    level: molecular
+  - name: Shared-Silence
+    content: Momentary stillness before eating commences, allowing presence.
+    type: habit
+    level: molar
+  - name: Mindful-Savoring
+    content: A rule (often broken) to focus on the taste and texture of the first
+      bite.
+    type: habit
+    level: molecular
+  components:
+  - name: Tongue-Tastebuds
+    type: organic
+    capacity: Discriminating flavors, engaging the senses.
+  - name: Mindful-Attention
+    type: sign
+    capacity: Focusing awareness, quieting mental chatter.
+  - name: Tableware
+    type: technical
+    capacity: Facilitating the ritual, providing tools for consumption.
+  intensity_field:
+    focus: 0.7
+    speed: 0.2
+    abstraction: 0.4
+    tactility: 0.6
+    patience: 0.8
+    social: 0.5
+  becoming_vectors:
+  - becoming-nourished
+  - becoming-communal
+  - becoming-aware
+  - becoming-mindful-consumer
+- name: Doorway-pauses-Assemblage
+  abstract_machine: A momentary stilling, a liminal calibration before entering anew.
+  entity_type: object
+  territories:
+  - name: Portal-Threshold
+    function: Marks separation and transition between spaces.
+    quality: Liminal
+    space_type: striated
+  - name: Momentary-Stasis
+    function: Creates a brief pocket of non-doing, a pause in the flow.
+    quality: Quiet
+    space_type: smooth
+  - name: Atmospheric-Pressure
+    function: Gauges the emotional/energetic atmosphere of the next space.
+    quality: Receptive
+    space_type: smooth
+  codes:
+  - name: Hesitation-Protocol
+    content: The urge to halt and observe at a doorway.
+    type: habit
+    level: molecular
+  - name: Social-Gatekeeping
+    content: Knowing to pause before entering to avoid interrupting or intruding.
+    type: habit
+    level: molar
+  - name: Spatial-Evaluation
+    content: The unconscious assessment of a new room's layout, inhabitants, and mood.
+    type: habit
+    level: molecular
+  components:
+  - name: Vestibular-System
+    type: organic
+    capacity: Enables balance and spatial orientation, anchoring the pause.
+  - name: Visual-Field
+    type: organic
+    capacity: Collects and processes information about the destination space.
+  - name: Doorway-Architecture
+    type: technical
+    capacity: Provides the physical boundary, the frame for the transition.
+  intensity_field:
+    focus: 0.7
+    speed: 0.2
+    abstraction: 0.3
+    tactility: 0.4
+    patience: 0.8
+    social: 0.6
+  becoming_vectors:
+  - becoming-Present
+  - becoming-Aware
+  - becoming-Other
+- name: Pomodoro-Assemblage
+  abstract_machine: Unlocking potential through the rhythmic pulse of focused bursts
+    and restorative pauses.
+  entity_type: object
+  territories:
+  - name: The Task Domain
+    function: Constraints and requirements of the immediate task; specifications to
+      be met.
+    quality: Demanding
+    space_type: striated
+  - name: Time-Rhythm Zone
+    function: Scheduled intervals and prescribed breaks, a temporal grid overlay.
+    quality: Rhythmic
+    space_type: striated
+  - name: Flow State Nexus
+    function: Emergent condition of concentrated awareness and heightened productivity
+    quality: Immersed
+    space_type: smooth
+  codes:
+  - name: The Timer's Command
+    content: Work for 25 minutes; rest for 5 minutes.
+    type: habit
+    level: molar
+  - name: Distraction Dampening
+    content: 'Eliminate disruptions: silence notifications, block websites.'
+    type: habit
+    level: molecular
+  - name: Singularity Focus
+    content: Commit to a single, clearly defined task.
+    type: habit
+    level: molar
+  components:
+  - name: Kitchen Timer
+    type: technical
+    capacity: Temporal partitioning and signalling.
+  - name: Focused Attention
+    type: organic
+    capacity: Concentrated cognitive effort.
+  - name: Task List
+    type: sign
+    capacity: Objective definition and scope delineation
+  intensity_field:
+    focus: 0.8
+    speed: 0.7
+    abstraction: 0.6
+    tactility: 0.2
+    patience: 0.9
+    social: 0.1
+  becoming_vectors:
+  - becoming-efficient
+  - becoming-productive
+  - becoming-calm
+  - becoming-disciplined
+- name: Deep-work-blocks-Assemblage
+  abstract_machine: Intensifying temporal zones for hyper-productive becoming.
+  entity_type: object
+  territories:
+  - name: The Concentration Zone
+    function: Blocks out distractions and noise, creating a protected space for focused
+      effort.
+    quality: Immersive
+    space_type: smooth
+  - name: Flow State Oasis
+    function: Allows for effortless progression through tasks, a sense of timelessness
+      and complete engagement.
+    quality: Fluid
+    space_type: smooth
+  codes:
+  - name: Pomodoro Protocol
+    content: Work for 90 minutes, then break briefly, repeat.
+    type: habit
+    level: molar
+  - name: Digital Minimalism
+    content: Disable notifications, close unnecessary tabs, silence the external world.
+    type: habit
+    level: molecular
+  components:
+  - name: Noise-Cancelling Headphones
+    type: technical
+    capacity: Blocks external auditory distractions.
+  - name: Timer Application
+    type: technical
+    capacity: Structures and segments time.
+  - name: Ritualistic Coffee Mug
+    type: organic
+    capacity: Triggers the start of the block with a small symbolic act.
+  intensity_field:
+    focus: 0.9
+    speed: 0.7
+    abstraction: 0.6
+    tactility: 0.2
+    patience: 0.8
+    social: 0.1
+  becoming_vectors:
+  - becoming-master-of-one's-craft
+  - becoming-one-with-the-task
+  - becoming-a-temporal-anomaly
+- name: Meeting-hour-Assemblage
+  abstract_machine: A standardized, temporal container forcing collaboration, however
+    awkwardly.
+  entity_type: object
+  territories:
+  - name: The Agenda
+    function: Structures the flow of conversation, attempting to direct collective
+      thought.
+    quality: rigid
+    space_type: striated
+  - name: Collaborative Screen Space
+    function: Projects and shares visual information, creating a temporary collective
+      workspace.
+    quality: mediated
+    space_type: smooth
+  - name: The Individual Mind
+    function: A locus of thought wrestling with the demands of collective engagement
+      and personal tasks.
+    quality: fragmented
+    space_type: striated
+  codes:
+  - name: Punctuality Protocol
+    content: Attend promptly to demonstrate respect for others' time, regardless of
+      actual efficiency.
+    type: habit
+    level: molar
+  - name: Contribution Mandate
+    content: Speak up, contribute ideas, even if partially formed, to justify participation.
+    type: habit
+    level: molar
+  - name: Background Tasking
+    content: Secretly responding to email and other non-meeting related requests.
+    type: habit
+    level: molecular
+  components:
+  - name: Conference Call Software
+    type: technical
+    capacity: Enables distributed synchronous communication, however glitchy.
+  - name: Shared Document
+    type: sign
+    capacity: Allows co-editing and real-time tracking of changes, fostering (or hindering)
+      collaboration.
+  - name: Calendar Invite
+    type: sign
+    capacity: Establishes the temporal boundary and pre-agreed social contract.
+  intensity_field:
+    focus: 0.4
+    speed: 0.6
+    abstraction: 0.7
+    tactility: 0.1
+    patience: 0.3
+    social: 0.8
+  becoming_vectors:
+  - becoming-productive
+  - becoming-drained
+  - becoming-interrupted
+  - becoming-standardized
+- name: Class-period-Assemblage
+  abstract_machine: Intensifying cognitive flows through structured temporal constraint.
+  entity_type: object
+  territories:
+  - name: Lectern-Territory
+    function: Centers didactic power and focalizes attention.
+    quality: Hierarchical
+    space_type: striated
+  - name: Note-Taking-Territory
+    function: Translates auditory flows into codified inscriptions.
+    quality: Recursive
+    space_type: striated
+  - name: Peer-Exchange-Territory
+    function: Facilitates lateral knowledge transfer and collective problem-solving.
+    quality: Collaborative
+    space_type: smooth
+  codes:
+  - name: Punctuality-Code
+    content: Arrive on time, start on time, end on time.
+    type: habit
+    level: molar
+  - name: Hand-Raising-Code
+    content: Signal for permission to speak and engage.
+    type: habit
+    level: molar
+  - name: Marginalia-Code
+    content: Doodling and tangential thinking during instruction.
+    type: habit
+    level: molecular
+  components:
+  - name: Projector-Component
+    type: technical
+    capacity: Visual amplification and standardized information display.
+  - name: Student-Component
+    type: organic
+    capacity: Cognitive absorption, processing, and articulation of knowledge.
+  - name: Syllabus-Component
+    type: sign
+    capacity: Mapping the course's trajectory and defining evaluation metrics.
+  intensity_field:
+    focus: 0.8
+    speed: 0.7
+    abstraction: 0.6
+    tactility: 0.2
+    patience: 0.5
+    social: 0.4
+  becoming_vectors:
+  - becoming-knowledge
+  - becoming-skilled
+  - becoming-evaluated
+- name: Meditation-sitting-Assemblage
+  abstract_machine: The silent loom weaving presence from absence.
+  entity_type: object
+  territories:
+  - name: Breath-Territory
+    function: Anchoring the wandering mind.
+    quality: Anchored
+    space_type: smooth
+  - name: Body-Territory
+    function: Sensing sensations without judgment.
+    quality: Aware
+    space_type: striated
+  - name: Mind-Territory
+    function: Observing thoughts as passing clouds.
+    quality: Empty
+    space_type: smooth
+  codes:
+  - name: Posture-Code
+    content: Sit upright, spine straight, hands relaxed.
+    type: habit
+    level: molar
+  - name: Attention-Code
+    content: Gently redirect focus when mind wanders.
+    type: habit
+    level: molecular
+  - name: Silence-Code
+    content: Cultivate inner stillness amidst outer noise.
+    type: habit
+    level: molecular
+  components:
+  - name: Cushion
+    type: technical
+    capacity: Provides physical comfort and support.
+  - name: Breath
+    type: organic
+    capacity: Rhythmic anchor for attention.
+  - name: Timer
+    type: technical
+    capacity: Structures the duration of practice.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.6
+    tactility: 0.7
+    patience: 0.9
+    social: 0.1
+  becoming_vectors:
+  - becoming-present
+  - becoming-mindful
+  - becoming-calm
+  - becoming-unbound
+- name: Music-practice-Assemblage
+  abstract_machine: The forging of sonic potential through disciplined iteration.
+  entity_type: object
+  territories:
+  - name: Rehearsal-Room-Territory
+    function: Provides acoustic isolation and defined space for sonic experimentation.
+    quality: Contained
+    space_type: striated
+  - name: Instrument-Body-Territory
+    function: Transforms physical gesture into sonic vibration.
+    quality: Resonant
+    space_type: smooth
+  - name: Score-Territory
+    function: Organizes sonic possibilities into a structured pathway.
+    quality: Guiding
+    space_type: striated
+  codes:
+  - name: Metronome-Code
+    content: Adherence to tempo and rhythmic precision.
+    type: habit
+    level: molar
+  - name: Fingering-Code
+    content: Precise and efficient hand movements on the instrument.
+    type: habit
+    level: molecular
+  - name: Ear-Training-Code
+    content: Actively listening and correcting intonation.
+    type: habit
+    level: molecular
+  components:
+  - name: Instrument
+    type: technical
+    capacity: Amplification and articulation of musical ideas
+  - name: Sheet-Music
+    type: sign
+    capacity: Transcription of musical notation
+  - name: Focused-Attention
+    type: organic
+    capacity: Sustained concentration for error correction
+  intensity_field:
+    focus: 0.9
+    speed: 0.6
+    abstraction: 0.7
+    tactility: 0.8
+    patience: 0.7
+    social: 0.2
+  becoming_vectors:
+  - becoming-virtuosic
+  - becoming-expressive
+  - becoming-improvisational
+- name: Exercise-session-Assemblage
+  abstract_machine: Body becomes force; discipline sculpts desire.
+  entity_type: object
+  territories:
+  - name: Muscular-Envelope
+    function: Encloses and protects the vital organs, enabling physical expression.
+    quality: resilient
+    space_type: striated
+  - name: Cardio-Vascular-Realm
+    function: Pumps oxygen, fuels movement, sustains life.
+    quality: rhythmic
+    space_type: smooth
+  - name: Sweat-Liberation-Zone
+    function: Releases tension, cools the system, purges waste.
+    quality: fluid
+    space_type: smooth
+  codes:
+  - name: Repetition-Imperative
+    content: Repeat the action until failure is embraced.
+    type: habit
+    level: molar
+  - name: Breath-Governance
+    content: Inhale power, exhale strain; find the rhythm within.
+    type: habit
+    level: molecular
+  - name: Form-Enforcement
+    content: Maintain proper alignment, prevent injury, optimize output.
+    type: rule
+    level: molar
+  components:
+  - name: Running-Shoes
+    type: technical
+    capacity: Grounding force and amplifying kinetic energy.
+  - name: Heart-Rate-Monitor
+    type: technical
+    capacity: Quantifying exertion and guiding intensity.
+  - name: Water-Bottle
+    type: organic
+    capacity: Hydration and sustenance of the flesh.
+  intensity_field:
+    focus: 0.8
+    speed: 0.7
+    abstraction: 0.2
+    tactility: 0.9
+    patience: 0.6
+    social: 0.3
+  becoming_vectors:
+  - becoming-stronger
+  - becoming-enduring
+  - becoming-disciplined
+  - becoming-present
+- name: Therapy-session-Assemblage
+  abstract_machine: Untangling the knotted self, thread by fragile thread.
+  entity_type: object
+  territories:
+  - name: The-Room
+    function: Provides a contained, safe space for exploration and vulnerability.
+    quality: Sanctuary
+    space_type: smooth
+  - name: The-Self
+    function: The locus of pain, potential, and persistent narrative.
+    quality: Mutable
+    space_type: striated
+  - name: Language
+    function: Vehicle and obstacle, both revealing and concealing the internal landscape.
+    quality: Symbolic
+    space_type: striated
+  codes:
+  - name: Confidentiality
+    content: What is said here, stays here (with exceptions).
+    type: habit
+    level: molar
+  - name: Free-Association
+    content: Follow the thread of thought, wherever it leads.
+    type: habit
+    level: molecular
+  components:
+  - name: The-Clock
+    type: technical
+    capacity: Frames the session, imposing temporal limits and a sense of urgency.
+  - name: The-Couch
+    type: organic
+    capacity: Offers a space for relaxation, vulnerability and embodied expression.
+  - name: The-Therapist
+    type: organic
+    capacity: Facilitates the process of self-discovery and provides a holding environment.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.7
+    tactility: 0.4
+    patience: 0.9
+    social: 0.7
+  becoming_vectors:
+  - becoming-articulate
+  - becoming-whole
+  - becoming-resilient
+  - becoming-present
+- name: Morning-pages-Assemblage
+  abstract_machine: Ungluing thought, birthing the day's potential.
+  entity_type: object
+  territories:
+  - name: The-Unfurling-Mind
+    function: Acts as a container for unfiltered thoughts and emotions upon waking.
+    quality: Raw
+    space_type: smooth
+  - name: Paper-Archive
+    function: A tangible record of daily mental landscapes, a repository of fleeting
+      ideas.
+    quality: Palimpsestic
+    space_type: striated
+  - name: First-Light-Threshold
+    function: A space of liminal awareness, where the subconscious bleeds into conscious
+      thought.
+    quality: Liminal
+    space_type: smooth
+  codes:
+  - name: Non-Judgment
+    content: Write without censoring or editing, allowing thoughts to flow freely.
+    type: habit
+    level: molecular
+  - name: Quantity-over-Quality
+    content: Prioritize volume of writing over grammatical correctness or coherence.
+    type: habit
+    level: molar
+  - name: Time-Constraint
+    content: Allocate a specific duration for writing, creating a structured boundary.
+    type: rule
+    level: molar
+  components:
+  - name: Pen-and-Paper
+    type: technical
+    capacity: Facilitates the physical act of transcription and tactile connection
+      to thought.
+  - name: Unfiltered-Thoughts
+    type: organic
+    capacity: Provides the raw material for the writing process.
+  - name: Coffee-Aroma
+    type: sign
+    capacity: Functions as a sensory trigger for alertness and focus.
+  intensity_field:
+    focus: 0.6
+    speed: 0.8
+    abstraction: 0.3
+    tactility: 0.7
+    patience: 0.5
+    social: 0.1
+  becoming_vectors:
+  - becoming-writer
+  - becoming-present
+  - becoming-unstuck
+  - becoming-archivist
+- name: Morning-practice-Assemblage
+  abstract_machine: A crucible for self-sculpting through movement and stillness.
+  entity_type: object
+  territories:
+  - name: Body-Awakening
+    function: Sensory engagement with physical form, shedding nocturnal inertia.
+    quality: Vital
+    space_type: smooth
+  - name: Mental-Clarity
+    function: Cultivating a focused and receptive mind, purging mental clutter.
+    quality: Lucid
+    space_type: striated
+  - name: Breath-Presence
+    function: Anchoring awareness in the rhythm of respiration, establishing a grounding
+      rhythm.
+    quality: Grounded
+    space_type: smooth
+  codes:
+  - name: Ritual-Cadence
+    content: Execute sun salutations and silent breathwork for 30 minutes daily.
+    type: habit
+    level: molar
+  - name: Somatic-Listening
+    content: Attend to internal sensations and adjust movements accordingly; prioritize
+      sensation over strict form.
+    type: habit
+    level: molecular
+  - name: Digital-Detox
+    content: No screens or notifications until after the practice.
+    type: habit
+    level: molar
+  components:
+  - name: Yoga-Mat
+    type: technical
+    capacity: Providing a stable and delineated space for practice.
+  - name: Breath
+    type: organic
+    capacity: Sustaining life and connecting mind and body.
+  - name: Mental-Imagery
+    type: sign
+    capacity: Guiding focus and deepening meditative state.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.9
+    patience: 0.7
+    social: 0.1
+  becoming_vectors:
+  - becoming-Resilient
+  - becoming-Present
+  - becoming-Self-Aware
+- name: Breakfast-ritual-Assemblage
+  abstract_machine: 'Somatic clockwork: calibrating the body-machine for labor.'
+  entity_type: object
+  territories:
+  - name: Kitchen-Domain
+    function: Preparation and consumption of fuel.
+    quality: Functional
+    space_type: striated
+  - name: Table-Surface
+    function: Horizon for the morning's potential.
+    quality: Receptive
+    space_type: smooth
+  - name: Body-Internal
+    function: Digestion and energy conversion.
+    quality: Rhythmic
+    space_type: striated
+  codes:
+  - name: Coffee-Order
+    content: Dark roast, black, consumed immediately.
+    type: habit
+    level: molar
+  - name: Cereal-Selection
+    content: Preference for high-fiber, low-sugar options.
+    type: habit
+    level: molecular
+  - name: Utensil-Protocol
+    content: Fork for solids, spoon for liquids.
+    type: habit
+    level: molar
+  components:
+  - name: Coffee-Machine
+    type: technical
+    capacity: Production of focused energy.
+  - name: Cereal-Box
+    type: sign
+    capacity: Transmission of dietary information and consumer ideology.
+  - name: Stomach-Lining
+    type: organic
+    capacity: Absorption of nutrients.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.2
+    tactility: 0.6
+    patience: 0.4
+    social: 0.1
+  becoming_vectors:
+  - becoming-productive
+  - becoming-nourished
+  - becoming-routinized
+  - becoming-aware
+- name: Intention-setting-Assemblage
+  abstract_machine: Crafting dawn’s potential into actionable paths.
+  entity_type: object
+  territories:
+  - name: The Quiet Room
+    function: A space for focused introspection and self-connection.
+    quality: Serene
+    space_type: smooth
+  - name: The Mind's Landscape
+    function: Internal space of imaginative projection, visualizing desired outcomes.
+    quality: Expansive
+    space_type: smooth
+  - name: The To-Do List
+    function: External structure for translating intentions into concrete actions.
+    quality: Ordered
+    space_type: striated
+  codes:
+  - name: Gratitude Ritual
+    content: Acknowledging existing abundance to foster positive momentum.
+    type: habit
+    level: molecular
+  - name: Prioritization Protocol
+    content: Selecting the most impactful task to shape the day's trajectory.
+    type: habit
+    level: molar
+  components:
+  - name: Journal
+    type: technical
+    capacity: Externalized memory and iterative self-reflection.
+  - name: Timer
+    type: technical
+    capacity: Bounded focus and disciplined action.
+  - name: Breath
+    type: organic
+    capacity: Anchoring presence and modulating mental state.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.2
+    patience: 0.7
+    social: 0.1
+  becoming_vectors:
+  - becoming-intentional
+  - becoming-aligned
+  - becoming-effective
+- name: Core-hours-Assemblage
+  abstract_machine: The measured pulse of collective striving, a temporal cage for
+    creativity.
+  entity_type: object
+  territories:
+  - name: Temporal Cage
+    function: Defines the sanctioned hours for productive labor, bounding potential
+      overflow.
+    quality: Ordered
+    space_type: striated
+  - name: Collaboration Zone
+    function: Facilitates synchronous communication and collective problem-solving
+      within the designated time.
+    quality: Synchronous
+    space_type: striated
+  - name: Creative Anomaly
+    function: Pockets of unexpected breakthroughs that escape the rigid structure.
+    quality: Emergent
+    space_type: smooth
+  codes:
+  - name: 9-to-5 Protocol
+    content: Attendance and participation during the specified core hours.
+    type: habit
+    level: molar
+  - name: Email Etiquette
+    content: Expected responsiveness and timely communication within the core hours
+      window.
+    type: habit
+    level: molar
+  - name: Meeting Mandala
+    content: Rituals of shared attention, structured by agendas and punctuated by
+      unspoken power dynamics.
+    type: habit
+    level: molecular
+  components:
+  - name: Calendar System
+    type: technical
+    capacity: Synchronization of schedules and allocation of temporal resources.
+  - name: Communication Platforms
+    type: technical
+    capacity: Instantaneous transmission of information and collaborative engagement.
+  - name: Coffee Machine
+    type: organic
+    capacity: Sustained alertness and social lubrication within the temporal confines.
+  intensity_field:
+    focus: 0.8
+    speed: 0.7
+    abstraction: 0.5
+    tactility: 0.2
+    patience: 0.4
+    social: 0.6
+  becoming_vectors:
+  - becoming-efficient
+  - becoming-alienated
+  - becoming-a-cog
+  - becoming-resistant
+- name: Breaks-Assemblage
+  abstract_machine: Deconstructing the striated time of labor into smooth potentials
+    of rest.
+  entity_type: object
+  territories:
+  - name: The Water Cooler Oasis
+    function: Social lubrication and rumor propagation
+    quality: convivial
+    space_type: smooth
+  - name: The Cigarette Break Balcony
+    function: Solitary contemplation and nicotine fueling
+    quality: contemplative
+    space_type: striated
+  - name: Daydream Delta
+    function: Mental escape from the task at hand
+    quality: escapist
+    space_type: smooth
+  codes:
+  - name: Official Break Schedule
+    content: Every two hours, a mandatory 15-minute pause
+    type: habit
+    level: molar
+  - name: Spontaneous Micro-Break
+    content: Gazing out the window, stretching limbs, mental reset
+    type: habit
+    level: molecular
+  - name: Slack Channel Gossip
+    content: Digital chatter and informal communication
+    type: habit
+    level: molecular
+  components:
+  - name: Ergonomic Chair
+    type: technical
+    capacity: Facilitates physical comfort during brief respites
+  - name: Sugary Snack
+    type: organic
+    capacity: Provides a temporary energy boost
+  - name: Phone Screen
+    type: sign
+    capacity: Offers portals to alternate realities and social connection
+  intensity_field:
+    focus: 0.2
+    speed: 0.3
+    abstraction: 0.7
+    tactility: 0.1
+    patience: 0.6
+    social: 0.8
+  becoming_vectors:
+  - becoming-refreshed
+  - becoming-disconnected
+  - becoming-recharged
+  - becoming-gossipy
+- name: Lunch-Assemblage
+  abstract_machine: The rhythmic gulp and grind that momentarily halts the Capitalist
+    machine.
+  entity_type: process
+  territories:
+  - name: Break Room Oasis
+    function: A sanctuary for the weary worker, providing respite from the structured
+      workday.
+    quality: restorative
+    space_type: striated
+  - name: Stomachic Time
+    function: Allocated minutes for the internal engine to process fuel, a fleeting
+      pause within the production cycle.
+    quality: metabolic
+    space_type: smooth
+  - name: Digital Detachment Zone
+    function: A brief respite from the digital networks and screens that dominate
+      the working day, allowing for a momentary reconnection with the physical world.
+    quality: disconnecting
+    space_type: smooth
+  codes:
+  - name: Noon Whistle
+    content: The audible signal dictating the beginning of the designated eating period.
+    type: habit
+    level: molar
+  - name: Utensil Etiquette
+    content: The socially prescribed use of tools (fork, spoon, knife) for ingesting
+      food.
+    type: habit
+    level: molar
+  - name: Craving Algorithm
+    content: Subconscious desires and nutritional needs that influence food choices.
+    type: habit
+    level: molecular
+  components:
+  - name: Sandwich Construction
+    type: technical
+    capacity: Transforming disparate ingredients into a portable, consumable entity.
+  - name: Digestive System
+    type: organic
+    capacity: Breaking down and assimilating nutrients from ingested substances.
+  - name: Conversation Bubbles
+    type: sign
+    capacity: Exchanging information and building social bonds during the shared meal.
+  intensity_field:
+    focus: 0.3
+    speed: 0.5
+    abstraction: 0.1
+    tactility: 0.8
+    patience: 0.6
+    social: 0.7
+  becoming_vectors:
+  - becoming-refueled
+  - becoming-social
+  - becoming-momentarily-free
+- name: Shutdown-ritual-Assemblage
+  abstract_machine: The daily shedding of productive selfhood.
+  entity_type: object
+  territories:
+  - name: Desktop-Shrine
+    function: The ordered arrangement of tools and talismans signaling the end of
+      labor.
+    quality: Ordered
+    space_type: striated
+  - name: Inbox-Purgatory
+    function: The final culling and deferral of unresolved tasks.
+    quality: Anxious
+    space_type: smooth
+  - name: Body-Temple
+    function: The re-centering of physical sensation after hours of screen-gaze.
+    quality: Grounded
+    space_type: smooth
+  codes:
+  - name: Email-Zero
+    content: The (often illusory) attempt to reach inbox emptiness before leaving.
+    type: habit
+    level: molar
+  - name: Stretch-Break
+    content: The conscious release of tension held within posture.
+    type: habit
+    level: molecular
+  - name: Calendar-Closure
+    content: The marking of the day as complete in the digital ledger.
+    type: rule
+    level: molar
+  components:
+  - name: Screen-Gaze
+    type: technical
+    capacity: Enabling the processing and delivery of information.
+  - name: Posture
+    type: organic
+    capacity: Enabling physical support and directed action.
+  - name: Keyboard
+    type: technical
+    capacity: Enabling the translation of thought into digital form.
+  intensity_field:
+    focus: 0.2
+    speed: 0.3
+    abstraction: 0.7
+    tactility: 0.4
+    patience: 0.6
+    social: 0.1
+  becoming_vectors:
+  - becoming-leisure
+  - becoming-self
+  - becoming-unproductive
+  - becoming-refreshed
+- name: Dinner-Assemblage
+  abstract_machine: A communal hearth where hunger transforms into connection and
+    stories are shared.
+  entity_type: object
+  territories:
+  - name: Kitchen-Table
+    function: Focal point for sustenance and shared narratives.
+    quality: warm
+    space_type: striated
+  - name: Individual-Plate
+    function: Demarcation of personal consumption and choice.
+    quality: individual
+    space_type: striated
+  - name: Culinary-Aroma
+    function: Invisible landscape that evokes memory and anticipation.
+    quality: inviting
+    space_type: smooth
+  codes:
+  - name: Utensil-Etiquette
+    content: Norms of using forks, knives, spoons, reflecting social decorum.
+    type: habit
+    level: molar
+  - name: Dietary-Preference
+    content: Individual choices regarding food, shaped by ethics, health, or taste.
+    type: habit
+    level: molecular
+  - name: Conversation-Flow
+    content: Implicit rules governing dialogue, interruptions, and listening.
+    type: habit
+    level: molar
+  components:
+  - name: Food-Ingredients
+    type: organic
+    capacity: Provides nutrients, fuel for physical and mental activity.
+  - name: Tableware
+    type: technical
+    capacity: Facilitates the transfer and consumption of food.
+  - name: Shared-Stories
+    type: sign
+    capacity: Creates bonds, transmits cultural values, and fosters understanding.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.2
+    tactility: 0.8
+    patience: 0.6
+    social: 0.9
+  becoming_vectors:
+  - becoming-communal
+  - becoming-nourished
+  - becoming-intimate
+  - becoming-memorable
+- name: Evening-practice-Assemblage
+  abstract_machine: Melting the day's armor into the night's dream-forge.
+  entity_type: object
+  territories:
+  - name: Domestic-Nest
+    function: Provides a safe haven for decompression and restoration.
+    quality: restorative
+    space_type: smooth
+  - name: Inner-Sanctum
+    function: Cultivates mindfulness and self-reflection through ritual.
+    quality: meditative
+    space_type: smooth
+  - name: Digital-Detox-Zone
+    function: Shields from the hyper-connectivity of the outside world.
+    quality: insulating
+    space_type: striated
+  codes:
+  - name: Screen-Curfew
+    content: No screens after 9pm.
+    type: habit
+    level: molar
+  - name: Mindful-Movement
+    content: 15 minutes of yoga or stretching.
+    type: habit
+    level: molecular
+  - name: Gratitude-Journal
+    content: Write down three things I am grateful for.
+    type: habit
+    level: molecular
+  components:
+  - name: Weighted-Blanket
+    type: technical
+    capacity: Deep pressure stimulation and anxiety reduction
+  - name: Herbal-Tea
+    type: organic
+    capacity: Calming and sleep-inducing properties
+  - name: Scented-Candle
+    type: sign
+    capacity: Triggers olfactory-based relaxation and comfort
+  intensity_field:
+    focus: 0.2
+    speed: 0.1
+    abstraction: 0.3
+    tactility: 0.7
+    patience: 0.9
+    social: 0.1
+  becoming_vectors:
+  - becoming-calm
+  - becoming-self-aware
+  - becoming-unburdened
+  - becoming-receptive
+- name: Wind-down-Assemblage
+  abstract_machine: Flowing from activity into receptive stillness; a nightly softening.
+  entity_type: object
+  territories:
+  - name: Bedroom-Sanctuary
+    function: Provides a contained space for transition and rest.
+    quality: Calming
+    space_type: striated
+  - name: Body-Landscape
+    function: Subject to practices of relaxation and preparation.
+    quality: Receptive
+    space_type: smooth
+  - name: Dreamscape-Threshold
+    function: A liminal zone where waking thoughts dissolve.
+    quality: Ethereal
+    space_type: smooth
+  codes:
+  - name: Screen-Sunset
+    content: Gradual reduction of screen time, moving away from stimulation.
+    type: habit
+    level: molar
+  - name: Tea-Ritual
+    content: Brewing and drinking a calming herbal tea (e.g., chamomile).
+    type: habit
+    level: molecular
+  - name: Breath-Work
+    content: Conscious breathing exercises to slow heart rate and quiet the mind.
+    type: habit
+    level: molecular
+  components:
+  - name: Weighted-Blanket
+    type: technical
+    capacity: Provides proprioceptive input, grounding the body.
+  - name: Essential-Oil-Diffuser
+    type: technical
+    capacity: Releases calming scents, altering the atmosphere.
+  - name: Sleep-Journal
+    type: sign
+    capacity: Captures residual thoughts and feelings, releasing them from the mind.
+  intensity_field:
+    focus: 0.3
+    speed: 0.2
+    abstraction: 0.7
+    tactility: 0.6
+    patience: 0.8
+    social: 0.1
+  becoming_vectors:
+  - becoming-asleep
+  - becoming-dream
+  - becoming-refreshed
+- name: Reflection-Assemblage
+  abstract_machine: Sifting day's sediment for nascent futures.
+  entity_type: object
+  territories:
+  - name: Quiet-Corner
+    function: Provides a dedicated, undistracted space for introspection.
+    quality: Serene
+    space_type: smooth
+  - name: Mental-Archive
+    function: Houses memories, thoughts, and feelings experienced during the day.
+    quality: Organized
+    space_type: striated
+  - name: Emotional-Landscape
+    function: The fluctuating terrain of feelings generated throughout the day.
+    quality: Dynamic
+    space_type: smooth
+  codes:
+  - name: Gratitude-Protocol
+    content: Identify at least three things to be grateful for from the day.
+    type: habit
+    level: molar
+  - name: Error-Analysis
+    content: Acknowledge and note areas for potential improvement, without self-reproach.
+    type: habit
+    level: molar
+  - name: Body-Scan
+    content: Notice sensations in the body, releasing tension through breath and awareness.
+    type: habit
+    level: molecular
+  components:
+  - name: Journal
+    type: technical
+    capacity: Externalizing and structuring thoughts and emotions.
+  - name: Calm-App
+    type: technical
+    capacity: Generating ambient soundscapes and guided meditations.
+  - name: Breath
+    type: organic
+    capacity: Anchoring presence and facilitating emotional regulation.
+  intensity_field:
+    focus: 0.7
+    speed: 0.2
+    abstraction: 0.6
+    tactility: 0.3
+    patience: 0.8
+    social: 0.1
+  becoming_vectors:
+  - becoming-wise
+  - becoming-present
+  - becoming-resilient
+  - becoming-compassionate
+- name: Weekdays-Assemblage
+  abstract_machine: The relentless hum of productive obligation, fracturing time into
+    units of labor.
+  entity_type: object
+  territories:
+  - name: The Office
+    function: To enclose and channel laboring bodies and minds towards pre-determined
+      outputs.
+    quality: sterile
+    space_type: striated
+  - name: The Commute
+    function: A ritualistic transit, a becoming-worker amidst the vehicular swarm.
+    quality: anxious
+    space_type: smooth
+  - name: The Desk
+    function: Localized zone of focused (or distracted) activity, a personal workspace
+      within a larger structure.
+    quality: controlled
+    space_type: striated
+  codes:
+  - name: The Timeclock
+    content: Punctuality, adherence to the temporal grid of working hours.
+    type: habit
+    level: molar
+  - name: The Email Chain
+    content: Communication protocols, the standardized language of professional exchange.
+    type: habit
+    level: molecular
+  - name: The Dress Code
+    content: Conformity to a visual representation of professionalism and hierarchy.
+    type: habit
+    level: molar
+  components:
+  - name: Keyboard
+    type: technical
+    capacity: Enables rapid textual production and digital interaction.
+  - name: Coffee Mug
+    type: organic
+    capacity: Sustains alertness and provides a brief respite from labor.
+  - name: Gantt Chart
+    type: sign
+    capacity: Visually organizes tasks and deadlines, enforcing a linear temporal
+      progression.
+  intensity_field:
+    focus: 0.7
+    speed: 0.8
+    abstraction: 0.6
+    tactility: 0.3
+    patience: 0.4
+    social: 0.5
+  becoming_vectors:
+  - becoming-efficient
+  - becoming-productive
+  - becoming-numb
+  - becoming-machine
+- name: Weekend-Assemblage
+  abstract_machine: Rhythmic escape; a striated break becoming smooth potential.
+  entity_type: object
+  territories:
+  - name: Domestic Sanctuary
+    function: Provides a safe, controllable space for recuperation and personal activities.
+    quality: sheltered
+    space_type: striated
+  - name: Wild Open
+    function: Offers unbounded possibilities for exploration, adventure, and disconnection
+      from routine.
+    quality: expansive
+    space_type: smooth
+  - name: Social Nexus
+    function: Connects individuals with desired communities, fostering belonging and
+      shared experiences.
+    quality: convivial
+    space_type: striated
+  codes:
+  - name: Clock-Time Surrender
+    content: Release from the rigid schedule of work days, embracing natural rhythms.
+    type: habit
+    level: molar
+  - name: Consumption Rituals
+    content: Engaging in pleasurable activities, often involving purchasing goods
+      or services.
+    type: habit
+    level: molar
+  - name: Spontaneous Detour
+    content: Departing from planned activities, embracing unplanned experiences.
+    type: habit
+    level: molecular
+  components:
+  - name: Bed
+    type: organic
+    capacity: Enables deep rest and recuperation.
+  - name: Smartphone
+    type: technical
+    capacity: Facilitates communication, entertainment, and information access.
+  - name: Leisure Wear
+    type: sign
+    capacity: Signals a shift in identity and purpose, signifying a break from professional
+      attire.
+  intensity_field:
+    focus: 0.3
+    speed: 0.2
+    abstraction: 0.6
+    tactility: 0.8
+    patience: 0.7
+    social: 0.9
+  becoming_vectors:
+  - becoming-refreshed
+  - becoming-reconnected
+  - becoming-unbound
+- name: Sabbath-Assemblage
+  abstract_machine: A generative pause, a temporary withdrawal to replenish potentiality.
+  entity_type: object
+  territories:
+  - name: Domestic Sanctuary
+    function: Provides a protected space for restorative activities.
+    quality: hallowed
+    space_type: striated
+  - name: Temporal Pause
+    function: Marks a designated interruption of the work week's relentless flow.
+    quality: liminal
+    space_type: smooth
+  - name: Communal Gathering
+    function: Facilitates shared experience of rest and spiritual renewal.
+    quality: convivial
+    space_type: striated
+  codes:
+  - name: Abstinence from Labor
+    content: Refrain from productive work and financial transactions.
+    type: habit
+    level: molar
+  - name: Ritual Performance
+    content: Engage in prayer, contemplation, or celebratory activities.
+    type: habit
+    level: molar
+  - name: Mindful Presence
+    content: Cultivate heightened awareness of the present moment, disengaging from
+      future-oriented anxieties.
+    type: habit
+    level: molecular
+  components:
+  - name: Prayer Beads
+    type: technical
+    capacity: Focusing and directing spiritual energy.
+  - name: Family Meal
+    type: organic
+    capacity: Nourishment and social bonding.
+  - name: Sacred Text
+    type: sign
+    capacity: Inspiration and reflection.
+  intensity_field:
+    focus: 0.7
+    speed: 0.2
+    abstraction: 0.6
+    tactility: 0.4
+    patience: 0.9
+    social: 0.8
+  becoming_vectors:
+  - becoming-refreshed
+  - becoming-receptive
+  - becoming-regenerated
+  - becoming-communal
+- name: Weekly-meeting-Assemblage
+  abstract_machine: The constant return, a chattering machine for shared becoming.
+  entity_type: event
+  territories:
+  - name: Temporal-Lock
+    function: Carves a recurring temporal space for collective action.
+    quality: rhythmic
+    space_type: striated
+  - name: Shared-Agenda
+    function: A loosely defined domain of topics, always threatening to spill over.
+    quality: porous
+    space_type: smooth
+  - name: Digital-Gathering
+    function: The platform where the meeting takes place; Zoom, Meet, Teams...
+    quality: mediated
+    space_type: striated
+  codes:
+  - name: Time-Sanction
+    content: The appointed time for the meeting, rigidly enforced.
+    type: habit
+    level: molar
+  - name: Reporting-Ritual
+    content: The expectation of updates and progress reports.
+    type: habit
+    level: molar
+  - name: Implicit-Hierarchy
+    content: Subtle power dynamics and unspoken rules of engagement.
+    type: habit
+    level: molecular
+  components:
+  - name: Calendar-Invite
+    type: technical
+    capacity: Orchestrates the temporal recurrence, a digital shepherd.
+  - name: Verbal-Exchange
+    type: organic
+    capacity: Facilitates the flow of information and shared understanding.
+  - name: Shared-Document
+    type: sign
+    capacity: Represents collective knowledge and tasks in progress.
+  intensity_field:
+    focus: 0.7
+    speed: 0.5
+    abstraction: 0.6
+    tactility: 0.2
+    patience: 0.4
+    social: 0.8
+  becoming_vectors:
+  - becoming-synchronized
+  - becoming-productive
+  - becoming-dissipated
+- name: Weekly-class-Assemblage
+  abstract_machine: Rhythmic engagement with knowledge, morphing through repetition.
+  entity_type: object
+  territories:
+  - name: Classroom-Space
+    function: Confines and focuses learning within a designated time and place.
+    quality: Ordered
+    space_type: striated
+  - name: Subject-Matter-Domain
+    function: Provides the conceptual framework and content explored each week.
+    quality: Expansive
+    space_type: smooth
+  - name: Shared-Attention
+    function: Collective focus and exchange during the lesson.
+    quality: Attentive
+    space_type: smooth
+  codes:
+  - name: Syllabus-Rhythm
+    content: Pre-determined schedule of topics and assignments.
+    type: habit
+    level: molar
+  - name: Participation-Protocol
+    content: Implicit and explicit rules for engagement and interaction.
+    type: habit
+    level: molecular
+  - name: Assessment-Metrics
+    content: Grading scales and evaluation criteria.
+    type: habit
+    level: molar
+  components:
+  - name: Lecture-Notes
+    type: sign
+    capacity: Distillation and transmission of core concepts.
+  - name: Whiteboard
+    type: technical
+    capacity: Visual representation and shared construction of understanding.
+  - name: Student-Questions
+    type: organic
+    capacity: Disruption, clarification, and deepening of learning.
+  intensity_field:
+    focus: 0.8
+    speed: 0.5
+    abstraction: 0.7
+    tactility: 0.3
+    patience: 0.6
+    social: 0.9
+  becoming_vectors:
+  - becoming-learned
+  - becoming-skilled
+  - becoming-engaged
+  - becoming-critical
+- name: Weekly-practice-Assemblage
+  abstract_machine: A rhythmic carving of time through repeated action.
+  entity_type: object
+  territories:
+  - name: The-Scheduled-Slot
+    function: Confines practice to a specific temporal boundary.
+    quality: Structured
+    space_type: striated
+  - name: The-Practice-Zone
+    function: Designates a physical or mental space dedicated to the activity.
+    quality: Concentrated
+    space_type: smooth
+  - name: The-Digital-Reminder
+    function: External memory aid, signaling the start of the practice.
+    quality: Persistent
+    space_type: striated
+  codes:
+  - name: The-Time-Block-Rule
+    content: Devote [X] minutes every [Day] to [Activity].
+    type: habit
+    level: molar
+  - name: The-No-Interruptions-Pact
+    content: Minimize distractions during the practice.
+    type: habit
+    level: molecular
+  - name: The-Progress-Log
+    content: Briefly note progress or obstacles after each session.
+    type: habit
+    level: molar
+  components:
+  - name: The-Timer
+    type: technical
+    capacity: Measuring and enforcing duration.
+  - name: The-Dedicated-Tool
+    type: technical
+    capacity: Facilitating the specific practice (e.g., instrument, software).
+  - name: The-Body-Mind-Connection
+    type: organic
+    capacity: Embodied skill development and focus.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.5
+    patience: 0.9
+    social: 0.2
+  becoming_vectors:
+  - becoming-skilled
+  - becoming-disciplined
+  - becoming-habitual
+  - becoming-present
+- name: Weekly-review-Assemblage
+  abstract_machine: Unfolding the week's potential through recursive feedback.
+  entity_type: process
+  territories:
+  - name: Inbox-Zero-Territory
+    function: Clearing accumulated obligations, a space of sorted potential.
+    quality: Clarity
+    space_type: striated
+  - name: Reflective-Pool-Territory
+    function: Diving into the past week's experience to distill insights.
+    quality: Depth
+    space_type: smooth
+  - name: Future-Horizon-Territory
+    function: Projecting intention into the coming week, shaping its contours.
+    quality: Anticipation
+    space_type: striated
+  codes:
+  - name: Calendar-Rhythm-Code
+    content: Schedule a fixed weekly appointment for review and planning.
+    type: habit
+    level: molar
+  - name: Context-Tagging-Code
+    content: Categorize tasks and projects to facilitate focused action.
+    type: habit
+    level: molar
+  - name: Impermanence-Awareness-Code
+    content: Recognize the fluidity of plans and the need for adaptation.
+    type: rule
+    level: molecular
+  components:
+  - name: Task-Management-App
+    type: technical
+    capacity: Externalized memory and organization.
+  - name: Mindfulness-Technique
+    type: organic
+    capacity: Focused attention and emotional regulation.
+  - name: Journaling-Prompt
+    type: sign
+    capacity: Guided self-reflection and articulation.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.2
+    patience: 0.7
+    social: 0.1
+  becoming_vectors:
+  - becoming-intentional
+  - becoming-efficient
+  - becoming-present
+  - becoming-resilient
+- name: Monthly-planning-Assemblage
+  abstract_machine: Rhythmic capture of becoming within a gridded, finite horizon.
+  entity_type: object
+  territories:
+  - name: Temporal-Grid
+    function: Orders events within a discrete temporal container, providing a scaffolding
+      for anticipation.
+    quality: Ordered
+    space_type: striated
+  - name: Future-Echo
+    function: Resonates with potential actions and commitments, reflecting back possibilities
+      onto the present moment.
+    quality: Anticipatory
+    space_type: smooth
+  codes:
+  - name: Scheduled-Rhythm
+    content: Allocate time slots according to prior obligations and anticipated events;
+      enforce daily/weekly patterns.
+    type: habit
+    level: molar
+  - name: Interrupt-Protocol
+    content: Recognize and manage deviations from the schedule; assess urgency and
+      adjust accordingly.
+    type: habit
+    level: molecular
+  components:
+  - name: Digital-Calendar
+    type: technical
+    capacity: External memory storage; algorithmic reminders; synchronization across
+      platforms.
+  - name: Note-Taking-App
+    type: technical
+    capacity: Capturing emergent thoughts and assigning them to relevant temporal
+      slots; externalizing cognitive processing.
+  - name: Pomodoro-Timer
+    type: technical
+    capacity: Structured bursts of focused attention, interspersed with restorative
+      breaks.
+  intensity_field:
+    focus: 0.8
+    speed: 0.6
+    abstraction: 0.5
+    tactility: 0.2
+    patience: 0.7
+    social: 0.3
+  becoming_vectors:
+  - becoming-organized
+  - becoming-predictable
+  - becoming-efficient
+  - becoming-punctual
+- name: Monthly-review-Assemblage
+  abstract_machine: Mapping flows of time into a reflective landscape.
+  entity_type: object
+  territories:
+  - name: Retrospective-Field
+    function: Gathering experiences of the past month.
+    quality: reflective
+    space_type: smooth
+  - name: Prospective-Horizon
+    function: Projecting intentions for the coming month.
+    quality: anticipatory
+    space_type: striated
+  codes:
+  - name: Data-Recording
+    content: Documenting daily activities and feelings.
+    type: habit
+    level: molar
+  - name: Pattern-Recognition
+    content: Identifying recurring themes and challenges.
+    type: habit
+    level: molecular
+  components:
+  - name: Journal-Interface
+    type: technical
+    capacity: Capture and organize textual data.
+  - name: Emotional-Resonator
+    type: organic
+    capacity: Attune to the affective tone of memories.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.2
+    patience: 0.8
+    social: 0.1
+  becoming_vectors:
+  - becoming-self-aware
+  - becoming-goal-oriented
+  - becoming-temporal-navigator
+- name: Monthly-bills-Assemblage
+  abstract_machine: A cartography of debt, etched in time's recurring cycle.
+  entity_type: object
+  territories:
+  - name: Bank-Account-Territory
+    function: Automated withdrawals and deposits; the financial gatekeeper.
+    quality: structured
+    space_type: striated
+  - name: Spreadsheet-Territory
+    function: A meticulously organized grid of income and expenditure.
+    quality: quantifiable
+    space_type: striated
+  - name: Inbox-Territory
+    function: A flood of invoices, reminders, and statements; the source of obligations.
+    quality: urgent
+    space_type: smooth
+  codes:
+  - name: Payment-Deadline-Code
+    content: Bills must be paid by the due date or incur penalties.
+    type: habit
+    level: molar
+  - name: Budgeting-Code
+    content: Allocate a fixed amount of income to each expense category.
+    type: habit
+    level: molar
+  - name: Autopay-Code
+    content: Automate payments to avoid late fees and track spending.
+    type: habit
+    level: molecular
+  components:
+  - name: Bank-Statement-Component
+    type: sign
+    capacity: Provides a record of past transactions and balances.
+  - name: Reminder-App-Component
+    type: technical
+    capacity: Alerts the user of upcoming payment deadlines.
+  - name: Calculator-Component
+    type: technical
+    capacity: Enables the calculation of expenses and budget allocation.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.2
+    patience: 0.7
+    social: 0.1
+  becoming_vectors:
+  - becoming-financially-stable
+  - becoming-debt-free
+  - becoming-economically-anxious
+- name: Monthly-meetings-Assemblage
+  abstract_machine: The gradual erosion of ritualized connection, scattering into
+    asynchronous fragments.
+  entity_type: object
+  territories:
+  - name: Institutional-Memory
+    function: Holds the scheduled rhythms and shared past of the group.
+    quality: Fragile
+    space_type: striated
+  - name: Distributed-Attention
+    function: The collective focus scattered amongst personal tasks and distractions.
+    quality: Diffuse
+    space_type: smooth
+  - name: Emergent-Agenda
+    function: Unforeseen topics that disrupt the planned structure.
+    quality: Unexpected
+    space_type: smooth
+  codes:
+  - name: Punctuality-Norm
+    content: The expected arrival time for each meeting.
+    type: habit
+    level: molar
+  - name: Participation-Protocol
+    content: The implicit rules of engagement during discussions.
+    type: habit
+    level: molecular
+  - name: Email-Chain-Directive
+    content: The formal invitations and information disseminated.
+    type: habit
+    level: molar
+  components:
+  - name: Calendar-App
+    type: technical
+    capacity: Coordinates schedules and sends reminders.
+  - name: Coffee-Machine
+    type: technical
+    capacity: Provides a focal point for informal interactions and shared rituals.
+  - name: Shared-Document
+    type: sign
+    capacity: Represents the collective memory and ongoing projects.
+  intensity_field:
+    focus: 0.6
+    speed: 0.3
+    abstraction: 0.7
+    tactility: 0.2
+    patience: 0.5
+    social: 0.8
+  becoming_vectors:
+  - becoming-fragmented-communication
+  - becoming-individualized-projects
+  - becoming-asynchronous-collaboration
+- name: Full-moon-Assemblage
+  abstract_machine: 'Lunar culmination: A dance of fullness, visibility, and gravitational
+    pull.'
+  entity_type: object
+  territories:
+  - name: Nocturnal Illumination
+    function: Bathing the landscape in silver light, revealing hidden forms.
+    quality: luminous
+    space_type: smooth
+  - name: Tidal Surge
+    function: Exerting maximum gravitational force, influencing oceanic rhythms.
+    quality: forceful
+    space_type: striated
+  - name: Dreamscape Amplification
+    function: Heightening emotional intensity and subconscious activity during sleep.
+    quality: volatile
+    space_type: smooth
+  codes:
+  - name: Circadian Rhythm
+    content: Internal clock influenced by the lunar cycle, shifting activity patterns.
+    type: habit
+    level: molecular
+  - name: Coastal Navigation
+    content: Using the moon's position for seafaring guidance and tide prediction.
+    type: habit
+    level: molar
+  - name: Romantic Allure
+    content: Cultural association of the full moon with heightened passion and emotions.
+    type: habit
+    level: molar
+  components:
+  - name: Lunar Surface
+    type: technical
+    capacity: Reflecting sunlight, creating visible luminosity.
+  - name: Gravitational Field
+    type: organic
+    capacity: Exerting physical force on Earth's bodies of water.
+  - name: Selenite Crystal
+    type: sign
+    capacity: Representing purification and emotional balance.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.5
+    patience: 0.8
+    social: 0.4
+  becoming_vectors:
+  - becoming-ebb
+  - becoming-visible
+  - becoming-reflection
+  - becoming-dreamlike
+- name: New-moon-Assemblage
+  abstract_machine: Germinating potential from nocturnal depths, a blank canvas for
+    becoming.
+  entity_type: object
+  territories:
+  - name: Obsidian Void
+    function: Shielding nascent potential, a space for incubation and unformed possibility.
+    quality: Silent
+    space_type: smooth
+  - name: Sliver of Light
+    function: A fragile signal of emerging form, the first visible expression of hidden
+      forces.
+    quality: Fragile
+    space_type: striated
+  - name: Whispering Tides
+    function: The ebb and flow of subconscious energies, shaping the potential from
+      below.
+    quality: Rhythmic
+    space_type: smooth
+  codes:
+  - name: Lunar Rhythm
+    content: A monthly cycle of darkness and light dictates the timing of gestation
+      and release.
+    type: habit
+    level: molar
+  - name: Instinctual Pull
+    content: An innate urge to generate, driven by unarticulated desires and subconscious
+      drives.
+    type: habit
+    level: molecular
+  components:
+  - name: Germination Seed
+    type: organic
+    capacity: Containing unformed potential, a promise of future actualization.
+  - name: Ink-Black Canvas
+    type: sign
+    capacity: Representing the realm of possibility, a space for projective becoming.
+  - name: Whispering Wind
+    type: technical
+    capacity: Disseminating nascent ideas, a conduit for influencing the field of
+      potential.
+  intensity_field:
+    focus: 0.1
+    speed: 0.2
+    abstraction: 0.8
+    tactility: 0.1
+    patience: 0.9
+    social: 0.2
+  becoming_vectors:
+  - becoming-form
+  - becoming-visible
+  - becoming-actualized
+  - becoming-self
+- name: Lunar-phases-Assemblage
+  abstract_machine: Rhythmic becoming of light and shadow, a celestial breath.
+  entity_type: object
+  territories:
+  - name: Tide-Pull
+    function: Modulates earthly waters, a gravitational dance.
+    quality: rhythmic
+    space_type: smooth
+  - name: Reflective-Surface
+    function: Mirrors the sun's light, projecting borrowed brilliance.
+    quality: luminous
+    space_type: striated
+  codes:
+  - name: Chrono-Mark
+    content: A recurring cycle of visibility and invisibility.
+    type: habit
+    level: molar
+  - name: Luna-Tic
+    content: Emotional fluctuations linked to lunar transit.
+    type: habit
+    level: molecular
+  components:
+  - name: Lunar-Surface
+    type: technical
+    capacity: Reflection and absorption of light quanta.
+  - name: Gravitational-Field
+    type: organic
+    capacity: Inducing tidal forces and rhythmic responses.
+  - name: Mythic-Narrative
+    type: sign
+    capacity: Symbolic representation of change and fertility.
+  intensity_field:
+    focus: 0.7
+    speed: 0.2
+    abstraction: 0.6
+    tactility: 0.3
+    patience: 0.9
+    social: 0.4
+  becoming_vectors:
+  - becoming-the-tide
+  - becoming-the-eclipse
+  - becoming-the-story
+- name: Spring-Assemblage
+  abstract_machine: A rhizomatic flourishing, undoing winter's rigid lines.
+  entity_type: object
+  territories:
+  - name: Germination-Field
+    function: Incubating dormant potentials, triggering cellular division.
+    quality: nascent
+    space_type: smooth
+  - name: Pollination-Nexus
+    function: Distributing genetic information, fostering cross-fertilization.
+    quality: generative
+    space_type: striated
+  codes:
+  - name: Vernal-Equinox-Code
+    content: Increase photoperiod, initiate flowering.
+    type: habit
+    level: molar
+  - name: Melatonin-Shift-Code
+    content: Decreased melatonin production signals reproductive readiness.
+    type: habit
+    level: molecular
+  components:
+  - name: Chlorophyll-Granule
+    type: organic
+    capacity: Photosynthetic capture of solar energy.
+  - name: Insect-Wing
+    type: organic
+    capacity: Pollen transport and cross-pollination.
+  intensity_field:
+    focus: 0.7
+    speed: 0.8
+    abstraction: 0.2
+    tactility: 0.6
+    patience: 0.3
+    social: 0.5
+  becoming_vectors:
+  - becoming-flourishing
+  - becoming-dispersal
+  - becoming-abundance
+- name: Summer-Assemblage
+  abstract_machine: Solarity bleeds into ripening flesh, dissolving boundaries in
+    sweat.
+  entity_type: object
+  territories:
+  - name: Sun-Drenched Skin
+    function: Absorption and dissipation of solar energy
+    quality: Radiant
+    space_type: smooth
+  - name: Overripe Fruit Grove
+    function: Fermentation, decay, and regeneration
+    quality: Lush
+    space_type: striated
+  - name: Hum of Cicadas
+    function: Resonant drone marking cyclical time
+    quality: Vibrant
+    space_type: smooth
+  codes:
+  - name: Siesta Ritual
+    content: Midday pause, evasion of direct light
+    type: habit
+    level: molar
+  - name: Barefoot Wandering
+    content: Unmediated contact with earth, surrender to impulse
+    type: habit
+    level: molecular
+  - name: Firefly Language
+    content: Ephemeral flashes, coded signals in darkness
+    type: habit
+    level: molecular
+  components:
+  - name: Honeycomb Cells
+    type: organic
+    capacity: Storage and concentrated sweetness
+  - name: Perspiration Beads
+    type: organic
+    capacity: Thermoregulation, tactile sensation
+  - name: Distant Thunder
+    type: sign
+    capacity: Anticipation of release, premonition
+  intensity_field:
+    focus: 0.3
+    speed: 0.8
+    abstraction: 0.2
+    tactility: 0.9
+    patience: 0.4
+    social: 0.7
+  becoming_vectors:
+  - becoming-overripe
+  - becoming-sun-drunk
+  - becoming-swarm
+  - becoming-seed
+- name: Fall-Assemblage
+  abstract_machine: The rhythmic shedding and gathering of earthly energies, birthing
+    dormancy and provision.
+  entity_type: object
+  territories:
+  - name: Orchard-Territory
+    function: Producing and accumulating fruit before winter
+    quality: Abundant
+    space_type: striated
+  - name: Forest-Floor-Territory
+    function: Decomposition and nutrient recycling
+    quality: Decaying
+    space_type: smooth
+  - name: Migratory-Route-Territory
+    function: Guiding avian flight towards warmer lands
+    quality: Instinctual
+    space_type: smooth
+  codes:
+  - name: Leaf-Fall-Code
+    content: Shed dead foliage to conserve energy
+    type: habit
+    level: molecular
+  - name: Squirrel-Hoarding-Code
+    content: Gather nuts and bury them for winter sustenance
+    type: habit
+    level: molar
+  - name: Harvest-Festival-Code
+    content: Celebrate the bounty and prepare for scarcity
+    type: habit
+    level: molar
+  components:
+  - name: Apple-Component
+    type: organic
+    capacity: Nutritional provision and symbolic ripeness
+  - name: Fallen-Leaf-Component
+    type: organic
+    capacity: Ground insulation and decaying matter for future growth
+  - name: Scarecrow-Component
+    type: technical
+    capacity: Perception of protection against bird theft, symbolic guardian
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.8
+    patience: 0.9
+    social: 0.5
+  becoming_vectors:
+  - becoming-dormant
+  - becoming-preserved
+  - becoming-memory
+  - becoming-ground
+- name: Winter-Assemblage
+  abstract_machine: Hibernal latency blooming into potent potential.
+  entity_type: object
+  territories:
+  - name: Frozen Garden
+    function: Preserves latent life under a crystalline shell.
+    quality: still
+    space_type: striated
+  - name: Hearth's Embrace
+    function: Offers sanctuary from the blizzards, fueling inner warmth.
+    quality: cozy
+    space_type: smooth
+  - name: Dreamscape
+    function: Incubates future possibilities in the realm of slumber.
+    quality: fertile
+    space_type: smooth
+  codes:
+  - name: Ritual of Slumber
+    content: Daily descent into restorative sleep; a cyclical retreat.
+    type: habit
+    level: molar
+  - name: Metabolic Slowdown
+    content: Reduction of vital processes to conserve energy.
+    type: habit
+    level: molecular
+  - name: Seasonal Migration
+    content: Following innate maps to find sun and sustenance elsewhere.
+    type: habit
+    level: molar
+  components:
+  - name: Snowdrift
+    type: organic
+    capacity: Insulation and camouflage, a blanket against the storm.
+  - name: Firewood
+    type: organic
+    capacity: Stored solar energy released as heat and light.
+  - name: Memory-Cache
+    type: sign
+    capacity: Holds the warmth and light of previous seasons
+  intensity_field:
+    focus: 0.2
+    speed: 0.1
+    abstraction: 0.8
+    tactility: 0.3
+    patience: 0.9
+    social: 0.2
+  becoming_vectors:
+  - becoming-Spring
+  - becoming-Renewal
+  - becoming-Resilience
+  - becoming-Seed
+- name: Academic-terms-Assemblage
+  abstract_machine: A rhythmic machine for knowledge production, bound by temporal
+    constraints and driven by cycles of evaluation.
+  entity_type: object
+  territories:
+  - name: Lecture-Hall-Territory
+    function: Confines and channels the flow of information and bodies, creating temporary
+      communities of learning.
+    quality: Ordered
+    space_type: striated
+  - name: Library-Territory
+    function: A space of both containment and expansion, holding vast quantities of
+      knowledge while allowing for individualized exploration.
+    quality: Vast
+    space_type: smooth
+  codes:
+  - name: Syllabus-Code
+    content: A contract outlining expectations, deliverables, and grading criteria,
+      governing the student-professor relationship.
+    type: habit
+    level: molar
+  - name: Deadline-Code
+    content: The temporal marker that dictates the rhythm of production, forcing the
+      crystallization of ideas and projects.
+    type: habit
+    level: molar
+  components:
+  - name: Student-Notebook
+    type: technical
+    capacity: Captures, organizes, and reflects back the flow of information, becoming
+      an extension of the student's memory.
+  - name: Exam-Paper
+    type: sign
+    capacity: Converts knowledge into quantifiable data, measuring understanding and
+      performance.
+  intensity_field:
+    focus: 0.7
+    speed: 0.6
+    abstraction: 0.8
+    tactility: 0.3
+    patience: 0.5
+    social: 0.6
+  becoming_vectors:
+  - becoming-graduate
+  - becoming-employed
+  - becoming-disillusioned
+  - becoming-lifelong-learner
+- name: Fiscal-quarters-Assemblage
+  abstract_machine: The relentless march of capital's calendar, sculpting behavior
+    and expectation.
+  entity_type: object
+  territories:
+  - name: Revenue-Target-Zone
+    function: Defines the measurable economic space that MUST be conquered.
+    quality: relentless
+    space_type: striated
+  - name: Expense-Control-Perimeter
+    function: Constrains resource allocation, enforcing thrift within imposed limits.
+    quality: austere
+    space_type: striated
+  - name: Growth-Projection-Horizon
+    function: Envisions the future trajectory of economic expansion, shaping strategic
+      bets.
+    quality: speculative
+    space_type: smooth
+  codes:
+  - name: Quarter-End-Ritual
+    content: The frantic scramble to meet or exceed targets before the deadline.
+    type: habit
+    level: molar
+  - name: Budget-Allocation-Protocol
+    content: The rigid framework governing the distribution of financial resources.
+    type: habit
+    level: molar
+  - name: Reporting-Mandate
+    content: The standardized documentation of financial performance and projections.
+    type: habit
+    level: molar
+  components:
+  - name: Spreadsheet-Grid
+    type: technical
+    capacity: Quantification and visualization of financial data.
+  - name: Management-Directive
+    type: sign
+    capacity: Communication of organizational priorities and targets.
+  - name: Executive-Bonus-Incentive
+    type: organic
+    capacity: Motivating high-level performance and risk-taking.
+  intensity_field:
+    focus: 0.9
+    speed: 0.8
+    abstraction: 0.7
+    tactility: 0.3
+    patience: 0.2
+    social: 0.6
+  becoming_vectors:
+  - becoming-market-dominant
+  - becoming-financially-optimized
+  - becoming-operationally-efficient
+  - becoming-obsolete
+- name: Sports-seasons-Assemblage
+  abstract_machine: Cycles of exertion and spectacle, shaping time through ritualized
+    competition.
+  entity_type: object
+  territories:
+  - name: The Stadium
+    function: Encloses and amplifies the collective energy of the game.
+    quality: Enclosure
+    space_type: striated
+  - name: The Sideline
+    function: A space of strategic planning and controlled intensity, bordering the
+      field of play.
+    quality: Boundary
+    space_type: striated
+  - name: The Broadcast
+    function: Extends the game's reach, transforming it into a shared global event.
+    quality: Mediation
+    space_type: smooth
+  codes:
+  - name: Rulebook
+    content: The formalized guidelines dictating permissible actions within the game.
+    type: habit
+    level: molar
+  - name: Team-Loyalty
+    content: The ingrained devotion to a specific team, shaping collective identity.
+    type: habit
+    level: molar
+  - name: Pre-Game Rituals
+    content: Superstitious behaviors to bring luck, blurring the line between skill
+      and chance.
+    type: habit
+    level: molecular
+  components:
+  - name: The Ball
+    type: technical
+    capacity: Facilitates movement, scoring, and competition.
+  - name: The Uniform
+    type: sign
+    capacity: Identifies team affiliation and signals athletic prowess.
+  - name: The Crowd
+    type: organic
+    capacity: Amplifies excitement, exerts pressure, and contributes to the overall
+      spectacle.
+  intensity_field:
+    focus: 0.8
+    speed: 0.7
+    abstraction: 0.4
+    tactility: 0.6
+    patience: 0.3
+    social: 0.9
+  becoming_vectors:
+  - becoming-spectacle
+  - becoming-tradition
+  - becoming-commodity
+- name: Birthday-Assemblage
+  abstract_machine: A yearly ritual machine, calibrating subjectivity through temporal
+    marking.
+  entity_type: object
+  territories:
+  - name: Chronological Cage
+    function: Frames the individual within the socially-constructed timeline of age.
+    quality: Predetermined
+    space_type: striated
+  - name: Affective Reservoir
+    function: Accumulates and channels emotional investment from self and others.
+    quality: Sentimental
+    space_type: smooth
+  - name: Gift-Giving Nexus
+    function: Acts as a point of convergence for material expressions of care and
+      obligation.
+    quality: Commercial
+    space_type: striated
+  codes:
+  - name: Societal Validation
+    content: The expectation of celebration based on calendar date.
+    type: habit
+    level: molar
+  - name: Personal Narrative Consolidation
+    content: The impulse to reflect on the past year and project future goals.
+    type: habit
+    level: molecular
+  - name: Gratitude Performance
+    content: The performative expression of thankfulness for gifts and well-wishes.
+    type: habit
+    level: molar
+  components:
+  - name: Calendar
+    type: technical
+    capacity: Temporal structuration and division.
+  - name: Cake
+    type: organic
+    capacity: Symbolic sustenance and shared consumption.
+  - name: Social Media Feed
+    type: sign
+    capacity: Diffusion and amplification of birthday narratives.
+  intensity_field:
+    focus: 0.6
+    speed: 0.3
+    abstraction: 0.7
+    tactility: 0.5
+    patience: 0.2
+    social: 0.9
+  becoming_vectors:
+  - becoming-older
+  - becoming-wiser
+  - becoming-burdened
+- name: New-Year-Assemblage
+  abstract_machine: Calendar time, cracked open for momentary becomings.
+  entity_type: temporal
+  territories:
+  - name: Ritual-Space
+    function: Provides structure and focus for collective intention.
+    quality: Rhythmic
+    space_type: striated
+  - name: Chronos-Flow
+    function: Experience of subjective time shifting/distorting around the transition.
+    quality: Fluid
+    space_type: smooth
+  - name: Introspective-Cave
+    function: Internal space for self-reflection and assessment of the past year.
+    quality: Melancholic
+    space_type: striated
+  codes:
+  - name: Resolution-Discipline
+    content: Promise to adhere to a self-improvement goal.
+    type: habit
+    level: molar
+  - name: Celebration-Excess
+    content: Engage in ritualized social behavior (parties, fireworks).
+    type: habit
+    level: molar
+  - name: Temporal-Marking
+    content: The arbitrary division of continuous time into discrete units.
+    type: habit
+    level: molecular
+  components:
+  - name: Clock-Mechanism
+    type: technical
+    capacity: Standardized time measurement and synchronization.
+  - name: Champagne-Effect
+    type: organic
+    capacity: Induced euphoria and altered perception.
+  - name: Narrative-Script
+    type: sign
+    capacity: Provides a framework for evaluating personal progress.
+  intensity_field:
+    focus: 0.6
+    speed: 0.3
+    abstraction: 0.7
+    tactility: 0.2
+    patience: 0.4
+    social: 0.8
+  becoming_vectors:
+  - becoming-hopeful
+  - becoming-better
+  - becoming-disillusioned
+  - becoming-cyclical
+- name: Anniversary-Assemblage
+  abstract_machine: A cartography of temporal echoes marking connection's intensity.
+  entity_type: object
+  territories:
+  - name: Nostalgia-Territory
+    function: Constructing idealized versions of past shared experiences.
+    quality: shimmering
+    space_type: smooth
+  - name: Future-Projection-Territory
+    function: Forecasting and planning for subsequent cycles of shared existence.
+    quality: hopeful
+    space_type: striated
+  - name: Present-Reaffirmation-Territory
+    function: Actively demonstrating commitment in the here and now.
+    quality: resonant
+    space_type: striated
+  codes:
+  - name: Ritual-Code
+    content: The customary exchange of gifts, gestures, and declarations.
+    type: habit
+    level: molar
+  - name: Memory-Code
+    content: Revisiting shared anecdotes and inside jokes.
+    type: habit
+    level: molecular
+  - name: Intimacy-Code
+    content: Non-verbal cues of affection and understanding.
+    type: habit
+    level: molecular
+  components:
+  - name: Gift-Object
+    type: technical
+    capacity: To act as a tangible reminder of affection.
+  - name: Shared-Photo
+    type: sign
+    capacity: To trigger nostalgic recall of specific moments.
+  - name: Heartfelt-Words
+    type: organic
+    capacity: To express deeply felt emotions and intentions.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.5
+    tactility: 0.8
+    patience: 0.6
+    social: 0.9
+  becoming_vectors:
+  - becoming-ever-closer
+  - becoming-more-intimate
+  - becoming-resilient
+- name: Holidays-Assemblage
+  abstract_machine: A rhythmic pulse mapping societal desire onto temporal plateaus.
+  entity_type: object
+  territories:
+  - name: Family Hearth
+    function: The creation of localized, affective spaces centered on kinship bonds
+      and traditions.
+    quality: resonant
+    space_type: striated
+  - name: Public Square
+    function: A shared space for collective celebration, ritual, and reaffirmation
+      of cultural identity.
+    quality: convivial
+    space_type: smooth
+  codes:
+  - name: Gift-Giving Protocol
+    content: The exchange of symbolic objects and experiences as markers of affection,
+      status, and reciprocal obligation.
+    type: habit
+    level: molar
+  - name: Ritual Performance
+    content: Enacting codified behaviors and gestures that reinforce shared beliefs
+      and historical narratives.
+    type: habit
+    level: molar
+  components:
+  - name: Festive Foods
+    type: organic
+    capacity: The ability to evoke memories, trigger emotional responses, and solidify
+      cultural identity through taste and shared consumption.
+  - name: Decorative Objects
+    type: sign
+    capacity: The power to communicate symbolic meanings, embellish celebratory spaces,
+      and create an atmosphere of festivity and exception.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.4
+    tactility: 0.8
+    patience: 0.6
+    social: 0.9
+  becoming_vectors:
+  - becoming-communal
+  - becoming-festive
+  - becoming-nostalgic
+- name: Tax-season-Assemblage
+  abstract_machine: A rhythmic drain on becoming, mediated by forms and numbers, yet
+    birthing future possibility.
+  entity_type: object
+  territories:
+  - name: Financial-Anxiety-Zone
+    function: The mental and emotional space defined by worry over income, deductions,
+      and potential audits.
+    quality: oppressive
+    space_type: striated
+  - name: Algorithmic-Panopticon
+    function: The dispersed network of tax software, government databases, and financial
+      institutions that track and audit financial activity.
+    quality: pervasive
+    space_type: striated
+  - name: Procrastination-Nook
+    function: The psychic space where avoidance of tax-related tasks thrives, filled
+      with distractions and rationalizations.
+    quality: resistant
+    space_type: smooth
+  codes:
+  - name: Deadline-Discipline
+    content: The societal expectation and legal requirement to file taxes by a specific
+      date.
+    type: habit
+    level: molar
+  - name: Deduction-Optimization
+    content: The strategic search for eligible deductions to minimize tax liability,
+      often blurring the lines of ethical accounting.
+    type: habit
+    level: molecular
+  - name: Financial-Secrecy
+    content: The instinct to guard financial information from scrutiny, reflecting
+      a deep-seated desire for privacy.
+    type: habit
+    level: molecular
+  components:
+  - name: Tax-Software
+    type: technical
+    capacity: To automate calculations, organize documents, and guide users through
+      the filing process.
+  - name: W-2-Form
+    type: sign
+    capacity: To represent earned income and withheld taxes, acting as a primary input
+      for tax calculations.
+  - name: Bank-Statement
+    type: sign
+    capacity: To provide a detailed record of financial transactions, used to verify
+      income, expenses, and deductions.
+  intensity_field:
+    focus: 0.7
+    speed: 0.6
+    abstraction: 0.8
+    tactility: 0.2
+    patience: 0.3
+    social: 0.4
+  becoming_vectors:
+  - becoming-audit-fodder
+  - becoming-tax-compliant
+  - becoming-financially-literate
+  - becoming-bureaucratically-enmeshed
+- name: Conference-season-Assemblage
+  abstract_machine: A swirling vortex of fleeting connections, forging temporary intellectual
+    territories before dissipating into the academic ether.
+  entity_type: object
+  territories:
+  - name: The Presentation Stage
+    function: Disseminates research, performs academic identity, and generates discourse.
+    quality: performative
+    space_type: striated
+  - name: The Networking Coffee Break
+    function: Facilitates informal knowledge exchange, serendipitous encounters, and
+      the establishment of collaborative possibilities.
+    quality: emergent
+    space_type: smooth
+  - name: The Hotel Bar After Hours
+    function: A zone of relaxed (or fraught) socializing, blurring professional and
+      personal boundaries, fostering genuine connections (or regret).
+    quality: convivial
+    space_type: smooth
+  codes:
+  - name: The Citation Code
+    content: Proper attribution of sources, maintaining academic rigor and signaling
+      belonging to a specific intellectual lineage.
+    type: habit
+    level: molar
+  - name: The Elevator Pitch
+    content: A concise and compelling summary of research, optimized for capturing
+      attention and securing future opportunities.
+    type: habit
+    level: molecular
+  - name: The Business Casual Code
+    content: The unspoken dress code which mediates professional accessibility with
+      personal expression.
+    type: habit
+    level: molar
+  components:
+  - name: The Projector
+    type: technical
+    capacity: Visualizing abstract ideas, transmitting information, and shaping audience
+      perception.
+  - name: The Conference Badge
+    type: sign
+    capacity: Signifying institutional affiliation, research interests, and social
+      standing within the academic hierarchy.
+  - name: The Overcaffeinated Brain
+    type: organic
+    capacity: Generating novel connections, processing complex information, and enduring
+      long hours of intellectual stimulation.
+  intensity_field:
+    focus: 0.8
+    speed: 0.6
+    abstraction: 0.7
+    tactility: 0.3
+    patience: 0.4
+    social: 0.9
+  becoming_vectors:
+  - becoming-peer
+  - becoming-funded
+  - becoming-recognized
+  - becoming-published
+- name: Vacation-time-Assemblage
+  abstract_machine: A rhythmic retreat from the relentless pulse of production, a
+    temporary detour into self-renewal.
+  entity_type: object
+  territories:
+  - name: The Coastal Escape
+    function: Provides a temporary escape from routine and responsibilities, enabling
+      mental and physical relaxation.
+    quality: Tranquility
+    space_type: smooth
+  - name: The Domestic Sanctuary
+    function: Offers a space for reconnection with family and loved ones, fostering
+      intimacy and shared experiences.
+    quality: Comfort
+    space_type: striated
+  - name: The Wilderness Pilgrimage
+    function: Provides a challenging environment for self-discovery and resilience,
+      fostering a sense of connection with nature.
+    quality: Wild
+    space_type: smooth
+  codes:
+  - name: The Two-Week Limit
+    content: The socially sanctioned period of absence from work, typically lasting
+      two weeks.
+    type: habit
+    level: molar
+  - name: The Out-of-Office Auto-Reply
+    content: The automated message signifying temporary unavailability and detachment
+      from professional obligations.
+    type: habit
+    level: molar
+  - name: The Unplugging Imperative
+    content: The internal pressure to disconnect from technology and social media
+      during vacation time.
+    type: habit
+    level: molecular
+  components:
+  - name: The Suitcase
+    type: technical
+    capacity: Enables portability and relocation of personal belongings for temporary
+      travel.
+  - name: The Beach Umbrella
+    type: technical
+    capacity: Provides temporary shelter and shade, facilitating relaxation in outdoor
+      environments.
+  - name: The Family Album
+    type: sign
+    capacity: Evokes nostalgic memories and strengthens familial bonds through visual
+      representation of past vacations.
+  intensity_field:
+    focus: 0.3
+    speed: 0.2
+    abstraction: 0.7
+    tactility: 0.5
+    patience: 0.8
+    social: 0.6
+  becoming_vectors:
+  - becoming-rested
+  - becoming-reconnected
+  - becoming-rejuvenated
+  - becoming-unburdened
+- name: Childhood-Assemblage
+  abstract_machine: The emergent self, a fragile sculpture molded by encounters.
+  entity_type: object
+  territories:
+  - name: Family-Hearth
+    function: Provides initial emotional scaffolding and symbolic order.
+    quality: Nurturing
+    space_type: striated
+  - name: Playground-Arena
+    function: Negotiates power dynamics and tests social boundaries.
+    quality: Turbulent
+    space_type: smooth
+  - name: Dreamscape-Ether
+    function: Generates internal narratives and experiments with possibility.
+    quality: Fluid
+    space_type: smooth
+  codes:
+  - name: Bedtime-Ritual
+    content: Tooth-brushing, story, lights off; enforced separation from conscious
+      control.
+    type: habit
+    level: molar
+  - name: Language-Acquisition
+    content: Mimicry, repetition, and creative recombination of linguistic signs.
+    type: habit
+    level: molecular
+  - name: Gender-Performance
+    content: Internalization and enactment of culturally prescribed roles.
+    type: rule
+    level: molar
+  components:
+  - name: Stuffed-Animal
+    type: organic
+    capacity: Transitional object facilitating separation and symbolic representation.
+  - name: Storybook-Narrative
+    type: sign
+    capacity: Imaginative expansion and vicarious experience.
+  - name: Crayons-Implement
+    type: technical
+    capacity: Material expression and proto-artistic creation.
+  intensity_field:
+    focus: 0.3
+    speed: 0.7
+    abstraction: 0.2
+    tactility: 0.8
+    patience: 0.5
+    social: 0.6
+  becoming_vectors:
+  - becoming-autonomous
+  - becoming-socialized
+  - becoming-imaginative
+  - becoming-rational
+- name: Adolescence-Assemblage
+  abstract_machine: A swirling vortex of desire and expectation, forging a self from
+    the crucible of becoming.
+  entity_type: object
+  territories:
+  - name: The Bedroom Sanctuary
+    function: A space for experimentation, retreat, and the cultivation of interiority.
+    quality: Private
+    space_type: smooth
+  - name: The Peer Group Maze
+    function: Navigating social hierarchies, alliances, and the constant pressure
+      to conform or rebel.
+    quality: Fluid
+    space_type: striated
+  - name: The Algorithmic Echo Chamber
+    function: Mirrors reflecting back curated versions of self, amplified anxieties,
+      and fleeting trends.
+    quality: Filtered
+    space_type: smooth
+  codes:
+  - name: Fashion Imperative
+    content: The unspoken rules of dress and appearance that dictate belonging and
+      status.
+    type: habit
+    level: molar
+  - name: Sarcastic Shield
+    content: Employing irony and cynicism as a defense mechanism against vulnerability.
+    type: habit
+    level: molecular
+  - name: Algorithmic Recommendation
+    content: The pressure to consume and emulate what is deemed 'cool' or 'popular'
+      by online platforms.
+    type: habit
+    level: molar
+  components:
+  - name: Smartphone Interface
+    type: technical
+    capacity: Mediating social interactions, accessing information, and shaping self-perception.
+  - name: Hormonal Surge
+    type: organic
+    capacity: Driving emotional intensity, physical changes, and a heightened sense
+      of self-consciousness.
+  - name: Identity Narrative
+    type: sign
+    capacity: Constructing a coherent story of self, incorporating past experiences
+      and future aspirations.
+  intensity_field:
+    focus: 0.3
+    speed: 0.8
+    abstraction: 0.6
+    tactility: 0.4
+    patience: 0.2
+    social: 0.9
+  becoming_vectors:
+  - becoming-adult
+  - becoming-rebel
+  - becoming-conformist
+  - becoming-narcissist
+- name: Young-adulthood-Assemblage
+  abstract_machine: The relentless pursuit of becoming a stable, identifiable node
+    in the social network.
+  entity_type: object
+  territories:
+  - name: The Apartment
+    function: A staging ground for launching into the career world.
+    quality: transient
+    space_type: striated
+  - name: The Office
+    function: A performance space dictated by corporate rhythms.
+    quality: productive
+    space_type: striated
+  - name: The Dating App
+    function: A marketplace of potential affections, filtered through algorithms.
+    quality: algorithmic
+    space_type: smooth
+  codes:
+  - name: Professionalism
+    content: Maintain a veneer of calm competence at all times.
+    type: habit
+    level: molar
+  - name: Self-Optimization
+    content: Constantly improve skills to increase market value.
+    type: habit
+    level: molecular
+  - name: Relationship Rituals
+    content: Perform expected gestures of romantic interest according to societal
+      norms.
+    type: habit
+    level: molar
+  components:
+  - name: Laptop
+    type: technical
+    capacity: Enables remote work and constant connectivity.
+  - name: Resume
+    type: sign
+    capacity: Represents a curated self for potential employers.
+  - name: Dating Profile
+    type: sign
+    capacity: A constructed persona for attracting romantic partners.
+  intensity_field:
+    focus: 0.7
+    speed: 0.8
+    abstraction: 0.6
+    tactility: 0.4
+    patience: 0.3
+    social: 0.9
+  becoming_vectors:
+  - becoming-career
+  - becoming-partner
+  - becoming-homeowner
+  - becoming-indebted
+- name: Middle-age-Assemblage
+  abstract_machine: The retooling of desire in the face of temporal limits.
+  entity_type: object
+  territories:
+  - name: The Settled Nest
+    function: Provides a stable base of operations, a familiar network.
+    quality: Comfort
+    space_type: striated
+  - name: The Unexplored Path
+    function: Represents unrealized ambitions and future potential.
+    quality: Longing
+    space_type: smooth
+  codes:
+  - name: The Mortgage
+    content: Sacrifice for future security and stability.
+    type: habit
+    level: molar
+  - name: The Mid-Life Purchase
+    content: A fleeting attempt to recapture youth or passion.
+    type: habit
+    level: molecular
+  components:
+  - name: The Mirror
+    type: technical
+    capacity: Reflects the accumulating weight of time and choices.
+  - name: The Calendar
+    type: sign
+    capacity: Quantifies remaining time and impending deadlines.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.4
+    patience: 0.5
+    social: 0.8
+  becoming_vectors:
+  - becoming-mentor
+  - becoming-disillusioned
+  - becoming-rebellious
+  - becoming-accepting
+- name: Elder-years-Assemblage
+  abstract_machine: The sifting of sedimented experience into fleeting moments of
+    lucidity, juxtaposed against the erosion of cognitive landscapes.
+  entity_type: object
+  territories:
+  - name: The Memory Palace
+    function: Holds fragmented memories, distorted and rearranged like a half-forgotten
+      dream.
+    quality: Fragile
+    space_type: smooth
+  - name: The Threshold of Absence
+    function: Marks the boundary between presence and the fading away of self.
+    quality: Liminal
+    space_type: striated
+  - name: The Garden of Solitude
+    function: Cultivates introspection and acceptance of the inevitable unraveling.
+    quality: Serene
+    space_type: smooth
+  codes:
+  - name: The Ritual of Tea
+    content: The daily preparation and consumption of tea, a grounding act in a world
+      increasingly out of reach.
+    type: habit
+    level: molar
+  - name: The Silence of Withering
+    content: A reflexive withdrawal from complex social interactions, seeking refuge
+      in quietude.
+    type: habit
+    level: molecular
+  - name: The Catalog of Loss
+    content: The internal inventory of fading abilities, diminishing connections,
+      and approaching mortality.
+    type: habit
+    level: molecular
+  components:
+  - name: The Walking Stick
+    type: technical
+    capacity: Enables continued ambulation, a connection to the external world, however
+      limited.
+  - name: The Family Photograph
+    type: sign
+    capacity: Evokes past relationships, anchoring the self in a web of affection
+      and remembrance.
+  - name: The Aching Joints
+    type: organic
+    capacity: Limits movement, enforcing stillness and prompting reflection.
+  intensity_field:
+    focus: 0.3
+    speed: 0.1
+    abstraction: 0.7
+    tactility: 0.4
+    patience: 0.9
+    social: 0.2
+  becoming_vectors:
+  - becoming-landscape
+  - becoming-memory
+  - becoming-mineral
+  - becoming-deterritorialized
+- name: Training-Assemblage
+  abstract_machine: The chrysalis of potential unfolding into specialized capacity.
+  entity_type: object
+  territories:
+  - name: Classroom-Territory
+    function: Facilitating structured knowledge acquisition
+    quality: Disciplined
+    space_type: striated
+  - name: Workshop-Territory
+    function: Embodied practice and skill refinement
+    quality: Dexterous
+    space_type: smooth
+  - name: Mentorship-Territory
+    function: Personalized guidance and contextual understanding
+    quality: Insightful
+    space_type: smooth
+  codes:
+  - name: Syllabus-Code
+    content: The prescribed curriculum and learning objectives
+    type: habit
+    level: molar
+  - name: Peer-Review-Code
+    content: Constructive critique and collaborative learning
+    type: habit
+    level: molecular
+  - name: Feedback-Code
+    content: Iterative improvement based on expert evaluation
+    type: habit
+    level: molar
+  components:
+  - name: Textbook-Component
+    type: sign
+    capacity: Conveying established knowledge
+  - name: Simulation-Component
+    type: technical
+    capacity: Safe environment for experimentation
+  - name: Instructor-Component
+    type: organic
+    capacity: Knowledge transmission and guidance
+  intensity_field:
+    focus: 0.8
+    speed: 0.6
+    abstraction: 0.7
+    tactility: 0.4
+    patience: 0.9
+    social: 0.5
+  becoming_vectors:
+  - becoming-competent
+  - becoming-employable
+  - becoming-specialized
+  - becoming-innovative
+- name: Establishment-Assemblage
+  abstract_machine: A carefully constructed scaffolding to reach for the professional
+    sky.
+  entity_type: object
+  territories:
+  - name: Mentorship-Network
+    function: Provides guidance, support, and access to opportunities within the professional
+      sphere.
+    quality: Supportive
+    space_type: smooth
+  - name: Skill-Refinement-Zone
+    function: Honing abilities and acquiring new competencies relevant to career advancement.
+    quality: Sharpening
+    space_type: striated
+  - name: Project-Ecosystem
+    function: Engaging in tangible projects to demonstrate skills and build a portfolio
+      of accomplishments.
+    quality: Productive
+    space_type: smooth
+  codes:
+  - name: Punctuality-Protocol
+    content: Arrive on time, meet deadlines, and respect the schedules of others.
+    type: habit
+    level: molar
+  - name: Strategic-Networking-Algorithm
+    content: Cultivate relationships with influential individuals in the field.
+    type: habit
+    level: molecular
+  - name: Continuous-Learning-Imperative
+    content: Stay updated on industry trends and acquire new knowledge regularly.
+    type: habit
+    level: molecular
+  components:
+  - name: Professional-Persona
+    type: sign
+    capacity: Projecting competence, confidence, and reliability.
+  - name: Resume-Algorithm
+    type: technical
+    capacity: Highlighting skills and experiences to attract opportunities.
+  - name: Communication-Network
+    type: organic
+    capacity: Facilitating effective interactions and building relationships.
+  intensity_field:
+    focus: 0.8
+    speed: 0.6
+    abstraction: 0.4
+    tactility: 0.7
+    patience: 0.9
+    social: 0.7
+  becoming_vectors:
+  - becoming-established
+  - becoming-recognized
+  - becoming-influential
+- name: Mastery-Assemblage
+  abstract_machine: Orchestrating expertise into seamless performance.
+  entity_type: object
+  territories:
+  - name: The Flow State
+    function: Executes tasks with minimal conscious effort and maximal efficiency.
+    quality: Effortless
+    space_type: smooth
+  - name: Problem-Solving Domain
+    function: Identifies and resolves complex challenges within their field.
+    quality: Decisive
+    space_type: striated
+  - name: Creative Plateau
+    function: Leverages deep knowledge to generate novel solutions and innovations.
+    quality: Fertile
+    space_type: smooth
+  codes:
+  - name: Intuitive Response
+    content: Acting instinctively based on ingrained knowledge.
+    type: habit
+    level: molecular
+  - name: Error Correction Protocol
+    content: Detecting and rectifying deviations from optimal performance.
+    type: habit
+    level: molar
+  - name: Adaptive Learning Loop
+    content: Continually refining skills through observation and experience.
+    type: habit
+    level: molecular
+  components:
+  - name: Neuro-Muscular Coordination
+    type: organic
+    capacity: Precision and control of physical actions.
+  - name: Cognitive Processing Unit
+    type: organic
+    capacity: Rapid and accurate information processing.
+  - name: Toolkit of Techniques
+    type: technical
+    capacity: Diverse methods for tackling specific problems.
+  intensity_field:
+    focus: 0.9
+    speed: 0.7
+    abstraction: 0.6
+    tactility: 0.4
+    patience: 0.6
+    social: 0.3
+  becoming_vectors:
+  - becoming-mentor
+  - becoming-innovator
+  - becoming-legacy
+- name: Mentoring-Assemblage
+  abstract_machine: Flowing wisdom, a reciprocal unfolding of potential.
+  entity_type: object
+  territories:
+  - name: The Shared Story
+    function: Weaving together past experiences into a navigable future.
+    quality: Resonance
+    space_type: smooth
+  - name: The Crucible of Challenge
+    function: Providing a safe space for experimentation and failure.
+    quality: Resilience
+    space_type: striated
+  - name: The Mirror of Reflection
+    function: Facilitating self-awareness and critical self-assessment.
+    quality: Clarity
+    space_type: smooth
+  codes:
+  - name: The Active Listening Imperative
+    content: Truly hear, beyond the surface, to discern unspoken needs and desires.
+    type: habit
+    level: molecular
+  - name: The Gentle Nudge
+    content: Offer guidance without imposition, fostering independent thought.
+    type: habit
+    level: molar
+  - name: The Ethical Compass
+    content: Model integrity and sound judgment in challenging situations.
+    type: habit
+    level: molar
+  components:
+  - name: Empathetic Connection
+    type: organic
+    capacity: Facilitating trust and rapport
+  - name: Curated Resources
+    type: technical
+    capacity: Providing access to relevant knowledge and opportunities
+  - name: Constructive Feedback Loop
+    type: sign
+    capacity: Enabling continuous improvement and self-correction
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.4
+    patience: 0.9
+    social: 0.7
+  becoming_vectors:
+  - becoming-wise
+  - becoming-generative
+  - becoming-a-better-leader
+  - becoming-unstoppable
+- name: Retirement-Assemblage
+  abstract_machine: Unfolding a life freed from clock-time, re-territorializing desire.
+  entity_type: object
+  territories:
+  - name: The Sunroom
+    function: Cultivating tranquility and inner reflection
+    quality: luminous
+    space_type: smooth
+  - name: The Garden
+    function: Engaging with the rhythms of nature, nurturing growth
+    quality: verdant
+    space_type: striated
+  - name: The Open Road
+    function: Seeking novelty and adventure, challenging routine
+    quality: restless
+    space_type: smooth
+  codes:
+  - name: The Sleep Schedule
+    content: Waking and sleeping in accordance with internal rhythms rather than external
+      demands.
+    type: habit
+    level: molecular
+  - name: The Book Club
+    content: Engaging in structured intellectual discourse, maintaining social connection.
+    type: habit
+    level: molar
+  - name: The Volunteer Rule
+    content: Dedication to altruistic pursuits, offering skills and time to community.
+    type: habit
+    level: molar
+  components:
+  - name: Reading Glasses
+    type: technical
+    capacity: Enabling access to literature and knowledge
+  - name: Trowel and Seeds
+    type: organic
+    capacity: Facilitating engagement with the natural world
+  - name: Watercolor Set
+    type: sign
+    capacity: Expressing inner visions and emotions through art
+  intensity_field:
+    focus: 0.5
+    speed: 0.2
+    abstraction: 0.7
+    tactility: 0.4
+    patience: 0.9
+    social: 0.6
+  becoming_vectors:
+  - becoming-sage
+  - becoming-artist
+  - becoming-caregiver
+  - becoming-wanderer

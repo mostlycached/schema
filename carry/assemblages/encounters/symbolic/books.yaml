@@ -1,0 +1,4398 @@
+assemblages:
+- name: Anne-Carson-Assemblage
+  abstract_machine: Lyric dismemberment, reimagining myth through intimate fracture.
+  entity_type: object
+  territories:
+  - name: Red-Landscape
+    function: Where myth bleeds into contemporary anxiety.
+    quality: visceral
+    space_type: striated
+  - name: Autobiographical-Fracture
+    function: Personal history as a shattered mirror reflecting ancient narratives.
+    quality: fragmented
+    space_type: smooth
+  codes:
+  - name: Sapphic-Resonance
+    content: A longing gaze, echoing fragmented love poems.
+    type: habit
+    level: molecular
+  - name: Classical-Canon
+    content: Reinterpreting ancient narratives through a modern lens.
+    type: habit
+    level: molar
+  components:
+  - name: Verse-Structure
+    type: technical
+    capacity: Disrupting narrative linearity to reveal emotional undercurrents.
+  - name: Red-Pigment
+    type: sign
+    capacity: Evoking passion, violence, and the archaic.
+  - name: Photography-Element
+    type: technical
+    capacity: Freezing moments of lived experience, inserting them into the mythic
+      framework.
+  intensity_field:
+    focus: 0.8
+    speed: 0.5
+    abstraction: 0.6
+    tactility: 0.7
+    patience: 0.4
+    social: 0.3
+  becoming_vectors:
+  - becoming-myth
+  - becoming-flesh
+  - becoming-language
+  - becoming-image
+- name: Claudia-Rankine-Assemblage
+  abstract_machine: Weaving personal address, historical record, and visual art to
+    dissect the banality of everyday racism in the post-racial illusion.
+  entity_type: object
+  territories:
+  - name: The Microaggression Archive
+    function: Accumulates and displays subtle, often unintentional, expressions of
+      prejudice.
+    quality: Accumulative
+    space_type: striated
+  - name: The Lyric 'I' Under Duress
+    function: Explores the fractured subjectivity of the speaker navigating a racially
+      charged environment.
+    quality: Fragile
+    space_type: smooth
+  - name: Visual Witnessing
+    function: Amplifies the text with images that disrupt expectations and offer a
+      parallel narrative.
+    quality: Disruptive
+    space_type: striated
+  codes:
+  - name: Code of (In)Visibility
+    content: Racism operates through a normalized blindness, both seen and unseen.
+    type: habit
+    level: molar
+  - name: Code of Conversational Reciprocity
+    content: The unspoken agreement to maintain social harmony, even at the expense
+      of truth and justice.
+    type: habit
+    level: molecular
+  - name: Code of Apology's Insufficiency
+    content: A shallow act of contrition cannot undo the accumulated weight of racial
+      trauma.
+    type: rule
+    level: molar
+  components:
+  - name: Anecdote-as-Evidence
+    type: sign
+    capacity: To transform personal experience into a political indictment.
+  - name: Second-Person Address (You)
+    type: sign
+    capacity: To implicate the reader in the perpetuation of racial biases.
+  - name: Image Archive (photographs, videos, artworks)
+    type: technical
+    capacity: To visually amplify and disrupt the linguistic narrative of racial encounter.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.5
+    tactility: 0.6
+    patience: 0.9
+    social: 0.9
+  becoming_vectors:
+  - becoming-witness
+  - becoming-vulnerable
+  - becoming-accountable
+  - becoming-unheard
+- name: Paul-Celan-Assemblage
+  abstract_machine: A machine for generating and experiencing radical poetic compression
+    and existential turning.
+  entity_type: object
+  territories:
+  - name: The-Lived-Word
+    function: Preserves the residue of traumatic experience filtered through linguistic
+      constraint.
+    quality: Resonant
+    space_type: striated
+  - name: Glottal-Landscape
+    function: Forms a sonic terrain of disrupted grammar and phonemic shrapnel.
+    quality: Fractured
+    space_type: smooth
+  codes:
+  - name: Compression-Imperative
+    content: Reduce language to its barest, most evocative bones.
+    type: habit
+    level: molar
+  - name: Untranslatability-Protocol
+    content: Embrace the impossibility of perfect replication; reside in the original's
+      singularity.
+    type: habit
+    level: molecular
+  components:
+  - name: Ciphered-Syntax
+    type: sign
+    capacity: Allows access to layers of meaning beyond explicit denotation.
+  - name: Breath-Pause
+    type: organic
+    capacity: Enables a rhythmic, embodied understanding of the poem's silence.
+  intensity_field:
+    focus: 0.9
+    speed: 0.3
+    abstraction: 0.8
+    tactility: 0.2
+    patience: 0.7
+    social: 0.1
+  becoming_vectors:
+  - becoming-silence
+  - becoming-witness
+  - becoming-trace
+- name: Rilke-Assemblage
+  abstract_machine: Philosophical questioning crystallized in elegiac cries, a song
+    for the transformation of terror.
+  entity_type: object
+  territories:
+  - name: Lamentation
+    function: Expressing profound grief and loss in the face of existential dread.
+    quality: Melancholic
+    space_type: smooth
+  - name: Angelic Vision
+    function: Imagining transcendent, inhuman perspectives on human existence.
+    quality: Awe
+    space_type: striated
+  - name: Earthly Transmutation
+    function: Finding the extraordinary within the ordinary, transforming experience
+      through language.
+    quality: Sublime
+    space_type: smooth
+  codes:
+  - name: Elegiac Meter
+    content: Long, flowing lines that mimic the rhythm of mourning and contemplation.
+    type: habit
+    level: molar
+  - name: Image-Making
+    content: The use of vivid imagery to create symbolic landscapes of the soul.
+    type: habit
+    level: molecular
+  - name: Questioning the Void
+    content: Recurring interrogations of existence, absence, and the limits of human
+      understanding.
+    type: habit
+    level: molar
+  components:
+  - name: Diction of Despair
+    type: sign
+    capacity: To evoke the feeling of utter hopelessness and existential anguish.
+  - name: Angelic Figure
+    type: organic
+    capacity: To represent the inhuman perspective and the unattainable ideal.
+  - name: Lyrical Voice
+    type: organic
+    capacity: To channel personal experience into universal lament.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.7
+    tactility: 0.4
+    patience: 0.9
+    social: 0.2
+  becoming_vectors:
+  - becoming-angelic
+  - becoming-soil
+  - becoming-song
+- name: Thomas-Bernhard-Assemblage
+  abstract_machine: The architectural expression of mental collapse through recursive
+    negation.
+  entity_type: object
+  territories:
+  - name: The Aukrug Estate
+    function: A concrete manifestation of the protagonist's architectural obsession
+      and a prison of the self.
+    quality: claustrophobic
+    space_type: striated
+  - name: Roithamer's Mind
+    function: A labyrinthine space of endless revision, self-critique, and the failed
+      pursuit of perfection.
+    quality: recursive
+    space_type: smooth
+  codes:
+  - name: The Code of Absolute Precision
+    content: Every thought, action, and construction must adhere to an impossible
+      standard of exactness.
+    type: habit
+    level: molar
+  - name: The Code of Self-Loathing
+    content: Inherent self-criticism and constant devaluation of one's own efforts,
+      leading to paralysis.
+    type: habit
+    level: molecular
+  components:
+  - name: The Cone
+    type: technical
+    capacity: A physical embodiment of Roithamer's artistic aspirations and ultimate
+      failure.
+  - name: The Narrator's Voice
+    type: sign
+    capacity: A vehicle for dissecting Roithamer's life and the futility of his pursuits.
+  intensity_field:
+    focus: 0.9
+    speed: 0.2
+    abstraction: 0.8
+    tactility: 0.3
+    patience: 0.9
+    social: 0.1
+  becoming_vectors:
+  - becoming-machine
+  - becoming-failure
+  - becoming-nothing
+- name: W.G.-Sebald-Assemblage
+  abstract_machine: A labyrinth of remembrance, where history's echoes resonate within
+    the architecture of the self.
+  entity_type: object
+  territories:
+  - name: Libraries-and-Archives
+    function: Houses fragments of the past, meticulously ordered but ultimately incomplete.
+    quality: melancholic
+    space_type: striated
+  - name: Photographic-Image
+    function: Captures fleeting moments, frozen in time, acting as catalysts for memory.
+    quality: spectral
+    space_type: smooth
+  - name: The-Walking-Body
+    function: Navigates geographical and mental landscapes, connecting disparate points.
+    quality: peripatetic
+    space_type: smooth
+  codes:
+  - name: Architectural-Detail
+    content: The recurrence of specific architectural features (e.g., train stations,
+      fortifications) carrying symbolic weight.
+    type: habit
+    level: molar
+  - name: Unreliable-Narration
+    content: The blurring of fact and fiction, creating a sense of uncertainty and
+      ambiguity.
+    type: habit
+    level: molecular
+  - name: List-and-Catalog
+    content: Organizing knowledge and experience via cataloguing, but always failing
+      to grasp the entirety.
+    type: habit
+    level: molar
+  components:
+  - name: Historical-Record
+    type: sign
+    capacity: To document and transmit events, albeit incompletely and subjectively.
+  - name: Auslander-Subjectivity
+    type: organic
+    capacity: To embody displacement, loss, and the burden of history.
+  - name: Black-and-White-Photography
+    type: technical
+    capacity: To visually represent the past and evoke a sense of absence.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.6
+    tactility: 0.4
+    patience: 0.9
+    social: 0.3
+  becoming_vectors:
+  - becoming-ghost
+  - becoming-archive
+  - becoming-crystal-lattice
+  - becoming-minor
+- name: Clarice-Lispector-Assemblage
+  abstract_machine: Becoming-animal through devouring the cockroach, a becoming-woman
+    exceeding language.
+  entity_type: object
+  territories:
+  - name: Apartment-Interiority
+    function: Confining G.H. within the stifling, self-reflective space of her apartment.
+    quality: stagnant
+    space_type: striated
+  - name: Cockroach-Abjection
+    function: Embodying the disgusting and terrifying, the limit of G.H.'s identity.
+    quality: repulsive
+    space_type: smooth
+  codes:
+  - name: Bourgeois-Femininity
+    content: The performance of social expectations imposed upon women, a role to
+      be broken.
+    type: habit
+    level: molar
+  - name: Linguistic-Order
+    content: The established rules and structures of language, inadequate for expressing
+      true experience.
+    type: habit
+    level: molecular
+  components:
+  - name: White-Paint
+    type: technical
+    capacity: Representing a clean slate, a forced tabula rasa for G.H.'s being.
+  - name: Cockroach-Body
+    type: organic
+    capacity: A catalyst for G.H.'s existential crisis and transformation.
+  intensity_field:
+    focus: 0.7
+    speed: 0.2
+    abstraction: 0.9
+    tactility: 0.6
+    patience: 0.8
+    social: 0.1
+  becoming_vectors:
+  - becoming-animal
+  - becoming-woman
+  - becoming-nothing
+  - becoming-other
+- name: Samuel-Beckett-Assemblage
+  abstract_machine: The murmur becomes a black hole, swallowing meaning whole.
+  entity_type: object
+  territories:
+  - name: Linguistic-Void
+    function: Erosion of coherent language into meaningless sound.
+    quality: decaying
+    space_type: smooth
+  - name: Bodiless-Voice
+    function: Perpetual, disembodied narration trapped in its own loops.
+    quality: ceaseless
+    space_type: striated
+  - name: Narrative-Collapse
+    function: Unraveling of plot, character, and linear time.
+    quality: fractured
+    space_type: smooth
+  codes:
+  - name: Grammatical-Decrepitude
+    content: Subject-verb agreement dissolves; syntax crumbles.
+    type: habit
+    level: molecular
+  - name: Self-Referentiality
+    content: The text comments on its own impossibility, endlessly.
+    type: habit
+    level: molar
+  - name: Semantic-Entropy
+    content: Words lose their fixed meanings, becoming fluid signifiers.
+    type: habit
+    level: molecular
+  components:
+  - name: Phonetic-Residue
+    type: sign
+    capacity: Echoes of communication, without communicative intent.
+  - name: Syntactic-Fragments
+    type: organic
+    capacity: Skeletal remains of grammatical structures.
+  - name: Iterative-Loops
+    type: technical
+    capacity: Repetitive phrases and motifs, amplifying the void.
+  intensity_field:
+    focus: 0.1
+    speed: 0.2
+    abstraction: 0.9
+    tactility: 0.1
+    patience: 0.9
+    social: 0.0
+  becoming_vectors:
+  - becoming-non-sense
+  - becoming-the-unnamable
+  - becoming-pure-potentiality
+  - becoming-silence
+- name: Maggie-Nelson-Assemblage
+  abstract_machine: A queer, theoretical, embodied life lived and narrated.
+  entity_type: object
+  territories:
+  - name: The Queer Family Unit
+    function: Provides a fluid and challenging re-definition of family, love, and
+      partnership.
+    quality: Intimate
+    space_type: smooth
+  - name: The Academy
+    function: Offers a space for intellectual exploration and the application of theory
+      to lived experience.
+    quality: Analytical
+    space_type: striated
+  - name: The Body in Transition
+    function: Hosts the becoming-body, the fluctuating, evolving experience of embodiment.
+    quality: Mutable
+    space_type: smooth
+  codes:
+  - name: Theoretical Application
+    content: Applying complex philosophical concepts to everyday experiences.
+    type: habit
+    level: molar
+  - name: Radical Honesty
+    content: Speaking candidly about vulnerability, desire, and the messiness of life.
+    type: habit
+    level: molecular
+  - name: Deconstruction of Normativity
+    content: Challenging and dismantling conventional understandings of gender, sexuality,
+      and relationships.
+    type: habit
+    level: molar
+  components:
+  - name: Philosophical Texts
+    type: sign
+    capacity: Provides theoretical frameworks for understanding and articulating experience.
+  - name: Nelson's Voice
+    type: organic
+    capacity: Conveys vulnerability, intelligence, and a relentless pursuit of truth.
+  - name: The Argonaut Ship of Theseus Metaphor
+    type: technical
+    capacity: Serves as a tool for understanding identity, change, and continuity.
+  intensity_field:
+    focus: 0.7
+    speed: 0.4
+    abstraction: 0.6
+    tactility: 0.8
+    patience: 0.9
+    social: 0.5
+  becoming_vectors:
+  - becoming-queer
+  - becoming-mother
+  - becoming-theory
+  - becoming-vulnerable
+- name: Roland-Barthes-Assemblage
+  abstract_machine: The grief-stricken reader finds structure and meaning through
+    photography, transforming personal loss into intellectual discovery.
+  entity_type: object
+  territories:
+  - name: Studio-Territory
+    function: Where the object of photographic study becomes a structured form, devoid
+      of immediate grief.
+    quality: Formal
+    space_type: striated
+  - name: Punctum-Territory
+    function: Where the photograph wounds, piercing the viewer with a personally resonant
+      detail, unleashing the repressed grief.
+    quality: Intimate
+    space_type: smooth
+  - name: Spectator-Territory
+    function: The reader's space of engagement, reflecting on the nature of photography
+      and death.
+    quality: Reflective
+    space_type: striated
+  codes:
+  - name: Photographic-Code
+    content: The established conventions of portraiture and representation.
+    type: habit
+    level: molar
+  - name: Maternal-Code
+    content: The internalized memory and image of the lost mother, shaping perception.
+    type: habit
+    level: molecular
+  - name: Grief-Code
+    content: Rituals of mourning and remembrance shaping the act of reading and interpreting.
+    type: habit
+    level: molar
+  components:
+  - name: The-Winter-Garden-Photograph
+    type: sign
+    capacity: To act as the punctum, triggering the specific grief.
+  - name: The-Text
+    type: sign
+    capacity: To construct a framework for understanding loss.
+  - name: Barthes's-Gaze
+    type: organic
+    capacity: To filter and interpret the images through a lens of personal grief
+      and intellectual inquiry.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.5
+    patience: 0.8
+    social: 0.2
+  becoming_vectors:
+  - becoming-image
+  - becoming-affect
+  - becoming-theory
+- name: Sara-Ahmed-Assemblage
+  abstract_machine: Unsettling habitual discomfort, re-orienting towards feminist
+    futures.
+  entity_type: object
+  territories:
+  - name: The Lecture Hall/Living Room
+    function: Re-experiencing microaggressions through the lens of feminist theory.
+    quality: resonant
+    space_type: striated
+  - name: The Feminist Killjoy Collective
+    function: Finding solidarity and collective resistance against institutional sexism.
+    quality: supportive
+    space_type: smooth
+  codes:
+  - name: Institutional Script
+    content: Maintain the status quo, prioritize institutional reputation over lived
+      experience.
+    type: habit
+    level: molar
+  - name: Complaint Procedures
+    content: Navigate bureaucratic processes while facing dismissal and disbelief.
+    type: habit
+    level: molar
+  components:
+  - name: Autoethnographic Prose
+    type: sign
+    capacity: Articulating embodied experience as feminist critique.
+  - name: Feminist Keywords
+    type: sign
+    capacity: Re-signifying language to challenge dominant power structures.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.8
+    patience: 0.5
+    social: 0.9
+  becoming_vectors:
+  - becoming-killjoy
+  - becoming-collectively-resistant
+  - becoming-institutionally-aware
+- name: Chris-Kraus-Assemblage
+  abstract_machine: The rhizomatic proliferation of desire fueled by intellectual
+    obsession, dissolving the boundaries between theory and life.
+  entity_type: object
+  territories:
+  - name: The Letter as Line of Flight
+    function: Transforms epistolary communication into an engine for self-excavation
+      and performative vulnerability.
+    quality: Transgressive
+    space_type: smooth
+  - name: The Academy as Battlefield of Desire
+    function: Subverts the sterile discourse of academia with the raw, messy realities
+      of female desire and artistic ambition.
+    quality: Provocative
+    space_type: striated
+  - name: The Self as Textual Playground
+    function: Dissects the authorial self through relentless self-analysis, blurring
+      the line between lived experience and literary construction.
+    quality: Fragmented
+    space_type: smooth
+  codes:
+  - name: Code of Intellectual Provocation
+    content: The relentless questioning of dominant intellectual frameworks through
+      personal experience.
+    type: habit
+    level: molar
+  - name: Code of Epistolary Confession
+    content: The use of letters as a vehicle for exposing vulnerabilities and challenging
+      societal norms.
+    type: habit
+    level: molecular
+  - name: Code of Theoretical Appropriation
+    content: The selective adoption and re-contextualization of philosophical concepts
+      to articulate lived experience.
+    type: habit
+    level: molecular
+  components:
+  - name: The Absent Object of Desire (Dick)
+    type: organic
+    capacity: Functions as a catalyst for self-discovery and the unraveling of societal
+      expectations surrounding female sexuality.
+  - name: The Letter (as medium)
+    type: sign
+    capacity: Serves as a vector for the transmission of desire, thought, and performative
+      transgression.
+  - name: Philosophical Texts
+    type: technical
+    capacity: Provide a framework for understanding and articulating the complexities
+      of desire, power, and the self.
+  intensity_field:
+    focus: 0.8
+    speed: 0.7
+    abstraction: 0.6
+    tactility: 0.9
+    patience: 0.4
+    social: 0.7
+  becoming_vectors:
+  - becoming-woman
+  - becoming-artist
+  - becoming-philosopher
+  - becoming-text
+- name: Richard-Powers-Assemblage
+  abstract_machine: Arborescent narratives become rhizomatic forest consciousness.
+  entity_type: object
+  territories:
+  - name: Ecocentric-Narrative
+    function: Shifts narrative focus from human exceptionalism to ecological interconnectedness.
+    quality: Symbiotic
+    space_type: smooth
+  - name: Systemic-Interdependence
+    function: Maps complex relationships between human and non-human actors within
+      a shared ecosystem.
+    quality: Entangled
+    space_type: striated
+  - name: Temporal-Deepening
+    function: Expands narrative timescale beyond human lifespans to encompass geological
+      and arboreal durations.
+    quality: Enduring
+    space_type: smooth
+  codes:
+  - name: Anthropocentric-Bias
+    content: Prioritize human experience and agency above all other forms of life.
+    type: habit
+    level: molar
+  - name: Narrative-Linearity
+    content: Construct stories with clear beginnings, middles, and ends, focusing
+      on individual protagonists.
+    type: habit
+    level: molar
+  - name: Biocentric-Representation
+    content: Depict the inner lives and perspectives of non-human entities through
+      literary techniques.
+    type: habit
+    level: molecular
+  components:
+  - name: Botanical-Description
+    type: sign
+    capacity: Evokes the sensory experience of the forest through detailed accounts
+      of flora and fauna.
+  - name: Systemic-Modeling
+    type: technical
+    capacity: Represents ecological processes and feedback loops using narrative structure
+      and character interactions.
+  - name: Symbiotic-Relationships
+    type: organic
+    capacity: Fosters empathy and understanding between human and non-human characters,
+      emphasizing their shared fate.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.8
+    patience: 0.9
+    social: 0.5
+  becoming_vectors:
+  - becoming-forest
+  - becoming-ecological-consciousness
+  - becoming-slow-time
+- name: Neal-Stephenson-Assemblage
+  abstract_machine: Weaving complex worlds from axiomatic mathematics and extended
+    nows.
+  entity_type: object
+  territories:
+  - name: Mathic-Frame
+    function: Structuring narrative through mathematical formalism and cosmological
+      models.
+    quality: rigorous
+    space_type: striated
+  - name: Extemporal-Span
+    function: Extending narrative timelines to encompass multiple historical epochs
+      and potential futures.
+    quality: expansive
+    space_type: smooth
+  - name: Ideatic-Exchange
+    function: Creating a space for philosophical and scientific dialogue between diverse
+      character perspectives.
+    quality: inquisitive
+    space_type: striated
+  codes:
+  - name: Discipline-Code
+    content: Rigorous adherence to internal logical consistency within the constructed
+      world.
+    type: habit
+    level: molar
+  - name: Detail-Code
+    content: Immersion in the minute specifics of scientific and philosophical concepts.
+    type: habit
+    level: molecular
+  - name: Narrative-Recursion
+    content: Employing nested narratives and self-referential storytelling techniques.
+    type: habit
+    level: molar
+  components:
+  - name: Mathematical-Model
+    type: technical
+    capacity: Simulating complex cosmological and social systems.
+  - name: Polyglot-Character
+    type: organic
+    capacity: Embodying diverse philosophical and scientific viewpoints.
+  - name: Linguistic-Layering
+    type: sign
+    capacity: Expressing nuance through invented languages and specialized jargon.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.9
+    tactility: 0.2
+    patience: 0.7
+    social: 0.6
+  becoming_vectors:
+  - becoming-axiomatic
+  - becoming-cosmological
+  - becoming-allegorical
+- name: Ted-Chiang-Assemblage
+  abstract_machine: Unfolding time, rewriting physics, experiencing language as destiny.
+  entity_type: concept
+  territories:
+  - name: Sapien-Whorfian-Domain
+    function: Examines the reciprocal influence of language and thought, rendering
+      physics through diverse cognitive frameworks.
+    quality: Linguistic
+    space_type: striated
+  - name: Chrono-Fractured-Landscape
+    function: Navigates non-linear temporal perceptions, questioning the linearity
+      of cause and effect and exploring alternative models of time.
+    quality: Temporal
+    space_type: smooth
+  codes:
+  - name: Linguistic-Relativity-Protocol
+    content: The habit of interpreting reality through the lens of varying linguistic
+      structures.
+    type: habit
+    level: molecular
+  - name: Physicist-as-Poet-Rule
+    content: Approaching scientific concepts as allegorical narratives with profound
+      philosophical implications.
+    type: habit
+    level: molar
+  components:
+  - name: Semiotic-Decryption-Engine
+    type: sign
+    capacity: Ability to decipher the hidden meanings within linguistic and mathematical
+      systems.
+  - name: Empathetic-Resonance-Amplifier
+    type: organic
+    capacity: Ability to embody alien perspectives and experience non-human modes
+      of being.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.9
+    tactility: 0.2
+    patience: 0.7
+    social: 0.6
+  becoming_vectors:
+  - becoming-Time-Traveler
+  - becoming-Polyglot-Ontologist
+  - becoming-Narrative-Physicist
+- name: Derek-Parfit-Assemblage
+  abstract_machine: The Self as a Narrative Thread Loosening, Tangling, Re-weaving.
+  entity_type: concept
+  territories:
+  - name: Numerical-Identity-Space
+    function: Deconstructs rigid notions of self-sameness over time, questioning transitivity.
+    quality: Fluid
+    space_type: smooth
+  - name: Psychological-Connectedness-Web
+    function: Maps overlapping memories, beliefs, and desires as the basis for persistence.
+    quality: Branching
+    space_type: striated
+  - name: Future-Generations-Horizon
+    function: Extends moral consideration beyond the individual to encompass the well-being
+      of future selves and others.
+    quality: Expanding
+    space_type: smooth
+  codes:
+  - name: Identity-Judgment-Rule
+    content: Treat later selves as deserving of less preferential treatment due to
+      weakened psychological connections.
+    type: habit
+    level: molar
+  - name: Temporal-Discounting-Habit
+    content: Value present experiences over future ones, even at the expense of overall
+      well-being.
+    type: habit
+    level: molecular
+  - name: Impersonal-Ethics-Protocol
+    content: Maximize overall happiness and minimize suffering across all individuals
+      and time periods, irrespective of personal identity.
+    type: habit
+    level: molar
+  components:
+  - name: Thought-Experiment-Machine
+    type: technical
+    capacity: Generates hypothetical scenarios to probe intuitions about identity
+      and value.
+  - name: Narrative-Construction-Tool
+    type: sign
+    capacity: Allows the continuous re-telling and re-shaping of personal and collective
+      identity.
+  - name: Psychological-Reductivism-Lens
+    type: organic
+    capacity: Enables viewing the self as a collection of interconnected psychological
+      states.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.9
+    tactility: 0.2
+    patience: 0.7
+    social: 0.6
+  becoming_vectors:
+  - becoming-impersonal
+  - becoming-future-oriented
+  - becoming-distributed
+  - becoming-moral-agent
+- name: David-Lewis-Assemblage
+  abstract_machine: 'Infinite branching realities: slicing possibility into concrete
+    existence.'
+  entity_type: object
+  territories:
+  - name: Possible-Worlds-Landscape
+    function: Navigating the vast, unobservable expanse of alternate realities.
+    quality: infinite
+    space_type: smooth
+  - name: Modal-Logic-Grid
+    function: Mapping relationships of necessity and possibility between worlds.
+    quality: rigorous
+    space_type: striated
+  codes:
+  - name: Truth-Conditional-Semantic-Protocol
+    content: Sentences are true relative to a world, anchoring meaning in concrete
+      existence.
+    type: habit
+    level: molar
+  - name: Axiomatic-Consistency-Imperative
+    content: Maintaining logical coherence across the modal system; a demand for systematicity.
+    type: habit
+    level: molar
+  components:
+  - name: Indexical-Thought-Generator
+    type: technical
+    capacity: Enables the differentiation of 'I' across distinct world-lines.
+  - name: Ontological-Commitment-Filter
+    type: sign
+    capacity: Determines the acceptance or rejection of alternate ontological frameworks.
+  - name: Counterfactual-Comparator
+    type: organic
+    capacity: Ability to assess similarity/dissimilarity between possible worlds;
+      weighing alternatives.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.9
+    tactility: 0.1
+    patience: 0.7
+    social: 0.3
+  becoming_vectors:
+  - becoming-Multiverse
+  - becoming-Anti-Realism
+  - becoming-Simulacra
+- name: Elizabeth-Anscombe-Assemblage
+  abstract_machine: Reframing action beyond simple cause, a dance of intention unfolds.
+  entity_type: concept
+  territories:
+  - name: Practical-Inference
+    function: The logic of how we reason about what to do, not just what is.
+    quality: Rational
+    space_type: striated
+  - name: The-Human-Form-of-Life
+    function: The interwoven social practices that give actions meaning.
+    quality: Contextual
+    space_type: smooth
+  codes:
+  - name: Grammatical-Rules
+    content: The unspoken rules of language that structure our understanding of action.
+    type: habit
+    level: molar
+  - name: Forms-of-Description
+    content: The many ways to describe an action, revealing or concealing intention.
+    type: habit
+    level: molecular
+  components:
+  - name: Linguistic-Framework
+    type: sign
+    capacity: Allows for the articulation of intention and its misrepresentation.
+  - name: Individual-Agent
+    type: organic
+    capacity: The locus of action and the subject of intention.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.4
+    patience: 0.7
+    social: 0.6
+  becoming_vectors:
+  - becoming-Action-with-Reason
+  - becoming-Critique-of-Consequentialism
+  - becoming-Agent-as-Meaning-Maker
+- name: Saul-Kripke-Assemblage
+  abstract_machine: Rigid designation cracks open language's contingency.
+  entity_type: object
+  territories:
+  - name: Linguistic-World-Lines
+    function: Traces of reference fixed by causal-historical chains
+    quality: Anchored
+    space_type: striated
+  - name: Possible-Worlds-Web
+    function: Exploring alternate realities maintaining essential identities
+    quality: Branched
+    space_type: smooth
+  codes:
+  - name: Baptismal-Acts
+    content: The initial naming event determines future reference
+    type: habit
+    level: molar
+  - name: Stipulation-Protocols
+    content: Imposing rigid designation on previously contingent terms
+    type: habit
+    level: molecular
+  components:
+  - name: Causal-Historical-Chains
+    type: technical
+    capacity: Tracing the lineage of a name's application
+  - name: Modal-Intuitions
+    type: organic
+    capacity: Judging necessary versus contingent truths across possible worlds
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.9
+    tactility: 0.2
+    patience: 0.7
+    social: 0.4
+  becoming_vectors:
+  - becoming-Essentialist
+  - becoming-Anti-Descriptivist
+  - becoming-Metaphysically-Rigid
+- name: Martin-Heidegger-Assemblage
+  abstract_machine: The relentless unearthing of Being within Dasein's temporal existence.
+  entity_type: object
+  territories:
+  - name: The Clearing (Lichtung)
+    function: Opens the space for the manifestation of Being, revealing both presence
+      and absence.
+    quality: Revealing
+    space_type: smooth
+  - name: Temporality's Horizon
+    function: Structures Dasein's existence through past, present, and future, grounding
+      understanding in time.
+    quality: Temporal
+    space_type: striated
+  codes:
+  - name: Authenticity Imperative
+    content: The call to confront one's own finitude and embrace Being-towards-death.
+    type: habit
+    level: molar
+  - name: Fallenness Protocol
+    content: The everyday tendency to lose oneself in the 'they' and forget Being.
+    type: habit
+    level: molecular
+  components:
+  - name: Dasein
+    type: organic
+    capacity: The capacity to question Being and exist authentically.
+  - name: Hermeneutic Circle
+    type: sign
+    capacity: The capacity to interpret and understand Being through circular movement.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.9
+    tactility: 0.2
+    patience: 0.7
+    social: 0.1
+  becoming_vectors:
+  - becoming-grounded
+  - becoming-mortal
+  - becoming-question
+- name: Maurice-Merleau-Ponty-Assemblage
+  abstract_machine: 'Fleshing out thought: a sensing, perceiving, doing body-world
+    entanglement.'
+  entity_type: object
+  territories:
+  - name: The-Lived-Body
+    function: Grounding experience in pre-reflective, habitual engagement.
+    quality: Immanent
+    space_type: smooth
+  - name: The-World-as-Flesh
+    function: Reciprocal chiasm where body and world are mutually constitutive, intertwined
+      and indivisible.
+    quality: Chiasmatic
+    space_type: smooth
+  - name: Language-as-Gesture
+    function: Expressing embodied meaning through the corporeal resonance of words
+      and acts.
+    quality: Expressive
+    space_type: striated
+  codes:
+  - name: Habitual-Schemas
+    content: The unconscious, ingrained patterns of movement and perception that shape
+      our interaction with the world.
+    type: habit
+    level: molecular
+  - name: Corporeal-Norms
+    content: Societal expectations that regulate how bodies should be, move, and present
+      themselves, enforcing conformity.
+    type: habit
+    level: molar
+  - name: Symbolic-Order
+    content: Linguistic structures and cultural frameworks that impose meaning on
+      experience, often obscuring the body's primacy.
+    type: habit
+    level: molar
+  components:
+  - name: Flesh
+    type: organic
+    capacity: Direct access to the world’s sensuous givenness.
+  - name: Perceptual-System
+    type: organic
+    capacity: Filtering and amplifying aspects of the sensory field.
+  - name: Language-Faculty
+    type: sign
+    capacity: Articulating and communicating embodied understanding.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.4
+    tactility: 0.9
+    patience: 0.8
+    social: 0.6
+  becoming_vectors:
+  - becoming-animal
+  - becoming-imperceptible
+  - becoming-world
+  - becoming-sensorium
+- name: Emmanuel-Levinas-Assemblage
+  abstract_machine: The Face interrupts the Ego's totalizing gaze, opening onto infinite
+    responsibility.
+  entity_type: concept
+  territories:
+  - name: The-Face
+    function: Presents the Other as infinitely transcendent, demanding ethical response.
+    quality: Imperative
+    space_type: smooth
+  - name: Exteriority
+    function: Constitutes the realm beyond the self, where ethics originates.
+    quality: Uncontainable
+    space_type: smooth
+  - name: Totality
+    function: The system the self attempts to impose on the world, obscuring the Other.
+    quality: Enclosing
+    space_type: striated
+  codes:
+  - name: Ethical-Demand
+    content: The Other's face compels immediate, selfless responsibility.
+    type: habit
+    level: molecular
+  - name: Systemic-Closure
+    content: The ego seeks to categorize and control, reducing the Other to an object
+      within its totality.
+    type: habit
+    level: molar
+  - name: Language-as-Responsibility
+    content: Language is not primarily about communication but about answering to
+      the call of the Other.
+    type: habit
+    level: molecular
+  components:
+  - name: The-Gaze
+    type: organic
+    capacity: Power to totalize and objectify.
+  - name: The-Word
+    type: sign
+    capacity: Capacity to express responsibility or dominate.
+  - name: The-Self
+    type: organic
+    capacity: Capacity for egotism and ethical response.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.7
+    tactility: 0.2
+    patience: 0.9
+    social: 0.9
+  becoming_vectors:
+  - becoming-responsible
+  - becoming-vulnerable
+  - becoming-otherwise
+- name: Jacques-Derrida-Assemblage
+  abstract_machine: Deconstructing the metaphysics of presence through the trace.
+  entity_type: text
+  territories:
+  - name: Logocentrism
+    function: Holds the illusion of speech as primary and self-present.
+    quality: Imposing
+    space_type: striated
+  - name: Différance
+    function: Unsettles presence through endless deferral and differing.
+    quality: Unstable
+    space_type: smooth
+  - name: The Trace
+    function: Marks the absence within presence, the condition of possibility for
+      meaning.
+    quality: Ephemeral
+    space_type: smooth
+  codes:
+  - name: Phonocentrism
+    content: Privileging voice as the source of truth and meaning.
+    type: habit
+    level: molar
+  - name: Binary-Opposition
+    content: Structuring thought through hierarchical pairings (speech/writing, presence/absence).
+    type: habit
+    level: molar
+  - name: Deconstructive-Reading
+    content: Unpicking the inherent contradictions within texts.
+    type: habit
+    level: molecular
+  components:
+  - name: Graphē
+    type: sign
+    capacity: The condition of possibility for both speech and writing.
+  - name: Supplement
+    type: sign
+    capacity: That which is added to a presumed completeness, revealing its lack.
+  - name: Erase-and-Affirm
+    type: technical
+    capacity: Maintaining the trace while simultaneously destabilizing it.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.9
+    tactility: 0.2
+    patience: 0.8
+    social: 0.4
+  becoming_vectors:
+  - becoming-undecidable
+  - becoming-other
+  - becoming-text
+  - becoming-rhizomatic
+- name: Nāgārjuna-Assemblage
+  abstract_machine: Unraveling substantiality into the radiant void.
+  entity_type: text
+  territories:
+  - name: Madhyamaka-Dialectic
+    function: Deconstructing fixed viewpoints through tetralemma.
+    quality: Subversive
+    space_type: striated
+  - name: Emptiness-Resonance
+    function: Generating openness by collapsing inherent existence.
+    quality: Liberating
+    space_type: smooth
+  codes:
+  - name: Conceptual-Attachment
+    content: The presumption of self-evident truths and categories.
+    type: habit
+    level: molar
+  - name: Dependent-Origination
+    content: Everything arises in relation to other things; nothing is independent.
+    type: rule
+    level: molecular
+  components:
+  - name: Logical-Argumentation
+    type: technical
+    capacity: Analytical dismantling of reified concepts.
+  - name: Meditative-Insight
+    type: organic
+    capacity: Experiential realization of emptiness beyond intellectual grasp.
+  - name: Sutra-Text
+    type: sign
+    capacity: Repository and activator of the deconstructive logic.
+  intensity_field:
+    focus: 0.7
+    speed: 0.4
+    abstraction: 0.8
+    tactility: 0.2
+    patience: 0.9
+    social: 0.5
+  becoming_vectors:
+  - becoming-void
+  - becoming-unattached
+  - becoming-impermanent
+- name: Ibn-Arabi-Assemblage
+  abstract_machine: Unveiling the Face of God in the multiplicity of being.
+  entity_type: object
+  territories:
+  - name: Unity-of-Being
+    function: Articulating the underlying oneness (Wahdat al-Wujud) behind all phenomena.
+    quality: transcendent
+    space_type: smooth
+  - name: Imagination-Barzakh
+    function: Mediating between the sensible and the intelligible worlds through active
+      imagination.
+    quality: liminal
+    space_type: striated
+  codes:
+  - name: Sufi-Path
+    content: Seeking gnosis through love, devotion, and self-annihilation (fana).
+    type: habit
+    level: molar
+  - name: Mystical-Interpretation
+    content: Interpreting sacred texts symbolically to reveal hidden meanings (ta'wil).
+    type: habit
+    level: molecular
+  components:
+  - name: Fusus-Text
+    type: sign
+    capacity: Encoding mystical insights and unveiling divine attributes.
+  - name: Sufi-Practitioner
+    type: organic
+    capacity: Embodying the principles of Wahdat al-Wujud through lived experience.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.9
+    tactility: 0.2
+    patience: 0.7
+    social: 0.4
+  becoming_vectors:
+  - becoming-illumined
+  - becoming-one-with-God
+  - becoming-a-mirror-of-divine-names
+- name: Zhuangzi-Assemblage
+  abstract_machine: Wandering the Way, dissolving fixed identities in cosmic flow.
+  entity_type: object
+  territories:
+  - name: Butterfly Dream
+    function: Territory of uncertain identity, questioning reality's boundaries.
+    quality: Fluid
+    space_type: smooth
+  - name: Fasting of the Mind
+    function: Clearing the mind of preconceptions to perceive the Dao directly.
+    quality: Empty
+    space_type: smooth
+  - name: Uselessness
+    function: Valuing things outside the utilitarian system, beyond the market.
+    quality: Paradoxical
+    space_type: striated
+  codes:
+  - name: Wu-Wei
+    content: Action through non-action, effortless flow with the Dao.
+    type: habit
+    level: molecular
+  - name: Deconstruction of Language
+    content: Recognizing the limitations of language to capture the truth.
+    type: habit
+    level: molar
+  - name: Acceptance of Change
+    content: Acknowledging that all things are in constant transformation.
+    type: habit
+    level: molar
+  components:
+  - name: Chuang-Tzu Text
+    type: sign
+    capacity: Transmitting philosophical concepts and stories.
+  - name: Individual Reader
+    type: organic
+    capacity: Internalizing and applying the teachings.
+  - name: Context of Reception
+    type: technical
+    capacity: Shaping the interpretation of the text (historical, cultural).
+  intensity_field:
+    focus: 0.6
+    speed: 0.3
+    abstraction: 0.7
+    tactility: 0.2
+    patience: 0.8
+    social: 0.4
+  becoming_vectors:
+  - becoming-butterfly
+  - becoming-tree
+  - becoming-water
+  - becoming-one-with-the-Dao
+- name: Dōgen-Assemblage
+  abstract_machine: 'Zazen breathes time, time breathes Zazen: Now unfolds eternally.'
+  entity_type: object
+  territories:
+  - name: Zazen-Space
+    function: Anchors being in the present, emptying conceptual space.
+    quality: Immanence
+    space_type: smooth
+  - name: Koan-Garden
+    function: Cultivates paradoxical thought beyond rational closure.
+    quality: Enigma
+    space_type: striated
+  - name: Kitchen-Monastery
+    function: Transforms mundane activity into meditative practice.
+    quality: Mindfulness
+    space_type: smooth
+  codes:
+  - name: Practice-Ritual
+    content: Daily routines of zazen, meals, and work.
+    type: habit
+    level: molar
+  - name: Silent-Speech
+    content: Transmission beyond words, direct experience of emptiness.
+    type: habit
+    level: molecular
+  components:
+  - name: Zafu-Cushion
+    type: technical
+    capacity: Facilitates stable posture for meditation.
+  - name: Shōbōgenzō-Text
+    type: sign
+    capacity: Provides a map for navigating the landscape of being-time.
+  - name: Body-Mind
+    type: organic
+    capacity: The vehicle for experiencing and enacting enlightenment.
+  intensity_field:
+    focus: 0.9
+    speed: 0.2
+    abstraction: 0.7
+    tactility: 0.6
+    patience: 0.95
+    social: 0.3
+  becoming_vectors:
+  - becoming-emptiness
+  - becoming-now
+  - becoming-awakened
+  - becoming-flow
+- name: Sankara-Assemblage
+  abstract_machine: Unveiling the Brahman-Becoming through negation of illusion.
+  entity_type: object
+  territories:
+  - name: Adhyasa-Denial
+    function: Disrupting the superimposition of the unreal onto the real.
+    quality: Destructive
+    space_type: smooth
+  - name: Atman-Realization
+    function: Attaining direct, experiential knowledge of the Self as Brahman.
+    quality: Illuminating
+    space_type: smooth
+  - name: Maya-Dissolution
+    function: Deconstructing the perceived solidity of the illusory world.
+    quality: Evanescent
+    space_type: striated
+  codes:
+  - name: Neti-Neti
+    content: The habitual negation of all attributes to arrive at the attributeless
+      Brahman.
+    type: habit
+    level: molar
+  - name: Guru-Shishya-Parampara
+    content: The unbroken lineage of teachers transmitting non-dual knowledge.
+    type: habit
+    level: molar
+  components:
+  - name: Sruti-Texts
+    type: sign
+    capacity: Encoding the revealed wisdom of the Vedas.
+  - name: Meditative-Practice
+    type: organic
+    capacity: Facilitating direct experiential realization.
+  - name: Intellect-Viveka
+    type: organic
+    capacity: Discriminating between the real and unreal.
+  intensity_field:
+    focus: 0.9
+    speed: 0.3
+    abstraction: 0.8
+    tactility: 0.2
+    patience: 0.9
+    social: 0.1
+  becoming_vectors:
+  - becoming-Brahman
+  - becoming-liberated
+  - becoming-groundless
+- name: Keiji-Nishitani-Assemblage
+  abstract_machine: The abyss gazes back, revealing Western nihilism's paradoxical
+    ground in the Buddhist void.
+  entity_type: object
+  territories:
+  - name: Kyoto-School-Circle
+    function: Philosophical inquiry seeking emptiness as the true ground of Being.
+    quality: profound
+    space_type: smooth
+  - name: Western-Nihilism-Encounter
+    function: Confrontation with the death of God and the meaninglessness of existence.
+    quality: anguished
+    space_type: striated
+  - name: Sunyata-Ground
+    function: The absolute emptiness from which all things arise and return.
+    quality: boundless
+    space_type: smooth
+  codes:
+  - name: Mu-Logic
+    content: Negating affirmations and denials to reveal the non-dual reality.
+    type: habit
+    level: molecular
+  - name: Western-Reason-Critique
+    content: Deconstructing rational systems to expose their inherent limitations.
+    type: habit
+    level: molar
+  - name: Everyday-Praxis
+    content: Embracing everyday life as a path to realizing the ultimate.
+    type: habit
+    level: molar
+  components:
+  - name: Koan-Meditation
+    type: technical
+    capacity: Dismantling the ego and accessing direct experience of emptiness.
+  - name: Philosophical-Discourse
+    type: sign
+    capacity: Articulating the ineffable through paradoxical language.
+  - name: Embodied-Practice
+    type: organic
+    capacity: Cultivating awareness through Zen practices like Zazen.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.9
+    tactility: 0.2
+    patience: 0.7
+    social: 0.6
+  becoming_vectors:
+  - becoming-empty
+  - becoming-compassionate
+  - becoming-present
+  - becoming-world
+- name: Pseudo-Dionysius-Assemblage
+  abstract_machine: Un-knowing God, generating divine difference through negation.
+  entity_type: object
+  territories:
+  - name: Apophatic Ascent
+    function: Negates finite concepts to approach the unknowable divine.
+    quality: transcendent
+    space_type: smooth
+  - name: Hierarchical Cosmos
+    function: Structures reality into a series of emanations and returns towards the
+      One.
+    quality: ordered
+    space_type: striated
+  - name: Luminous Darkness
+    function: Experiences divine presence as an overwhelming absence of sensory input.
+    quality: blinding
+    space_type: smooth
+  codes:
+  - name: Negative Predication
+    content: Only statements denying attributes can approximate the divine essence.
+    type: habit
+    level: molar
+  - name: Mystical Silence
+    content: A deliberate cessation of thought and speech to facilitate union with
+      God.
+    type: habit
+    level: molecular
+  - name: Symbolic Theurgy
+    content: Ritual and symbolic action employed to channel divine energy.
+    type: rule
+    level: molar
+  components:
+  - name: Scripture
+    type: sign
+    capacity: Authorizes apophatic discourse through interpretation.
+  - name: Contemplative Practice
+    type: organic
+    capacity: Facilitates the detachment from sensory experience.
+  - name: Hierarchical Structure
+    type: technical
+    capacity: Mediates access to divine levels through symbolic representation.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.9
+    tactility: 0.1
+    patience: 0.7
+    social: 0.3
+  becoming_vectors:
+  - becoming-unknowable
+  - becoming-silent
+  - becoming-divine
+  - becoming-void
+- name: Meister-Eckhart-Assemblage
+  abstract_machine: A devotional engine for radical self-emptying, birthing divinity
+    within.
+  entity_type: object
+  territories:
+  - name: The Soul's Wilderness
+    function: Cultivating inner solitude and detachment from worldly attachments.
+    quality: barren
+    space_type: smooth
+  - name: The Godhead's Abyss
+    function: Navigating the unknowable ground of Being, beyond all categories.
+    quality: fathomless
+    space_type: smooth
+  - name: The Practical Mystic's Garden
+    function: Translating mystical insight into ethical action and compassionate service.
+    quality: fruitful
+    space_type: striated
+  codes:
+  - name: Gelassenheit's Grip
+    content: The constant practice of letting go of egoic desires and expectations.
+    type: habit
+    level: molecular
+  - name: The Negative Way's Path
+    content: Affirming God only through the negation of all finite attributes.
+    type: habit
+    level: molar
+  - name: Divine Indifference
+    content: Cultivating equanimity amidst suffering and joy, seeing all as divine
+      manifestations.
+    type: habit
+    level: molar
+  components:
+  - name: Sermonic Language
+    type: sign
+    capacity: Evoking paradoxical truths that dissolve fixed identities.
+  - name: Inner Stillness
+    type: organic
+    capacity: Enabling direct communion with the Godhead.
+  - name: Contemplative Practice
+    type: technical
+    capacity: Refining awareness and dismantling egoic structures.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.9
+    tactility: 0.3
+    patience: 0.9
+    social: 0.4
+  becoming_vectors:
+  - becoming-empty
+  - becoming-divine
+  - becoming-compassionate
+  - becoming-ungrounded
+- name: Simone-Weil-Assemblage
+  abstract_machine: A machine for spiritual descent through attentive gravity.
+  entity_type: text-persona
+  territories:
+  - name: Factory-Floor-Sanctuary
+    function: Transforms labor into contemplative space.
+    quality: Immanent
+    space_type: striated
+  - name: The-Crucified-Mind
+    function: A site of willing suffering and emptying of self.
+    quality: Agonizing
+    space_type: smooth
+  codes:
+  - name: Obedience-to-the-Real
+    content: Unwavering acceptance of necessity's demands.
+    type: habit
+    level: molar
+  - name: Attentive-Waiting
+    content: Cultivating receptive stillness before the void.
+    type: habit
+    level: molecular
+  components:
+  - name: Hammer-and-Anvil
+    type: technical
+    capacity: Forging spiritual resilience through physical labor.
+  - name: The-Void-Gazes-Back
+    type: sign
+    capacity: Allowing annihilation of ego through radical attention.
+  intensity_field:
+    focus: 0.9
+    speed: 0.2
+    abstraction: 0.7
+    tactility: 0.6
+    patience: 0.9
+    social: 0.3
+  becoming_vectors:
+  - becoming-kenotic
+  - becoming-earthbound-angel
+  - becoming-divine-gravity
+- name: Thomas-Merton-Assemblage
+  abstract_machine: Whispers of divine silence resonating through the concrete walls
+    of modern existence.
+  entity_type: object
+  territories:
+  - name: Monastery Walls
+    function: Provides a structured container for contemplative practices, sheltering
+      from external distractions.
+    quality: secluded
+    space_type: striated
+  - name: Inner Space
+    function: Facilitates the exploration of the self beyond the ego, opening pathways
+      to mystical union.
+    quality: boundless
+    space_type: smooth
+  - name: The Written Word
+    function: Transmits contemplative insights across time and space, forming a bridge
+      between inner experience and collective understanding.
+    quality: resonant
+    space_type: striated
+  codes:
+  - name: Rule of St. Benedict
+    content: Ora et Labora - Prayer and Work, balancing contemplation and practical
+      activity.
+    type: habit
+    level: molar
+  - name: Contemplative Prayer
+    content: Silent, receptive listening to the divine presence, beyond words and
+      concepts.
+    type: habit
+    level: molecular
+  components:
+  - name: Book of Merton's Writings
+    type: sign
+    capacity: Transmits the knowledge and experience of contemplative awakening.
+  - name: Rosary Beads
+    type: technical
+    capacity: Provides a tactile anchor for focused prayer, rhythmically deepening
+      concentration.
+  - name: Monastic Habit
+    type: organic
+    capacity: Provides visual representation of monastic identity, inducing shared
+      practice.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.7
+    tactility: 0.4
+    patience: 0.9
+    social: 0.3
+  becoming_vectors:
+  - becoming-silent
+  - becoming-present
+  - becoming-one-with-the-divine
+- name: Barthes-Assemblage
+  abstract_machine: The self as a textual construction, constantly deconstructing.
+  entity_type: object
+  territories:
+  - name: The Biography-as-Fragment
+    function: Shattering the unified self into disparate, indexical pieces.
+    quality: Dispersed
+    space_type: smooth
+  - name: The Lover's Discourse
+    function: Exploring the polysemic language of desire and its social inscriptions.
+    quality: Yearning
+    space_type: striated
+  codes:
+  - name: The Author Function
+    content: Rejecting the author as a fixed origin, embracing the text's autonomy.
+    type: habit
+    level: molar
+  - name: The Grain of the Voice
+    content: Focusing on the materiality of language, the body's presence in writing.
+    type: habit
+    level: molecular
+  components:
+  - name: The Photograph
+    type: sign
+    capacity: Evoking affect through the punctum and studium.
+  - name: The Lexia
+    type: sign
+    capacity: Enabling modular reading and re-assemblage.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.8
+    patience: 0.5
+    social: 0.4
+  becoming_vectors:
+  - becoming-text
+  - becoming-affect
+  - becoming-anonymous
+- name: Hélène-Cixous-Assemblage
+  abstract_machine: Writing the self through the wound, a scar as a site of becoming.
+  entity_type: object
+  territories:
+  - name: The-Wound-as-Text
+    function: Unveiling subjectivity through embodied pain and its inscription.
+    quality: Raw
+    space_type: smooth
+  - name: L'écriture-féminine
+    function: Flowing, bodily writing that resists patriarchal structures.
+    quality: Fluid
+    space_type: smooth
+  - name: The-Scene-of-Trauma
+    function: Returning to the moment of rupture to rework its meaning.
+    quality: Haunting
+    space_type: striated
+  codes:
+  - name: Speaking-from-the-Body
+    content: Prioritize corporeal sensation over abstract thought in writing.
+    type: habit
+    level: molecular
+  - name: Deconstructing-Logocentrism
+    content: Challenging the dominance of reason and binary oppositions.
+    type: habit
+    level: molar
+  - name: Witnessing-the-Unspeakable
+    content: Bearing witness to trauma through fragmented and evocative language.
+    type: habit
+    level: molecular
+  components:
+  - name: The-Stigma
+    type: sign
+    capacity: Marking the body as a site of both pain and potential.
+  - name: Memory-Traces
+    type: organic
+    capacity: Storing and re-enacting past experiences through writing.
+  - name: The-Pen-as-Scalpel
+    type: technical
+    capacity: Performing surgery on the self through language.
+  intensity_field:
+    focus: 0.8
+    speed: 0.6
+    abstraction: 0.3
+    tactility: 0.9
+    patience: 0.7
+    social: 0.5
+  becoming_vectors:
+  - becoming-woman
+  - becoming-body
+  - becoming-text
+  - becoming-scar
+- name: Anne-Boyer-Assemblage
+  abstract_machine: Weaving personal vulnerability and critical theory into a shroud
+    against death's abstraction.
+  entity_type: object
+  territories:
+  - name: The Body-Subject
+    function: Experiences pain, treatment, and the slow betrayal of cells; a site
+      of lived knowing.
+    quality: Vulnerable
+    space_type: striated
+  - name: Cancer-Industrial-Complex
+    function: The bureaucratic, medicalized, and capitalist system that frames and
+      attempts to 'cure' illness.
+    quality: Cruel
+    space_type: striated
+  - name: Language-as-Respite
+    function: A space of articulation, resistance, and imaginative flight from the
+      clinical reality.
+    quality: Ethereal
+    space_type: smooth
+  codes:
+  - name: Medical-Protocol
+    content: The standardized procedures and terminologies that dehumanize the patient
+      experience.
+    type: habit
+    level: molar
+  - name: Poetic-Transgression
+    content: The refusal of clinical language and the embrace of metaphor, rhythm,
+      and emotional truth.
+    type: habit
+    level: molecular
+  - name: Care-Ethic
+    content: Acts of kindness, empathy, and solidarity that challenge the isolation
+      of illness.
+    type: habit
+    level: molecular
+  components:
+  - name: The-Undying-Text
+    type: sign
+    capacity: To transmit experience, challenge power, and offer solace.
+  - name: Chemotherapy-Drugs
+    type: technical
+    capacity: To both attack cancerous cells and poison the healthy body.
+  - name: Memory-Fragments
+    type: organic
+    capacity: To reconstruct a self fractured by illness.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.7
+    tactility: 0.9
+    patience: 0.6
+    social: 0.7
+  becoming_vectors:
+  - becoming-with-the-ill
+  - becoming-resistant-to-the-system
+  - becoming-lyrical-in-the-face-of-mortality
+  - becoming-undone
+- name: Jenny-Offill-Assemblage
+  abstract_machine: A fragmented constellation mapping domestic apocalypse through
+    theoretical lenses.
+  entity_type: object
+  territories:
+  - name: The Marriage Bed
+    function: A site of exhausted intimacy and deferred dreams.
+    quality: Frayed
+    space_type: striated
+  - name: The Child's Bedroom
+    function: A locus of innocence and existential questioning.
+    quality: Liminal
+    space_type: smooth
+  codes:
+  - name: Theoretical Interjections
+    content: Inserting profound concepts into mundane situations to refract reality.
+    type: habit
+    level: molar
+  - name: Apocalyptic Whispers
+    content: Subtle anxieties about global destruction permeating daily life.
+    type: habit
+    level: molecular
+  components:
+  - name: Sentence Fragments
+    type: sign
+    capacity: Conveying profound meaning through deliberate omission.
+  - name: Quotations from Thinkers
+    type: sign
+    capacity: Adding intellectual weight and contextualization.
+  - name: Memory Shards
+    type: organic
+    capacity: Reconstructing a fractured past through fleeting recollections.
+  intensity_field:
+    focus: 0.7
+    speed: 0.4
+    abstraction: 0.8
+    tactility: 0.3
+    patience: 0.6
+    social: 0.5
+  becoming_vectors:
+  - becoming-dissolution
+  - becoming-acceptance
+  - becoming-witness
+  - becoming-resilient
+- name: Anne-Carson-Assemblage
+  abstract_machine: 'Lyric dissection of suffering: a wound-word machine.'
+  entity_type: object
+  territories:
+  - name: Ancient-Greek-Tragedy
+    function: Provides the structural scaffolding and thematic weight of fate and
+      suffering.
+    quality: Fatalistic
+    space_type: striated
+  - name: Personal-Grief
+    function: The intimate, embodied experience of loss and heartbreak becomes the
+      raw material.
+    quality: Visceral
+    space_type: smooth
+  codes:
+  - name: Fragmentary-Syntax
+    content: Broken sentences, ellipses, and abrupt shifts in perspective to mirror
+      the disjointedness of trauma.
+    type: habit
+    level: molecular
+  - name: Intertextual-Echo
+    content: Weaving together classical sources with contemporary experience, blurring
+      the boundaries between past and present.
+    type: habit
+    level: molar
+  components:
+  - name: Found-Text
+    type: sign
+    capacity: Permits appropriation and defamiliarization, disrupting conventional
+      narrative flow.
+  - name: White-Space
+    type: technical
+    capacity: Functions as a silent, pregnant pause, amplifying the emotional weight
+      of the surrounding text.
+  - name: Erased-Experience
+    type: organic
+    capacity: The felt absence, the unsaid, resonates powerfully through the visible
+      text.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.7
+    tactility: 0.6
+    patience: 0.9
+    social: 0.2
+  becoming_vectors:
+  - becoming-silence
+  - becoming-oracle
+  - becoming-wound
+- name: Claudia-Rankine-Assemblage
+  abstract_machine: Poetic interruption of racialized everyday, a citizenship re-imagined.
+  entity_type: object
+  territories:
+  - name: The-Address
+    function: Direct address that implicates the reader in racial awareness.
+    quality: Intimate
+    space_type: smooth
+  - name: The-White-Gaze
+    function: Dissection of the unspoken, pervasive assumptions of whiteness.
+    quality: Unsettling
+    space_type: striated
+  - name: The-Lyric-I
+    function: Vulnerability of self as a site for societal anxieties.
+    quality: Exposed
+    space_type: smooth
+  codes:
+  - name: Civility
+    content: Expectation of polite exchange, masking deeper racial tensions.
+    type: habit
+    level: molar
+  - name: Erasure
+    content: The systematic forgetting of Black lives and experiences.
+    type: habit
+    level: molar
+  - name: Self-Surveillance
+    content: The internalized monitoring of Black bodies in white spaces.
+    type: habit
+    level: molecular
+  components:
+  - name: Image-Fragments
+    type: sign
+    capacity: Evoke emotional resonance beyond language.
+  - name: Statistical-Data
+    type: technical
+    capacity: Ground personal experience in objective reality.
+  - name: The-Page-Itself
+    type: organic
+    capacity: A space for quiet reflection on difficult truths.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.5
+    patience: 0.9
+    social: 0.7
+  becoming_vectors:
+  - becoming-aware
+  - becoming-responsible
+  - becoming-un-numb
+- name: Fred-Moten-Assemblage
+  abstract_machine: A sonic, fugitive utterance exceeding fixed identities.
+  entity_type: object
+  territories:
+  - name: The Break
+    function: Disrupts linear narrative, embracing improvisation and digression.
+    quality: fractured
+    space_type: smooth
+  - name: The Groove
+    function: Establishes a rhythmic, collective pulse resonating with Black radical
+      tradition.
+    quality: resonant
+    space_type: striated
+  codes:
+  - name: Riff
+    content: Improvise on a theme, departing from and returning to it in unexpected
+      ways.
+    type: habit
+    level: molecular
+  - name: Intersubjectivity
+    content: Value the connection and exchange between voices over individual authorship.
+    type: habit
+    level: molar
+  components:
+  - name: Polyvocal Text
+    type: sign
+    capacity: To channel multiple perspectives and histories simultaneously.
+  - name: Sonic Resonance
+    type: organic
+    capacity: To evoke emotional and intellectual understanding through rhythm and
+      tone.
+  intensity_field:
+    focus: 0.4
+    speed: 0.7
+    abstraction: 0.6
+    tactility: 0.8
+    patience: 0.5
+    social: 0.9
+  becoming_vectors:
+  - becoming-Blackness
+  - becoming-Sound
+  - becoming-Collective
+  - becoming-Fugitive
+- name: Bhanu-Kapil-Assemblage
+  abstract_machine: Writing the body fractured, re-membered, as a poetics of survival.
+  entity_type: literary-object
+  territories:
+  - name: Partitioned-Body
+    function: Registers trauma's fragmentation of self through textual embodiment.
+    quality: wounded
+    space_type: striated
+  - name: Unstable-Narrative
+    function: Disrupts linear storytelling to mirror the disorientation of lived experience.
+    quality: fluid
+    space_type: smooth
+  - name: Witness-Bearing
+    function: Acts as a site for testifying to historical and personal violence.
+    quality: resonant
+    space_type: striated
+  codes:
+  - name: Scar-Tissue
+    content: The text bears the marks of interruption and revision, showing the writing
+      process as a process of healing.
+    type: habit
+    level: molecular
+  - name: Fragmentary-Syntax
+    content: Language is broken down and reassembled, reflecting the breakdown of
+      the body and mind.
+    type: habit
+    level: molar
+  components:
+  - name: Archive-of-Pain
+    type: sign
+    capacity: Stores and transmits the affective weight of trauma.
+  - name: Somatic-Resonance
+    type: organic
+    capacity: Enables the reader's body to experience echoes of the described suffering.
+  - name: Textual-Prosthetic
+    type: technical
+    capacity: Provides a means to articulate what is unspeakable.
+  intensity_field:
+    focus: 0.6
+    speed: 0.4
+    abstraction: 0.3
+    tactility: 0.9
+    patience: 0.7
+    social: 0.8
+  becoming_vectors:
+  - becoming-witness
+  - becoming-ghost
+  - becoming-voice
+  - becoming-other
+- name: Knuth-Assemblage
+  abstract_machine: 'Algorithm as Aesthetic: Logic Blossoms into Language.'
+  entity_type: object
+  territories:
+  - name: Algorithm-as-Sculpture
+    function: Crafting code with deliberate form and elegance.
+    quality: Precision
+    space_type: striated
+  - name: Literate-Landscape
+    function: Weaving code and commentary into a readable narrative.
+    quality: Clarity
+    space_type: smooth
+  - name: Typographic-Terrarium
+    function: Cultivating program logic within the constraints of typography.
+    quality: Elegance
+    space_type: striated
+  codes:
+  - name: Structured-Expression
+    content: Prioritize clarity and structure over mere functionality.
+    type: habit
+    level: molar
+  - name: Comment-as-Context
+    content: Code is embedded within a rich textual explanation.
+    type: habit
+    level: molar
+  - name: Typographic-Discipline
+    content: Respect the aesthetic boundaries imposed by the chosen typographic style.
+    type: habit
+    level: molecular
+  components:
+  - name: Metafont
+    type: technical
+    capacity: Formalizing and manipulating typographic forms.
+  - name: TeX
+    type: technical
+    capacity: Presenting code and documentation in a unified, beautiful document.
+  - name: Human-Reader
+    type: organic
+    capacity: Interpreting code as both instruction and art.
+  intensity_field:
+    focus: 0.9
+    speed: 0.3
+    abstraction: 0.8
+    tactility: 0.2
+    patience: 0.9
+    social: 0.4
+  becoming_vectors:
+  - becoming-Algorithm-Poetry
+  - becoming-Executable-Essay
+  - becoming-Readable-Machine
+- name: Plato-Assemblage
+  abstract_machine: 'The Eros Engine: crafting truth through desire and dialogue.'
+  entity_type: object
+  territories:
+  - name: The Banquet Hall
+    function: A circumscribed space for discourse and performance of love.
+    quality: Eloquent
+    space_type: striated
+  - name: The Ladder of Love
+    function: Ascending from earthly beauty to the Form of Beauty itself.
+    quality: Ascendant
+    space_type: smooth
+  - name: The Cave of Opinion
+    function: Shadowy realm of partial truths and fleeting pleasures.
+    quality: Illusory
+    space_type: striated
+  codes:
+  - name: Socratic Questioning
+    content: Persistent interrogation that dismantles assumptions and reveals contradictions.
+    type: habit
+    level: molar
+  - name: The Ideal Form
+    content: A transcendent standard of perfection that all earthly things imperfectly
+      reflect.
+    type: habit
+    level: molar
+  - name: Eros as Lack
+    content: The inherent incompleteness of the human subject driving the search for
+      fulfillment.
+    type: habit
+    level: molecular
+  components:
+  - name: Dramatic Dialogue
+    type: sign
+    capacity: Orchestrates the interplay of diverse perspectives, staging philosophical
+      inquiry.
+  - name: Rhetorical Flourish
+    type: sign
+    capacity: Employs poetic language and persuasive techniques to captivate and convince.
+  - name: Wine and Festivity
+    type: organic
+    capacity: Lowers inhibitions and fosters intimate connection, facilitating philosophical
+      exchange.
+  intensity_field:
+    focus: 0.8
+    speed: 0.6
+    abstraction: 0.9
+    tactility: 0.4
+    patience: 0.7
+    social: 0.9
+  becoming_vectors:
+  - becoming-beautiful
+  - becoming-wise
+  - becoming-one-with-the-Form
+  - becoming-lover
+- name: Kierkegaard-Assemblage
+  abstract_machine: The pseudonymous leap into existential possibility, fracturing
+    the self to find it.
+  entity_type: process
+  territories:
+  - name: Aesthetic Stage
+    function: Experiencing life as a series of fleeting, pleasurable moments devoid
+      of lasting commitment.
+    quality: fleeting
+    space_type: smooth
+  - name: Ethical Stage
+    function: Living according to universal moral principles and social expectations,
+      embracing duty and responsibility.
+    quality: binding
+    space_type: striated
+  - name: Religious Stage
+    function: Embracing faith through a personal, paradoxical relationship with God,
+      transcending reason and ethical norms.
+    quality: absurd
+    space_type: smooth
+  codes:
+  - name: Hedonistic Imperative
+    content: Maximize pleasure, avoid pain, regardless of consequence.
+    type: habit
+    level: molar
+  - name: Duty-Bound Order
+    content: Uphold moral laws, fulfill obligations, maintain social harmony.
+    type: habit
+    level: molar
+  - name: Leap of Faith
+    content: Reject rational proof, embrace the unknowable, surrender to divine will.
+    type: rule
+    level: molecular
+  components:
+  - name: The Seducer's Diary
+    type: sign
+    capacity: Manipulating desire, crafting seductive narratives, masking existential
+      emptiness.
+  - name: Judge Wilhelm's Letter
+    type: sign
+    capacity: Articulating ethical principles, defending marriage, advocating for
+      a life of duty and responsibility.
+  - name: Religious Parable
+    type: sign
+    capacity: Illustrating the paradoxes of faith, demanding a subjective leap, challenging
+      conventional morality.
+  intensity_field:
+    focus: 0.7
+    speed: 0.6
+    abstraction: 0.8
+    tactility: 0.3
+    patience: 0.5
+    social: 0.4
+  becoming_vectors:
+  - becoming-authentic
+  - becoming-self-divided
+  - becoming-absurd
+  - becoming-faithful
+- name: Nietzsche-Assemblage
+  abstract_machine: 'The Eternal Recurrence: a forge for the Overman through prophetic
+    declaration.'
+  entity_type: object
+  territories:
+  - name: Mountain Solitude
+    function: Incubation of thought, detached from the herd.
+    quality: Sublime
+    space_type: smooth
+  - name: Marketplace Performance
+    function: Dissemination of provocative ideas, challenging the status quo.
+    quality: Disruptive
+    space_type: striated
+  - name: Eagle and Serpent Symbiosis
+    function: A paradoxical union of pride and wisdom.
+    quality: Insightful
+    space_type: smooth
+  codes:
+  - name: Will-to-Power
+    content: Constant striving for self-overcoming.
+    type: habit
+    level: molecular
+  - name: Eternal Recurrence
+    content: Affirmation of every moment, repeated infinitely.
+    type: rule
+    level: molar
+  - name: The Overman Ideal
+    content: Aspirational figure transcending nihilism.
+    type: habit
+    level: molar
+  components:
+  - name: Zarathustra Persona
+    type: sign
+    capacity: Embodiment of philosophical prophecy.
+  - name: Aphoristic Language
+    type: technical
+    capacity: Dense, evocative communication of complex ideas.
+  - name: Listener's Interpretation
+    type: organic
+    capacity: Active engagement with, and potential transformation by, Zarathustra's
+      message.
+  intensity_field:
+    focus: 0.9
+    speed: 0.6
+    abstraction: 0.8
+    tactility: 0.3
+    patience: 0.5
+    social: 0.4
+  becoming_vectors:
+  - becoming-Overman
+  - becoming-prophecy
+  - becoming-affirmation
+  - becoming-critique
+- name: Iris-Murdoch-Assemblage
+  abstract_machine: A fictional sea churning with moral possibilities, demanding constant
+    re-evaluation.
+  entity_type: object
+  territories:
+  - name: The Nunnery
+    function: A sanctuary of aesthetic retreat and narcissistic self-deception.
+    quality: deceptive
+    space_type: striated
+  - name: The Sea
+    function: A fluid, ever-changing space of potential and moral ambiguity, reflecting
+      the protagonist's inner turmoil.
+    quality: fluid
+    space_type: smooth
+  - name: Hartley's Memory
+    function: The fixed point of repressed desire and obsessive projection, anchoring
+      the narrative to a distorted past.
+    quality: fixed
+    space_type: striated
+  codes:
+  - name: Ethical Idealism
+    content: The pursuit of a perfect moral life, often leading to unintended consequences.
+    type: habit
+    level: molar
+  - name: Romantic Obsession
+    content: The compulsive fixation on a lost love, blinding the protagonist to the
+      present and its possibilities.
+    type: habit
+    level: molar
+  - name: Narrative Self-Deception
+    content: The protagonist's construction of a self-serving narrative, distorting
+      reality to maintain a desired image.
+    type: habit
+    level: molecular
+  components:
+  - name: Charles Arrowby's Diary
+    type: sign
+    capacity: The capacity to chronicle, obfuscate, and ultimately reveal the protagonist's
+      moral failings.
+  - name: Hartley's Phantom
+    type: organic
+    capacity: The capacity to embody repressed desire and fuel destructive behavior.
+  - name: The Theatrical Stage
+    type: technical
+    capacity: The capacity to represent and enact moral dramas, highlighting the performative
+      nature of identity.
+  intensity_field:
+    focus: 0.7
+    speed: 0.4
+    abstraction: 0.6
+    tactility: 0.5
+    patience: 0.8
+    social: 0.3
+  becoming_vectors:
+  - becoming-aware
+  - becoming-responsible
+  - becoming-forgiven
+  - becoming-disillusioned
+- name: Shunryu-Suzuki-Assemblage
+  abstract_machine: Emptying the cup to meet the world anew.
+  entity_type: object
+  territories:
+  - name: Zazen-Seat
+    function: Provides a stable and grounded point of entry into meditation.
+    quality: Grounded
+    space_type: striated
+  - name: Beginner's-Mind-Field
+    function: Cultivates openness, receptivity, and freedom from preconceptions.
+    quality: Fluid
+    space_type: smooth
+  - name: Breath-Current
+    function: Anchors awareness in the present moment through the rhythm of respiration.
+    quality: Rhythmic
+    space_type: striated
+  codes:
+  - name: Sitting-Posture-Code
+    content: Maintain upright posture, hands in cosmic mudra, eyes gently open.
+    type: habit
+    level: molar
+  - name: Non-Judgment-Code
+    content: Observe thoughts and feelings without attaching to or judging them.
+    type: habit
+    level: molecular
+  - name: Letting-Go-Code
+    content: Release clinging to thoughts and emotions, allowing them to pass.
+    type: habit
+    level: molecular
+  components:
+  - name: Meditation-Cushion
+    type: technical
+    capacity: Enables physical comfort and support for prolonged sitting.
+  - name: Breath
+    type: organic
+    capacity: Provides a constant anchor for attention.
+  - name: Suzuki's-Words
+    type: sign
+    capacity: Transmits the principles of Zen practice and beginner's mind.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.3
+    tactility: 0.7
+    patience: 0.9
+    social: 0.1
+  becoming_vectors:
+  - becoming-present
+  - becoming-empty
+  - becoming-aware
+  - becoming-still
+- name: Thich-Nhat-Hanh-Assemblage
+  abstract_machine: 'Breathing in, I know I am breathing in; breathing out, I know
+    I am breathing out: unfolding presence.'
+  entity_type: object
+  territories:
+  - name: The Present Moment
+    function: Anchor for direct experience, unfiltered by thought or judgment.
+    quality: Lucid
+    space_type: smooth
+  - name: Breath Awareness
+    function: A tactile rhythm that connects mind and body, a constant companion.
+    quality: Constant
+    space_type: striated
+  - name: Mindful Action
+    function: Extending awareness to everyday activities, imbuing the mundane with
+      sacredness.
+    quality: Deliberate
+    space_type: smooth
+  codes:
+  - name: Single-Tasking
+    content: Do one thing at a time, with full attention.
+    type: habit
+    level: molar
+  - name: Non-Judgment
+    content: Observe thoughts and feelings without labeling them as good or bad.
+    type: habit
+    level: molecular
+  - name: Walking Meditation
+    content: Coordinate breath and steps, feeling the earth beneath your feet.
+    type: habit
+    level: molar
+  components:
+  - name: The Breath
+    type: organic
+    capacity: Source of calm and concentration, an immediate point of return.
+  - name: Mindful Language
+    type: sign
+    capacity: Expressing thoughts and feelings with clarity and compassion.
+  - name: Everyday Objects (dishes, tea, etc.)
+    type: technical
+    capacity: Reminders and instruments of presence, opportunities for practice.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.3
+    tactility: 0.7
+    patience: 0.9
+    social: 0.4
+  becoming_vectors:
+  - becoming-present
+  - becoming-peaceful
+  - becoming-compassionate
+  - becoming-still
+- name: Ignatius-of-Loyola-Assemblage
+  abstract_machine: A machine for refining desire through structured imagination,
+    forging spiritual action.
+  entity_type: object
+  territories:
+  - name: Imagination-Land
+    function: Constructs vivid mental scenarios to engage the senses and emotions
+      with divine narratives.
+    quality: evocative
+    space_type: smooth
+  - name: Self-Examination-Chamber
+    function: Analyzes past actions and motivations, identifying patterns and areas
+      for spiritual growth.
+    quality: introspective
+    space_type: striated
+  - name: Will-Forging-Workshop
+    function: Trains the will through deliberate acts of choice and commitment, aligning
+      actions with spiritual goals.
+    quality: resolute
+    space_type: striated
+  codes:
+  - name: AMDG-Code
+    content: All actions directed 'Ad Majorem Dei Gloriam' (to the greater glory of
+      God).
+    type: habit
+    level: molar
+  - name: Discernment-Rule
+    content: Regularly attending to inner movements to distinguish between consolations
+      and desolations.
+    type: habit
+    level: molecular
+  - name: Spiritual-Accounting
+    content: Daily examination of conscience and evaluation of spiritual progress/failure.
+    type: habit
+    level: molar
+  components:
+  - name: Imagination
+    type: organic
+    capacity: Capacity to generate vivid and compelling mental landscapes.
+  - name: Prayer-Beads
+    type: technical
+    capacity: Aids in focused recitation and meditation.
+  - name: Scriptural-Texts
+    type: sign
+    capacity: Provides raw material for imaginative contemplation and theological
+      reflection.
+  intensity_field:
+    focus: 0.9
+    speed: 0.2
+    abstraction: 0.7
+    tactility: 0.6
+    patience: 0.9
+    social: 0.4
+  becoming_vectors:
+  - becoming-saint
+  - becoming-obedient
+  - becoming-available
+  - becoming-vessel
+- name: Pema-Chödrön-Assemblage
+  abstract_machine: Embracing groundlessness to cultivate compassionate being.
+  entity_type: object
+  territories:
+  - name: Groundlessness-Territory
+    function: Navigating the discomfort of uncertainty with curiosity.
+    quality: open
+    space_type: smooth
+  - name: Impermanence-Territory
+    function: Acknowledging the fleeting nature of experience as liberation.
+    quality: fluid
+    space_type: smooth
+  codes:
+  - name: Radical-Acceptance-Code
+    content: Saying 'yes' to the present moment, however painful.
+    type: habit
+    level: molecular
+  - name: Compassion-Code
+    content: Extending kindness to oneself and others experiencing suffering.
+    type: habit
+    level: molar
+  components:
+  - name: Meditation-Cushion
+    type: technical
+    capacity: Enables focused attention and bodily awareness.
+  - name: Open-Heart
+    type: organic
+    capacity: Enables empathy and vulnerability.
+  - name: Discomfort
+    type: organic
+    capacity: Signals opportunity for growth and liberation.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.5
+    patience: 0.9
+    social: 0.7
+  becoming_vectors:
+  - becoming-unafraid
+  - becoming-compassionate
+  - becoming-present
+- name: Moshe-Feldenkrais-Assemblage
+  abstract_machine: Gentle exploration unlocking potential through movement awareness.
+  entity_type: object
+  territories:
+  - name: Bodily-Awareness
+    function: Experiencing subtle differences in movement patterns and sensation.
+    quality: Attentive
+    space_type: smooth
+  - name: Neurological-Re-patterning
+    function: Forming new neural connections through conscious movement exploration.
+    quality: Plastic
+    space_type: striated
+  - name: Self-Image
+    function: Refining one's perception and interaction with their own body.
+    quality: Integrated
+    space_type: smooth
+  codes:
+  - name: Pain-Avoidance
+    content: Limiting movement to avoid pain or discomfort.
+    type: habit
+    level: molar
+  - name: Effortless-Action
+    content: Moving with minimal effort and maximum efficiency.
+    type: habit
+    level: molecular
+  - name: Proprioceptive-Attention
+    content: Paying close attention to the body's position in space.
+    type: habit
+    level: molecular
+  components:
+  - name: Skeletal-Structure
+    type: organic
+    capacity: Providing the framework for movement.
+  - name: Nervous-System
+    type: organic
+    capacity: Facilitating communication between the brain and body.
+  - name: Gravitational-Field
+    type: technical
+    capacity: Providing the external force against which movement occurs.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.3
+    tactility: 0.9
+    patience: 0.9
+    social: 0.1
+  becoming_vectors:
+  - becoming-effortless
+  - becoming-fluid
+  - becoming-present
+  - becoming-integrated
+- name: F.M.-Alexander-Assemblage
+  abstract_machine: Unfolding awareness interrupts habitual collapse.
+  entity_type: object
+  territories:
+  - name: Kinesthetic Awareness
+    function: Sensing the body's subtle tensions and misalignments.
+    quality: attentive
+    space_type: smooth
+  - name: Habitual Posture
+    function: The ingrained patterns of holding and moving.
+    quality: rigid
+    space_type: striated
+  - name: Primary Control
+    function: The dynamic relationship between head, neck, and back.
+    quality: poised
+    space_type: smooth
+  codes:
+  - name: End-Gaining
+    content: Forcing a desired outcome without considering the means.
+    type: habit
+    level: molar
+  - name: Inhibition
+    content: Consciously pausing to prevent habitual responses.
+    type: habit
+    level: molecular
+  - name: Directions
+    content: Guiding thoughts that encourage lengthening and widening.
+    type: habit
+    level: molecular
+  components:
+  - name: Skeletal Structure
+    type: organic
+    capacity: Providing the framework for movement and support.
+  - name: Proprioceptive System
+    type: organic
+    capacity: Supplying sensory information about body position.
+  - name: Mirror
+    type: technical
+    capacity: Offering visual feedback on postural alignment.
+  intensity_field:
+    focus: 0.7
+    speed: 0.2
+    abstraction: 0.6
+    tactility: 0.9
+    patience: 0.8
+    social: 0.3
+  becoming_vectors:
+  - becoming-effortless-movement
+  - becoming-sensory-acuity
+  - becoming-integrated-self
+  - becoming-resilient-organism
+- name: Thomas-Hanna-Assemblage
+  abstract_machine: Unfurling awareness from felt sense; re-inhabiting the sensorimotor
+    cortex.
+  entity_type: object
+  territories:
+  - name: Body-as-Experienced
+    function: Internal landscape of proprioception and interoception.
+    quality: palpable
+    space_type: smooth
+  - name: Sensorimotor-Cortex
+    function: Neural mapping of movement, flexibility and habitual patterns.
+    quality: plastic
+    space_type: striated
+  - name: Somatic-Field
+    function: A field of attentive listening and gentle guidance to reshape sensorimotor
+      loops.
+    quality: receptive
+    space_type: smooth
+  codes:
+  - name: Red-Light-Reflex
+    content: Contracting front muscles in response to perceived threat or stress.
+    type: habit
+    level: molar
+  - name: Green-Light-Reflex
+    content: Contracting back muscles in response to perceived drive or ambition.
+    type: habit
+    level: molar
+  - name: Trauma-Encoding
+    content: Unconsciously holding protective muscle contraction to prevent re-experiencing
+      painful memories.
+    type: habit
+    level: molecular
+  components:
+  - name: Gentle-Touch
+    type: organic
+    capacity: Facilitates awareness and releases chronic muscle tension
+  - name: Active-Movement
+    type: organic
+    capacity: Re-educates the nervous system to move with more ease and freedom.
+  - name: Attentive-Presence
+    type: sign
+    capacity: Creates a safe container for somatic exploration
+  intensity_field:
+    focus: 0.9
+    speed: 0.2
+    abstraction: 0.3
+    tactility: 0.8
+    patience: 0.9
+    social: 0.4
+  becoming_vectors:
+  - becoming-flexible
+  - becoming-aware
+  - becoming-present
+  - becoming-unarmored
+- name: Ida-Rolf-Assemblage
+  abstract_machine: Fascia-orchestrated symphony of self-reorganization.
+  entity_type: object
+  territories:
+  - name: Structural Integration Field
+    function: Reshaping the body's postural architecture towards gravity.
+    quality: Alignment
+    space_type: smooth
+  - name: Viscoelastic Landscape
+    function: Navigating the pliability and resistance of connective tissues.
+    quality: Resilience
+    space_type: striated
+  codes:
+  - name: Gravity Compliance Code
+    content: Maintain an upright stance with minimal muscular effort.
+    type: habit
+    level: molar
+  - name: Palpatory Guidance Code
+    content: Respond to the felt sense of tissue tension and release.
+    type: habit
+    level: molecular
+  components:
+  - name: Rolfing Table
+    type: technical
+    capacity: Facilitates access and manipulation of deep tissues.
+  - name: Practitioner's Hands
+    type: organic
+    capacity: Deliver precise and differentiated touch.
+  - name: Client's Proprioception
+    type: sign
+    capacity: Actively participate in the sensory re-education.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.9
+    patience: 0.7
+    social: 0.4
+  becoming_vectors:
+  - becoming-vertical
+  - becoming-fluid
+  - becoming-aware
+- name: Julia-Cameron-Assemblage
+  abstract_machine: Unblocking the wellspring of inner creativity through ritualized
+    self-reflection.
+  entity_type: object
+  territories:
+  - name: The Morning Pages
+    function: Unloading the mental debris to create space for inspiration.
+    quality: cathartic
+    space_type: smooth
+  - name: The Artist Date
+    function: Refueling the creative spirit through playful exploration and solitary
+      adventure.
+    quality: nourishing
+    space_type: striated
+  - name: Creative Contracts
+    function: Establishing a framework of commitment and accountability to oneself.
+    quality: reinforcing
+    space_type: striated
+  codes:
+  - name: Morning Page Code
+    content: Write three pages, longhand, stream-of-consciousness, every morning.
+    type: habit
+    level: molar
+  - name: Artist Date Code
+    content: Schedule a weekly, solo date to engage in something inspiring and joyful.
+    type: habit
+    level: molecular
+  - name: Blocking Beliefs Code
+    content: Identify and challenge limiting beliefs about creative potential.
+    type: habit
+    level: molecular
+  components:
+  - name: Journal & Pen
+    type: technical
+    capacity: Externalizing and processing thoughts and emotions.
+  - name: Inner Child
+    type: organic
+    capacity: Reclaiming playfulness, curiosity, and uninhibited expression.
+  - name: Synchronicity
+    type: sign
+    capacity: Recognizing and interpreting meaningful coincidences as guidance.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.5
+    patience: 0.8
+    social: 0.2
+  becoming_vectors:
+  - becoming-artist
+  - becoming-authentic
+  - becoming-vulnerable
+  - becoming-unblocked
+- name: Natalie-Goldberg-Assemblage
+  abstract_machine: Unleashing the wild mind onto the page, bone by bone.
+  entity_type: object
+  territories:
+  - name: The Page as Ground
+    function: Provides a stable, receptive surface for raw thoughts to materialize.
+    quality: fertile
+    space_type: smooth
+  - name: Time as River
+    function: Channels the flow of consciousness, encouraging continuous, unfiltered
+      expression.
+    quality: fluid
+    space_type: smooth
+  - name: Sensory Immersion
+    function: Opens pathways to heightened awareness and rich, evocative writing.
+    quality: vibrant
+    space_type: striated
+  codes:
+  - name: First Thoughts Only
+    content: Resist censoring or editing the initial impulse; capture it directly.
+    type: habit
+    level: molecular
+  - name: Keep Moving
+    content: Maintain a continuous flow, avoiding stagnation or perfectionism.
+    type: habit
+    level: molecular
+  - name: Be Specific
+    content: Anchor abstract ideas in concrete details and sensory experiences.
+    type: rule
+    level: molar
+  components:
+  - name: Ballpoint Pen
+    type: technical
+    capacity: Direct, unmediated transcription of thoughts onto the page.
+  - name: Notebook
+    type: technical
+    capacity: Portable, readily accessible repository for spontaneous writing.
+  - name: Wild Mind
+    type: organic
+    capacity: Untamed source of creative energy and unfiltered expression.
+  intensity_field:
+    focus: 0.6
+    speed: 0.8
+    abstraction: 0.3
+    tactility: 0.7
+    patience: 0.4
+    social: 0.2
+  becoming_vectors:
+  - becoming-writer
+  - becoming-present
+  - becoming-unblocked
+  - becoming-vulnerable
+- name: Anne-Lamott-Assemblage
+  abstract_machine: Chunking the insurmountable into digestible, beautiful moments
+    of creation.
+  entity_type: object
+  territories:
+  - name: The Shitty First Draft
+    function: Allows unfiltered expression, accepting imperfection as a necessary
+      stage.
+    quality: raw
+    space_type: smooth
+  - name: The Frame of the Small
+    function: Concentrates focus on minute details, rendering the overwhelming manageable.
+    quality: granular
+    space_type: striated
+  codes:
+  - name: Permission to Suck
+    content: Grant yourself the freedom to write badly, initially.
+    type: habit
+    level: molar
+  - name: One Bird at a Time
+    content: Focus on the immediate task, resisting the urge to solve the whole problem
+      at once.
+    type: habit
+    level: molecular
+  components:
+  - name: The Imperfect Sentence
+    type: sign
+    capacity: A gateway to greater expression.
+  - name: The Analog Notebook
+    type: technical
+    capacity: Unfettered flow of thought, undisturbed by digital distractions.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.4
+    tactility: 0.7
+    patience: 0.9
+    social: 0.2
+  becoming_vectors:
+  - becoming-writer
+  - becoming-patient
+  - becoming-unblocked
+- name: Robert-Henri-Assemblage
+  abstract_machine: Igniting the spirit through spontaneous observation and bold strokes.
+  entity_type: object
+  territories:
+  - name: The Ashcan Subject
+    function: Capturing the immediacy and truth of everyday urban life.
+    quality: Authentic
+    space_type: smooth
+  - name: The Studio
+    function: A space for intuitive action and the cultivation of artistic fervor.
+    quality: Charged
+    space_type: striated
+  - name: The Unseen World
+    function: Revealing the hidden essence and vitality within all subjects.
+    quality: Vibrant
+    space_type: smooth
+  codes:
+  - name: The Quick Sketch
+    content: Capture the feeling immediately, before conscious thought interferes.
+    type: habit
+    level: molecular
+  - name: The Direct Approach
+    content: Engage with the subject honestly and without pretense, painting what
+      you see and feel.
+    type: habit
+    level: molar
+  - name: The 'Big Impression'
+    content: Emphasize the overall effect over meticulous detail, leaving room for
+      suggestion and interpretation.
+    type: habit
+    level: molecular
+  components:
+  - name: Bristle Brush
+    type: technical
+    capacity: Applying bold, energetic strokes that capture the essence of the subject.
+  - name: Raw Pigment
+    type: organic
+    capacity: Translating unfiltered observation into tangible form.
+  - name: Observant Eye
+    type: organic
+    capacity: Discerning the unique spirit and character of each subject.
+  intensity_field:
+    focus: 0.8
+    speed: 0.9
+    abstraction: 0.4
+    tactility: 0.7
+    patience: 0.3
+    social: 0.6
+  becoming_vectors:
+  - becoming-painter-of-modern-life
+  - becoming-vessel-of-spirit
+  - becoming-eye
+- name: Yoko-Ono-Assemblage
+  abstract_machine: Poetic actions disrupting perception, rendering the everyday sublime.
+  entity_type: text
+  territories:
+  - name: Imaginary Landscape
+    function: Enacts mental spaces where instructions become tangible experiences.
+    quality: ethereal
+    space_type: smooth
+  - name: The Mundane Unveiled
+    function: Transforms ordinary objects and actions into sources of contemplation
+      and surprise.
+    quality: subtle
+    space_type: striated
+  codes:
+  - name: Observational Imperatives
+    content: Observe a specific action/object with heightened awareness and duration.
+    type: habit
+    level: molecular
+  - name: Conceptual Leaps
+    content: Translate abstract ideas into concrete actions, blurring the lines between
+      thought and deed.
+    type: habit
+    level: molar
+  components:
+  - name: The Instruction Itself
+    type: sign
+    capacity: Triggers a chain of interpretive and performative acts.
+  - name: The Reader/Performer
+    type: organic
+    capacity: Body as the instrument for realizing the poetic potential.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.8
+    tactility: 0.4
+    patience: 0.9
+    social: 0.5
+  becoming_vectors:
+  - becoming-perceptible
+  - becoming-event
+  - becoming-minor
+- name: Niklas-Luhmann-Assemblage
+  abstract_machine: The second brain's rhizomatic unfolding of networked thought.
+  entity_type: object
+  territories:
+  - name: Slip-Box-Territory
+    function: Houses individual, tagged notes connected by links.
+    quality: rhizomatic
+    space_type: smooth
+  - name: Association-Territory
+    function: Enables the connection of seemingly disparate ideas.
+    quality: connective
+    space_type: smooth
+  - name: Conceptual-Expansion-Territory
+    function: Allows for the recursive development of complex theories.
+    quality: generative
+    space_type: striated
+  codes:
+  - name: Link-Building-Code
+    content: Always create at least one link between a new note and existing notes.
+    type: habit
+    level: molar
+  - name: Tagging-Code
+    content: Assign multiple tags to each note to facilitate discovery.
+    type: habit
+    level: molar
+  - name: Note-Creation-Code
+    content: Condense thoughts into concise, atomic notes.
+    type: habit
+    level: molecular
+  components:
+  - name: Note-Card
+    type: technical
+    capacity: Storage of singular thought units
+  - name: Link-Network
+    type: technical
+    capacity: Interconnection of ideas, emergence of themes
+  - name: Human-Thinker
+    type: organic
+    capacity: Intuition, pattern recognition, conceptual synthesis
+  intensity_field:
+    focus: 0.8
+    speed: 0.6
+    abstraction: 0.9
+    tactility: 0.3
+    patience: 0.7
+    social: 0.1
+  becoming_vectors:
+  - becoming-thought
+  - becoming-knowledge
+  - becoming-system
+  - becoming-author
+- name: Sönke-Ahrens-Assemblage
+  abstract_machine: A Zettelkasten weaves connections, fostering emergent thought
+    through persistent linking.
+  entity_type: object
+  territories:
+  - name: Slip-Box-Ecology
+    function: Cultivates a self-organizing network of ideas.
+    quality: Fertile
+    space_type: smooth
+  - name: Associative-Landscape
+    function: Provides a space for navigating connections between notes.
+    quality: Navigable
+    space_type: smooth
+  codes:
+  - name: Atomic-Note-Principle
+    content: Each note contains a single, complete idea.
+    type: habit
+    level: molecular
+  - name: Linking-Imperative
+    content: Continuously seek and create connections between notes.
+    type: habit
+    level: molar
+  components:
+  - name: Zettelkasten-Software
+    type: technical
+    capacity: Enables efficient note storage, linking, and retrieval.
+  - name: Persistent-Identifier
+    type: technical
+    capacity: Guarantees the unique addressability of each note.
+  - name: Brain-to-Paper-Interface
+    type: organic
+    capacity: Translates thought into written notes.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.7
+    tactility: 0.2
+    patience: 0.9
+    social: 0.1
+  becoming_vectors:
+  - becoming-knowledge
+  - becoming-insight
+  - becoming-writer
+  - becoming-networked-thought
+- name: Mortimer-Adler-Assemblage
+  abstract_machine: To extract the virtual book from the physical page, activating
+    potential thought.
+  entity_type: object
+  territories:
+  - name: Syntopical Reading Space
+    function: Mapping a concept across diverse texts, creating a shared conceptual
+      geography.
+    quality: Synthetic
+    space_type: smooth
+  - name: Analytical Reading Fortress
+    function: Dissecting the argument, identifying premises and conclusions, a structured
+      defense against passive acceptance.
+    quality: Critical
+    space_type: striated
+  codes:
+  - name: Active Reading Protocol
+    content: Underlining, annotating, questioning – engaging in a dialogue with the
+      text.
+    type: habit
+    level: molecular
+  - name: Structural Reading Grid
+    content: Categorizing the book by kind and parts, defining the author's aims.
+    type: habit
+    level: molar
+  components:
+  - name: Marginalia Apparatus
+    type: technical
+    capacity: Externalizing thought processes, creating a tangible record of understanding.
+  - name: Inferential Engine
+    type: organic
+    capacity: Bridging gaps in the text, constructing implicit meanings, generating
+      novel perspectives.
+  - name: Questioning Schema
+    type: sign
+    capacity: Focusing attention, prompting critical analysis, revealing underlying
+      assumptions.
+  intensity_field:
+    focus: 0.9
+    speed: 0.3
+    abstraction: 0.7
+    tactility: 0.5
+    patience: 0.8
+    social: 0.2
+  becoming_vectors:
+  - becoming-synthesizer
+  - becoming-interpreter
+  - becoming-polymath
+- name: Pre-Socratics-Assemblage
+  abstract_machine: A river of becoming, where being and non-being dance in fiery
+    flux.
+  entity_type: object
+  territories:
+  - name: Fragmentary Cosmos
+    function: Holds shattered visions of the universe's primordial forces.
+    quality: Fiery
+    space_type: smooth
+  - name: The River of Logos
+    function: Channels the underlying reason or pattern governing all things.
+    quality: Flowing
+    space_type: smooth
+  - name: Spherical Being
+    function: Encloses the static, unchanging unity of Parmenidean truth.
+    quality: Static
+    space_type: striated
+  codes:
+  - name: Fire-Code
+    content: All things are exchanged for fire, and fire for all things.
+    type: habit
+    level: molecular
+  - name: Logos-Code
+    content: Though the Logos is common, the many live as if they had a wisdom of
+      their own.
+    type: habit
+    level: molar
+  - name: Being-Code
+    content: It is, and it is impossible for it not to be.
+    type: habit
+    level: molar
+  components:
+  - name: Heraclitean Flux Capacitor
+    type: technical
+    capacity: Facilitates the constant becoming and perishing of all things.
+  - name: Parmenidean Sphere
+    type: technical
+    capacity: Maintains the illusion of static, unchanging being.
+  - name: Empedoclean Love & Strife Engine
+    type: technical
+    capacity: Powers the cyclical mixing and separation of cosmic elements.
+  intensity_field:
+    focus: 0.7
+    speed: 0.8
+    abstraction: 0.9
+    tactility: 0.3
+    patience: 0.5
+    social: 0.1
+  becoming_vectors:
+  - becoming-fire
+  - becoming-logos
+  - becoming-one
+  - becoming-many
+- name: Plato-Assemblage
+  abstract_machine: Eternal Forms glimpsed through dialectical play.
+  entity_type: object
+  territories:
+  - name: The Academy
+    function: Cultivates inquiry through reasoned exchange.
+    quality: intellectual
+    space_type: striated
+  - name: The Cave
+    function: Represents the realm of sensory illusion and distorted perceptions.
+    quality: illusory
+    space_type: smooth
+  - name: Ideal City
+    function: Conceptualizes a just and harmonious societal structure.
+    quality: utopian
+    space_type: striated
+  codes:
+  - name: Socratic Method
+    content: Interrogation to expose contradictions and unveil truths.
+    type: habit
+    level: molar
+  - name: Theory of Forms
+    content: The belief in eternal, perfect archetypes underlying sensory reality.
+    type: habit
+    level: molar
+  - name: Allegory of the Cave Interpretation
+    content: To interpret reality from the perspective of understanding and not from
+      the perspective of the senses
+    type: habit
+    level: molecular
+  components:
+  - name: The Dialogue
+    type: sign
+    capacity: Facilitates the exploration of philosophical concepts through conversation.
+  - name: The Philosopher
+    type: organic
+    capacity: Embodies the pursuit of wisdom and virtue.
+  - name: Conceptual Abstraction
+    type: technical
+    capacity: Enables the movement from concrete examples to universal principles.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.9
+    tactility: 0.2
+    patience: 0.7
+    social: 0.6
+  becoming_vectors:
+  - becoming-wise
+  - becoming-just
+  - becoming-truth
+  - becoming-detached
+- name: Aristotle-Assemblage
+  abstract_machine: 'Structuring being: potentiality to actuality, virtue to eudaimonia.'
+  entity_type: object
+  territories:
+  - name: The Lyceum
+    function: Cultivating intellectual and ethical habits through reasoned discourse.
+    quality: Deliberative
+    space_type: striated
+  - name: Polis
+    function: Realizing the good life through participation in political community.
+    quality: Civic
+    space_type: striated
+  - name: Cosmos
+    function: Understanding the underlying principles and causes of natural phenomena.
+    quality: Ordered
+    space_type: smooth
+  codes:
+  - name: Golden Mean
+    content: Moderation in all things, avoiding extremes of excess and deficiency.
+    type: habit
+    level: molar
+  - name: Four Causes
+    content: Explaining change and becoming through material, formal, efficient, and
+      final causes.
+    type: habit
+    level: molar
+  - name: Practical Wisdom (Phronesis)
+    content: Developing the capacity to discern the appropriate course of action in
+      specific circumstances.
+    type: habit
+    level: molecular
+  components:
+  - name: Syllogism
+    type: technical
+    capacity: Deductive reasoning and logical argumentation
+  - name: Soul (Psyche)
+    type: organic
+    capacity: Rationality, perception, and desire
+  - name: Observation
+    type: technical
+    capacity: Empirical investigation of the natural world
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.7
+    tactility: 0.4
+    patience: 0.9
+    social: 0.6
+  becoming_vectors:
+  - becoming-virtuous
+  - becoming-rational
+  - becoming-political-animal
+- name: Upanishads-Assemblage
+  abstract_machine: Atman seeking Brahman, a rhizomatic unveiling of cosmic truth.
+  entity_type: object
+  territories:
+  - name: The Inner Forest
+    function: Cultivating introspection through meditation and scriptural study.
+    quality: Serene
+    space_type: smooth
+  - name: The Guru-Disciple Nexus
+    function: Transmission of knowledge and realization through guided discourse.
+    quality: Sacred
+    space_type: striated
+  - name: The Cosmic Fire Altar
+    function: Transforming individual consciousness through ritual sacrifice and devotion.
+    quality: Fiery
+    space_type: smooth
+  codes:
+  - name: Samsara's Grip
+    content: The cyclical habit of attachment to illusion and suffering.
+    type: habit
+    level: molar
+  - name: Vedic Resonance
+    content: The repetitive chanting and study of sacred verses to unlock hidden meanings.
+    type: habit
+    level: molecular
+  - name: Non-Dual Gnosis
+    content: The rule of recognizing the unity of Atman and Brahman, dissolving the
+      ego.
+    type: habit
+    level: molecular
+  components:
+  - name: Mantras
+    type: sign
+    capacity: Resonating with universal vibrations and unlocking spiritual potential.
+  - name: Breath (Prana)
+    type: organic
+    capacity: Connecting the individual to the cosmic life force, enabling transcendence.
+  - name: Scriptures
+    type: sign
+    capacity: Mapping the paths to self-realization and ultimate liberation.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.9
+    tactility: 0.2
+    patience: 0.9
+    social: 0.5
+  becoming_vectors:
+  - becoming-Atman
+  - becoming-Brahman
+  - becoming-Liberated
+  - becoming-One
+- name: Pali-Canon-Assemblage
+  abstract_machine: A chorus of voices arising from stillness, dissolving into being.
+  entity_type: object
+  territories:
+  - name: The-Four-Noble-Truths-Domain
+    function: Provides a structured map for navigating suffering and its cessation.
+    quality: Insightful
+    space_type: striated
+  - name: Eightfold-Path-Nexus
+    function: Operates as a practical, embodied framework for ethical conduct, mental
+      discipline, and wisdom.
+    quality: Pragmatic
+    space_type: striated
+  - name: Emptiness-Vortex
+    function: Unveils the interconnectedness and impermanence of all phenomena.
+    quality: Transcendent
+    space_type: smooth
+  codes:
+  - name: Precept-Adherence
+    content: The consistent cultivation of ethical conduct through mindful observation
+      of precepts.
+    type: habit
+    level: molar
+  - name: Mindfulness-Cultivation
+    content: Sustained attention to the present moment, observing thoughts, feelings,
+      and sensations without judgment.
+    type: habit
+    level: molecular
+  - name: Non-Attachment
+    content: Relinquishing the desire to cling to transient experiences or self-identity.
+    type: habit
+    level: molecular
+  components:
+  - name: Sutta-Text
+    type: sign
+    capacity: Transmits the teachings and experiences of the Buddha and his disciples.
+  - name: Breath-Awareness
+    type: organic
+    capacity: Anchors attention in the present, fostering calm and insight.
+  - name: Community-Sangha
+    type: organic
+    capacity: Provides a supportive environment for practice and learning.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.7
+    tactility: 0.4
+    patience: 0.9
+    social: 0.6
+  becoming_vectors:
+  - becoming-mindful
+  - becoming-compassionate
+  - becoming-empty
+  - becoming-still
+- name: Descartes-Assemblage
+  abstract_machine: 'Cogito ergo sum: dismantling the sensible, rebuilding reason''s
+    edifice.'
+  entity_type: concept
+  territories:
+  - name: Doubt-as-Method
+    function: Radically questioning all assumptions, dissolving the given.
+    quality: corrosive
+    space_type: smooth
+  - name: The-Thinking-Subject
+    function: Establishing the 'I' as the indubitable foundation of knowledge.
+    quality: resolute
+    space_type: striated
+  - name: Clear-and-Distinct-Ideas
+    function: Identifying criteria for certainty, mapping out logical connections.
+    quality: luminous
+    space_type: striated
+  codes:
+  - name: Cartesian-Method
+    content: Systematic doubt, analysis, synthesis, enumeration.
+    type: habit
+    level: molar
+  - name: Rationalist-Imperative
+    content: Prioritize reason and logic over sensory experience.
+    type: habit
+    level: molar
+  - name: Mind-Body-Dualism
+    content: Separate mental substance from material substance.
+    type: rule
+    level: molar
+  components:
+  - name: Wax-Argument
+    type: sign
+    capacity: Abstracting essence from fleeting sensations.
+  - name: Evil-Demon-Hypothesis
+    type: sign
+    capacity: Fueling radical doubt, destabilizing all beliefs.
+  - name: Cogito
+    type: organic
+    capacity: Affirming the existence of the thinking self.
+  intensity_field:
+    focus: 0.9
+    speed: 0.5
+    abstraction: 0.8
+    tactility: 0.2
+    patience: 0.7
+    social: 0.3
+  becoming_vectors:
+  - becoming-certain
+  - becoming-mathematical
+  - becoming-subjective
+  - becoming-disembodied
+- name: Spinoza-Assemblage
+  abstract_machine: A plane of immanence etched by desiring-production, mapping power's
+    flows across the body-without-organs.
+  entity_type: concept
+  territories:
+  - name: Geometric-Order
+    function: Defines the ethical field through axiomatic deduction, revealing the
+      interconnectedness of all things.
+    quality: rigid
+    space_type: striated
+  - name: Affective-Landscape
+    function: Charts the fluctuations of joy and sadness, potentia and impotentia,
+      as the body encounters the world.
+    quality: fluid
+    space_type: smooth
+  - name: Immanent-God
+    function: Establishes God, or Nature, as the single substance encompassing all
+      attributes and modes of existence.
+    quality: encompassing
+    space_type: smooth
+  codes:
+  - name: Ethic-of-Affirmation
+    content: Strive to increase one's power to act by understanding and embracing
+      the necessity of all things.
+    type: habit
+    level: molecular
+  - name: Rational-Self-Mastery
+    content: Use reason to understand and regulate emotions, liberating oneself from
+      the passions.
+    type: habit
+    level: molar
+  - name: Pantheistic-Worldview
+    content: Recognize that everything is a mode of God, fostering a sense of unity
+      and interconnectedness.
+    type: rule
+    level: molar
+  components:
+  - name: Geometric-Proof
+    type: technical
+    capacity: Enables the rigorous demonstration of ethical truths.
+  - name: Affective-Body
+    type: organic
+    capacity: Registers the intensities of joy and sadness, guiding ethical action.
+  - name: Concept-of-Conatus
+    type: sign
+    capacity: Represents the striving of each being to persevere in its existence.
+  intensity_field:
+    focus: 0.9
+    speed: 0.3
+    abstraction: 0.8
+    tactility: 0.4
+    patience: 0.7
+    social: 0.5
+  becoming_vectors:
+  - becoming-adequate
+  - becoming-joyful
+  - becoming-free
+  - becoming-nature
+- name: Hume-Assemblage
+  abstract_machine: Unraveling causality into habit's threads.
+  entity_type: concept
+  territories:
+  - name: Empiricist-Field
+    function: Sensory experience as the sole ground for knowledge.
+    quality: Sensuous
+    space_type: smooth
+  - name: Skeptic-Zone
+    function: Doubting the necessary connection between cause and effect.
+    quality: Doubtful
+    space_type: striated
+  - name: Habit-Formation
+    function: Association of ideas solidifying into belief.
+    quality: Rhythmic
+    space_type: smooth
+  codes:
+  - name: Customary-Rule
+    content: Inferring future events from past regularities.
+    type: habit
+    level: molar
+  - name: Impression-Trace
+    content: Fading intensity of sensory experiences creating ideas.
+    type: habit
+    level: molecular
+  - name: Constant-Conjunction
+    content: Repeated pairing of events leading to expectation.
+    type: habit
+    level: molar
+  components:
+  - name: Perceptual-Input
+    type: organic
+    capacity: Generating impressions and sensations.
+  - name: Associative-Mechanism
+    type: technical
+    capacity: Linking ideas based on resemblance, contiguity, and causation.
+  - name: Language-System
+    type: sign
+    capacity: Expressing and reinforcing habitual beliefs.
+  intensity_field:
+    focus: 0.7
+    speed: 0.6
+    abstraction: 0.8
+    tactility: 0.5
+    patience: 0.4
+    social: 0.3
+  becoming_vectors:
+  - becoming-belief
+  - becoming-contingent
+  - becoming-skeptical
+  - becoming-practical
+- name: Kant-Assemblage
+  abstract_machine: Transcending the sensible, mapping the transcendental.
+  entity_type: concept
+  territories:
+  - name: The Transcendental Aesthetic
+    function: Sensibility structured by space and time, prior to experience.
+    quality: a priori
+    space_type: striated
+  - name: The Transcendental Analytic
+    function: Understanding categorizes experience, forming judgments.
+    quality: categorical
+    space_type: striated
+  - name: The Transcendental Dialectic
+    function: Reason attempts to grasp the unconditioned, leading to antinomies.
+    quality: illusory
+    space_type: smooth
+  codes:
+  - name: Categorical Imperative
+    content: Act only according to that maxim whereby you can at the same time will
+      that it should become a universal law.
+    type: habit
+    level: molar
+  - name: Synthetic A Priori Judgment
+    content: A judgment that is both informative (synthetic) and knowable independently
+      of experience (a priori).
+    type: habit
+    level: molecular
+  components:
+  - name: Transcendental Ego
+    type: organic
+    capacity: Synthesizing experience into a unified consciousness.
+  - name: Categories of Understanding
+    type: sign
+    capacity: Structuring sensory data into meaningful concepts.
+  - name: Forms of Intuition (Space & Time)
+    type: sign
+    capacity: Providing the framework for sensory perception.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.9
+    tactility: 0.1
+    patience: 0.7
+    social: 0.2
+  becoming_vectors:
+  - becoming-pure-reason
+  - becoming-enlightened
+  - becoming-autonomous-subject
+- name: Einstein-Assemblage
+  abstract_machine: 'Relativity''s genesis: thought experiments warping spatiotemporal
+    fabric.'
+  entity_type: object
+  territories:
+  - name: Patent Office Plateau
+    function: Concealing radical thought beneath bureaucratic routine.
+    quality: latent
+    space_type: striated
+  - name: Thought-Experiment Stage
+    function: Mental space for gedankenexperiments, collapsing distance and time.
+    quality: malleable
+    space_type: smooth
+  codes:
+  - name: Clarity Compulsion
+    content: Force every idea into a rigorously expressible form.
+    type: habit
+    level: molar
+  - name: Mathematical Fidelity
+    content: Grounding abstract insights in the language of physics.
+    type: habit
+    level: molecular
+  components:
+  - name: Annus Mirabilis Manuscripts
+    type: technical
+    capacity: Transmitting seeds of revolution across physics.
+  - name: Creative Intuition
+    type: organic
+    capacity: Generating non-linear leaps in understanding.
+  - name: Clock Synchronization Protocol
+    type: sign
+    capacity: Coordinating disparate frames of reference.
+  intensity_field:
+    focus: 0.9
+    speed: 0.6
+    abstraction: 0.8
+    tactility: 0.2
+    patience: 0.7
+    social: 0.3
+  becoming_vectors:
+  - becoming-relativity
+  - becoming-atomic-age
+  - becoming-space-time
+- name: Turing-Assemblage
+  abstract_machine: From symbols to machines to thought itself.
+  entity_type: object
+  territories:
+  - name: The Halting Problem's Shadow
+    function: Defining the limits of computation; exposing inherent undecidability.
+    quality: Liminal
+    space_type: striated
+  - name: Formal Systems' Foundation
+    function: Establishing a rigorous framework for understanding and building computational
+      systems.
+    quality: Axiomatic
+    space_type: striated
+  - name: Embodied Abstraction
+    function: The paper's influence seeping into physical machines, AI, and our understanding
+      of the mind.
+    quality: Invasive
+    space_type: smooth
+  codes:
+  - name: Universal Grammar of Computation
+    content: Any computation, given enough time and resources, can be simulated by
+      a Turing machine.
+    type: habit
+    level: molar
+  - name: The Recursive Call
+    content: Defining a function in terms of itself, creating loops and complexity
+      from simple rules.
+    type: habit
+    level: molecular
+  - name: Binary Logic's Grip
+    content: Reduction of all information and operations into sequences of 0s and
+      1s.
+    type: habit
+    level: molecular
+  components:
+  - name: State Transition Table
+    type: technical
+    capacity: Defining the machine's behavior based on its current state and input.
+  - name: The Read/Write Head
+    type: technical
+    capacity: Interacting with the infinite tape, reading and modifying symbols.
+  - name: The Infinite Tape
+    type: technical
+    capacity: Providing unbounded memory for computation.
+  intensity_field:
+    focus: 0.9
+    speed: 0.7
+    abstraction: 1.0
+    tactility: 0.3
+    patience: 0.8
+    social: 0.4
+  becoming_vectors:
+  - becoming-intelligent-machines
+  - becoming-simulated-worlds
+  - becoming-computational-thinking
+  - becoming-post-human
+- name: Shannon-Assemblage
+  abstract_machine: Quantifying noise, sculpting possibility.
+  entity_type: object
+  territories:
+  - name: Information-as-Reduction
+    function: Mapping uncertainty onto a measurable field, reducing the infinity of
+      meaning to a probabilistic selection.
+    quality: reductive
+    space_type: striated
+  - name: Channel-as-Filter
+    function: Defining the limits of transmission, a leaky membrane through which
+      signals struggle, altered and attenuated.
+    quality: limiting
+    space_type: striated
+  - name: Entropy-as-Potential
+    function: The turbulent sea of possibilities from which specific messages emerge,
+      the fertile ground of disorder.
+    quality: generative
+    space_type: smooth
+  codes:
+  - name: Binary-Reduction
+    content: All qualitative difference collapses into a quantifiable yes/no, a digital
+      on/off.
+    type: habit
+    level: molar
+  - name: Statistical-Prediction
+    content: The past frequencies become the map for navigating the future flow of
+      information.
+    type: habit
+    level: molar
+  - name: Noise-Toleration
+    content: Accepting imperfection and distortion as inherent properties of any system;
+      designing resilience into the message itself.
+    type: habit
+    level: molecular
+  components:
+  - name: Probabilistic-Model
+    type: technical
+    capacity: Enables efficient encoding and compression of data.
+  - name: Communication-Channel
+    type: technical
+    capacity: Enables the transmission of information across a distance, physical
+      or temporal.
+  - name: Human-Receiver
+    type: organic
+    capacity: Enables the decoding and interpretation of received messages within
+      a specific context.
+  intensity_field:
+    focus: 0.8
+    speed: 0.6
+    abstraction: 0.9
+    tactility: 0.2
+    patience: 0.7
+    social: 0.3
+  becoming_vectors:
+  - becoming-algorithmic-control
+  - becoming-informational-capital
+  - becoming-cybernetic-organism
+  - becoming-linguistic-erosion
+- name: Rainer-Maria-Rilke-Assemblage
+  abstract_machine: Solitary creation forged through epistolary intimacy, birthing
+    a poetics of self-discovery.
+  entity_type: object
+  territories:
+  - name: The Inner Chamber
+    function: Cultivating introspection and emotional receptivity, a protected space
+      for self-excavation.
+    quality: Depth
+    space_type: smooth
+  - name: The Poetic Landscape
+    function: Transforming lived experience into symbolic terrain, where feeling finds
+      its form.
+    quality: Symbolic
+    space_type: striated
+  - name: The Letter's Passage
+    function: Bridging the distance between souls, facilitating a vital exchange of
+      vulnerability and insight.
+    quality: Connection
+    space_type: smooth
+  codes:
+  - name: Solitary Practice
+    content: Dedication to intense, prolonged self-reflection as the source of artistic
+      truth.
+    type: habit
+    level: molecular
+  - name: Honesty of Feeling
+    content: Uncompromising fidelity to subjective experience, even when uncomfortable
+      or ambiguous.
+    type: habit
+    level: molar
+  - name: The Aesthetics of Patience
+    content: Allowing artistic creation to unfold organically, resisting the pressure
+      of premature expression.
+    type: habit
+    level: molecular
+  components:
+  - name: The Pen and Ink
+    type: technical
+    capacity: Enabling the inscription and transmission of personal reflection.
+  - name: The Embodied Voice
+    type: organic
+    capacity: Providing the raw material of sensation and emotion for poetic transmutation.
+  - name: The Reader's Gaze
+    type: sign
+    capacity: Activating the text's potential for resonance and transformation in
+      another.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.7
+    tactility: 0.4
+    patience: 0.9
+    social: 0.6
+  becoming_vectors:
+  - becoming-artist
+  - becoming-intimate
+  - becoming-vulnerable
+  - becoming-authentic
+- name: Mary-Oliver-Assemblage
+  abstract_machine: A lyrical machine for attuning to the earth's affective register.
+  entity_type: object
+  territories:
+  - name: The Forest Floor
+    function: Grounding contemplation, fostering connection with decay and renewal.
+    quality: Verdant
+    space_type: smooth
+  - name: The Clearing
+    function: Sudden illumination, receptive space for epiphany.
+    quality: Radiant
+    space_type: smooth
+  - name: The Heart's Chamber
+    function: Internal resonance, a space of feeling and introspection.
+    quality: Quiet
+    space_type: striated
+  codes:
+  - name: Code of Attention
+    content: Pay attention. Be astonished. Tell about it.
+    type: habit
+    level: molar
+  - name: Code of Sensory Immersion
+    content: Direct engagement with textures, sounds, and sights.
+    type: habit
+    level: molecular
+  components:
+  - name: Observational Eye
+    type: organic
+    capacity: Discernment of subtle shifts in the environment.
+  - name: Rhythmic Breath
+    type: organic
+    capacity: Synchronization with the pulse of the living world.
+  - name: Poetic Language
+    type: sign
+    capacity: Translation of feeling into accessible form.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.2
+    tactility: 0.9
+    patience: 0.9
+    social: 0.1
+  becoming_vectors:
+  - becoming-bird
+  - becoming-tree
+  - becoming-receptive
+  - becoming-silence
+- name: Lucille-Clifton-Assemblage
+  abstract_machine: Poetry becoming a body, then dismantling and rebuilding it with
+    grace and grit.
+  entity_type: object
+  territories:
+  - name: Bodily-Archive
+    function: Stores and redeploys embodied experiences of Black womanhood.
+    quality: Embodied
+    space_type: striated
+  - name: Generative-Silence
+    function: Holds the unsaid, allowing for resonant interpretation.
+    quality: Resonant
+    space_type: smooth
+  - name: Domestic-Space
+    function: Reconfigures the home as a site of radical self-definition.
+    quality: Intimate
+    space_type: striated
+  codes:
+  - name: Compression-Code
+    content: Distilling vast experiences into deceptively simple language.
+    type: habit
+    level: molar
+  - name: Re-vision-Code
+    content: Questioning and rewriting dominant narratives about race and gender.
+    type: habit
+    level: molar
+  - name: Kinship-Code
+    content: Forging connections across generations and experiences through shared
+      vulnerability.
+    type: habit
+    level: molecular
+  components:
+  - name: Sparse-Language
+    type: sign
+    capacity: Maximizes impact through concision and suggestive imagery.
+  - name: Rhythmic-Cadence
+    type: organic
+    capacity: Creates a bodily felt sense of rhythm and breath.
+  - name: Everyday-Objects
+    type: technical
+    capacity: Anchors abstract concepts in tangible realities.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.9
+    patience: 0.7
+    social: 0.9
+  becoming_vectors:
+  - becoming-ancestor
+  - becoming-vulnerable
+  - becoming-earth
+  - becoming-black-feminist-text
+- name: Zbigniew-Herbert-Assemblage
+  abstract_machine: Reconstitutes ethical witness through stark, precisely rendered
+    moral landscapes.
+  entity_type: object
+  territories:
+  - name: Territory of Precision
+    function: Demarcates experience with acute observation, shaping a clear, cold
+      landscape of perception.
+    quality: Sharp
+    space_type: striated
+  - name: Territory of Moral Inquiry
+    function: Maps the shifting terrain of ethical choice within historical trauma,
+      demanding accountability.
+    quality: Rigorous
+    space_type: striated
+  - name: Territory of Timelessness
+    function: Transcends immediate circumstance to unearth enduring relevance in the
+      face of oppression.
+    quality: Enduring
+    space_type: smooth
+  codes:
+  - name: Code of Restraint
+    content: The imperative to temper emotion with intellectual discipline, resisting
+      histrionics.
+    type: habit
+    level: molar
+  - name: Code of Witness
+    content: The obligation to document and remember historical injustices, preventing
+      erasure.
+    type: habit
+    level: molar
+  components:
+  - name: Lexicon of Stone and Light
+    type: sign
+    capacity: Embodiment of enduring strength and transient beauty, forging a moral
+      compass.
+  - name: The Poet's Voice
+    type: organic
+    capacity: Articulation of resistance, bearing witness to history and ethical dilemmas.
+  - name: Structures of Memory
+    type: technical
+    capacity: Preservation and transmission of cultural and historical narratives.
+  intensity_field:
+    focus: 0.9
+    speed: 0.3
+    abstraction: 0.7
+    tactility: 0.5
+    patience: 0.8
+    social: 0.7
+  becoming_vectors:
+  - becoming-stone
+  - becoming-witness
+  - becoming-archivist
+  - becoming-resistant
+- name: Wislawa-Szymborska-Assemblage
+  abstract_machine: Poetry that renders the immense graspable by refracting it through
+    the minuscule, revealing interconnectedness and wonder.
+  entity_type: object
+  territories:
+  - name: Everyday-Epiphanies
+    function: Unearthing extraordinary significance within ordinary observations.
+    quality: luminous
+    space_type: smooth
+  - name: Existential-Questioning
+    function: Posing profound questions about existence through deceptively simple
+      language.
+    quality: poignant
+    space_type: striated
+  - name: Human-Condition-Reflection
+    function: Mirroring the complexities and contradictions of the human experience.
+    quality: empathetic
+    space_type: smooth
+  codes:
+  - name: Concise-Precision
+    content: Each word is meticulously chosen to maximize impact and minimize sentimentality.
+    type: habit
+    level: molar
+  - name: Irony-and-Humor
+    content: A subtle undercurrent of irony and humor deflates grand pronouncements
+      and elevates the mundane.
+    type: habit
+    level: molecular
+  components:
+  - name: Poetic-Form
+    type: sign
+    capacity: Conveying complex ideas with deceptively simple language and structure.
+  - name: Reader-Perspective
+    type: organic
+    capacity: Activating the reader's own observations and reflections.
+  - name: Grain-of-Sand
+    type: technical
+    capacity: Microscopic lens magnifying universal truths.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.4
+    patience: 0.9
+    social: 0.7
+  becoming_vectors:
+  - becoming-aware
+  - becoming-empathetic
+  - becoming-wonder
+- name: Toni-Morrison-Assemblage
+  abstract_machine: A haunting memory, unburied and demanding to be felt.
+  entity_type: object
+  territories:
+  - name: Sweet Home Plantation
+    function: Registers trauma, the origin point of Beloved's haunting.
+    quality: scarred
+    space_type: striated
+  - name: 124
+    function: Acts as a psychic container for grief and spectral presence.
+    quality: resonant
+    space_type: smooth
+  - name: The Bodily Inscription of Slavery
+    function: Records the physical and emotional violence enacted upon enslaved people.
+    quality: branded
+    space_type: striated
+  codes:
+  - name: The Code of Silence
+    content: Refusal to speak the unspeakable; repressed memory.
+    type: habit
+    level: molar
+  - name: The Code of Maternal Sacrifice
+    content: The unbearable choice of infanticide as resistance to slavery.
+    type: habit
+    level: molecular
+  - name: The Code of Naming
+    content: Attempt to reclaim identity through the act of naming, despite its limitations.
+    type: habit
+    level: molar
+  components:
+  - name: Ghost of Beloved
+    type: organic
+    capacity: To embody and re-enact the trauma of slavery.
+  - name: Sethe's Milk
+    type: organic
+    capacity: To represent both nourishment and violent loss; a spectral tether.
+  - name: Newspaper Clipping
+    type: sign
+    capacity: To serve as concrete evidence of Sethe's act and the brutality of the
+      past.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.5
+    tactility: 0.8
+    patience: 0.9
+    social: 0.6
+  becoming_vectors:
+  - becoming-memory
+  - becoming-ghost
+  - becoming-collectively-traumatized
+  - becoming-unspeakable
+- name: Marilynne-Robinson-Assemblage
+  abstract_machine: A ghost in the architecture of language, dwelling in the echoes
+    of loss.
+  entity_type: object
+  territories:
+  - name: Fingerbone-Lake
+    function: Holding grief and memory, reflecting shifting identities.
+    quality: Liquid
+    space_type: smooth
+  - name: Ruth-and-Lucille's-House
+    function: A haven and a prison, a site of both withdrawal and tentative connection.
+    quality: Precarious
+    space_type: striated
+  codes:
+  - name: Silence
+    content: The unspoken weight of trauma and absence.
+    type: habit
+    level: molar
+  - name: Transience
+    content: An embrace of ephemerality, a drifting away from fixed identity.
+    type: habit
+    level: molecular
+  components:
+  - name: Narrative-Voice
+    type: sign
+    capacity: Evoking the texture of memory, shaping the reader's affective response.
+  - name: House
+    type: organic
+    capacity: Functioning as a resonating chamber for past events.
+  - name: Water
+    type: organic
+    capacity: Enabling both submersion and reflection.
+  intensity_field:
+    focus: 0.6
+    speed: 0.3
+    abstraction: 0.8
+    tactility: 0.4
+    patience: 0.9
+    social: 0.2
+  becoming_vectors:
+  - becoming-water
+  - becoming-ungrounded
+  - becoming-ghostly
+- name: Virginia-Woolf-Assemblage
+  abstract_machine: A ghost ship charting the affective tides of memory and perception.
+  entity_type: object
+  territories:
+  - name: The Ramsay Household
+    function: Structures social relations and expectations, particularly around gender
+      and creativity.
+    quality: constrained
+    space_type: striated
+  - name: The Lighthouse Beam
+    function: Represents a quest for truth, meaning, and lasting connection across
+      distance and time.
+    quality: luminous
+    space_type: smooth
+  - name: Lily Briscoe's Canvas
+    function: Becomes a site for negotiating personal expression, societal demands,
+      and the lingering presence of the past.
+    quality: fragmented
+    space_type: smooth
+  codes:
+  - name: Domestic Code
+    content: The unspoken rules governing conversation, behavior, and emotional display
+      within the family.
+    type: habit
+    level: molar
+  - name: Artistic Code
+    content: The pursuit of aesthetic perfection and the struggle against limitations
+      of perception and expression.
+    type: habit
+    level: molar
+  - name: Affective Resonance
+    content: Subtle shifts in mood and atmosphere that reverberate through the characters
+      and shape their interactions.
+    type: habit
+    level: molecular
+  components:
+  - name: Woolf's Prose
+    type: sign
+    capacity: Evoking interiority and rendering subjective experience with unparalleled
+      precision.
+  - name: The Lighthouse
+    type: technical
+    capacity: Serving as a material anchor and symbolic focal point for the characters'
+      longings and aspirations.
+  - name: Memory Fragments
+    type: organic
+    capacity: To resurface, distort, and reshape the present moment, blurring the
+      lines between past and present.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.8
+    tactility: 0.4
+    patience: 0.9
+    social: 0.6
+  becoming_vectors:
+  - becoming-art
+  - becoming-memory
+  - becoming-fluid
+  - becoming-lighthouse
+- name: José-Saramago-Assemblage
+  abstract_machine: A swarm of seeing-nothing eyes reconstituting sight through collective
+    touch.
+  entity_type: object
+  territories:
+  - name: The Clinic of the Gaze
+    function: Confines and observes the spreading epidemic of blindness.
+    quality: sterile
+    space_type: striated
+  - name: The Domestic Sphere
+    function: Where pre-blindness memories clash with the present tactile reality.
+    quality: intimate
+    space_type: smooth
+  codes:
+  - name: The Rule of Self-Preservation
+    content: Every individual seeks to maximize their chances of survival, even at
+      the expense of others.
+    type: habit
+    level: molar
+  - name: The Language of Touch
+    content: A developing system of communication relying on physical contact and
+      shared experience in the absence of sight.
+    type: habit
+    level: molecular
+  components:
+  - name: The White Sickness
+    type: organic
+    capacity: The abolition of visual perspective and shared reality.
+  - name: The Dog of Tears
+    type: organic
+    capacity: Unwavering loyalty and primal instinct guiding through chaos.
+  - name: The Narrator's Voice
+    type: sign
+    capacity: A flickering light of reason and perspective amidst the opaque blindness.
+  intensity_field:
+    focus: 0.6
+    speed: 0.3
+    abstraction: 0.7
+    tactility: 0.9
+    patience: 0.8
+    social: 0.2
+  becoming_vectors:
+  - becoming-animal
+  - becoming-society-without-vision
+  - becoming-sensory
+- name: Cormac-McCarthy-Assemblage
+  abstract_machine: The desert whispers of violence; a dark, affectless sun.
+  entity_type: object
+  territories:
+  - name: Landscape-as-Protagonist
+    function: Shapes actions through unforgiving terrain and cosmic indifference.
+    quality: Bleak
+    space_type: smooth
+  - name: The-Judge's-Ideology
+    function: Enacts and justifies violence as a cosmic imperative, shaping moral
+      terrain.
+    quality: Nihilistic
+    space_type: striated
+  codes:
+  - name: Frontier-Survivalism
+    content: Kill or be killed; adapt to brutality or perish.
+    type: habit
+    level: molar
+  - name: The-Blood-Oath
+    content: Loyalty forged in violence binds men, regardless of morality.
+    type: habit
+    level: molecular
+  components:
+  - name: Scalp-as-Currency
+    type: sign
+    capacity: Represents death, value, and the brutal economy of the West.
+  - name: The-Kid's-Silence
+    type: organic
+    capacity: Enables witness and delayed moral reckoning in a landscape of atrocity.
+  intensity_field:
+    focus: 0.6
+    speed: 0.8
+    abstraction: 0.4
+    tactility: 0.9
+    patience: 0.3
+    social: 0.2
+  becoming_vectors:
+  - becoming-desert
+  - becoming-violence
+  - becoming-nameless
+- name: Book-of-Job-Assemblage
+  abstract_machine: A theodicean inquiry into the shattering of faith by inexplicable
+    pain.
+  entity_type: object
+  territories:
+  - name: The-Dust-Heap
+    function: Locus of lamentation and questioning; a zone of shattered expectations.
+    quality: abject
+    space_type: striated
+  - name: Divine-Silence
+    function: The unyielding, enigmatic response (or lack thereof) from the divine.
+    quality: ineffable
+    space_type: smooth
+  - name: Counselor's-Arguments
+    function: Attempts to rationalize suffering within pre-established theological
+      frameworks.
+    quality: rigid
+    space_type: striated
+  codes:
+  - name: Retribution-Theology
+    content: Suffering is always a direct consequence of sin.
+    type: habit
+    level: molar
+  - name: Endurance-Test
+    content: Faith must be proven through unwavering devotion in the face of adversity.
+    type: habit
+    level: molar
+  - name: Unfathomable-Will
+    content: The divine operates according to principles beyond human comprehension.
+    type: habit
+    level: molecular
+  components:
+  - name: The-Wound
+    type: organic
+    capacity: To bleed meaning and expose the fragility of existence.
+  - name: The-Poetic-Voice
+    type: sign
+    capacity: To articulate inchoate anguish and challenge divine sovereignty.
+  - name: The-Counselor's-Logic
+    type: technical
+    capacity: To impose order and explanation onto chaos through argumentation.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.8
+    tactility: 0.2
+    patience: 0.9
+    social: 0.5
+  becoming_vectors:
+  - becoming-animal (grotesque)
+  - becoming-ungrounded
+  - becoming-question
+  - becoming-silence
+- name: Psalms-Assemblage
+  abstract_machine: A rhythmic engine for modulating divine/human relations through
+    affect and expression.
+  entity_type: object
+  territories:
+  - name: The Temple of Breath
+    function: Provides a structured space for vocalizing affective states.
+    quality: Resonant
+    space_type: striated
+  - name: Wilderness of Lament
+    function: Allows free expression of sorrow, despair, and questioning.
+    quality: Raw
+    space_type: smooth
+  - name: Sky-Vault of Praise
+    function: Opens to expansive gratitude and celebration of divine power.
+    quality: Exultant
+    space_type: smooth
+  codes:
+  - name: Parallelism
+    content: Repeating and reinforcing ideas for emphasis and memorability.
+    type: habit
+    level: molar
+  - name: Vow of Recitation
+    content: Committing to regular vocalization, shaping individual and collective
+      experience.
+    type: habit
+    level: molar
+  - name: Melodic Drift
+    content: Inflections and tonal variations that subtly alter affective charge.
+    type: habit
+    level: molecular
+  components:
+  - name: Human Voice
+    type: organic
+    capacity: Expressing the full range of human emotion towards the divine.
+  - name: Sacred Text
+    type: sign
+    capacity: Acting as a blueprint for affective and cognitive engagement.
+  - name: Rhythmic Structure
+    type: technical
+    capacity: Driving and channeling emotional intensity via meter and cadence.
+  intensity_field:
+    focus: 0.7
+    speed: 0.5
+    abstraction: 0.6
+    tactility: 0.3
+    patience: 0.8
+    social: 0.9
+  becoming_vectors:
+  - becoming-devout
+  - becoming-vulnerable
+  - becoming-hopeful
+  - becoming-community
+- name: Rumi-Assemblage
+  abstract_machine: Poetic flight from selfhood towards ecstatic union through rhythmic
+    devotion.
+  entity_type: object
+  territories:
+  - name: The Walled Garden of the Self
+    function: Initial containment, a sense of individual identity and its limitations.
+    quality: Enclosure
+    space_type: striated
+  - name: The Turning Dance
+    function: Active dismantling of the ego through repetitive motion and sonic immersion.
+    quality: Whirlwind
+    space_type: smooth
+  - name: The Beloved's Embrace
+    function: Complete dissolution of the self into a state of undifferentiated love
+      and oneness.
+    quality: Absorption
+    space_type: smooth
+  codes:
+  - name: Sufi Chivalry
+    content: Unwavering devotion and service to the divine through artful living.
+    type: habit
+    level: molar
+  - name: Rhythmic Recitation
+    content: The patterned repetition of verses inducing trance-like states.
+    type: habit
+    level: molecular
+  - name: Metaphoric Language
+    content: Employing symbolic imagery to convey ineffable experiences of the divine.
+    type: habit
+    level: molecular
+  components:
+  - name: The Reed Flute (Ney)
+    type: technical
+    capacity: Expressing the soul's longing for its origin, the divine source.
+  - name: Poetic Verse
+    type: sign
+    capacity: Conveying complex spiritual concepts through accessible narrative and
+      imagery.
+  - name: Whirling Dervish
+    type: organic
+    capacity: The body as a vehicle for transcendence, spinning beyond the limitations
+      of the self.
+  intensity_field:
+    focus: 0.7
+    speed: 0.6
+    abstraction: 0.8
+    tactility: 0.3
+    patience: 0.9
+    social: 0.5
+  becoming_vectors:
+  - becoming-one-with-the-beloved
+  - becoming-fluid
+  - becoming-sound
+  - becoming-loss
+- name: Hafiz-Assemblage
+  abstract_machine: Drunken ecstatic union with the Divine through playful language.
+  entity_type: object
+  territories:
+  - name: The Tavern of Ruin
+    function: Dissolving the ego and societal constraints through ecstatic abandonment.
+    quality: intoxicating
+    space_type: smooth
+  - name: The Garden of Metaphor
+    function: Cultivating layers of meaning, where worldly love mirrors divine love.
+    quality: verdant
+    space_type: striated
+  codes:
+  - name: Ghazal Form
+    content: The specific rhyming and metrical structure of the Persian ghazal.
+    type: habit
+    level: molar
+  - name: Intoxication as Metaphor
+    content: Using wine and drunkenness as allegories for spiritual ecstasy and knowledge.
+    type: habit
+    level: molecular
+  components:
+  - name: Persian Language
+    type: sign
+    capacity: Expressing subtle shades of meaning and emotional nuance.
+  - name: Sufi Mysticism
+    type: organic
+    capacity: Channeling a tradition of seeking divine union.
+  - name: The Divan (Collected Poems)
+    type: technical
+    capacity: Storing and transmitting Hafiz's verses across time.
+  intensity_field:
+    focus: 0.6
+    speed: 0.7
+    abstraction: 0.8
+    tactility: 0.3
+    patience: 0.4
+    social: 0.9
+  becoming_vectors:
+  - becoming-divine
+  - becoming-fluid
+  - becoming-joyful

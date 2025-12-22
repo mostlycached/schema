@@ -1,0 +1,601 @@
+# Hari: Assemblage Model
+# Based on hari_speculator_2024.md
+
+assemblages:
+  # =========================================================================
+  # SPECULATIVE-WITNESSING-PRACTICE
+  # =========================================================================
+  - name: "Hari-Witnessing-Assemblage"
+    abstract_machine: "Seeing clearly, writing what is seen"
+    
+    territories:
+      - name: "Notebook"
+        function: "Capturing fragments and observations"
+        quality: "rhizomatic"
+        space_type: "smooth"
+        
+      - name: "Walking Path"
+        function: "Movement that generates thought"
+        quality: "contemplative"
+        space_type: "smooth"
+    
+    codes:
+      - name: "Fragment-Over-Book"
+        content: "Write pieces, not wholes"
+        type: "habit"
+        level: "molar"
+        
+      - name: "Attention-as-Primary"
+        content: "Looking carefully precedes writing"
+        type: "habit"
+        level: "molecular"
+        
+      - name: "Death-Awareness"
+        content: "Mortality gives urgency to seeing"
+        type: "habit"
+        level: "molecular"
+    
+    components:
+      - name: "Witness-Vocation"
+        type: "sign"
+        capacity: "See what others don't, name it"
+        
+      - name: "Attentive-Witnessing-Writing"
+        type: "sign"
+        capacity: "Perception becomes text"
+        
+      - name: "Recursive-Speculator"
+        type: "sign"
+        capacity: "Model the self modeling"
+    
+    intensity_field:
+      focus: 0.8
+      patience: 0.9
+      abstraction: 0.7
+      speed: 0.2
+      tactility: 0.3
+      social: 0.2
+    
+    becoming_vectors:
+      - "becoming-witness"
+      - "becoming-attentive"
+      - "becoming-mortal"
+    
+    stratification_depth: 0.4
+    
+    virtual_capacities:
+      - name: "Teaching-Through-Witnessing"
+        access_point: "Witness-Vocation + Teacher-Potential"
+        reason_unactualized: "No students yet"
+      - name: "Accumulated-Fragments-as-Book"
+        access_point: "Fragment-Writer practice"
+        reason_unactualized: "Publishing anxiety"
+
+  # =========================================================================
+  # INTELLECTUAL-NOMADISM
+  # =========================================================================
+  - name: "Hari-Nomad-Assemblage"
+    abstract_machine: "Home is movement, not place"
+    
+    territories:
+      - name: "Side-Projects"
+        function: "Wander between repositories"
+        quality: "exploratory"
+        space_type: "smooth"
+        
+      - name: "Ideas"
+        function: "Migration through concepts"
+        quality: "restless"
+        space_type: "smooth"
+    
+    codes:
+      - name: "Wandering-as-Method"
+        content: "Don't settle, keep moving through ideas"
+        type: "habit"
+        level: "molar"
+        
+      - name: "Possession-Letting-Go"
+        content: "Don't cling to past projects"
+        type: "habit"
+        level: "molecular"
+        
+      - name: "Belonging-Nowhere"
+        content: "Home is the movement itself"
+        type: "habit"
+        level: "molar"
+    
+    components:
+      - name: "Intellectual-Nomad"
+        type: "sign"
+        capacity: "Move between disciplines without settling"
+        
+      - name: "Side-Project-Culture"
+        type: "technical"
+        capacity: "Start, develop, abandon, return"
+    
+    intensity_field:
+      focus: 0.5
+      patience: 0.4
+      abstraction: 0.8
+      speed: 0.6
+      tactility: 0.3
+      social: 0.3
+    
+    becoming_vectors:
+      - "becoming-nomad"
+      - "becoming-rootless"
+      - "becoming-multiple"
+    
+    stratification_depth: 0.3
+    
+    virtual_capacities:
+      - name: "Settled-Long-Project"
+        access_point: "Technical skills"
+        reason_unactualized: "Restlessness"
+
+  # =========================================================================
+  # ATTENTION-PRACTICE
+  # =========================================================================
+  - name: "Hari-Attention-Assemblage"
+    abstract_machine: "Sustained attention as spiritual practice"
+    
+    territories:
+      - name: "Reading Chair"
+        function: "Sustained attention to difficult texts"
+        quality: "contemplative"
+        space_type: "smooth"
+        
+      - name: "Slow-Dialogue"
+        function: "AI conversation as attention practice"
+        quality: "meditative"
+        space_type: "striated"
+    
+    codes:
+      - name: "Micro-Attention"
+        content: "Small acts done with full presence"
+        type: "habit"
+        level: "molecular"
+        
+      - name: "Slow-Reading"
+        content: "Same paragraph multiple times"
+        type: "habit"
+        level: "molecular"
+        
+      - name: "Productive-Doubt"
+        content: "Doubt as method, not obstacle"
+        type: "habit"
+        level: "molar"
+    
+    components:
+      - name: "Attention-Practitioner"
+        type: "organic"
+        capacity: "Sustain focus on one thing"
+        
+      - name: "Slow-AI-Dialogue"
+        type: "technical"
+        capacity: "Use AI as interlocutor, not oracle"
+    
+    intensity_field:
+      focus: 0.9
+      patience: 0.9
+      abstraction: 0.8
+      speed: 0.1
+      tactility: 0.2
+      social: 0.2
+    
+    becoming_vectors:
+      - "becoming-slow"
+      - "becoming-attentive"
+      - "becoming-patient"
+    
+    stratification_depth: 0.5
+    
+    virtual_capacities:
+      - name: "Contemplative-Practice"
+        access_point: "Attention skills"
+        reason_unactualized: "Secular orientation"
+
+  # =========================================================================
+  # CALLIGRAPHY CLUSTER
+  # =========================================================================
+  - name: "Hari-Calligraphy-Assemblage"
+    abstract_machine: "Breath becomes gesture becomes mark"
+    
+    territories:
+      - name: "Paper"
+        function: "Receives irreversible marks"
+        quality: "sacred"
+        space_type: "smooth"
+        
+      - name: "Brush"
+        function: "Extension of breath and hand"
+        quality: "responsive"
+        space_type: "smooth"
+    
+    codes:
+      - name: "Breath-to-Movement"
+        content: "Exhale as stroke"
+        type: "biological_rhythm"
+        level: "molecular"
+        
+      - name: "Mistake-Integration"
+        content: "No undo, work with error"
+        type: "habit"
+        level: "molar"
+    
+    components:
+      - name: "Brush-Handler"
+        type: "organic"
+        capacity: "Material practice, ink, paper"
+        
+      - name: "Stroke-Maker"
+        type: "organic"
+        capacity: "Gesture becomes form"
+        
+      - name: "Negative-Space-Reader"
+        type: "organic"
+        capacity: "See the unmarked"
+    
+    intensity_field:
+      focus: 0.8
+      patience: 0.8
+      abstraction: 0.3
+      speed: 0.3
+      tactility: 0.95
+      social: 0.1
+    
+    becoming_vectors:
+      - "becoming-brush"
+      - "becoming-gesture"
+      - "becoming-mark"
+    
+    stratification_depth: 0.3
+
+  # =========================================================================
+  # CELLO CLUSTER
+  # =========================================================================
+  - name: "Hari-Cello-Assemblage"
+    abstract_machine: "Body as resonator, bow as breath"
+    
+    territories:
+      - name: "Practice-Space"
+        function: "Daily return to instrument"
+        quality: "ritualistic"
+        space_type: "striated"
+    
+    codes:
+      - name: "Practice-Ritual"
+        content: "Daily return, phrase by phrase"
+        type: "biological_rhythm"
+        level: "molar"
+        
+      - name: "Slow-Passage-Work"
+        content: "Master one phrase before moving on"
+        type: "habit"
+        level: "molecular"
+    
+    components:
+      - name: "Bow-Arm"
+        type: "organic"
+        capacity: "Weight, speed, gesture"
+        
+      - name: "Vibrato-Practitioner"
+        type: "organic"
+        capacity: "Warmth, the human element"
+        
+      - name: "Resonance-Feeler"
+        type: "organic"
+        capacity: "Body as sounding board"
+    
+    intensity_field:
+      focus: 0.7
+      patience: 0.9
+      abstraction: 0.2
+      speed: 0.2
+      tactility: 0.95
+      social: 0.3
+    
+    becoming_vectors:
+      - "becoming-resonant"
+      - "becoming-patient"
+      - "becoming-embodied"
+    
+    stratification_depth: 0.5
+    
+    virtual_capacities:
+      - name: "Ensemble-Playing"
+        access_point: "Technical skill"
+        reason_unactualized: "Solo practice habit"
+
+  # =========================================================================
+  # SEA CLUSTER
+  # =========================================================================
+  - name: "Hari-Sea-Assemblage"
+    abstract_machine: "Edge, horizon, return"
+    
+    territories:
+      - name: "Shore"
+        function: "Edge between land and water"
+        quality: "liminal"
+        space_type: "smooth"
+        
+      - name: "Horizon"
+        function: "Where looking ends"
+        quality: "sublime"
+        space_type: "smooth"
+    
+    codes:
+      - name: "Tide-Timer"
+        content: "Cycles, returns, in and out"
+        type: "biological_rhythm"
+        level: "molar"
+        
+      - name: "Horizon-Pull"
+        content: "Eye drawn outward"
+        type: "habit"
+        level: "molecular"
+    
+    components:
+      - name: "Shore-Walker"
+        type: "organic"
+        capacity: "Edge, tide, rhythm"
+        
+      - name: "Horizon-Gazer"
+        type: "organic"
+        capacity: "The line where looking ends"
+        
+      - name: "Depth-Imaginer"
+        type: "organic"
+        capacity: "What's below, unknowable"
+    
+    intensity_field:
+      focus: 0.4
+      patience: 0.9
+      abstraction: 0.5
+      speed: 0.2
+      tactility: 0.7
+      social: 0.1
+    
+    becoming_vectors:
+      - "becoming-fluid"
+      - "becoming-small"
+      - "becoming-patient"
+    
+    stratification_depth: 0.2
+
+  # =========================================================================
+  # VOLCANO CLUSTER
+  # =========================================================================
+  - name: "Hari-Volcano-Assemblage"
+    abstract_machine: "Attraction to destruction, rehearsal for rupture"
+    
+    territories:
+      - name: "Crater-Edge"
+        function: "Standing at edge of destruction"
+        quality: "sublime"
+        space_type: "smooth"
+        
+      - name: "Ash-Field"
+        function: "What remains after"
+        quality: "haunted"
+        space_type: "smooth"
+    
+    codes:
+      - name: "Eruption-Watching"
+        content: "Spectacle, danger, awe"
+        type: "habit"
+        level: "molar"
+        
+      - name: "Heat-Feeling"
+        content: "Proximity to transformation"
+        type: "biological_rhythm"
+        level: "molecular"
+    
+    components:
+      - name: "Eruption-Witness"
+        type: "organic"
+        capacity: "Spectacle, danger, awe"
+        
+      - name: "Crater-Stander"
+        type: "organic"
+        capacity: "Edge of annihilation"
+        
+      - name: "Ash-Reader"
+        type: "organic"
+        capacity: "Read what remains after"
+    
+    intensity_field:
+      focus: 0.6
+      patience: 0.5
+      abstraction: 0.6
+      speed: 0.1
+      tactility: 0.8
+      social: 0.1
+    
+    becoming_vectors:
+      - "becoming-destroyed"
+      - "becoming-witness"
+      - "becoming-ash"
+    
+    stratification_depth: 0.2
+    
+    virtual_capacities:
+      - name: "Destructive-Plasticity"
+        access_point: "Volcano fascination"
+        reason_unactualized: "Still in constructive phase"
+
+  # =========================================================================
+  # KNIFE CLUSTER
+  # =========================================================================
+  - name: "Hari-Knife-Assemblage"
+    abstract_machine: "Precision cutting as transformation"
+    
+    territories:
+      - name: "Cutting-Board"
+        function: "Daily return to board like tide"
+        quality: "ritualistic"
+        space_type: "striated"
+    
+    codes:
+      - name: "Edge-Maintenance"
+        content: "Sharpening as ritual"
+        type: "habit"
+        level: "molar"
+        
+      - name: "Danger-Awareness"
+        content: "Respect for tool that can wound"
+        type: "habit"
+        level: "molecular"
+    
+    components:
+      - name: "Blade-Handler"
+        type: "organic"
+        capacity: "The grip, the weight, the balance"
+        
+      - name: "Precision-Cutter"
+        type: "organic"
+        capacity: "Controlled force, exact placement"
+        
+      - name: "Material-Transformer"
+        type: "organic"
+        capacity: "Raw to prepared, solid to sliced"
+    
+    intensity_field:
+      focus: 0.9
+      patience: 0.5
+      abstraction: 0.1
+      speed: 0.4
+      tactility: 0.95
+      social: 0.2
+    
+    becoming_vectors:
+      - "becoming-precise"
+      - "becoming-transformer"
+      - "becoming-attentive"
+    
+    stratification_depth: 0.4
+
+  # =========================================================================
+  # TAMIL/CULTURAL
+  # =========================================================================
+  - name: "Hari-Tamil-Assemblage"
+    abstract_machine: "Cultural inheritance, diasporic navigation"
+    
+    territories:
+      - name: "Family-Calls"
+        function: "Connection to origin"
+        quality: "obligatory-warm"
+        space_type: "striated"
+        
+      - name: "Tamil-Music"
+        function: "Affective connection to heritage"
+        quality: "nostalgic"
+        space_type: "smooth"
+    
+    codes:
+      - name: "Language-Switching"
+        content: "Tamil with family, English otherwise"
+        type: "social_rule"
+        level: "molar"
+        
+      - name: "Food-Memory"
+        content: "Certain tastes trigger home"
+        type: "biological_rhythm"
+        level: "molecular"
+    
+    components:
+      - name: "Tamil-Language"
+        type: "sign"
+        capacity: "Speak, understand, diminishing literacy"
+        
+      - name: "Diasporic-Positioning"
+        type: "sign"
+        capacity: "Navigate between cultures"
+        
+      - name: "Indian-Context"
+        type: "sign"
+        capacity: "Background knowledge, reference points"
+    
+    intensity_field:
+      focus: 0.4
+      patience: 0.7
+      abstraction: 0.3
+      speed: 0.3
+      tactility: 0.5
+      social: 0.6
+    
+    becoming_vectors:
+      - "becoming-hybrid"
+      - "becoming-distant"
+    
+    stratification_depth: 0.5
+    
+    virtual_capacities:
+      - name: "Tamil-Literacy-Recovery"
+        access_point: "Childhood knowledge"
+        reason_unactualized: "No immediate need"
+
+  # =========================================================================
+  # BODY/PHYSICAL
+  # =========================================================================
+  - name: "Hari-Body-Assemblage"
+    abstract_machine: "Maintaining organism through sedentary knowledge work"
+    
+    territories:
+      - name: "Chair"
+        function: "Extended sitting for work"
+        quality: "compressed"
+        space_type: "striated"
+        
+      - name: "Kitchen"
+        function: "Food preparation"
+        quality: "ritualistic"
+        space_type: "smooth"
+    
+    codes:
+      - name: "Coffee-Ritual"
+        content: "Morning begins with coffee"
+        type: "biological_rhythm"
+        level: "molar"
+        
+      - name: "Night-Working"
+        content: "Most productive after 10pm"
+        type: "biological_rhythm"
+        level: "molar"
+        
+      - name: "Eye-Strain-Managing"
+        content: "Screen breaks, adjustments"
+        type: "habit"
+        level: "molecular"
+    
+    components:
+      - name: "Body-in-Chair"
+        type: "organic"
+        capacity: "Sedentary, ergonomic tension"
+        
+      - name: "Hands"
+        type: "organic"
+        capacity: "Typing, knife work, cello, calligraphy"
+        
+      - name: "Eyes"
+        type: "organic"
+        capacity: "Screen focus, reading, horizon gazing"
+    
+    intensity_field:
+      focus: 0.5
+      patience: 0.6
+      abstraction: 0.2
+      speed: 0.4
+      tactility: 0.6
+      social: 0.3
+    
+    becoming_vectors:
+      - "becoming-sedentary"
+      - "becoming-nocturnal"
+    
+    stratification_depth: 0.6
+    
+    virtual_capacities:
+      - name: "Walking-Writing-Practice"
+        access_point: "Body + Wandering"
+        reason_unactualized: "Chair habit"

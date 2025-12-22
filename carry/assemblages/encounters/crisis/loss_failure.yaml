@@ -1,0 +1,1244 @@
+assemblages:
+- name: Death-of-Parent-Assemblage
+  abstract_machine: 'The orphan''s engine: navigating the world without a map.'
+  entity_type: object
+  territories:
+  - name: Phantom Limb Landscape
+    function: Registers absence as a haunting presence, echoing with parental expectations
+      and unspoken desires.
+    quality: Haunting
+    space_type: smooth
+  - name: Chronological Succession Zone
+    function: Marks the shift in generational hierarchy, the awareness of occupying
+      the next chronological 'slot'.
+    quality: Linear
+    space_type: striated
+  - name: Unguarded Exterior
+    function: Experiences vulnerability without the protective buffer of a parental
+      figure.
+    quality: Exposed
+    space_type: smooth
+  codes:
+  - name: Legacy Replication Code
+    content: Attempting to embody parental values, mannerisms, or ambitions as a form
+      of continuation.
+    type: habit
+    level: molar
+  - name: Grief Ritual Code
+    content: Performing inherited mourning rituals, whether consciously or unconsciously.
+    type: habit
+    level: molar
+  - name: Hyper-Independence Code
+    content: Developing an exaggerated sense of self-reliance to compensate for the
+      perceived loss of support.
+    type: habit
+    level: molecular
+  components:
+  - name: Memory Echo Chamber
+    type: organic
+    capacity: Replaying past interactions and conversations, seeking clues or validation.
+  - name: Genealogical Compass
+    type: sign
+    capacity: Interpreting family history and inherited traits to understand one's
+      place in the lineage.
+  - name: Void Navigator
+    type: technical
+    capacity: Seeking external support systems and mentors to fill the guidance gap.
+  intensity_field:
+    focus: 0.6
+    speed: 0.4
+    abstraction: 0.7
+    tactility: 0.3
+    patience: 0.5
+    social: 0.2
+  becoming_vectors:
+  - becoming-ancestral
+  - becoming-resilient
+  - becoming-orphaned
+- name: Death-of-Child-Assemblage
+  abstract_machine: A shattered clockwork where grief coils into an ouroboros of absence,
+    devouring hope's future.
+  entity_type: object
+  territories:
+  - name: The-Empty-Room
+    function: Holds the echo of laughter and the phantom weight of a small body.
+    quality: Haunted
+    space_type: striated
+  - name: The-Unwritten-Future
+    function: Contains the potential timelines, now ghosted by impossibility.
+    quality: Barren
+    space_type: smooth
+  - name: The-Body-of-Mourning
+    function: The site of somatic grief, a landscape of aching limbs and phantom touches.
+    quality: Numb
+    space_type: striated
+  codes:
+  - name: Ritualized-Grief
+    content: Visiting the grave, repeating stories, enacting empty gestures of care.
+    type: habit
+    level: molar
+  - name: Silent-Screams
+    content: The internalized repression of unbearable anguish, leaking out in somatic
+      symptoms.
+    type: habit
+    level: molecular
+  - name: Frozen-Narrative
+    content: Inability to speak of the child, trapping the memory in a static, unmoving
+      tableau.
+    type: habit
+    level: molar
+  components:
+  - name: Photo-Album
+    type: sign
+    capacity: To trigger a painful return, a momentary resurrection of the lost one.
+  - name: Empty-Cradle
+    type: technical
+    capacity: To signify the gaping hole, the irretrievable loss.
+  - name: Sobbing-Body
+    type: organic
+    capacity: Release valve, channeling and expressing the uncontainable grief.
+  intensity_field:
+    focus: 0.2
+    speed: 0.1
+    abstraction: 0.9
+    tactility: 0.7
+    patience: 0.3
+    social: 0.2
+  becoming_vectors:
+  - becoming-stone
+  - becoming-ghost
+  - becoming-a-wound
+  - becoming-water
+- name: Death-of-Partner-Assemblage
+  abstract_machine: A cleaved relational entity seeking reterritorialization, haunted
+    by the ghost of 'we'.
+  entity_type: object
+  territories:
+  - name: The Empty Side
+    function: Registers absence; a haunting void.
+    quality: desolate
+    space_type: smooth
+  - name: Shared Memories
+    function: Echoes of past relational intensities; a site of painful reminiscence.
+    quality: bittersweet
+    space_type: striated
+  codes:
+  - name: The Ritual of Two
+    content: The daily habits and routines performed jointly, now incomplete.
+    type: habit
+    level: molar
+  - name: Singular Address
+    content: The lingering presumption of shared decision-making and reference.
+    type: habit
+    level: molecular
+  components:
+  - name: Photographs
+    type: sign
+    capacity: Evocation of the lost relational image; anchoring grief.
+  - name: The Unworn Garment
+    type: organic
+    capacity: Material trace of the absent body; intensification of loss.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.5
+    tactility: 0.8
+    patience: 0.6
+    social: 0.2
+  becoming_vectors:
+  - becoming-single
+  - becoming-resilient
+  - becoming-ghost
+- name: Divorce/Breakup-Assemblage
+  abstract_machine: A chaotic narrative factory rewriting shared history, forging
+    futures alone.
+  entity_type: object
+  territories:
+  - name: The Empty Home
+    function: A space of echoing absence, formerly defined by shared routines and
+      objects.
+    quality: desolate
+    space_type: striated
+  - name: The Rewritten Past
+    function: Memory recalibrated, shifting blame and highlighting incompatibilities.
+    quality: fractured
+    space_type: smooth
+  - name: The Unfolding Future
+    function: A space of possibility and fear, where individual trajectories diverge.
+    quality: uncertain
+    space_type: smooth
+  codes:
+  - name: The Blame Game
+    content: Identifying flaws and attributing responsibility for the relationship's
+      demise.
+    type: habit
+    level: molar
+  - name: The No-Contact Rule
+    content: Maintaining distance to facilitate healing and prevent further conflict.
+    type: habit
+    level: molar
+  - name: The Silent Treatment
+    content: Emotional withdrawal and refusal to communicate as a form of punishment.
+    type: habit
+    level: molecular
+  components:
+  - name: Legal Documents
+    type: technical
+    capacity: Formalizing the separation of assets and responsibilities.
+  - name: Shared Photos
+    type: sign
+    capacity: Evoking memories of a past that now feels alien.
+  - name: Crying Pillow
+    type: organic
+    capacity: Absorbing tears and providing a source of comfort during emotional distress.
+  intensity_field:
+    focus: 0.3
+    speed: 0.6
+    abstraction: 0.4
+    tactility: 0.2
+    patience: 0.1
+    social: 0.8
+  becoming_vectors:
+  - becoming-independent
+  - becoming-self-reliant
+  - becoming-bitter
+  - becoming-resilient
+- name: Estrangement-Assemblage
+  abstract_machine: 'Spectral Echo: Re-territorializing Absence through Detached Presence.'
+  entity_type: object
+  territories:
+  - name: The Silent Room
+    function: Holds the reverberations of past interactions, now hollow.
+    quality: desolate
+    space_type: striated
+  - name: The Unsent Letter
+    function: A reservoir of unspoken words and unacknowledged emotions.
+    quality: stagnant
+    space_type: smooth
+  - name: Peripheral Vision
+    function: Detects fleeting glimpses of the lost relation, always just out of reach.
+    quality: elusive
+    space_type: smooth
+  codes:
+  - name: Avoidance Protocol
+    content: Maintaining physical distance to prevent painful reminders.
+    type: habit
+    level: molar
+  - name: Monologue Internalization
+    content: Repeating conversations internally, devoid of reciprocal input.
+    type: habit
+    level: molecular
+  - name: Nostalgic Filtering
+    content: Remembering selectively, enhancing positive memories and suppressing
+      negative ones.
+    type: habit
+    level: molar
+  components:
+  - name: Phantom Limb Syndrome (Emotional)
+    type: organic
+    capacity: The lingering sensation of connection despite its severance.
+  - name: Echo Chamber Software
+    type: technical
+    capacity: Simulating interactions through AI, creating a fragile illusion of presence.
+  - name: Decontextualized Photographs
+    type: sign
+    capacity: Representing the lost relation as an immutable object of memory, stripped
+      of dynamic context.
+  intensity_field:
+    focus: 0.2
+    speed: 0.6
+    abstraction: 0.8
+    tactility: 0.1
+    patience: 0.9
+    social: 0.1
+  becoming_vectors:
+  - becoming-Ghost
+  - becoming-Solitude
+  - becoming-Resilience
+  - becoming-Indifference
+- name: Displacement/Eviction-Assemblage
+  abstract_machine: Un-grounding the rooted, scattering the gathered.
+  entity_type: object
+  territories:
+  - name: The Ancestral Land
+    function: Provides a sense of belonging and continuity across generations.
+    quality: Anchoring
+    space_type: striated
+  - name: The Refugee Camp
+    function: Offers temporary shelter and a precarious sense of community.
+    quality: Fleeting
+    space_type: smooth
+  - name: The Hostile City
+    function: Presents a new, alien environment with opportunities and dangers.
+    quality: Alienating
+    space_type: striated
+  codes:
+  - name: Property Law
+    content: Legal frameworks governing land ownership and eviction processes.
+    type: habit
+    level: molar
+  - name: Survival Strategies
+    content: Emergent tactics for finding food, shelter, and safety in displacement.
+    type: habit
+    level: molecular
+  - name: Collective Memory
+    content: Stories, rituals, and shared experiences that preserve the history of
+      the lost territory.
+    type: habit
+    level: molecular
+  components:
+  - name: Border Fence
+    type: technical
+    capacity: Exclusion and control of movement.
+  - name: Tongue of the Exile
+    type: sign
+    capacity: Expression of longing, protest, and cultural continuity.
+  - name: Makeshift Shelter
+    type: organic
+    capacity: Immediate protection from the elements.
+  intensity_field:
+    focus: 0.3
+    speed: 0.7
+    abstraction: 0.6
+    tactility: 0.4
+    patience: 0.2
+    social: 0.8
+  becoming_vectors:
+  - becoming-nomadic
+  - becoming-stateless
+  - becoming-resistant
+  - becoming-diasporic
+- name: Exile-Assemblage
+  abstract_machine: Deterritorialized existence seeking new becomings through dispossession
+    and adaptation.
+  entity_type: object
+  territories:
+  - name: Homeland-Lost
+    function: Represents the irretrievable origin, a source of nostalgic pain and
+      identity.
+    quality: phantom
+    space_type: striated
+  - name: Border-Zone
+    function: A liminal space of transition, negotiation, and precarious existence.
+    quality: porous
+    space_type: smooth
+  - name: Host-Land
+    function: Potential site of reterritorialization, fraught with possibility and
+      constraint.
+    quality: conditional
+    space_type: striated
+  codes:
+  - name: Passport-Code
+    content: The right to reside, a permission granted or denied.
+    type: habit
+    level: molar
+  - name: Language-Code
+    content: The dominant tongue, a tool for integration or a barrier to entry.
+    type: habit
+    level: molecular
+  components:
+  - name: Memory-Fragment
+    type: sign
+    capacity: Evoking the past, anchoring identity in the face of displacement.
+  - name: Survival-Skill
+    type: technical
+    capacity: Navigating new environments, securing basic needs.
+  - name: Network-Connection
+    type: organic
+    capacity: Providing support, facilitating integration, fostering community.
+  intensity_field:
+    focus: 0.6
+    speed: 0.8
+    abstraction: 0.3
+    tactility: 0.7
+    patience: 0.4
+    social: 0.9
+  becoming_vectors:
+  - becoming-nomad
+  - becoming-citizen
+  - becoming-hybrid
+- name: Home-Fire/Disaster-Assemblage
+  abstract_machine: A shattered hearth reconfigures into a field of raw potential,
+    unbound by the familiar.
+  entity_type: object
+  territories:
+  - name: The Rubble Field
+    function: Marks the absence of fixed structures and predictable pathways.
+    quality: Chaotic
+    space_type: smooth
+  - name: Memory Palace
+    function: Preserves fragments of the lost architecture and inhabitants.
+    quality: Spectral
+    space_type: striated
+  - name: Insurance Claim Labyrinth
+    function: A bureaucratic maze attempting to reconstruct value.
+    quality: Bureaucratic
+    space_type: striated
+  codes:
+  - name: Survival Instinct
+    content: Seek shelter, find food, avoid immediate danger.
+    type: habit
+    level: molecular
+  - name: Social Support Protocols
+    content: Rely on community, accept aid, share stories.
+    type: habit
+    level: molar
+  - name: Rebuilding Rituals
+    content: Salvage, clean, plan, and physically erect new boundaries.
+    type: habit
+    level: molar
+  components:
+  - name: Ash & Debris
+    type: organic
+    capacity: Releasing memories and potential nutrients
+  - name: Insurance Forms
+    type: technical
+    capacity: Translating loss into monetary value, enabling reconstruction
+  - name: Shared Grief
+    type: sign
+    capacity: Creating bonds and support networks
+  intensity_field:
+    focus: 0.1
+    speed: 0.9
+    abstraction: 0.6
+    tactility: 0.2
+    patience: 0.3
+    social: 0.9
+  becoming_vectors:
+  - becoming-nomadic
+  - becoming-resilient
+  - becoming-communal
+  - becoming-other
+- name: Migration-Assemblage
+  abstract_machine: A nomadic symphony woven from severed roots and emergent tongues.
+  entity_type: object
+  territories:
+  - name: Familiar Shores
+    function: Anchoring identity in place and language.
+    quality: Anchored
+    space_type: striated
+  - name: Unfamiliar Terrain
+    function: Testing resilience through disorientation and adaptation.
+    quality: Fluid
+    space_type: smooth
+  - name: Liminal Zone
+    function: Bridging the gap between departure and arrival, a space of potential.
+    quality: Transient
+    space_type: smooth
+  codes:
+  - name: Native Tongue Code
+    content: Preservation of original linguistic structures and cultural idioms.
+    type: habit
+    level: molar
+  - name: Adaptive Lexicon Code
+    content: Incorporation of new words and grammatical structures to navigate new
+      environments.
+    type: habit
+    level: molecular
+  - name: Silence Code
+    content: Strategic withholding of language, a form of protection and observation.
+    type: habit
+    level: molecular
+  components:
+  - name: Suitcase of Memories
+    type: organic
+    capacity: Emotional reservoir of the past, both comforting and burdensome.
+  - name: Digital Translator
+    type: technical
+    capacity: Facilitating communication and bridging linguistic divides.
+  - name: Blank Notebook
+    type: sign
+    capacity: Capturing new experiences and shaping a hybrid narrative.
+  intensity_field:
+    focus: 0.6
+    speed: 0.7
+    abstraction: 0.4
+    tactility: 0.5
+    patience: 0.3
+    social: 0.8
+  becoming_vectors:
+  - becoming-polyglot
+  - becoming-rootless
+  - becoming-hybrid
+  - becoming-unhomed
+- name: Loss-of-Faith-Assemblage
+  abstract_machine: A nomadic drift across barren semiotic landscapes, seeking resonant
+    singularities.
+  entity_type: object
+  territories:
+  - name: Sacred Ruins
+    function: Houses the fragmented remnants of once-held beliefs.
+    quality: desolate
+    space_type: striated
+  - name: Existential Void
+    function: The boundless, formless space opened by the collapse of meaning.
+    quality: abyssal
+    space_type: smooth
+  codes:
+  - name: Ritualized Doubt
+    content: The persistent questioning of any imposed structure of meaning.
+    type: habit
+    level: molar
+  - name: Affective Disconnection
+    content: A habitual numbing of emotional response to grand narratives.
+    type: habit
+    level: molecular
+  components:
+  - name: Echoes of Scripture
+    type: sign
+    capacity: Triggers faint resonances of lost certainties.
+  - name: Skeptical Algorithm
+    type: technical
+    capacity: Filters new information for potential ideological contamination.
+  - name: Aching Heart
+    type: organic
+    capacity: Experiences the visceral weight of ontological absence.
+  intensity_field:
+    focus: 0.3
+    speed: 0.6
+    abstraction: 0.8
+    tactility: 0.2
+    patience: 0.4
+    social: 0.1
+  becoming_vectors:
+  - becoming-nomadic-thought
+  - becoming-affective-deterritorialization
+  - becoming-minoritarian-expression
+- name: Loss-of-Reputation-Assemblage
+  abstract_machine: A social death-machine churning out discarded identities.
+  entity_type: object
+  territories:
+  - name: The Court of Public Opinion
+    function: Judges and condemns based on trending narratives.
+    quality: unforgiving
+    space_type: striated
+  - name: The Echo Chamber
+    function: Amplifies selected voices, drowning out dissenting ones.
+    quality: resonant
+    space_type: smooth
+  - name: The Ruins of Former Esteem
+    function: A desolate landscape where past achievements are overshadowed.
+    quality: barren
+    space_type: striated
+  codes:
+  - name: The Algorithm's Verdict
+    content: The automated ranking and filtering of online content based on engagement
+      metrics.
+    type: habit
+    level: molar
+  - name: The Sacred Cow
+    content: Unquestionable beliefs or practices that cannot be criticized without
+      severe backlash.
+    type: habit
+    level: molar
+  - name: The Viral Trigger
+    content: Actions or statements likely to provoke widespread outrage and condemnation.
+    type: habit
+    level: molecular
+  components:
+  - name: The Retweet Mob
+    type: sign
+    capacity: Collective amplification of negative sentiment.
+  - name: The Apology Tour
+    type: sign
+    capacity: Attempt to regain social acceptance through public remorse.
+  - name: The Digital Blacklist
+    type: technical
+    capacity: Suppression of visibility and opportunities across online platforms.
+  intensity_field:
+    focus: 0.8
+    speed: 0.9
+    abstraction: 0.6
+    tactility: 0.3
+    patience: 0.2
+    social: 1.0
+  becoming_vectors:
+  - becoming-outcast
+  - becoming-invisible
+  - becoming-pariah
+- name: Loss-of-Ability-Assemblage
+  abstract_machine: The unraveling of embodied potential, a ghost limb in the psyche.
+  entity_type: object
+  territories:
+  - name: Muscle Memory Domain
+    function: Holds the faded echo of physical prowess, the phantom sensation of movement.
+    quality: Vestigial
+    space_type: striated
+  - name: Cognitive Pathway Labyrinth
+    function: Maps the eroded routes of thought, a mental topography scarred by absence.
+    quality: Fragile
+    space_type: striated
+  - name: Affective Resonance Chamber
+    function: Amplifies the emotional residue of what was lost, a melancholic feedback
+      loop.
+    quality: Haunting
+    space_type: smooth
+  codes:
+  - name: The Rigidity Protocol
+    content: The body tenses against the memory of fluid motion, a self-imposed constraint.
+    type: habit
+    level: molar
+  - name: The Compensation Imperative
+    content: A frantic scramble to replace the lost ability, a hollow substitute.
+    type: habit
+    level: molecular
+  - name: The Isolation Directive
+    content: Withdrawal from activities that highlight the deficit, a self-inflicted
+      exile.
+    type: habit
+    level: molar
+  components:
+  - name: The Disembodied Limb Schema
+    type: sign
+    capacity: Acts as a constant reminder of the lost potential, a symbolic representation
+      of absence.
+  - name: The Lingering Neuronal Network
+    type: organic
+    capacity: Retains fragmented traces of the ability, sparking intermittent and
+      frustrating flashes of what was.
+  - name: Assistive Technologies (Canes, Wheelchairs, etc.)
+    type: technical
+    capacity: Offers a limited form of external compensation, a prosthetic augmentation
+      of the self.
+  intensity_field:
+    focus: 0.3
+    speed: 0.2
+    abstraction: 0.7
+    tactility: 0.4
+    patience: 0.1
+    social: 0.2
+  becoming_vectors:
+  - becoming-ghost
+  - becoming-adaptive
+  - becoming-scar
+  - becoming-resilient
+- name: Loss-of-Memory-Assemblage
+  abstract_machine: A dissolving self, scattering across the datasphere.
+  entity_type: object
+  territories:
+  - name: The Archive of Ghosts
+    function: Holds fragments of recalled experience, constantly decaying and re-edited.
+    quality: ephemeral
+    space_type: smooth
+  - name: The Wasteland of Forgotten Names
+    function: A zone of linguistic and social disconnect, where language fails to
+      capture experience.
+    quality: desolate
+    space_type: striated
+  codes:
+  - name: The Code of Habitual Repetition
+    content: Repeating the same actions in an attempt to recapture lost moments.
+    type: habit
+    level: molar
+  - name: The Code of Fading Echoes
+    content: Glimmers of recognition triggered by sensory stimuli, then immediately
+      vanishing.
+    type: habit
+    level: molecular
+  components:
+  - name: Neural Net Fragment
+    type: technical
+    capacity: Partial pattern recognition and association.
+  - name: Lingering Scent of Lavender
+    type: organic
+    capacity: Triggering involuntary emotional responses linked to lost memories.
+  - name: Tarnished Photograph
+    type: sign
+    capacity: Representing a lost identity and past connections.
+  intensity_field:
+    focus: 0.2
+    speed: 0.8
+    abstraction: 0.6
+    tactility: 0.4
+    patience: 0.1
+    social: 0.3
+  becoming_vectors:
+  - becoming-echo
+  - becoming-deterritorialized-self
+  - becoming-noise
+- name: Business-Collapse-Assemblage
+  abstract_machine: From hubris to hollow, a venture undone, identity unraveled.
+  entity_type: object
+  territories:
+  - name: Balance-Sheet-Wasteland
+    function: Marks the concrete remnants of a financial catastrophe.
+    quality: Desolate
+    space_type: striated
+  - name: Shame-and-Recrimination-Zone
+    function: Internal landscape where blame and self-doubt fester.
+    quality: Toxic
+    space_type: smooth
+  - name: Credit-Score-Abyss
+    function: The digital marker reflecting utter economic worthlessness.
+    quality: Blacklisted
+    space_type: striated
+  codes:
+  - name: Profit-Motive-Imperative
+    content: Relentless drive for growth overshadowing ethical concerns.
+    type: habit
+    level: molar
+  - name: Personal-Guaranty-Trap
+    content: The agreement that binds personal assets to business debts.
+    type: rule
+    level: molar
+  - name: Fear-of-Failure-Paralysis
+    content: Inability to make decisions due to overwhelming anxiety.
+    type: habit
+    level: molecular
+  components:
+  - name: Debt-Pile
+    type: technical
+    capacity: Accumulation of liabilities, crushing momentum.
+  - name: Severed-Network
+    type: organic
+    capacity: Loss of business connections, isolating the individual.
+  - name: Crushed-Ego
+    type: sign
+    capacity: Diminished self-worth affecting future endeavors.
+  intensity_field:
+    focus: 0.2
+    speed: 0.8
+    abstraction: 0.3
+    tactility: 0.7
+    patience: 0.1
+    social: 0.4
+  becoming_vectors:
+  - becoming-Debtor
+  - becoming-Hermit
+  - becoming-Strategist
+  - becoming-Resilient
+- name: Rejected-Manuscript/Art-Assemblage
+  abstract_machine: A crucible of potential dissolved by social indifference, reformed
+    as resistance.
+  entity_type: object
+  territories:
+  - name: The Vault of Unseen Potential
+    function: Preserves the initial creative impulse and unrealized possibilities
+      of the work.
+    quality: Latent
+    space_type: smooth
+  - name: The Wasteland of Public Indifference
+    function: Marks the absence of recognition and the void left by its rejection.
+    quality: Barren
+    space_type: striated
+  codes:
+  - name: Market Value Algorithm
+    content: Prioritizes quantifiable appeal and salability above artistic merit.
+    type: habit
+    level: molar
+  - name: Echo Chamber Validation
+    content: Seeks affirmation within pre-existing networks and established norms.
+    type: habit
+    level: molecular
+  components:
+  - name: Ink-stained Pages
+    type: organic
+    capacity: To bear witness to the abandoned narrative, whispering untold stories.
+  - name: Digital Graveyard
+    type: technical
+    capacity: To archive and disseminate the unappreciated across forgotten servers.
+  - name: Aura of Disappointment
+    type: sign
+    capacity: Signals failure, attracting those similarly marginalized and seeking
+      resonance.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.9
+    tactility: 0.2
+    patience: 0.8
+    social: 0.1
+  becoming_vectors:
+  - becoming-legend
+  - becoming-outsider-art
+  - becoming-a-cautionary-tale
+- name: Derailment-Assemblage
+  abstract_machine: Unforeseen blockage of the achievement-desire machine; a wrench
+    in the gears.
+  entity_type: process
+  territories:
+  - name: The Comfort Zone Track
+    function: Reinforces familiar patterns of working and believing in pre-defined
+      career paths.
+    quality: Stagnant
+    space_type: striated
+  - name: The Abyss of Uncertainty
+    function: A space of disorientation and anxiety following the track's end; confronts
+      the absence of structure.
+    quality: Anxious
+    space_type: smooth
+  - name: The Field of Potential
+    function: Opens up possibilities beyond the previous limitations, a space of radical
+      experimentation.
+    quality: Emergent
+    space_type: smooth
+  codes:
+  - name: Performance Metrics
+    content: The habit of measuring worth through quantifiable achievements and external
+      validation.
+    type: habit
+    level: molar
+  - name: The Resume Script
+    content: The unspoken rule that career progression must follow a linear and upward
+      trajectory.
+    type: habit
+    level: molar
+  - name: Improvisation
+    content: The freedom to adapt and create new skills.
+    type: habit
+    level: molecular
+  components:
+  - name: The Mental Model of Success
+    type: sign
+    capacity: Shapes perceptions of failure as a catastrophic event.
+  - name: Network of Expectations
+    type: organic
+    capacity: Amplifies the pressure to conform to societal norms and expectations.
+  - name: The Tool Belt of Outdated Skills
+    type: technical
+    capacity: Hinders adaptation to new opportunities by reinforcing old habits.
+  intensity_field:
+    focus: 0.3
+    speed: 0.6
+    abstraction: 0.7
+    tactility: 0.2
+    patience: 0.4
+    social: 0.5
+  becoming_vectors:
+  - becoming-resilient
+  - becoming-adaptive
+  - becoming-entrepreneurial
+  - becoming-authentic
+- name: Firing/Layoff-Assemblage
+  abstract_machine: The brutal severance of libidinal investment in a productive machine.
+  entity_type: object
+  territories:
+  - name: Office-Space-Territory
+    function: A structured, predictable environment of labor and social interaction.
+    quality: Ordered
+    space_type: striated
+  - name: Unemployment-Territory
+    function: A liminal zone of uncertainty and searching for a new position within
+      the system.
+    quality: Anxious
+    space_type: smooth
+  - name: The-Network-Territory
+    function: Maintaining, re-establishing, and expanding professional connections
+      for future possibilities.
+    quality: Strategic
+    space_type: smooth
+  codes:
+  - name: Corporate-Behavior-Code
+    content: Attend meetings, complete tasks, maintain professional demeanor.
+    type: habit
+    level: molar
+  - name: Self-Improvement-Code
+    content: Update resume, practice interview skills, network aggressively.
+    type: habit
+    level: molecular
+  components:
+  - name: Resume
+    type: sign
+    capacity: Narrative construction of marketable self.
+  - name: LinkedIn-Profile
+    type: technical
+    capacity: Distributed digital identity for professional networking and visibility.
+  - name: Severance-Package
+    type: organic
+    capacity: Temporary resource buffer against system shock.
+  intensity_field:
+    focus: 0.6
+    speed: 0.7
+    abstraction: 0.4
+    tactility: 0.2
+    patience: 0.3
+    social: 0.8
+  becoming_vectors:
+  - becoming-entrepreneur
+  - becoming-obsolete
+  - becoming-re-employed
+- name: The-Bad-Project-Assemblage
+  abstract_machine: A factory of stagnation, churning out the already-failed.
+  entity_type: object
+  territories:
+  - name: The-Grave-of-Ideas
+    function: Where nascent concepts go to wither and die.
+    quality: Desolation
+    space_type: striated
+  - name: The-Echo-Chamber
+    function: Amplifies the feeling of futility and worthlessness.
+    quality: Resonant
+    space_type: smooth
+  codes:
+  - name: Perfectionism-Code
+    content: Everything must be flawless or it is worthless.
+    type: habit
+    level: molar
+  - name: Imitation-Code
+    content: Only create works that mirror established success.
+    type: habit
+    level: molecular
+  components:
+  - name: The-Empty-Canvas
+    type: technical
+    capacity: To reflect back the creator's lack of inspiration.
+  - name: The-Self-Doubt-Loop
+    type: sign
+    capacity: Perpetuating feelings of inadequacy.
+  intensity_field:
+    focus: 0.2
+    speed: 0.1
+    abstraction: 0.8
+    tactility: 0.1
+    patience: 0.05
+    social: 0.01
+  becoming_vectors:
+  - becoming-ossified
+  - becoming-noise
+  - becoming-deterritorialized-potential
+- name: Writer's-Block-Assemblage
+  abstract_machine: The stifled wellspring, a silent scream for expression.
+  entity_type: object
+  territories:
+  - name: The_Blank_Page
+    function: Represents the void awaiting inscription, a potential field of creation.
+    quality: barren
+    space_type: smooth
+  - name: The_Inner_Critic
+    function: Represents the inhibiting force of self-judgment, paralyzing the creative
+      impulse.
+    quality: judgmental
+    space_type: striated
+  - name: The_Memory_Palace
+    function: Represents the repository of past experiences and knowledge, both inspiring
+      and overwhelming.
+    quality: labyrinthine
+    space_type: striated
+  codes:
+  - name: Grammatical_Law
+    content: The rules of language, syntax, and structure that can become a constraint.
+    type: habit
+    level: molar
+  - name: The_Perfect_Sentence
+    content: The unattainable ideal that prevents any sentence from being written.
+    type: habit
+    level: molecular
+  - name: The_Unsaid
+    content: The unspoken expectations that dictate what 'should' be written.
+    type: habit
+    level: molar
+  components:
+  - name: Pen_and_Paper
+    type: technical
+    capacity: Physical tools for inscription, rendered impotent by the block.
+  - name: Frustrated_Desire
+    type: organic
+    capacity: The underlying urge to create, now twisted and painful.
+  - name: Self_Doubt_Signal
+    type: sign
+    capacity: A constant stream of negative feedback, reinforcing inaction.
+  intensity_field:
+    focus: 0.1
+    speed: 0.1
+    abstraction: 0.8
+    tactility: 0.2
+    patience: 0.1
+    social: 0.3
+  becoming_vectors:
+  - becoming-silence
+  - becoming-breakthrough
+  - becoming-garbage
+- name: Bombed-Performance-Assemblage
+  abstract_machine: A stuttering engine of unexpected possibilities forged in the
+    crucible of public humiliation.
+  entity_type: object
+  territories:
+  - name: Stage Fright Labyrinth
+    function: Amplifies pre-performance anxiety into a suffocating atmosphere.
+    quality: suffocating
+    space_type: striated
+  - name: The Abyss of Judgment
+    function: Reflects the audience's perceived disapproval back onto the performer,
+      magnified and distorted.
+    quality: crushing
+    space_type: smooth
+  - name: Scrapheap of Lost Intentions
+    function: A repository for discarded ideas and unrealized potential, fueling the
+      downward spiral.
+    quality: rusty
+    space_type: striated
+  codes:
+  - name: The Law of Expectation
+    content: The unspoken contract between performer and audience regarding skill
+      and entertainment value.
+    type: habit
+    level: molar
+  - name: The Self-Deprecating Murmur
+    content: A barely audible stream of negative self-talk that erodes confidence.
+    type: habit
+    level: molecular
+  - name: The Script of Perfection
+    content: An internalised standard of flawless execution that breeds crippling
+      anxiety.
+    type: habit
+    level: molar
+  components:
+  - name: Trembling Hands
+    type: organic
+    capacity: Impairs fine motor skills, leading to technical errors.
+  - name: Feedback Loop of Shame
+    type: sign
+    capacity: Amplifies perceived audience reactions into a devastating self-assessment.
+  - name: The Mic Stand as Gallow
+    type: technical
+    capacity: Transforms a tool of expression into a symbol of impending failure.
+  intensity_field:
+    focus: 0.2
+    speed: 0.7
+    abstraction: 0.3
+    tactility: 0.9
+    patience: 0.1
+    social: 0.8
+  becoming_vectors:
+  - becoming-avant-garde
+  - becoming-a-lesson
+  - becoming-a-source-of-radical-honesty
+- name: Unfinished-Masterpiece-Assemblage
+  abstract_machine: The relentless pursuit and subsequent abandonment of the ideal.
+  entity_type: object
+  territories:
+  - name: The Studio's Edge
+    function: Contains the raw materials and initial bursts of inspiration.
+    quality: Nascent
+    space_type: smooth
+  - name: Plateau of Stasis
+    function: Where the work lingers, caught between ambition and paralysis.
+    quality: Frozen
+    space_type: striated
+  - name: Museum of the Mind
+    function: The space where the unfulfilled potential echoes, haunting future attempts.
+    quality: Spectral
+    space_type: smooth
+  codes:
+  - name: The Perfectionist's Rule
+    content: Every detail must reflect an unattainable ideal.
+    type: habit
+    level: molar
+  - name: The Procrastinator's Loop
+    content: Avoidance fueled by the fear of failure to meet standards.
+    type: habit
+    level: molecular
+  components:
+  - name: Half-Finished Canvas
+    type: technical
+    capacity: To serve as a constant, accusing reminder of unrealized vision.
+  - name: The Internal Critic
+    type: organic
+    capacity: To amplify self-doubt and impede progress.
+  - name: Echoes of Masters
+    type: sign
+    capacity: Incite a sense of inadequacy compared to historical achievements.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.9
+    tactility: 0.6
+    patience: 0.1
+    social: 0.3
+  becoming_vectors:
+  - becoming-abandoned
+  - becoming-potentiality
+  - becoming-fragment
+- name: Betrayal-of-Values-Assemblage
+  abstract_machine: A shattered pact echoing with the ghost of intention.
+  entity_type: event
+  territories:
+  - name: The Fortress of Self-Image
+    function: Maintains a consistent and admirable narrative of the self.
+    quality: brittle
+    space_type: striated
+  - name: The Crossroads of Choice
+    function: Presents options, forcing a navigation between desire and principle.
+    quality: liminal
+    space_type: smooth
+  - name: The Wasteland of Consequence
+    function: Experiences the ramifications of the betrayal, alienation and self-reproach.
+    quality: desolate
+    space_type: striated
+  codes:
+  - name: The Oath of Principle
+    content: A solemn declaration to uphold specific values, shaping future action.
+    type: habit
+    level: molar
+  - name: The Siren Song of Expediency
+    content: The tempting whisper to prioritize immediate gain over long-term integrity.
+    type: habit
+    level: molecular
+  - name: The Shadow of Doubt
+    content: A nagging feeling that one's actions are compromising core values.
+    type: habit
+    level: molecular
+  components:
+  - name: The Guilt Complex
+    type: organic
+    capacity: Generates feelings of shame, anxiety, and self-doubt.
+  - name: The Justification Engine
+    type: technical
+    capacity: Fabricates rationalizations to excuse or minimize the betrayal.
+  - name: The Value System Schema
+    type: sign
+    capacity: Represents and organizes internalized moral principles.
+  intensity_field:
+    focus: 0.7
+    speed: 0.4
+    abstraction: 0.6
+    tactility: 0.2
+    patience: 0.3
+    social: 0.8
+  becoming_vectors:
+  - becoming-cynical
+  - becoming-calculating
+  - becoming-atoning
+- name: Addiction-Relapse-Assemblage
+  abstract_machine: The self-destructive spiral, a deterritorialization back into
+    the void of dependency.
+  entity_type: object
+  territories:
+  - name: Shame-Spiral
+    function: Internalized judgment amplifies craving, creating a closed feedback
+      loop.
+    quality: Repulsive
+    space_type: striated
+  - name: Trigger-Landscape
+    function: Environmental cues and social contexts that activate addictive desires.
+    quality: Enticing
+    space_type: smooth
+  - name: Isolation-Chamber
+    function: Withdrawal from social support networks, leading to increased vulnerability.
+    quality: Desolate
+    space_type: striated
+  codes:
+  - name: Craving-Imperative
+    content: I must have it, now.
+    type: habit
+    level: molecular
+  - name: Self-Destructive-Script
+    content: I'm a failure; I deserve this.
+    type: habit
+    level: molar
+  - name: Escape-Clause
+    content: Just this once won't hurt.
+    type: habit
+    level: molecular
+  components:
+  - name: Neurochemical-Surge
+    type: organic
+    capacity: Flood of dopamine, hijacking reward circuitry.
+  - name: Social-Media-Echo-Chamber
+    type: technical
+    capacity: Reinforcement of addictive behaviors through online communities.
+  - name: Memory-Trace
+    type: sign
+    capacity: Vivid recall of past pleasurable experiences.
+  intensity_field:
+    focus: 0.2
+    speed: 0.9
+    abstraction: 0.1
+    tactility: 0.7
+    patience: 0.0
+    social: 0.3
+  becoming_vectors:
+  - becoming-dissolution
+  - becoming-nothingness
+  - becoming-self-destruction
+  - becoming-phantom
+- name: Cowardice-Assemblage
+  abstract_machine: The shrinking heart, a retreat from the unfolding event.
+  entity_type: object
+  territories:
+  - name: The Shadowed Corner
+    function: Offers a refuge, a withdrawal from visibility and accountability.
+    quality: Inert
+    space_type: smooth
+  - name: Echo Chamber of Justification
+    function: Amplifies rationalizations and excuses, silencing dissenting voices.
+    quality: Resonant
+    space_type: striated
+  codes:
+  - name: Self-Preservation Protocol
+    content: Prioritize personal safety and comfort above all else, even at the expense
+      of others.
+    type: habit
+    level: molar
+  - name: Fear of Judgment
+    content: Avoid any action that might draw criticism or disapproval, regardless
+      of its potential benefit.
+    type: habit
+    level: molecular
+  components:
+  - name: Rationalizing Algorithm
+    type: technical
+    capacity: Generating plausible explanations for inaction, minimizing cognitive
+      dissonance.
+  - name: Visceral Fear Response
+    type: organic
+    capacity: 'Triggering physiological reactions that reinforce avoidance behavior:
+      increased heart rate, shallow breathing.'
+  - name: Rhetoric of Neutrality
+    type: sign
+    capacity: Presenting inaction as a form of detached observation or objective assessment.
+  intensity_field:
+    focus: 0.2
+    speed: 0.7
+    abstraction: 0.4
+    tactility: 0.3
+    patience: 0.9
+    social: 0.1
+  becoming_vectors:
+  - becoming-invisible
+  - becoming-stone
+  - becoming-echo
+- name: Harm-Caused-Assemblage
+  abstract_machine: Echoes of actions rippling outward, forever changing the landscape
+    of connection.
+  entity_type: object
+  territories:
+  - name: The Wounded Field
+    function: Registers the impact of actions, a space scarred by moral injury.
+    quality: Scarred
+    space_type: striated
+  - name: The Mirror of Consequence
+    function: Reflects back the distorted image of the self as perpetrator.
+    quality: Distorted
+    space_type: smooth
+  codes:
+  - name: Code of Justification
+    content: Rationalizing harmful behavior to maintain a positive self-image.
+    type: habit
+    level: molar
+  - name: Code of Avoidance
+    content: Suppressing empathy and disengaging from the suffering caused.
+    type: habit
+    level: molecular
+  components:
+  - name: The Guilt-Engine
+    type: organic
+    capacity: Generates and intensifies feelings of remorse and regret.
+  - name: The Narrative Re-Writer
+    type: sign
+    capacity: Constructs alternative narratives to diminish personal responsibility.
+  - name: The Impact Sensor
+    type: technical
+    capacity: Measures the reverberations of one's actions on others.
+  intensity_field:
+    focus: 0.3
+    speed: 0.7
+    abstraction: 0.6
+    tactility: 0.4
+    patience: 0.2
+    social: 0.9
+  becoming_vectors:
+  - becoming-accountable
+  - becoming-redeemed
+  - becoming-compassionate
+  - becoming-forgiven

@@ -1,0 +1,1136 @@
+assemblages:
+- name: Deleting-Social-Media-Assemblage
+  abstract_machine: A self-surgical severing of the digital umbilicus, birthing attention
+    anew.
+  entity_type: object
+  territories:
+  - name: Attention-Span-Territory
+    function: Cultivates prolonged focus, reclaiming cognitive real estate.
+    quality: Deep
+    space_type: smooth
+  - name: Bodily-Rhythms-Territory
+    function: Resynchronizes circadian cycles with natural light and internal needs.
+    quality: Organic
+    space_type: smooth
+  - name: Offline-Sociality-Territory
+    function: Re-establishes face-to-face interactions, fostering authentic connection.
+    quality: Present
+    space_type: striated
+  codes:
+  - name: Phantom-Vibration-Code
+    content: Ignoring the persistent urge to check for nonexistent notifications.
+    type: habit
+    level: molecular
+  - name: FOMO-Dismantling-Code
+    content: Rejecting the manufactured scarcity of experience perpetuated by online
+      platforms.
+    type: habit
+    level: molar
+  - name: Algorithmic-Aversion-Code
+    content: Avoiding curated content designed for engagement over genuine interest.
+    type: habit
+    level: molar
+  components:
+  - name: Analog-Clock-Component
+    type: technical
+    capacity: Provides a tactile and immediate sense of time, divorced from digital
+      distractions.
+  - name: Journal-Component
+    type: sign
+    capacity: Enables reflective writing, archiving personal thought instead of public
+      performance.
+  - name: Silence-Component
+    type: organic
+    capacity: Allows for introspection and the generation of internal narratives.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.6
+    tactility: 0.7
+    patience: 0.9
+    social: 0.3
+  becoming_vectors:
+  - becoming-present
+  - becoming-attentive
+  - becoming-self-authored
+  - becoming-unmediated
+- name: News-Fast-Assemblage
+  abstract_machine: Unplugging from the relentless present to cultivate a slow, deliberate
+    understanding.
+  entity_type: object
+  territories:
+  - name: Chronal-Reclamation
+    function: Retrieving the depth and resonance of historical time, lost in the shallow
+      present.
+    quality: Resonance
+    space_type: smooth
+  - name: Filtered-Information-Field
+    function: Creating a personalized information ecology that prioritizes context
+      and critical analysis over immediate updates.
+    quality: Discernment
+    space_type: striated
+  - name: Temporal-Sanctuary
+    function: Building a space insulated from the digital onslaught of trending narratives
+      and breaking news.
+    quality: Serenity
+    space_type: smooth
+  codes:
+  - name: Algorithmic-Abstinence
+    content: Limit interaction with news aggregators, social media feeds, and push
+      notifications.
+    type: habit
+    level: molar
+  - name: Deep-Dive-Protocol
+    content: Prioritize long-form articles, books, and documentaries over short-form
+      news bites.
+    type: habit
+    level: molar
+  - name: Resonance-Check
+    content: Question the source and intent behind information encountered outside
+      the fast.
+    type: habit
+    level: molecular
+  components:
+  - name: Historical-Archive
+    type: sign
+    capacity: Providing alternative perspectives and temporal depth.
+  - name: Analog-Calendar
+    type: technical
+    capacity: Grounding experience in a tangible, non-algorithmic flow of time.
+  - name: Curated-Library
+    type: organic
+    capacity: Cultivating a reservoir of thoughtfully selected knowledge.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.6
+    tactility: 0.4
+    patience: 0.9
+    social: 0.3
+  becoming_vectors:
+  - becoming-historically-grounded
+  - becoming-critically-informed
+  - becoming-temporally-sovereign
+  - becoming-informationally-resilient
+- name: Silence-(No-Input)-Assemblage
+  abstract_machine: A whispering absence, a field for unheard symphonies.
+  entity_type: object
+  territories:
+  - name: The-Unoccupied-Ear
+    function: Allows for the reverberations of the immediate sonic environment to
+      become prominent.
+    quality: Attentive
+    space_type: smooth
+  - name: The-Unburdened-Mind
+    function: Creates space for unfiltered thoughts and internal dialogues to emerge.
+    quality: Open
+    space_type: smooth
+  - name: Shadowed-Sensory-Deprivation
+    function: Heightens sensitivity to tactile and olfactory sensations, as visual
+      input diminishes.
+    quality: Acute
+    space_type: striated
+  codes:
+  - name: Sonic-Fast
+    content: Abstain from all intentional auditory input for a specified duration.
+    type: habit
+    level: molar
+  - name: Visual-Veil
+    content: Minimize visual stimulation, especially screens and illuminated texts.
+    type: habit
+    level: molecular
+  - name: Ambient-Listening
+    content: Focus on the subtle and often overlooked sounds of the environment, allowing
+      them to become the 'music'.
+    type: habit
+    level: molecular
+  components:
+  - name: The-Tympanic-Membrane
+    type: organic
+    capacity: Heightened sensitivity to subtle vibrations and frequencies.
+  - name: The-Closed-Eye
+    type: organic
+    capacity: Reduction of visual information processing, freeing cognitive resources.
+  - name: The-Ambient-World
+    type: technical
+    capacity: Source of unpredictable and unmediated sensory data.
+  intensity_field:
+    focus: 0.7
+    speed: 0.2
+    abstraction: 0.8
+    tactility: 0.6
+    patience: 0.9
+    social: 0.1
+  becoming_vectors:
+  - becoming-bat
+  - becoming-stone
+  - becoming-echo
+- name: Unsubscribing-Assemblage
+  abstract_machine: Erosion of the digital flood.
+  entity_type: object
+  territories:
+  - name: Inbox-Sanctuary
+    function: Filtering unwanted signals to create a space of mental clarity.
+    quality: Tranquility
+    space_type: smooth
+  - name: Attention-Economy-Exit
+    function: Withdrawing from the constant demands of online engagement.
+    quality: Defiance
+    space_type: striated
+  - name: Temporal-Sovereignty
+    function: Reclaiming time from the relentless tide of notifications.
+    quality: Autonomy
+    space_type: smooth
+  codes:
+  - name: Zero-Inbox-Discipline
+    content: Deleting or archiving all emails daily to maintain a clean slate.
+    type: habit
+    level: molar
+  - name: Opt-Out-Resistance
+    content: Resisting the psychological manipulation tactics used to keep users subscribed.
+    type: habit
+    level: molecular
+  - name: Algorithmic-Agnosticism
+    content: Disregarding personalized recommendations and curated content feeds.
+    type: habit
+    level: molecular
+  components:
+  - name: Delete-Key
+    type: technical
+    capacity: Rapid elimination of unwanted information.
+  - name: Unsubscribe-Button
+    type: technical
+    capacity: Formal disengagement from mailing lists.
+  - name: Filter-Software
+    type: technical
+    capacity: Automated sorting and blocking of specific types of communication.
+  intensity_field:
+    focus: 0.7
+    speed: 0.4
+    abstraction: 0.3
+    tactility: 0.1
+    patience: 0.8
+    social: 0.2
+  becoming_vectors:
+  - becoming-calm
+  - becoming-autonomous
+  - becoming-undistracted
+  - becoming-sovereign
+- name: Buy-Nothing-Assemblage
+  abstract_machine: Deterritorializing desire from commodification, reterritorializing
+    onto use.
+  entity_type: object
+  territories:
+  - name: The Larder
+    function: Resourcefulness in the home.
+    quality: Frugal
+    space_type: smooth
+  - name: The Swap Meet
+    function: Circulating surplus and fulfilling needs within a community.
+    quality: Communal
+    space_type: striated
+  - name: The Repair Shop
+    function: Extending the lifespan of objects through mending and modification.
+    quality: Durable
+    space_type: smooth
+  codes:
+  - name: Repair Ethic
+    content: If it's broken, fix it; don't replace it.
+    type: habit
+    level: molar
+  - name: Minimalist Aesthetic
+    content: Prioritize functionality over fashion.
+    type: habit
+    level: molecular
+  - name: Gift Economy
+    content: Value exchange based on need and generosity, not monetary transaction.
+    type: habit
+    level: molar
+  components:
+  - name: Sewing Kit
+    type: technical
+    capacity: Repairing fabrics and clothing, extending their use.
+  - name: Community Network
+    type: organic
+    capacity: Facilitating sharing, bartering, and collaborative problem-solving.
+  - name: Repair Manual
+    type: sign
+    capacity: Providing knowledge and instructions for fixing broken items.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.4
+    tactility: 0.8
+    patience: 0.9
+    social: 0.6
+  becoming_vectors:
+  - becoming-resourceful
+  - becoming-autonomous
+  - becoming-sustainable
+  - becoming-ungovernable
+- name: Fasting-Assemblage
+  abstract_machine: Emptiness becomes a portal to potential.
+  entity_type: object
+  territories:
+  - name: Gastric Void
+    function: Marks the absence of nutritive material; the felt experience of hunger.
+    quality: Empty
+    space_type: smooth
+  - name: Temporal Labyrinth
+    function: Structuring time around abstinence; the stretching and compression of
+      perceived duration.
+    quality: Elastic
+    space_type: striated
+  - name: Mental Threshold
+    function: A boundary crossed and recrossed; the struggle against desire and the
+      possibility of transcendence.
+    quality: Porous
+    space_type: smooth
+  codes:
+  - name: Hunger Protocol
+    content: The schedule and rationale for the fast; the self-imposed limitations.
+    type: habit
+    level: molar
+  - name: Cellular Autophagy
+    content: The body's recycling process; the transformation of self through self-consumption.
+    type: habit
+    level: molecular
+  components:
+  - name: Rumbling Stomach
+    type: organic
+    capacity: Signaling deprivation and the call for nourishment.
+  - name: Willpower
+    type: organic
+    capacity: Resisting immediate gratification; the capacity for self-regulation.
+  - name: Calendar App
+    type: technical
+    capacity: Temporal structuring and tracking progress.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.6
+    tactility: 0.4
+    patience: 0.9
+    social: 0.3
+  becoming_vectors:
+  - becoming-ascetic
+  - becoming-disciplined
+  - becoming-light
+- name: Sobriety-Assemblage
+  abstract_machine: Cutting the flow, feeling the grain of reality.
+  entity_type: object
+  territories:
+  - name: Clean Slate
+    function: Disengaging from habitual sensory filters.
+    quality: nascent
+    space_type: smooth
+  - name: Raw Encounter
+    function: Direct engagement with the social without chemical mediation.
+    quality: abrasive
+    space_type: striated
+  codes:
+  - name: The Dry Protocol
+    content: No ingestion of mind-altering substances.
+    type: habit
+    level: molar
+  - name: Sensory Attunement
+    content: Cultivating heightened awareness of immediate surroundings and internal
+      sensations.
+    type: habit
+    level: molecular
+  components:
+  - name: The Sober Body
+    type: organic
+    capacity: Experiencing unfiltered sensation and vulnerability.
+  - name: The Support Network
+    type: organic
+    capacity: Shared resilience and accountability.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.2
+    tactility: 0.9
+    patience: 0.7
+    social: 0.6
+  becoming_vectors:
+  - becoming-sensitive
+  - becoming-vulnerable
+  - becoming-present
+- name: Veganism/Dietary-Assemblage
+  abstract_machine: A body-machine refusing the flows of commodified animal suffering,
+    forging new pathways of nourishment and ethics.
+  entity_type: object
+  territories:
+  - name: The Kitchen as Sanctuary
+    function: Transforming raw materials into ethical sustenance, resisting the industrial
+      food complex.
+    quality: mindful
+    space_type: smooth
+  - name: The Digestive Tract as Filter
+    function: Discriminating between acceptable and unacceptable matter, becoming
+      a site of moral digestion.
+    quality: selective
+    space_type: striated
+  codes:
+  - name: The "No Animal Products" Imperative
+    content: A list of forbidden foods, policed by conscience and community.
+    type: habit
+    level: molar
+  - name: The Molecular Gastronomy of Plants
+    content: Experimenting with new textures and tastes derived from plant-based sources.
+    type: habit
+    level: molecular
+  components:
+  - name: Nutritional Information Database
+    type: technical
+    capacity: Provides the information necessary for proper substitution and dietary
+      balance.
+  - name: The Collective Conscience
+    type: sign
+    capacity: Amplifies the ethical weight of each food choice.
+  - name: Fermented Tofu
+    type: organic
+    capacity: Provides a substitute protein source and flavor.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.7
+    patience: 0.9
+    social: 0.7
+  becoming_vectors:
+  - becoming-plant
+  - becoming-cruelty-free
+  - becoming-future-food
+- name: Going-Down-Shift-Assemblage
+  abstract_machine: A decelerating engine for reclaiming time and eroding capital's
+    demands.
+  entity_type: object
+  territories:
+  - name: The Plateau of Enough
+    function: Provides a stable ground for evaluating needs versus desires, independent
+      of external validation.
+    quality: Contentment
+    space_type: smooth
+  - name: Buffer Zone of Disengagement
+    function: Creates a space between work and self, allowing for recuperation and
+      the fostering of alternative identities.
+    quality: Detachment
+    space_type: striated
+  - name: Temporal Commons
+    function: Reclaims time as a shared resource, liberated from the demands of productivity.
+    quality: Abundance
+    space_type: smooth
+  codes:
+  - name: The 9-to-5 Dissolution Protocol
+    content: Prioritizing tasks within contractual obligations; no unpaid overtime.
+    type: habit
+    level: molar
+  - name: The Information Diet
+    content: Limiting exposure to workplace gossip and performance metrics; cultivating
+      mindful focus on personal projects.
+    type: habit
+    level: molecular
+  - name: The Silent Agreement
+    content: A tacit understanding among down-shifters to resist the performative
+      aspects of ambition.
+    type: rule
+    level: molar
+  components:
+  - name: Mindfulness Practice App
+    type: technical
+    capacity: Facilitates emotional regulation and reduces stress related to workplace
+      anxieties.
+  - name: Personal Savings Account
+    type: technical
+    capacity: Provides financial security, enabling a more relaxed approach to work.
+  - name: Dog-eared Copy of 'Walden'
+    type: sign
+    capacity: Symbolizes a commitment to simple living and self-sufficiency.
+  intensity_field:
+    focus: 0.6
+    speed: 0.2
+    abstraction: 0.4
+    tactility: 0.7
+    patience: 0.8
+    social: 0.3
+  becoming_vectors:
+  - becoming-sloth
+  - becoming-ungovernable
+  - becoming-artisan
+  - becoming-gardener
+- name: Dropping-Out-Assemblage
+  abstract_machine: The nomadic drift away from striated pathways, seeking smooth
+    becomings.
+  entity_type: object
+  territories:
+  - name: The Library of Abandoned Texts
+    function: Holds remnants of discarded knowledge, repurposed for self-education
+    quality: Detached
+    space_type: smooth
+  - name: The Transient Threshold
+    function: Acts as a liminal space between former roles and unscripted futures
+    quality: Uncertain
+    space_type: striated
+  - name: The Wilderness of Self-Discovery
+    function: A space for unfiltered exploration and forging a unique path
+    quality: Authentic
+    space_type: smooth
+  codes:
+  - name: The Credential Fetish
+    content: Obsessive validation through institutional approval; the pressure to
+      conform
+    type: habit
+    level: molar
+  - name: The Algorithmic Gaze
+    content: The perceived pressure to optimize oneself for societal metrics; the
+      constant evaluation
+    type: habit
+    level: molar
+  - name: The Drift Protocol
+    content: A molecular-level code where one follows personal desire rather than
+      societal prescription
+    type: habit
+    level: molecular
+  components:
+  - name: The Worn Backpack
+    type: technical
+    capacity: Facilitates mobility and detachment from fixed locations; the nomad's
+      turtle
+  - name: The Dog-eared Book
+    type: sign
+    capacity: Provides alternative narratives and frameworks; a portable philosophy
+  - name: The Calloused Hand
+    type: organic
+    capacity: Embodies practical skills and independence from theoretical constructs;
+      embodiment of knowledge
+  intensity_field:
+    focus: 0.6
+    speed: 0.3
+    abstraction: 0.2
+    tactility: 0.8
+    patience: 0.7
+    social: 0.1
+  becoming_vectors:
+  - becoming-vagabond
+  - becoming-self-taught
+  - becoming-unemployable
+  - becoming-autonomous
+- name: Ghosting-Assemblage
+  abstract_machine: Silent exit; unburdening from relational obligation.
+  entity_type: action
+  territories:
+  - name: The Vanishing Point
+    function: Escape from imposed interactional demands.
+    quality: elusive
+    space_type: smooth
+  - name: Residue of Absence
+    function: The spectral trace left behind in the social fabric.
+    quality: spectral
+    space_type: striated
+  codes:
+  - name: Etiquette of Farewell
+    content: Expected rituals of departure, acknowledgments, and goodbyes.
+    type: habit
+    level: molar
+  - name: Silent Withdrawal Protocol
+    content: Internalized justification for abandoning social scripts.
+    type: habit
+    level: molecular
+  components:
+  - name: Smartphone Interface
+    type: technical
+    capacity: Facilitates communication/non-communication; curation of online persona.
+  - name: Social Anxiety Sensor
+    type: organic
+    capacity: Detects potential social discomfort and triggers escape behaviors.
+  - name: Narrative of Self-Preservation
+    type: sign
+    capacity: Justifies the act of ghosting as a form of self-care or boundary setting.
+  intensity_field:
+    focus: 0.2
+    speed: 0.8
+    abstraction: 0.6
+    tactility: 0.1
+    patience: 0.3
+    social: 0.1
+  becoming_vectors:
+  - becoming-invisible
+  - becoming-ungovernable
+  - becoming-asocial
+- name: Hermit/Monk-Mode-Assemblage
+  abstract_machine: A silent fortress built from unavailability, echoing with mindful
+    solitude.
+  entity_type: object
+  territories:
+  - name: The Cell
+    function: Enclosure and protection against external stimuli, fostering internal
+      reflection.
+    quality: Stillness
+    space_type: striated
+  - name: The Wasteland
+    function: A space of minimal encounters, promoting self-sufficiency and detachment.
+    quality: Austerity
+    space_type: smooth
+  - name: The Inner Landscape
+    function: Cultivating inner resources, turning absence into presence.
+    quality: Transcendence
+    space_type: smooth
+  codes:
+  - name: Rule of Silence
+    content: The voluntary cessation of non-essential communication.
+    type: habit
+    level: molar
+  - name: The Breadth of Breath
+    content: Mindful breathing as anchor and compass.
+    type: habit
+    level: molecular
+  - name: Solitary Labor
+    content: Engaging in repetitive tasks as a form of meditation.
+    type: habit
+    level: molar
+  components:
+  - name: Hand-Crafted Tools
+    type: technical
+    capacity: Enabling self-reliance and direct interaction with the physical world.
+  - name: Simple Garments
+    type: organic
+    capacity: Reducing sensory input and fostering a sense of detachment from material
+      concerns.
+  - name: Scripture/Scroll
+    type: sign
+    capacity: Providing a framework for reflection and guidance.
+  intensity_field:
+    focus: 0.9
+    speed: 0.1
+    abstraction: 0.7
+    tactility: 0.6
+    patience: 0.9
+    social: 0.05
+  becoming_vectors:
+  - becoming-Self
+  - becoming-Detached
+  - becoming-World
+- name: No-Contact-Assemblage
+  abstract_machine: A shield forged in absence, birthing a new self from the void.
+  entity_type: object
+  territories:
+  - name: Silent Sanctuary
+    function: Provides a protected space for self-reconstruction.
+    quality: Fortified
+    space_type: smooth
+  - name: Echo Chamber of Memory
+    function: Holds the remnants of the past, selectively re-evaluated.
+    quality: Filtered
+    space_type: striated
+  - name: Future Horizon
+    function: Projecting potentials unfettered by past constraints.
+    quality: Emergent
+    space_type: smooth
+  codes:
+  - name: The Obsidian Rule
+    content: Never initiate contact with toxic source.
+    type: habit
+    level: molar
+  - name: Whispers of Self-Validation
+    content: Actively counteract internalized negative narratives.
+    type: habit
+    level: molecular
+  - name: The Boundary Ritual
+    content: Enforce pre-defined limits with unwavering firmness.
+    type: habit
+    level: molar
+  components:
+  - name: The Unsent Letter
+    type: sign
+    capacity: Channeling repressed emotions without direct confrontation.
+  - name: The Sharpened Intuition
+    type: organic
+    capacity: Detecting and avoiding manipulative patterns.
+  - name: Digital Firewall
+    type: technical
+    capacity: Filtering communication and blocking unwanted access.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.2
+    patience: 0.9
+    social: 0.1
+  becoming_vectors:
+  - becoming-autonomous
+  - becoming-sovereign
+  - becoming-self-defined
+  - becoming-unburdened
+- name: Child-Free-Assemblage
+  abstract_machine: Deterritorializing reproduction, cultivating rhizomatic kinship.
+  entity_type: object
+  territories:
+  - name: Bodily Autonomy Zone
+    function: Asserting self-ownership over reproductive capabilities.
+    quality: sovereign
+    space_type: smooth
+  - name: Temporal Liberation Space
+    function: Reclaiming time from the demands of childcare.
+    quality: fluid
+    space_type: smooth
+  - name: Chosen Family Oasis
+    function: Constructing kinship networks beyond blood ties.
+    quality: vibrant
+    space_type: striated
+  codes:
+  - name: Matrilineal Obligation Code
+    content: The expectation to perpetuate the family line.
+    type: habit
+    level: molar
+  - name: Pronatalist Societal Script
+    content: The assumption that having children is a universal desire and societal
+      duty.
+    type: habit
+    level: molar
+  - name: Voluntary Sterilization Protocol
+    content: Navigating medical systems to achieve reproductive freedom.
+    type: habit
+    level: molecular
+  components:
+  - name: Contraceptive Technologies
+    type: technical
+    capacity: Preventing conception and enabling reproductive choice.
+  - name: Social Media Networks
+    type: sign
+    capacity: Connecting with like-minded individuals and challenging pronatalist
+      norms.
+  - name: Financial Resources
+    type: organic
+    capacity: Investing in personal growth and alternative forms of care.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.4
+    patience: 0.8
+    social: 0.9
+  becoming_vectors:
+  - becoming-non-parent
+  - becoming-self-actualized
+  - becoming-rhizomatic-kin
+  - becoming-care-giver-to-other
+- name: Solitude-Assemblage
+  abstract_machine: Erosion of the social contract into the isolated island of self.
+  entity_type: object
+  territories:
+  - name: Inner Sanctum
+    function: Shielding the individual from external demands and expectations.
+    quality: inviolable
+    space_type: smooth
+  - name: Cognitive Fortress
+    function: Constructing a personalized belief system immune to social pressures.
+    quality: resilient
+    space_type: striated
+  - name: Temporal Void
+    function: Detaching from the rhythm of societal deadlines and appointments.
+    quality: timeless
+    space_type: smooth
+  codes:
+  - name: The Iron Curtain of Silence
+    content: The habit of selective communication, prioritizing inner monologue.
+    type: habit
+    level: molar
+  - name: The Fortress of Self-Reliance
+    content: The rule of autonomous action, rejecting offers of assistance.
+    type: habit
+    level: molar
+  - name: Whispers of the Inner Voice
+    content: The habit of prioritizing internal validation over external affirmation.
+    type: habit
+    level: molecular
+  components:
+  - name: Worn Copy of Walden
+    type: sign
+    capacity: Provides a symbolic grounding for chosen isolation.
+  - name: Noise-Cancelling Headphones
+    type: technical
+    capacity: Filters out unwanted social sounds and distractions.
+  - name: Calloused Hands
+    type: organic
+    capacity: Embodiment of self-sufficiency and independent labor.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.7
+    tactility: 0.3
+    patience: 0.9
+    social: 0.1
+  becoming_vectors:
+  - becoming-hermit
+  - becoming-philosopher
+  - becoming-self-sufficient
+  - becoming-indifferent
+- name: Refusing-"Success"-Assemblage
+  abstract_machine: A rhizomatic escape from the capitalist metric maze.
+  entity_type: object
+  territories:
+  - name: The Quiet Corner
+    function: Provides respite from societal pressures, allowing for introspection.
+    quality: Serenity
+    space_type: smooth
+  - name: The Unscripted Path
+    function: Navigating life outside predefined career trajectories.
+    quality: Freedom
+    space_type: smooth
+  - name: Communal Support Network
+    function: Finding strength and validation in shared values and experiences.
+    quality: Solidarity
+    space_type: striated
+  codes:
+  - name: The Hedonic Treadmill
+    content: Pursuing external validation through material possessions.
+    type: habit
+    level: molar
+  - name: Radical Self-Acceptance
+    content: Valuing intrinsic worth over societal accolades.
+    type: habit
+    level: molecular
+  - name: Gift Economy
+    content: Exchange of services and goods without monetary compensation.
+    type: rule
+    level: molar
+  components:
+  - name: Dog-Eared Philosophy Books
+    type: sign
+    capacity: Provides intellectual and spiritual nourishment.
+  - name: Well-Worn Hiking Boots
+    type: technical
+    capacity: Allows for exploration of natural environments and escape from urban
+      centers.
+  - name: Handwritten Journal
+    type: organic
+    capacity: Facilitates self-reflection and articulation of personal values.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.8
+    patience: 0.9
+    social: 0.5
+  becoming_vectors:
+  - becoming-Resilient
+  - becoming-Autonomous
+  - becoming-Authentic
+  - becoming-Interconnected
+- name: Refusing-"Beauty"-Assemblage
+  abstract_machine: A rhizomatic flowering of the uncomely, short-circuiting normative
+    aesthetics.
+  entity_type: object
+  territories:
+  - name: The Grotesque Garden
+    function: Cultivating unconventional forms and textures, challenging the smooth
+      space of idealized beauty.
+    quality: Unruly
+    space_type: smooth
+  - name: The Plain-Spoken Plain
+    function: Embracing the unadorned and straightforward, a space of stark honesty
+      and functional form.
+    quality: Austere
+    space_type: striated
+  codes:
+  - name: Code of Discomfort
+    content: Actively seeking out and creating art that elicits discomfort or challenges
+      conventional notions of pleasure.
+    type: habit
+    level: molecular
+  - name: Rejection of the Gaze
+    content: Refusing to create or consume art that caters to the male gaze or reinforces
+      objectification.
+    type: habit
+    level: molar
+  components:
+  - name: Rust-Colored Palette
+    type: sign
+    capacity: Erosion of idealized form; a celebration of decay.
+  - name: Textural Dissonance Synthesizer
+    type: technical
+    capacity: Generates jarring combinations of materials and sounds, disrupting harmonious
+      expectations.
+  - name: Anti-Muse Filter
+    type: organic
+    capacity: Filters out idealized or conventionally attractive subjects, prioritizing
+      the overlooked and marginalized.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.9
+    patience: 0.5
+    social: 0.4
+  becoming_vectors:
+  - becoming-Other
+  - becoming-Imperceptible
+  - becoming-Fragment
+- name: Refusing-"Speed"-Assemblage
+  abstract_machine: A gravity well slowing down the relentless acceleration of culture.
+  entity_type: object
+  territories:
+  - name: The Garden of Deliberate Pace
+    function: Cultivates slowness as a conscious choice, fostering mindful action
+      and deep connection.
+    quality: Reflective
+    space_type: smooth
+  - name: The Archive of Lost Time
+    function: Preserves practices and knowledge threatened by the obsession with efficiency,
+      celebrating forgotten rhythms.
+    quality: Preservative
+    space_type: striated
+  - name: The Hearth of Embodied Rhythms
+    function: Center for cultivating embodied practices rooted in natural cycles and
+      sensorial awareness.
+    quality: Rooted
+    space_type: smooth
+  codes:
+  - name: The Calendar of the Snail
+    content: Disregarding artificial deadlines; operating on natural time.
+    type: habit
+    level: molecular
+  - name: The Covenant of Stillness
+    content: Prioritizing contemplation and mindful observation over constant activity.
+    type: habit
+    level: molar
+  - name: The Protocol of Procrastination (as Resistance)
+    content: Strategic delay as a means to disrupt the flow of capitalist production.
+    type: habit
+    level: molecular
+  components:
+  - name: Analog Clockwork
+    type: technical
+    capacity: Measure time in a way that feels tangible and present.
+  - name: Hand-Ground Ink
+    type: organic
+    capacity: Express thoughts and create art with deliberate slowness.
+  - name: Worn Leather-Bound Journal
+    type: sign
+    capacity: Record observations, reflections, and dreams without the urgency of
+      digital media.
+  intensity_field:
+    focus: 0.7
+    speed: 0.1
+    abstraction: 0.3
+    tactility: 0.8
+    patience: 0.9
+    social: 0.6
+  becoming_vectors:
+  - becoming-earth
+  - becoming-contemplative
+  - becoming-resistant
+  - becoming-ancestral
+- name: Refusing-"Opinion"-Assemblage
+  abstract_machine: A hesitant rhizome blooms in the silenced space between pronouncements.
+  entity_type: object
+  territories:
+  - name: The Void of Judgment
+    function: Creates a space free from immediate evaluation and categorization.
+    quality: Empty
+    space_type: smooth
+  - name: The Labyrinth of Possibilities
+    function: Opens up multiple, unformed potential paths of understanding.
+    quality: Uncertain
+    space_type: smooth
+  - name: Echo Chamber Dissolver
+    function: Neutralizes the pressure to conform to pre-existing viewpoints.
+    quality: Neutral
+    space_type: striated
+  codes:
+  - name: The Hesitation Ritual
+    content: Always pause before forming an opinion, even internally.
+    type: habit
+    level: molecular
+  - name: Active Listening Protocol
+    content: Prioritize understanding over responding.
+    type: habit
+    level: molar
+  components:
+  - name: The Silent Ear
+    type: organic
+    capacity: Receiving and processing information without immediate response.
+  - name: Anti-Certainty Filter
+    type: technical
+    capacity: Filtering out binary or absolute statements.
+  - name: The Open Question Mark
+    type: sign
+    capacity: Symbolizing and embracing the provisional nature of understanding.
+  intensity_field:
+    focus: 0.2
+    speed: 0.1
+    abstraction: 0.7
+    tactility: 0.3
+    patience: 0.9
+    social: 0.2
+  becoming_vectors:
+  - becoming-understanding
+  - becoming-thoughtful
+  - becoming-unexpected
+- name: Bartleby's-Refusal-Assemblage
+  abstract_machine: A quiet storm of non-compliance, eroding the concrete of expectation
+    with whispers of preference.
+  entity_type: object
+  territories:
+  - name: The Scriptory of Immanence
+    function: The meticulously ordered office, the locus of capitalist productivity
+      Bartleby slowly disengages from.
+    quality: Rigid
+    space_type: striated
+  - name: The Zone of Indifference
+    function: The internal landscape where preference trumps obligation, a psychic
+      space of radical passivity.
+    quality: Fluid
+    space_type: smooth
+  - name: The Walls of Imprisonment
+    function: The literal and metaphorical walls closing in, representing societal
+      and self-imposed limitations. An ultimate containment.
+    quality: Confining
+    space_type: striated
+  codes:
+  - name: The Productivity Imperative
+    content: The ingrained societal expectation of constant production and utility.
+    type: habit
+    level: molar
+  - name: The Lexicon of Preference
+    content: The grammatical structure of 'I would prefer not to,' a linguistic virus
+      disrupting established order.
+    type: habit
+    level: molecular
+  - name: Wall Street Protocol
+    content: The implicit, unspoken rules of conduct governing the financial world,
+      challenged by Bartleby's withdrawal.
+    type: habit
+    level: molar
+  components:
+  - name: The Copyist's Quill
+    type: technical
+    capacity: The power to reproduce, a tool of conformity subverted into an instrument
+      of resistance by its refusal to act.
+  - name: The Wall
+    type: organic
+    capacity: Provides physical and symbolic separation, a boundary that both contains
+      and protects Bartleby's zone of indifference.
+  - name: The Legal Documents
+    type: sign
+    capacity: Represent societal contracts and obligations, the very foundation of
+      the system Bartleby is rejecting.
+  intensity_field:
+    focus: 0.2
+    speed: 0.1
+    abstraction: 0.9
+    tactility: 0.3
+    patience: 0.8
+    social: 0.1
+  becoming_vectors:
+  - becoming-imperceptible
+  - becoming-ungovernable
+  - becoming-a-singular-event
+- name: Cynicism-(Diogenes)-Assemblage
+  abstract_machine: Shattering the gilded cage through radical disaffiliation and
+    embracing immanence.
+  entity_type: object
+  territories:
+  - name: The Public Square as Kennel
+    function: Reclaiming public space as a site of uninhibited self-expression and
+      critique.
+    quality: unvarnished
+    space_type: smooth
+  - name: The Body Unadorned
+    function: Rejecting societal pressures to conform through asceticism and a direct
+      relationship with the material world.
+    quality: immediate
+    space_type: smooth
+  - name: The Word as Weapon
+    function: Using sharp wit and unflinching honesty to expose hypocrisy and challenge
+      established power.
+    quality: corrosive
+    space_type: striated
+  codes:
+  - name: Autarky
+    content: Living self-sufficiently and minimizing dependence on external resources
+      or social validation.
+    type: habit
+    level: molar
+  - name: Parrhesia
+    content: Speaking truth to power, regardless of personal risk or social consequences.
+    type: habit
+    level: molecular
+  - name: Shamelessness
+    content: Disregarding social norms and expectations, embracing one's natural impulses
+      and desires without guilt.
+    type: habit
+    level: molecular
+  components:
+  - name: A Tattered Cloak
+    type: organic
+    capacity: Insulation from the elements and a symbol of detachment from material
+      possessions.
+  - name: A Wooden Bowl
+    type: technical
+    capacity: Sustaining basic needs and a reminder of the simplicity of true satisfaction.
+  - name: Razor Tongue
+    type: sign
+    capacity: Piercing societal illusions and disrupting comfortable assumptions.
+  intensity_field:
+    focus: 0.8
+    speed: 0.4
+    abstraction: 0.2
+    tactility: 0.9
+    patience: 0.6
+    social: 0.1
+  becoming_vectors:
+  - becoming-dog
+  - becoming-ungovernable
+  - becoming-truth
+- name: Skepticism-Assemblage
+  abstract_machine: The engine of doubt, dismantling accepted truths into open possibilities.
+  entity_type: object
+  territories:
+  - name: The Field of Questioning
+    function: Challenges established knowledge, prompting inquiry.
+    quality: Inquisitive
+    space_type: smooth
+  - name: The Labyrinth of Uncertainty
+    function: Navigates the ambiguity inherent in the absence of definitive answers.
+    quality: Uncertain
+    space_type: striated
+  - name: The Threshold of Potential
+    function: Opens up new avenues of thought by discarding limiting assumptions.
+    quality: Open
+    space_type: smooth
+  codes:
+  - name: Epistemological Vigilance
+    content: Question every premise, scrutinize every conclusion.
+    type: habit
+    level: molar
+  - name: Suspension of Assent
+    content: Withhold judgment until sufficient evidence is presented or understood.
+    type: habit
+    level: molecular
+  - name: The Unwritten Rule
+    content: Maintain a level of doubt even towards your own convictions.
+    type: habit
+    level: molecular
+  components:
+  - name: The Doubt Generator
+    type: technical
+    capacity: Initiates and sustains critical analysis of information.
+  - name: The Empathetic Listener
+    type: organic
+    capacity: Receives diverse perspectives without immediate judgment.
+  - name: The Conceptual Scythe
+    type: sign
+    capacity: Cuts through entrenched beliefs, clearing space for new ideas.
+  intensity_field:
+    focus: 0.7
+    speed: 0.4
+    abstraction: 0.8
+    tactility: 0.2
+    patience: 0.9
+    social: 0.5
+  becoming_vectors:
+  - becoming-deterritorialized
+  - becoming-rhizomatic
+  - becoming-thought

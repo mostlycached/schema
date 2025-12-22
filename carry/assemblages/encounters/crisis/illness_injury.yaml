@@ -1,0 +1,902 @@
+assemblages:
+- name: Chronic-Fatigue-/-Long-COVID-Assemblage
+  abstract_machine: The weary body whispers new rhythms, forging resilience in a world
+    demanding constant output.
+  entity_type: object
+  territories:
+  - name: The Bedroom Sanctuary
+    function: A haven for enforced rest, a space of limit and acceptance.
+    quality: Stillness
+    space_type: smooth
+  - name: The Labyrinth of Symptoms
+    function: Navigating the unpredictable flares and remissions of illness.
+    quality: Uncertainty
+    space_type: striated
+  - name: The Online Support Group
+    function: A virtual space for shared experience, validation, and collective coping
+      strategies.
+    quality: Solidarity
+    space_type: smooth
+  codes:
+  - name: The Pacing Rule
+    content: Conserving energy by breaking down tasks into smaller, manageable chunks,
+      alternating activity with rest.
+    type: habit
+    level: molar
+  - name: The Crash Cycle
+    content: Overexertion leading to amplified symptoms, a self-inflicted consequence
+      of exceeding energy limits.
+    type: habit
+    level: molar
+  - name: The Symptom Diary
+    content: Tracking fluctuations in symptoms to identify patterns and potential
+      triggers.
+    type: habit
+    level: molecular
+  components:
+  - name: The Smartwatch
+    type: technical
+    capacity: Monitoring heart rate variability and sleep patterns to provide data
+      on energy expenditure and recovery.
+  - name: The Weighted Blanket
+    type: organic
+    capacity: Providing deep pressure stimulation to soothe the nervous system and
+      promote relaxation.
+  - name: The Self-Compassion Mantra
+    type: sign
+    capacity: Shifting from self-blame to acceptance and kindness during periods of
+      fatigue.
+  intensity_field:
+    focus: 0.3
+    speed: 0.1
+    abstraction: 0.6
+    tactility: 0.8
+    patience: 0.9
+    social: 0.5
+  becoming_vectors:
+  - becoming-patient
+  - becoming-resilient
+  - becoming-attuned-to-body
+  - becoming-advocate
+- name: Autoimmune-Disorders-Assemblage
+  abstract_machine: The self-devouring ouroboros, rewritten in flesh and code.
+  entity_type: object
+  territories:
+  - name: The Cytokine Storm
+    function: A flooded landscape of inflammatory signals, where distinction blurs
+      and boundaries dissolve.
+    quality: Chaotic
+    space_type: smooth
+  - name: The Mutable Self
+    function: A protean identity, constantly shifting under the internal assault,
+      a topography carved by antibodies.
+    quality: Unstable
+    space_type: striated
+  - name: The Pharmaceutical Fortress
+    function: A constructed environment of immunosuppressants, seeking to contain
+      the rebellion, a fragile peace maintained by constant vigilance.
+    quality: Precarious
+    space_type: striated
+  codes:
+  - name: Flare-Up Rituals
+    content: The routines of medication, rest, and avoidance, a choreography of damage
+      control.
+    type: habit
+    level: molar
+  - name: Cellular Betrayal
+    content: The autoimmune response itself, a molecular misidentification, a rogue
+      algorithm rewriting the body's code.
+    type: habit
+    level: molecular
+  - name: Silence & Stigma
+    content: The unspoken language of chronic pain, the isolation born from invisible
+      wounds, the coded vocabulary of suffering.
+    type: habit
+    level: molar
+  components:
+  - name: Inflamed Tissue
+    type: organic
+    capacity: To broadcast pain signals, to leak fluid, to resist movement; the body
+      as a faulty transmitter.
+  - name: Immunosuppressant Drugs
+    type: technical
+    capacity: To modulate the immune system, to suppress inflammation, to introduce
+      new forms of dependency.
+  - name: Medical Discourse
+    type: sign
+    capacity: To diagnose, categorize, and manage the illness, a narrative that shapes
+      the lived experience.
+  intensity_field:
+    focus: 0.6
+    speed: 0.8
+    abstraction: 0.3
+    tactility: 0.9
+    patience: 0.2
+    social: 0.5
+  becoming_vectors:
+  - becoming-disabled
+  - becoming-pharmaceutically-dependent
+  - becoming-chronically-ill
+  - becoming-alien
+- name: Migraines-Assemblage
+  abstract_machine: A rhizomatic flight from light, sound, and social expectation,
+    seeking refuge in the dark matter of sensation.
+  entity_type: object
+  territories:
+  - name: The Aural Fortress
+    function: Shielding from overwhelming sonic intrusions, a fragile acoustic bubble.
+    quality: fragile
+    space_type: striated
+  - name: The Visual Cave
+    function: Darkness as a defense against the aggressive onslaught of light; a sensory
+      blackout.
+    quality: protective
+    space_type: smooth
+  - name: The Bodily Interior
+    function: A turning inward to the throbbing, the pressure, the embodied suffering;
+      a proprioceptive intensification.
+    quality: raw
+    space_type: smooth
+  codes:
+  - name: The Retreat Ritual
+    content: Seeking darkened rooms, silencing devices, and canceling obligations
+      at the onset of symptoms.
+    type: habit
+    level: molar
+  - name: The Pharmacological Protocol
+    content: Administering prescribed medications and over-the-counter remedies to
+      mitigate pain and sensory overload.
+    type: habit
+    level: molar
+  - name: The Bodily Attunement
+    content: Developing a heightened sensitivity to prodromal signs and potential
+      triggers.
+    type: habit
+    level: molecular
+  components:
+  - name: Blackout Curtains
+    type: technical
+    capacity: Filtering and blocking harsh external light sources
+  - name: Pain Medications
+    type: organic
+    capacity: Modulating pain signals and inflammatory responses within the body
+  - name: Noise-Canceling Headphones
+    type: technical
+    capacity: Filtering and neutralizing external auditory disturbances
+  intensity_field:
+    focus: 0.2
+    speed: 0.8
+    abstraction: 0.1
+    tactility: 0.9
+    patience: 0.3
+    social: 0.1
+  becoming_vectors:
+  - becoming-sensory-deprivation
+  - becoming-chronically-ill
+  - becoming-inward
+- name: Digestive-Disorders-Assemblage
+  abstract_machine: A nomadic digestion, a constant recalibration of self through
+    refusal and micro-negotiation.
+  entity_type: object
+  territories:
+  - name: Gut-Biome-Territory
+    function: Internal landscape of microbial life, a fluctuating ecosystem demanding
+      specific inputs.
+    quality: volatile
+    space_type: smooth
+  - name: The-Dietary-Regime-Territory
+    function: A constructed, often rigid, framework of permitted and prohibited foods,
+      a personal cartography of ingestion.
+    quality: striated
+    space_type: striated
+  - name: Symptom-Tracking-Territory
+    function: The meticulous mapping of internal sensations, a constant data stream
+      informing the dietary regime.
+    quality: vigilant
+    space_type: smooth
+  codes:
+  - name: Elimination-Code
+    content: The compulsive charting and judging of bowel movements.
+    type: habit
+    level: molecular
+  - name: Ingredient-List-Code
+    content: The ritualistic scrutiny of every label, a hyper-awareness of potential
+      threats.
+    type: habit
+    level: molar
+  - name: Avoidance-Code
+    content: The systematic exclusion of entire food groups, based on perceived or
+      experienced reactions.
+    type: habit
+    level: molar
+  components:
+  - name: Food-Diary
+    type: sign
+    capacity: Enables self-surveillance and the illusion of control over the body's
+      processes.
+  - name: Probiotic-Supplement
+    type: technical
+    capacity: Modulates the gut biome, a technical intervention in a complex ecology.
+  - name: Inflamed-Intestine
+    type: organic
+    capacity: Generates pain signals, dictating dietary choices and limiting social
+      participation.
+  intensity_field:
+    focus: 0.9
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.8
+    patience: 0.2
+    social: 0.4
+  becoming_vectors:
+  - becoming-aware-of-internal-processes
+  - becoming-sensitive-to-food-textures
+  - becoming-nomadic-with-diet
+  - becoming-deterritorialized-from-social-eating
+- name: Fevers-Assemblage
+  abstract_machine: A burning engine forging new paths through the fractured landscape
+    of self.
+  entity_type: object
+  territories:
+  - name: Skin-Territory
+    function: Acts as the initial interface for heat exchange and sensation.
+    quality: flushed
+    space_type: striated
+  - name: Brain-Territory
+    function: The site of cognitive disruption and hallucinatory production.
+    quality: feverish
+    space_type: smooth
+  - name: Immune-Territory
+    function: The battleground of biological insurgency.
+    quality: vigilant
+    space_type: striated
+  codes:
+  - name: Homeostasis-Code
+    content: Maintain internal temperature at 37°C.
+    type: habit
+    level: molar
+  - name: Neuronal-Firing-Code
+    content: Synapses fire in patterns shaped by heightened metabolic activity.
+    type: habit
+    level: molecular
+  - name: Comfort-Code
+    content: Seek cool environments, hydration, and rest.
+    type: habit
+    level: molar
+  components:
+  - name: Thermometer
+    type: technical
+    capacity: Quantifies the intensity of the thermal shift.
+  - name: Cytokines
+    type: organic
+    capacity: Orchestrates the inflammatory response.
+  - name: Delirious-Image
+    type: sign
+    capacity: Visualizes internal conflicts and potential resolutions.
+  intensity_field:
+    focus: 0.3
+    speed: 0.8
+    abstraction: 0.6
+    tactility: 0.9
+    patience: 0.2
+    social: 0.4
+  becoming_vectors:
+  - becoming-other
+  - becoming-vulnerable
+  - becoming-resilient
+- name: Infections-Assemblage
+  abstract_machine: A porous siege, a viral symphony of self and other.
+  entity_type: object
+  territories:
+  - name: Cellular-Self
+    function: Maintains internal homeostasis; distinguishes self from non-self.
+    quality: Resilient
+    space_type: striated
+  - name: Microbial-Ecology
+    function: Hosts diverse populations of microorganisms in symbiotic balance.
+    quality: Symbiotic
+    space_type: smooth
+  - name: Inflammatory-Response
+    function: Attempts to re-establish homeostasis after pathogenic invasion.
+    quality: Reactive
+    space_type: striated
+  codes:
+  - name: Genetic-Markers
+    content: The 'self' identifiers of host cells, sometimes mimicked by pathogens.
+    type: habit
+    level: molar
+  - name: Viral-Replication
+    content: The pathogen's program for self-propagation within the host.
+    type: habit
+    level: molecular
+  components:
+  - name: Immune-Cells
+    type: organic
+    capacity: Detection and neutralization of foreign bodies.
+  - name: Viral-Proteins
+    type: technical
+    capacity: Cellular manipulation and replication hijacking.
+  - name: Bodily-Fluids
+    type: organic
+    capacity: Transmission vectors for infectious agents.
+  intensity_field:
+    focus: 0.7
+    speed: 0.9
+    abstraction: 0.3
+    tactility: 0.8
+    patience: 0.2
+    social: 0.6
+  becoming_vectors:
+  - becoming-symptomatic
+  - becoming-immune
+  - becoming-chronic
+  - becoming-resistant
+- name: Surgery-Assemblage
+  abstract_machine: Orchestrated breach and mending; a temporary dis-organization
+    for potential re-organization.
+  entity_type: object
+  territories:
+  - name: Operating Room
+    function: Aseptic battlefield for anatomical intervention.
+    quality: sterile
+    space_type: striated
+  - name: Anesthetic Dreamscape
+    function: A space of suspended subjectivity, a temporary oblivion.
+    quality: vacant
+    space_type: smooth
+  - name: Convalescence Ward
+    function: Site of bodily re-territorialization and renewed subjectivity.
+    quality: fragile
+    space_type: striated
+  codes:
+  - name: Surgical Protocol
+    content: The sequenced actions dictating the procedure's execution.
+    type: habit
+    level: molar
+  - name: Antibiotic Regime
+    content: The chemical suppression of opportunistic infection.
+    type: habit
+    level: molecular
+  - name: Pain Management
+    content: The measured distribution of analgesics to control discomfort.
+    type: habit
+    level: molar
+  components:
+  - name: Scalpel
+    type: technical
+    capacity: Precise anatomical incision and dissection.
+  - name: Anesthetic Agent
+    type: organic
+    capacity: Reversible suspension of consciousness and sensation.
+  - name: Monitoring Equipment
+    type: technical
+    capacity: Constant surveillance of vital physiological parameters.
+  intensity_field:
+    focus: 0.9
+    speed: 0.6
+    abstraction: 0.7
+    tactility: 0.8
+    patience: 0.9
+    social: 0.3
+  becoming_vectors:
+  - becoming-healed
+  - becoming-scarred
+  - becoming-other-than-before
+- name: Depression-Assemblage
+  abstract_machine: A black hole swallowing affect, leaving only gravitational despair.
+  entity_type: object
+  territories:
+  - name: The Unresponsive Body
+    function: Inhibits movement, enforces stasis, feels alien.
+    quality: Inertia
+    space_type: striated
+  - name: The Grayed Perception
+    function: Filters out joy, amplifies negativity, diminishes beauty.
+    quality: Numbness
+    space_type: smooth
+  - name: Chronos's Slowed Embrace
+    function: Time stretches into an unbearable continuum, void of expectation.
+    quality: Stagnation
+    space_type: smooth
+  codes:
+  - name: Bedridden Ritual
+    content: The imperative to remain supine, avoiding external stimuli.
+    type: habit
+    level: molar
+  - name: Negative Self-Talk Script
+    content: Constant reinforcement of personal inadequacy and worthlessness.
+    type: habit
+    level: molecular
+  - name: Social Isolation Protocol
+    content: Withdrawing from connections, cutting off support networks.
+    type: habit
+    level: molar
+  components:
+  - name: Serotonin Deficiency
+    type: organic
+    capacity: Reduces neural transmission of positive affect and motivation.
+  - name: Social Media Doomscroll
+    type: technical
+    capacity: Amplifies feelings of inadequacy and despair through comparison.
+  - name: The Inner Critic
+    type: sign
+    capacity: Perpetuates a narrative of failure and self-blame.
+  intensity_field:
+    focus: 0.2
+    speed: 0.1
+    abstraction: 0.7
+    tactility: 0.3
+    patience: 0.2
+    social: 0.05
+  becoming_vectors:
+  - becoming-stone
+  - becoming-echo
+  - becoming-nothing
+- name: Anxiety/Panic-Assemblage
+  abstract_machine: A runaway clockwork heart, choking on its own future.
+  entity_type: process
+  territories:
+  - name: The Chronos Cage
+    function: Imprisons experience within perceived temporal distortion.
+    quality: frantic
+    space_type: striated
+  - name: The Suffocation Chamber
+    function: Renders breath shallow and insufficient, a constant reminder of mortality.
+    quality: stifled
+    space_type: striated
+  - name: Catastrophic Theatre
+    function: Projects worst-case scenarios onto the present, blurring reality and
+      dread.
+    quality: amplified
+    space_type: smooth
+  codes:
+  - name: The Hypervigilance Protocol
+    content: Scan relentlessly for threats, real or imagined, amplifying any anomaly.
+    type: habit
+    level: molecular
+  - name: The Escape Reflex
+    content: Withdraw from the present, seeking refuge in dissociation or flight.
+    type: habit
+    level: molar
+  - name: The Perfect Performance Directive
+    content: Maintain flawless composure to mask inner turmoil.
+    type: rule
+    level: molar
+  components:
+  - name: Racing Heart Algorithm
+    type: organic
+    capacity: Propagates physiological anxiety signals.
+  - name: Rumination Loop
+    type: sign
+    capacity: Generates and reinforces negative thought patterns.
+  - name: Mobile Phone Screen
+    type: technical
+    capacity: Provides access to endless streams of potential threats.
+  intensity_field:
+    focus: 0.2
+    speed: 0.9
+    abstraction: 0.7
+    tactility: 0.3
+    patience: 0.1
+    social: 0.4
+  becoming_vectors:
+  - becoming-dissolution
+  - becoming-stillness
+  - becoming-present
+- name: Psychosis/Mania-Assemblage
+  abstract_machine: A meaning-deluge eroding the shores of shared perception.
+  entity_type: object
+  territories:
+  - name: Hallucinatory Theater
+    function: Projects sensory experiences divorced from external stimuli.
+    quality: kaleidoscopic
+    space_type: smooth
+  - name: Ideational Labyrinth
+    function: Constructs complex, interconnected belief systems, often grandiose or
+      paranoid.
+    quality: intricate
+    space_type: smooth
+  - name: Affective Volatility
+    function: Modulates and amplifies emotional responses beyond typical ranges.
+    quality: labile
+    space_type: smooth
+  codes:
+  - name: Flight of Ideas Protocol
+    content: Rapidly shifting topics in conversation, driven by associative links.
+    type: habit
+    level: molar
+  - name: Referential Interpretation Routine
+    content: Attributing personal significance to random events and stimuli.
+    type: habit
+    level: molecular
+  - name: Hyper-Connectivity Algorithm
+    content: Overweighting perceived relationships between disparate concepts.
+    type: habit
+    level: molecular
+  components:
+  - name: Neurotransmitter Cascade
+    type: organic
+    capacity: Facilitates rapid and uninhibited synaptic transmission.
+  - name: Linguistic Generator
+    type: sign
+    capacity: Articulates novel metaphors and neologisms.
+  - name: Dopaminergic Circuit
+    type: organic
+    capacity: Amplifies reward-seeking behavior and feelings of euphoria.
+  intensity_field:
+    focus: 0.3
+    speed: 0.9
+    abstraction: 0.8
+    tactility: 0.2
+    patience: 0.1
+    social: 0.7
+  becoming_vectors:
+  - becoming-messianic
+  - becoming-delirious
+  - becoming-ungrounded
+  - becoming-visionary
+- name: Stroke/Aphasia-Assemblage
+  abstract_machine: The shattered mirror of meaning, reflecting only fragments.
+  entity_type: object
+  territories:
+  - name: Inner Landscape of Silence
+    function: Navigating the internal world devoid of external linguistic mapping.
+    quality: mute
+    space_type: smooth
+  - name: Bodily Expression Zone
+    function: Communicating through gesture, affect, and non-verbal cues.
+    quality: embodied
+    space_type: smooth
+  - name: Echo Chamber of Lost Words
+    function: The residue of language haunts the present, a phantom limb of communication.
+    quality: spectral
+    space_type: striated
+  codes:
+  - name: Grammatical Code
+    content: The internalized rules of syntax and morphology, now fragmented.
+    type: habit
+    level: molar
+  - name: Phonetic Code
+    content: The link between sound and meaning, disrupted and unreliable.
+    type: habit
+    level: molecular
+  - name: Social Script Code
+    content: Expected conversational turns and social language rituals.
+    type: habit
+    level: molar
+  components:
+  - name: Neural Pathways
+    type: organic
+    capacity: To re-wire, to forge new connections, to bypass the damaged zones.
+  - name: Caregiver's Support
+    type: sign
+    capacity: To interpret, to translate, to advocate.
+  - name: Communication Board
+    type: technical
+    capacity: To offer an alternate route for symbolic expression.
+  intensity_field:
+    focus: 0.3
+    speed: 0.2
+    abstraction: 0.1
+    tactility: 0.8
+    patience: 0.9
+    social: 0.6
+  becoming_vectors:
+  - becoming-other
+  - becoming-gesture
+  - becoming-song
+  - becoming-image
+- name: Back-Injury-Assemblage
+  abstract_machine: The body re-maps itself in a gravitational field of pain and limitation,
+    seeking new equilibriums.
+  entity_type: object
+  territories:
+  - name: Bed-Confinement
+    function: Offers a space of enforced rest and vulnerability, a temporary grounding.
+    quality: Inert
+    space_type: smooth
+  - name: Pain-Perception
+    function: Marks the boundaries of the injured territory, a subjective map of suffering.
+    quality: Sharp
+    space_type: striated
+  - name: Rehabilitation-Space
+    function: A terrain of structured movement and re-learning, aiming for functionality.
+    quality: Resilient
+    space_type: striated
+  codes:
+  - name: Postural-Avoidance
+    content: The instinctive bracing and contorting to evade pain triggers.
+    type: habit
+    level: molecular
+  - name: Medical-Protocol
+    content: The prescribed routines of medication, physiotherapy, and ergonomic adjustments.
+    type: habit
+    level: molar
+  - name: Dependency-Negotiation
+    content: The unspoken rules governing assistance sought and offered from others.
+    type: habit
+    level: molar
+  components:
+  - name: Muscle-Spasm
+    type: organic
+    capacity: Enforces immobility and amplifies pain signals.
+  - name: Painkillers
+    type: technical
+    capacity: Modulates pain perception, enabling temporary relief or numbing.
+  - name: Ergonomic-Chair
+    type: technical
+    capacity: Provides support and promotes better posture, reducing strain.
+  intensity_field:
+    focus: 0.6
+    speed: 0.2
+    abstraction: 0.3
+    tactility: 0.9
+    patience: 0.8
+    social: 0.5
+  becoming_vectors:
+  - becoming-flexible
+  - becoming-grounded
+  - becoming-resilient
+  - becoming-dependent
+- name: Broken-Bones-Assemblage
+  abstract_machine: A brittle architecture rebuilding itself through calcified whispers.
+  entity_type: object
+  territories:
+  - name: The Scaffold of Pain
+    function: Limits movement and enforces rest, a temporary prison built by injury.
+    quality: Restrictive
+    space_type: striated
+  - name: The Marrow's Whispers
+    function: A silent field where stem cells differentiate and rebuild bone matrix.
+    quality: Regenerative
+    space_type: smooth
+  - name: Scar Tissue Cartographies
+    function: The embodied memory of the fracture, a map of healing etched onto the
+      body.
+    quality: Palpable
+    space_type: striated
+  codes:
+  - name: The Calcium Imperative
+    content: Bones relentlessly draw calcium from the body for rebuilding, a biological
+      directive.
+    type: habit
+    level: molecular
+  - name: The Doctor's Decree
+    content: Abide by the cast, the brace, the imposed stillness for optimal healing.
+    type: habit
+    level: molar
+  components:
+  - name: The Plaster Cast
+    type: technical
+    capacity: Immobilization and external scaffolding, a temporary exoskeleton.
+  - name: Osteoblast Colonies
+    type: organic
+    capacity: New bone formation and matrix deposition.
+  - name: The X-Ray
+    type: sign
+    capacity: Revealing hidden fractures, a spectral portrait of internal damage.
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.5
+    tactility: 0.8
+    patience: 0.9
+    social: 0.4
+  becoming_vectors:
+  - becoming-resilient
+  - becoming-asymmetrical
+  - becoming-scarred
+- name: Joint-Injuries-(Knees,-Shoulders)-Assemblage
+  abstract_machine: A body scarred, a reach denied, a dance interrupted, a becoming-lame.
+  entity_type: object
+  territories:
+  - name: The Confined Bedroom
+    function: Withdrawal from active participation, a shrinking world defined by pain.
+    quality: Stasis
+    space_type: striated
+  - name: The Physical Therapy Clinic
+    function: Structured attempts to regain lost function, a ritualized battle against
+      entropy.
+    quality: Repair
+    space_type: striated
+  - name: Phantom Limb of Potential
+    function: The imagined ease of movement, the athlete's ghost, the dancer's memory.
+    quality: Loss
+    space_type: smooth
+  codes:
+  - name: The Pain Protocol
+    content: Avoidance of movement, bracing against anticipated pain, the fear of
+      re-injury.
+    type: habit
+    level: molar
+  - name: The Numbness Ritual
+    content: Application of ice packs, self-medication, attempts to diminish sensation.
+    type: habit
+    level: molecular
+  - name: Medical Industrial Complex
+    content: Doctor visits, prescriptions, navigating the medical system's expectations.
+    type: rule
+    level: molar
+  components:
+  - name: The Immobilizing Brace
+    type: technical
+    capacity: Restricting movement, enforcing stillness, a cage for the joint.
+  - name: The Pain Signal
+    type: organic
+    capacity: Communicating damage, triggering protective reflexes, a warning scream
+      from the body.
+  - name: Memory of Agility
+    type: sign
+    capacity: A haunting reminder of past capabilities, an idealized self, the ghost
+      in the machine.
+  intensity_field:
+    focus: 0.7
+    speed: 0.2
+    abstraction: 0.6
+    tactility: 0.9
+    patience: 0.8
+    social: 0.3
+  becoming_vectors:
+  - becoming-fragile
+  - becoming-resilient
+  - becoming-adaptive
+  - becoming-phantom
+- name: Concussion-Assemblage
+  abstract_machine: A shattered mirror reflecting warped reality.
+  entity_type: object
+  territories:
+  - name: Sensory Overload
+    function: Amplifies and distorts external stimuli, rendering them unbearable.
+    quality: Brittle
+    space_type: striated
+  - name: Cognitive Labyrinth
+    function: Obscures thought processes, creating disorientation and memory gaps.
+    quality: FOGGY
+    space_type: smooth
+  - name: The Inner Ear's Discord
+    function: Disrupts balance and spatial orientation, leading to nausea and dizziness.
+    quality: Unmoored
+    space_type: striated
+  codes:
+  - name: The Dark Room Protocol
+    content: Avoidance of light and visual stimulation to minimize discomfort.
+    type: habit
+    level: molar
+  - name: The Silent Retreat
+    content: Reduction of auditory input, creating a sanctuary from overwhelming sounds.
+    type: habit
+    level: molar
+  - name: Proprioceptive Drift
+    content: Subtle adjustments to posture and movement to compensate for dizziness.
+    type: habit
+    level: molecular
+  components:
+  - name: Damaged Neurons
+    type: organic
+    capacity: Reduced information processing and transmission.
+  - name: Protective Sunglasses
+    type: technical
+    capacity: Filtering intense light to alleviate visual strain.
+  - name: Muffled Earplugs
+    type: technical
+    capacity: Dampening overwhelming sounds for relative calm.
+  intensity_field:
+    focus: 0.2
+    speed: 0.3
+    abstraction: 0.1
+    tactility: 0.6
+    patience: 0.8
+    social: 0.2
+  becoming_vectors:
+  - becoming-fragile
+  - becoming-sensitive
+  - becoming-still
+- name: Burns-Assemblage
+  abstract_machine: Melting the self, forging a new threshold of sensation and relation.
+  entity_type: object
+  territories:
+  - name: The Wound
+    function: Marks the site of breached integrity, a map of destruction.
+    quality: Vulnerable
+    space_type: smooth
+  - name: The Scar
+    function: Represents healed (or improperly healed) tissue, a hardened palimpsest
+      of trauma.
+    quality: Resilient
+    space_type: striated
+  - name: The Pain-Body
+    function: Houses the lingering echoes of the burn, a phantom limb of suffering.
+    quality: Persistent
+    space_type: smooth
+  codes:
+  - name: Avoidance
+    content: Flinching, protecting the affected area from any further contact or stimulation.
+    type: habit
+    level: molar
+  - name: Hyper-Vigilance
+    content: A constant scanning of the environment for potential sources of danger,
+      preemptive anxiety.
+    type: habit
+    level: molecular
+  - name: Scarification Ritual
+    content: Deliberate alteration of healed tissue, reclaiming the body as art and
+      protest.
+    type: rule
+    level: molar
+  components:
+  - name: Damaged Tissue
+    type: organic
+    capacity: Limited capacity for sensation and protection; heightened sensitivity.
+  - name: Pain Receptors
+    type: organic
+    capacity: Overdrive sensitivity to stimuli, transmitting amplified signals.
+  - name: Medical Dressings
+    type: technical
+    capacity: Providing a temporary barrier against infection and mitigating pain.
+  intensity_field:
+    focus: 0.7
+    speed: 0.9
+    abstraction: 0.3
+    tactility: 1.0
+    patience: 0.2
+    social: 0.6
+  becoming_vectors:
+  - becoming-cicatrix
+  - becoming-phantom
+  - becoming-cyborg
+  - becoming-threshold
+- name: Amputation/Loss-of-Function-Assemblage
+  abstract_machine: A body forever composing with its vanished parts, a dance between
+    absence and lingering sensation.
+  entity_type: body
+  territories:
+  - name: The Scar
+    function: Marks the site of subtraction, a boundary between the body present and
+      the memory of the body whole.
+    quality: Cicatricial
+    space_type: striated
+  - name: Phantom Limb
+    function: A simulated territory, a neurological ghost-space where sensation persists
+      without a physical anchor.
+    quality: Elusive
+    space_type: smooth
+  - name: Adaptation
+    function: The (re)territorialization of the body around its new form, a learning
+      of new movements and possibilities.
+    quality: Resilient
+    space_type: smooth
+  codes:
+  - name: Pain Memory
+    content: The persistent recurrence of pain sensation in the absent limb, a coded
+      reminder of trauma.
+    type: habit
+    level: molecular
+  - name: Prosthetic Discipline
+    content: The behavioral code of integrating a prosthetic, learning its functionalities
+      and limitations.
+    type: habit
+    level: molar
+  components:
+  - name: Neurological Network
+    type: organic
+    capacity: The capacity for neuroplasticity, the re-wiring of the brain to accommodate
+      the altered body.
+  - name: Prosthetic Device
+    type: technical
+    capacity: The capacity to extend and augment the body's capabilities, compensating
+      for lost function.
+  - name: Memory Traces
+    type: sign
+    capacity: The capacity to evoke the sensory experience of the missing limb, shaping
+      perception and embodiment.
+  intensity_field:
+    focus: 0.6
+    speed: 0.4
+    abstraction: 0.8
+    tactility: 0.7
+    patience: 0.9
+    social: 0.5
+  becoming_vectors:
+  - becoming-cyborg
+  - becoming-other
+  - becoming-resilient

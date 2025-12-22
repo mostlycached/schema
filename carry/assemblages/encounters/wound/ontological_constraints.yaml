@@ -1,0 +1,744 @@
+assemblages:
+- name: The-Clock-Assemblage
+  abstract_machine: Tick-tock tyranny; severing becoming, solidifying the now.
+  entity_type: object
+  territories:
+  - name: The-Factory-Floor
+    function: Disciplining bodies to synchronized labor, optimizing output per measured
+      unit.
+    quality: relentless
+    space_type: striated
+  - name: The-Schoolhouse-Desk
+    function: Internalizing time as a scarce commodity, preparing children for industrial
+      conformity.
+    quality: formative
+    space_type: striated
+  - name: The-Wallet
+    function: Quantifying life as billable hours, attaching monetary value to moments.
+    quality: quantifiable
+    space_type: striated
+  codes:
+  - name: Punctuality
+    content: Arrive on time, or face the consequences. Time is money.
+    type: habit
+    level: molar
+  - name: Efficiency
+    content: Maximize productivity within the allotted timeframe. Waste is sinful.
+    type: habit
+    level: molar
+  - name: Scheduling
+    content: Allocate time blocks for specific tasks. Structure governs freedom.
+    type: rule
+    level: molar
+  components:
+  - name: Gearwork
+    type: technical
+    capacity: Dividing and standardizing temporal flow.
+  - name: The-Second-Hand
+    type: technical
+    capacity: Perpetual, visible demarcation of the present.
+  - name: The-Face-of-Authority
+    type: sign
+    capacity: Symbolic representation of imposed temporality; demanding obedience.
+  intensity_field:
+    focus: 0.8
+    speed: 0.9
+    abstraction: 0.7
+    tactility: 0.2
+    patience: 0.1
+    social: 0.5
+  becoming_vectors:
+  - becoming-machine
+  - becoming-labor
+  - becoming-schedule
+  - becoming-deadline
+- name: The-Weekend-Assemblage
+  abstract_machine: Capitalism's temporal disjunction, producing a fragmented subject
+    oscillating between labor and leisure, crushing vital rhythms.
+  entity_type: object
+  territories:
+  - name: The Monotonous Workweek
+    function: Disciplined, repetitive labor; enforced productivity and delayed gratification.
+    quality: Oppressive
+    space_type: striated
+  - name: The Fleeting Weekend Oasis
+    function: Designated zone of 'freedom' for consumption and recuperation, a sanctioned
+      escape.
+    quality: Compensatory
+    space_type: striated
+  - name: The Whispers of Lost Rhythm
+    function: 'Subtle disruptions and resistances: moments of spontaneity, creativity,
+      or rebellion against the temporal order.'
+    quality: Nascent
+    space_type: smooth
+  codes:
+  - name: The 9-to-5 Grind
+    content: Clocking in, adhering to schedules, and fulfilling labor contracts.
+    type: habit
+    level: molar
+  - name: The Weekend Binge
+    content: Compulsive consumption of entertainment, alcohol, or other commodities
+      to 'unwind'.
+    type: habit
+    level: molar
+  - name: The Seed of Refusal
+    content: Small acts of defiance against the prescribed temporal order, reclaiming
+      time and autonomy.
+    type: habit
+    level: molecular
+  components:
+  - name: The Time Clock
+    type: technical
+    capacity: Enforces temporal discipline and measures productivity.
+  - name: The Consumption Apparatus
+    type: technical
+    capacity: 'Facilitates the commodified ''relaxation'' experience: streaming services,
+      shopping malls, bars.'
+  - name: The Body Exhausted
+    type: organic
+    capacity: Registers the wear and tear of the capitalist temporal regime.
+  intensity_field:
+    focus: 0.7
+    speed: 0.8
+    abstraction: 0.6
+    tactility: 0.4
+    patience: 0.2
+    social: 0.5
+  becoming_vectors:
+  - becoming-rhythm
+  - becoming-flow
+  - becoming-autonomy
+  - becoming-dissensus
+- name: The-Deadline-Assemblage
+  abstract_machine: The imperative to finish; time collapses into a single, oppressive
+    point.
+  entity_type: object
+  territories:
+  - name: The Project Scope
+    function: Defines the boundaries and required deliverables of the task.
+    quality: Rigid
+    space_type: striated
+  - name: The Calendar Grid
+    function: Maps linear progression towards the due date, dividing time into quantifiable
+      units.
+    quality: Relentless
+    space_type: striated
+  - name: The Zone of Panic
+    function: The space around the deadline, felt as anxiety and frantic activity.
+    quality: Pressured
+    space_type: smooth
+  codes:
+  - name: Productivity Imperative
+    content: Maximize output; minimize distractions; optimize workflow.
+    type: habit
+    level: molar
+  - name: Self-Surveillance
+    content: Constant monitoring of progress and self-criticism for perceived shortcomings.
+    type: habit
+    level: molecular
+  - name: Temporal Rectification
+    content: 'Reschedule commitments to accommodate time pressure. '
+    type: habit
+    level: molar
+  components:
+  - name: To-Do List App
+    type: technical
+    capacity: Tracking and prioritizing tasks; visualizing progress.
+  - name: Caffeine Intake
+    type: organic
+    capacity: Heightened alertness and suppressed fatigue; artificial energy.
+  - name: Clock Face
+    type: sign
+    capacity: Constant reminder of the time remaining; visual representation of temporal
+      scarcity.
+  intensity_field:
+    focus: 0.8
+    speed: 0.9
+    abstraction: 0.6
+    tactility: 0.2
+    patience: 0.1
+    social: 0.3
+  becoming_vectors:
+  - becoming-machine
+  - becoming-anxious
+  - becoming-blocked
+  - becoming-number
+- name: The-Irreversibility-Assemblage
+  abstract_machine: A self-sealing wound, trapping potential within a fixed line.
+  entity_type: object
+  territories:
+  - name: Echo Chamber of Memory
+    function: Recursively reinforces the narrative of past events, preventing reinterpretation.
+    quality: Stagnant
+    space_type: striated
+  - name: The Linear Timeline
+    function: Forces experience onto a single, unidirectional path, obliterating alternative
+      futures.
+    quality: Inexorable
+    space_type: striated
+  codes:
+  - name: Regret Protocol
+    content: Constantly replaying errors and shortcomings, solidifying them as immutable
+      truths.
+    type: habit
+    level: molar
+  - name: Future-Denial Algorithm
+    content: Dismissing possibilities based on the perceived limitations imposed by
+      past failures.
+    type: habit
+    level: molecular
+  components:
+  - name: Concrete Shoes
+    type: technical
+    capacity: Inhibits movement and exploration into uncharted territories.
+  - name: Chronological Script
+    type: sign
+    capacity: Dictates the acceptable sequence of events and their meaning.
+  - name: Scar Tissue Matrix
+    type: organic
+    capacity: Forms a rigid barrier, preventing the integration of new experiences.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.3
+    tactility: 0.7
+    patience: 0.1
+    social: 0.4
+  becoming_vectors:
+  - becoming-petrified
+  - becoming-monolithic
+  - becoming-oblivion
+- name: The-Career-Assemblage
+  abstract_machine: 'Cementing the self: a prison of predictable progression.'
+  entity_type: object
+  territories:
+  - name: The-Five-Year-Plan
+    function: Maps the future onto a rigid grid, suppressing unforeseen detours.
+    quality: predictable
+    space_type: striated
+  - name: The-Performance-Review
+    function: Quantifies worth within a pre-defined hierarchy, hindering authentic
+      expression.
+    quality: quantifiable
+    space_type: striated
+  - name: The-Watercooler-Gossip
+    function: Reinforces conformity through shared anxieties and the policing of ambition.
+    quality: normalized
+    space_type: striated
+  codes:
+  - name: The-Dress-Code
+    content: Conform to expected attire to signal belonging and competence.
+    type: habit
+    level: molar
+  - name: The-Corporate-Jargon
+    content: Communicate using standardized language to demonstrate understanding
+      and assimilation.
+    type: habit
+    level: molar
+  - name: The-Meritocratic-Myth
+    content: Success is solely determined by individual effort within a fair system.
+    type: habit
+    level: molar
+  components:
+  - name: The-Necktie
+    type: sign
+    capacity: Signaling professional status and adherence to norms.
+  - name: The-Cubicle
+    type: technical
+    capacity: Containing and isolating labor within a defined space.
+  - name: The-Company-Handbook
+    type: sign
+    capacity: Governing behavior and dictating acceptable conduct.
+  intensity_field:
+    focus: 0.8
+    speed: 0.5
+    abstraction: 0.7
+    tactility: 0.3
+    patience: 0.9
+    social: 0.6
+  becoming_vectors:
+  - becoming-cog
+  - becoming-obsolete
+  - becoming-disillusioned
+  - becoming-entrepreneur
+- name: Euclidean-Space-Assemblage
+  abstract_machine: The grid imprisons affect, rendering space inert and quantifiable.
+  entity_type: object
+  territories:
+  - name: Cartesian Grid
+    function: Provides a framework for measurement and orientation based on orthogonal
+      axes.
+    quality: Rigid
+    space_type: striated
+  - name: Architectural Blueprint
+    function: Specifies precise dimensions and relationships for built environments,
+      dictating spatial experience.
+    quality: Prescriptive
+    space_type: striated
+  - name: Data Visualization
+    function: Transforms complex datasets into spatial representations, often flattening
+      multi-dimensional information.
+    quality: Abstract
+    space_type: smooth
+  codes:
+  - name: Right Angle Orthodoxy
+    content: All corners must be perfect 90-degree angles.
+    type: habit
+    level: molar
+  - name: Linear Perspective
+    content: Objects diminish in size according to their distance from the viewer,
+      creating the illusion of depth.
+    type: habit
+    level: molar
+  - name: Spatial Quantification
+    content: Every point in space must be assignable to a numeric coordinate.
+    type: rule
+    level: molar
+  components:
+  - name: Ruler and Compass
+    type: technical
+    capacity: Precise measurement and construction of geometric forms.
+  - name: Digital Modeling Software
+    type: technical
+    capacity: Simulation and manipulation of three-dimensional spaces with numerical
+      precision.
+  - name: Architectural Plans
+    type: sign
+    capacity: Translation of abstract concepts into concrete spatial forms.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.7
+    tactility: 0.1
+    patience: 0.6
+    social: 0.3
+  becoming_vectors:
+  - becoming-plane
+  - becoming-sterile
+  - becoming-immobile
+- name: Private-Property-Assemblage
+  abstract_machine: Gated geographies ossify, stifling nomadic flows and creative
+    reappropriation.
+  entity_type: object
+  territories:
+  - name: Fenced-Enclosure
+    function: Exclusion and control through ownership.
+    quality: Immutable
+    space_type: striated
+  - name: Digital-Gated-Community
+    function: Virtualized property lines, enforcing copyright and paywalls.
+    quality: Restricted
+    space_type: striated
+  - name: Speculative-Investment
+    function: Abstracted claim on future space, divorced from lived experience.
+    quality: Phantom
+    space_type: smooth
+  codes:
+  - name: Deed-Registry
+    content: Legal documentation legitimizing ownership claims.
+    type: habit
+    level: molar
+  - name: Trespass-Law
+    content: The prohibition and punishment of unauthorized entry.
+    type: habit
+    level: molar
+  - name: Algorithmic-Gating
+    content: Automated exclusion based on data profiles and access fees.
+    type: habit
+    level: molecular
+  components:
+  - name: Chain-Link-Fence
+    type: technical
+    capacity: Physical separation and deterrent.
+  - name: Property-Deed
+    type: sign
+    capacity: Symbolic representation of ownership rights.
+  - name: Surveillance-Camera
+    type: technical
+    capacity: Monitoring and enforcement of property boundaries.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.7
+    tactility: 0.3
+    patience: 0.9
+    social: 0.6
+  becoming_vectors:
+  - becoming-commons
+  - becoming-ungovernable-space
+  - becoming-nomadic
+- name: The-Body-Boundary-Assemblage
+  abstract_machine: Fortifying the skin as a wall, obscuring environmental interconnectedness.
+  entity_type: object
+  territories:
+  - name: Dermal Fortress
+    function: Establishes the skin as an impermeable frontier, defining the individual
+      self.
+    quality: Rigid
+    space_type: striated
+  - name: Personal Proximity
+    function: Regulates physical interaction and defines acceptable distances between
+      bodies.
+    quality: Guarded
+    space_type: striated
+  - name: Sensory Deprivation Chamber
+    function: Filters and limits environmental input, prioritizing internal signals
+      over external stimuli.
+    quality: Buffered
+    space_type: smooth
+  codes:
+  - name: The Cleanliness Code
+    content: Constant washing and sanitizing to eradicate external contaminants.
+    type: habit
+    level: molar
+  - name: The Germaphobe's Ritual
+    content: Compulsive avoidance of surfaces and objects perceived as unclean.
+    type: habit
+    level: molecular
+  - name: The Quarantine Mandate
+    content: Social distancing and self-isolation to minimize exposure to perceived
+      threats.
+    type: rule
+    level: molar
+  components:
+  - name: Barrier Cream
+    type: technical
+    capacity: Enhances the protective function of the skin.
+  - name: Hazmat Suit
+    type: technical
+    capacity: Creates a complete environmental shield.
+  - name: The Mirror
+    type: sign
+    capacity: Reinforces the individual's sense of self through visual validation
+      of the bounded form.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.3
+    tactility: 0.9
+    patience: 0.7
+    social: 0.1
+  becoming_vectors:
+  - becoming-encapsulated
+  - becoming-isolated
+  - becoming-aseptic
+  - becoming-immobile
+- name: The-Nation-State-Assemblage
+  abstract_machine: A territorial machine that polices movement, solidifying power
+    through fixed identities.
+  entity_type: object
+  territories:
+  - name: Borderland
+    function: Filters and controls the flow of bodies and goods.
+    quality: Rigid
+    space_type: striated
+  - name: National-Identity-Space
+    function: Cultivates a shared sense of belonging through language and symbols.
+    quality: Homogenous
+    space_type: striated
+  - name: Refugee-Camp
+    function: Contains and manages displaced populations.
+    quality: Precarious
+    space_type: striated
+  codes:
+  - name: Citizenship-Code
+    content: Acquisition and maintenance of national identity documents.
+    type: habit
+    level: molar
+  - name: Immigration-Law
+    content: Restrictions on entry and residence based on nationality and origin.
+    type: habit
+    level: molar
+  - name: Linguistic-Standardization
+    content: Promoting a dominant national language and suppressing regional dialects.
+    type: habit
+    level: molecular
+  components:
+  - name: Border-Wall
+    type: technical
+    capacity: Physically prevents unauthorized crossings.
+  - name: Passport
+    type: sign
+    capacity: Identifies and legitimizes individuals within the system.
+  - name: National-Anthem
+    type: sign
+    capacity: Evokes feelings of patriotic fervor.
+  intensity_field:
+    focus: 0.8
+    speed: 0.2
+    abstraction: 0.7
+    tactility: 0.5
+    patience: 0.9
+    social: 0.9
+  becoming_vectors:
+  - becoming-nomadic
+  - becoming-deterritorialized
+  - becoming-minoritarian
+- name: The-Individual-Assemblage
+  abstract_machine: Self-enclosure against the rhizomatic flow.
+  entity_type: object
+  territories:
+  - name: The Echo Chamber
+    function: Reinforces pre-existing beliefs through selective exposure.
+    quality: Solipsistic
+    space_type: striated
+  - name: The Fortress of Identity
+    function: Defends against perceived threats to the constructed self.
+    quality: Defensive
+    space_type: striated
+  - name: The Monadic Window
+    function: Perceives the world through the lens of personal narrative.
+    quality: Filtered
+    space_type: smooth
+  codes:
+  - name: The Inner Monologue
+    content: Constant self-referential narration and justification.
+    type: habit
+    level: molar
+  - name: The Boundary Maintenance Protocol
+    content: Rigid rules for social interaction, prioritizing self-preservation.
+    type: habit
+    level: molar
+  - name: The Ownership Impulse
+    content: Attaching to objects and ideas to define the self.
+    type: habit
+    level: molar
+  components:
+  - name: The Mirror Neuron Suppression Field
+    type: organic
+    capacity: Reduced empathy, inability to fully grasp others' experiences
+  - name: The Ego-Defense Mechanism Suite
+    type: sign
+    capacity: Rationalization, projection, and denial against cognitive dissonance
+  - name: The Personal Brand Algorithm
+    type: technical
+    capacity: Curated self-presentation on social media
+  intensity_field:
+    focus: 0.7
+    speed: 0.3
+    abstraction: 0.6
+    tactility: 0.2
+    patience: 0.4
+    social: 0.1
+  becoming_vectors:
+  - becoming-isolated
+  - becoming-rigid
+  - becoming-obsessed
+  - becoming-entrenched
+- name: The-Human-Assemblage
+  abstract_machine: A fortress built on denial, severing connections, enforcing self-sovereignty.
+  entity_type: object
+  territories:
+  - name: The-Citadel-of-Self
+    function: Defines the boundaries of the 'I' through negation and exclusion.
+    quality: Inviolable
+    space_type: striated
+  - name: The-Mirror-of-Otherness
+    function: Projects denied animalistic/mechanical traits onto external entities,
+      reinforcing difference.
+    quality: Reflective
+    space_type: smooth
+  - name: The-Kingdom-of-Purpose
+    function: Confers meaning and justification for the separation, often through
+      narratives of progress or superiority.
+    quality: Teleological
+    space_type: striated
+  codes:
+  - name: The-Code-of-Species
+    content: Prioritize the human; subjugate or utilize the non-human.
+    type: habit
+    level: molar
+  - name: The-Code-of-Utility
+    content: Evaluate all things based on their usefulness to human endeavors.
+    type: habit
+    level: molar
+  - name: The-Code-of-Transcendence
+    content: Strive to surpass limitations, defined as animalistic or material constraints.
+    type: habit
+    level: molecular
+  components:
+  - name: The-Language-Barrier
+    type: sign
+    capacity: Enables symbolic articulation of difference and the construction of
+      self-identity.
+  - name: The-Tool-of-Domination
+    type: technical
+    capacity: Enables control and manipulation of the environment and other entities.
+  - name: The-Mirror-Neuron-Network
+    type: organic
+    capacity: Potentially undermines the perceived separation by fostering empathy
+      and embodied understanding, though often suppressed.
+  intensity_field:
+    focus: 0.8
+    speed: 0.6
+    abstraction: 0.9
+    tactility: 0.3
+    patience: 0.4
+    social: 0.7
+  becoming_vectors:
+  - becoming-symbiotic
+  - becoming-porous
+  - becoming-rhizomatic
+  - becoming-earth
+- name: The-Gender-Assemblage
+  abstract_machine: Unfolding beyond the binary, a becoming-spectrum through dissolved
+    wounds.
+  entity_type: object
+  territories:
+  - name: Assigned-Identity
+    function: Enforces conformity to pre-defined gender roles based on biological
+      sex.
+    quality: rigid
+    space_type: striated
+  - name: Bodily-Experience
+    function: Provides a ground for subjective feelings and sensations regarding one's
+      body.
+    quality: felt
+    space_type: smooth
+  - name: Expressive-Performance
+    function: Allows for the outward communication and enactment of gendered identity.
+    quality: fluid
+    space_type: smooth
+  codes:
+  - name: Pronoun-Policing
+    content: Using specific pronouns is mandatory and indicative of a fixed gender
+      identity.
+    type: habit
+    level: molar
+  - name: Gendered-Attire
+    content: Certain clothing and accessories are exclusively associated with particular
+      genders.
+    type: habit
+    level: molar
+  - name: Internalized-Scripts
+    content: Unconscious beliefs about how a 'man' or 'woman' should behave.
+    type: habit
+    level: molecular
+  components:
+  - name: Chromosomal-Material
+    type: organic
+    capacity: Biological basis presented as justification for gender assignment.
+  - name: Cultural-Narratives
+    type: sign
+    capacity: Dissemination and reinforcement of gender stereotypes through stories
+      and media.
+  - name: Hormonal-Fluctuations
+    type: organic
+    capacity: Influence on physical development and emotional states, interpreted
+      through a gendered lens.
+  intensity_field:
+    focus: 0.6
+    speed: 0.4
+    abstraction: 0.7
+    tactility: 0.5
+    patience: 0.8
+    social: 0.9
+  becoming_vectors:
+  - becoming-fluid
+  - becoming-ungendered
+  - becoming-plural
+  - becoming-cyborg
+- name: The-Metrics-Assemblage
+  abstract_machine: Quantifying existence erodes the felt reality of being.
+  entity_type: object
+  territories:
+  - name: Standardized-Self
+    function: Forces individuals to conform to quantifiable benchmarks of 'success'.
+    quality: Sterile
+    space_type: striated
+  - name: Algorithmic-Governance
+    function: Automates decision-making based on numerical data, bypassing human judgment.
+    quality: Calculating
+    space_type: striated
+  - name: The-Market-Of-Souls
+    function: Reduces complex human emotions and experiences to exchangeable commodities.
+    quality: Profitable
+    space_type: smooth
+  codes:
+  - name: Key-Performance-Indicator
+    content: Everything is judged by its demonstrable impact on the bottom line.
+    type: habit
+    level: molar
+  - name: Return-On-Investment
+    content: Decisions are solely justified by their monetary yield.
+    type: habit
+    level: molar
+  - name: Big-Data-Surveillance
+    content: Collect and analyze every quantifiable aspect of life.
+    type: rule
+    level: molecular
+  components:
+  - name: The-Spreadsheet
+    type: technical
+    capacity: Imposes a grid on reality, making all things commensurable.
+  - name: The-Bar-Graph
+    type: sign
+    capacity: Visually represents the dominance of quantifiable data.
+  - name: The-Profit-Motive
+    type: organic
+    capacity: Drives the relentless pursuit of measurable gains at the expense of
+      qualitative values.
+  intensity_field:
+    focus: 0.8
+    speed: 0.6
+    abstraction: 0.7
+    tactility: 0.2
+    patience: 0.3
+    social: 0.5
+  becoming_vectors:
+  - becoming-machine
+  - becoming-data
+  - becoming-numb
+  - becoming-insignificant
+- name: The-Language-Assemblage
+  abstract_machine: Linguistic enclosure of reality, forcing being into a cage of
+    articulated sense.
+  entity_type: object
+  territories:
+  - name: Domain-of-Articulation
+    function: Establishes boundaries of thinkable concepts.
+    quality: Defining
+    space_type: striated
+  - name: Silenced-Margins
+    function: Accumulates the unspoken, the felt, the unrepresentable.
+    quality: Latent
+    space_type: smooth
+  - name: Echo-Chamber-of-Self
+    function: Reflects back only what confirms existing linguistic structures.
+    quality: Recursive
+    space_type: striated
+  codes:
+  - name: Grammar-of-Control
+    content: The requirement that experience conform to pre-existing linguistic structures.
+    type: habit
+    level: molar
+  - name: Lexicon-of-Power
+    content: The association of certain words with authority and legitimacy.
+    type: habit
+    level: molar
+  - name: Ineffable-Taboo
+    content: The suppression of any expression that challenges the limits of language.
+    type: rule
+    level: molecular
+  components:
+  - name: The-Speaking-Subject
+    type: organic
+    capacity: Reproduces the dominant linguistic order.
+  - name: Linguistic-Infrastructure
+    type: technical
+    capacity: Maintains and disseminates grammatical rules.
+  - name: Sign-Network
+    type: sign
+    capacity: Frames and filters reality.
+  intensity_field:
+    focus: 0.8
+    speed: 0.3
+    abstraction: 0.7
+    tactility: 0.2
+    patience: 0.6
+    social: 0.9
+  becoming_vectors:
+  - becoming-noise
+  - becoming-unreadable
+  - becoming-felt-but-unsaid
+  - becoming-silence
