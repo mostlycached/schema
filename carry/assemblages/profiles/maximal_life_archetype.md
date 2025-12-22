@@ -143,6 +143,22 @@ It is easy to confuse "Speed" with "Busyness." In this philosophy, "Speed" means
 *   **Intensive Speed (Transformation)**: Heating the rock until it glows orange or melts. The rock might be sitting still, but its particles are vibrating furiously. It is undergoing a **phase change**.
 
 **"Holding together by speed"** means that different parts of your life (Running, Coding, Love) are all "heated" to the same intensity so they can flow into each other like liquid.
-*   **The Organism (Ice)**: Rigid structure. "Running" is a solid block separate from "Working." They bump into each other.
+*   **The Organism (Ice)**: Rigid structure. "Running" is a solid block separate from "Thinking." They bump into each other.
 *   **The Maximal Life (Water)**: Fluid consistency. "Running" and "Thinking" have melted into the same substance. You slip seamlessly from one to the other because they share the same **intensive speed**.
+
+## Note: The Loss of Identity (Multiplicity)
+> "Since each of us was several, there was already quite a crowd." — *A Thousand Plateaus*
+
+You asked: *Does he talk about having so many moving parts that one forgets one's own identity?*
+
+**Yes.** This is the goal.
+
+In the Minimal Viable Life (Maya), "Identity" is a cage. You *are* a "Software Engineer." You *are* a "Daughter." You work hard to maintain these rigid shapes.
+
+In the Deleuzian Maximal Life, the "moving parts" (the pack of impulses, the swarm of activities) become so numerous and so fast that **the "Subject" (The "I") cannot keep up.**
+*   You don't lose yourself in a bad way (confusion).
+*   You lose yourself in a good way (**"Becoming-Imperceptible"**).
+*   You are no longer "Hari"; you are a **population**. You are a traffic of affects. The "I" is just the name of the terrain where this traffic happens.
+
+**The Critique Resolved:** The danger of the "Maximal Life" is trying to *manage* this traffic (Fascism). The solution is to *become* the traffic. To forget who you are, because what you are is a world, not a person.
 
