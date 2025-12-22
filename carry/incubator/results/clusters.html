@@ -1,0 +1,163 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 800px;
+                 background-color: #1a1a2e;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"borderWidth": 3, "color": "#E91E63", "font": {"color": "white"}, "id": "cluster_0", "label": "C0", "shape": "diamond", "size": 40, "title": "\u003cb\u003eCluster 0\u003c/b\u003e\u003cbr\u003e\u003cbr\u003e\n\u003cb\u003eMembers:\u003c/b\u003e 3\u003cbr\u003e\n\u003cb\u003eCohesion:\u003c/b\u003e 0.597\u003cbr\u003e\n\u003cb\u003eDiversity:\u003c/b\u003e 0.080\u003cbr\u003e\n\u003cb\u003eTension:\u003c/b\u003e 0.500\u003cbr\u003e\n\u003cb\u003eSpace:\u003c/b\u003e smooth\u003cbr\u003e\n\u003cb\u003eShared Becomings:\u003c/b\u003e becoming-witness\n"}, {"borderWidth": 2, "color": "#E91E63", "font": {"color": "white"}, "id": "Hari-Witnessing-Assemblage", "label": "Witnessing", "shape": "dot", "size": 25, "title": "\u003cb\u003eHari-Witnessing-Assemblage\u003c/b\u003e\u003cbr\u003e\n\u003ci\u003eSeeing clearly, writing what is seen\u003c/i\u003e\u003cbr\u003e\u003cbr\u003e\n\u003cb\u003eCluster:\u003c/b\u003e 0\u003cbr\u003e\n\u003cb\u003eSpace:\u003c/b\u003e smooth\n"}, {"borderWidth": 2, "color": "#E91E63", "font": {"color": "white"}, "id": "Hari-Sea-Assemblage", "label": "Sea", "shape": "dot", "size": 25, "title": "\u003cb\u003eHari-Sea-Assemblage\u003c/b\u003e\u003cbr\u003e\n\u003ci\u003eEdge, horizon, return\u003c/i\u003e\u003cbr\u003e\u003cbr\u003e\n\u003cb\u003eCluster:\u003c/b\u003e 0\u003cbr\u003e\n\u003cb\u003eSpace:\u003c/b\u003e smooth\n"}, {"borderWidth": 2, "color": "#E91E63", "font": {"color": "white"}, "id": "Hari-Volcano-Assemblage", "label": "Volcano", "shape": "dot", "size": 25, "title": "\u003cb\u003eHari-Volcano-Assemblage\u003c/b\u003e\u003cbr\u003e\n\u003ci\u003eAttraction to destruction, rehearsal for rupture\u003c/i\u003e\u003cbr\u003e\u003cbr\u003e\n\u003cb\u003eCluster:\u003c/b\u003e 0\u003cbr\u003e\n\u003cb\u003eSpace:\u003c/b\u003e smooth\n"}, {"borderWidth": 1, "color": "#4CAF50", "font": {"color": "white"}, "id": "Hari-Nomad-Assemblage", "label": "Nomad", "opacity": 0.6, "shape": "dot", "size": 20, "title": "\u003cb\u003eHari-Nomad-Assemblage\u003c/b\u003e\u003cbr\u003e\u003ci\u003eUnclustered\u003c/i\u003e"}, {"borderWidth": 1, "color": "#9C27B0", "font": {"color": "white"}, "id": "Hari-Attention-Assemblage", "label": "Attention", "opacity": 0.6, "shape": "dot", "size": 20, "title": "\u003cb\u003eHari-Attention-Assemblage\u003c/b\u003e\u003cbr\u003e\u003ci\u003eUnclustered\u003c/i\u003e"}, {"borderWidth": 1, "color": "#4CAF50", "font": {"color": "white"}, "id": "Hari-Calligraphy-Assemblage", "label": "Calligraphy", "opacity": 0.6, "shape": "dot", "size": 20, "title": "\u003cb\u003eHari-Calligraphy-Assemblage\u003c/b\u003e\u003cbr\u003e\u003ci\u003eUnclustered\u003c/i\u003e"}, {"borderWidth": 1, "color": "#2196F3", "font": {"color": "white"}, "id": "Hari-Cello-Assemblage", "label": "Cello", "opacity": 0.6, "shape": "dot", "size": 20, "title": "\u003cb\u003eHari-Cello-Assemblage\u003c/b\u003e\u003cbr\u003e\u003ci\u003eUnclustered\u003c/i\u003e"}, {"borderWidth": 1, "color": "#2196F3", "font": {"color": "white"}, "id": "Hari-Knife-Assemblage", "label": "Knife", "opacity": 0.6, "shape": "dot", "size": 20, "title": "\u003cb\u003eHari-Knife-Assemblage\u003c/b\u003e\u003cbr\u003e\u003ci\u003eUnclustered\u003c/i\u003e"}, {"borderWidth": 1, "color": "#9C27B0", "font": {"color": "white"}, "id": "Hari-Tamil-Assemblage", "label": "Tamil", "opacity": 0.6, "shape": "dot", "size": 20, "title": "\u003cb\u003eHari-Tamil-Assemblage\u003c/b\u003e\u003cbr\u003e\u003ci\u003eUnclustered\u003c/i\u003e"}, {"borderWidth": 1, "color": "#9C27B0", "font": {"color": "white"}, "id": "Hari-Body-Assemblage", "label": "Body", "opacity": 0.6, "shape": "dot", "size": 20, "title": "\u003cb\u003eHari-Body-Assemblage\u003c/b\u003e\u003cbr\u003e\u003ci\u003eUnclustered\u003c/i\u003e"}]);
+                  edges = new vis.DataSet([{"color": "#E91E63", "dashes": true, "from": "cluster_0", "to": "Hari-Witnessing-Assemblage", "width": 2}, {"color": "#E91E63", "dashes": true, "from": "cluster_0", "to": "Hari-Sea-Assemblage", "width": 2}, {"color": "#E91E63", "dashes": true, "from": "cluster_0", "to": "Hari-Volcano-Assemblage", "width": 2}, {"color": {"color": "#E91E63", "opacity": 0.6}, "from": "Hari-Witnessing-Assemblage", "title": "Proximity: 0.538", "to": "Hari-Sea-Assemblage", "value": 0.5380852908497838, "width": 2.6142558725493514}, {"color": {"color": "#E91E63", "opacity": 0.6}, "from": "Hari-Witnessing-Assemblage", "title": "Proximity: 0.641", "to": "Hari-Volcano-Assemblage", "value": 0.6410050506338834, "width": 2.92301515190165}, {"color": {"color": "#E91E63", "opacity": 0.6}, "from": "Hari-Sea-Assemblage", "title": "Proximity: 0.611", "to": "Hari-Volcano-Assemblage", "value": 0.6114738492739208, "width": 2.8344215478217625}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "barnesHut": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.5,
+            "damping": 0.09,
+            "gravitationalConstant": -2000,
+            "springConstant": 0.08,
+            "springLength": 150
+        },
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
