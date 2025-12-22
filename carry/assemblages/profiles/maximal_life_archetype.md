@@ -136,11 +136,13 @@ The difference?
 
 > "To be present at the dawn of the world. Such is the link." — *The Fold*
 
-## Note: What is "Speed"?
-In this schema (following Spinoza and Deleuze), **Speed** does not mean "going fast" (velocity). It refers to **relative rates of becoming** or **intensity**.
+## Note: What is "Speed"? (The Temperature Analogy)
+It is easy to confuse "Speed" with "Busyness." In this philosophy, "Speed" means **Temperature** or **Intensity**.
 
-*   **Metric Speed**: km/h. Distance over time.
-*   **Intensive Speed**: The rate at which a body permeates its surroundings. A monk sitting still can have infinite speed (instantaneous connection to the cosmos). A busy CEO running around can have zero speed (trapped in a static state of "busyness").
+*   **Metric Speed (Movement)**: Moving a cold rock across the room. The rock changes location, but remains a rock. This is "Maya" rushing to a meeting.
+*   **Intensive Speed (Transformation)**: Heating the rock until it glows orange or melts. The rock might be sitting still, but its particles are vibrating furiously. It is undergoing a **phase change**.
 
-To hold together by "speed" means to share a **rhythm of intensity**, not a location or a function. The "Council" (Engine III) holds together not because you all have the same job (function), but because you all think at the same **intensive rate**.
+**"Holding together by speed"** means that different parts of your life (Running, Coding, Love) are all "heated" to the same intensity so they can flow into each other like liquid.
+*   **The Organism (Ice)**: Rigid structure. "Running" is a solid block separate from "Working." They bump into each other.
+*   **The Maximal Life (Water)**: Fluid consistency. "Running" and "Thinking" have melted into the same substance. You slip seamlessly from one to the other because they share the same **intensive speed**.
 
