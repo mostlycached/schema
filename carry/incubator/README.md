@@ -1,8 +1,8 @@
 # Incubator
 
-Assemblage proximity, clustering, and emergence engine.
+Assemblage proximity, clustering, emergence, and **accessibility** engine.
 
-Brings assemblages into proximity based on multi-dimensional similarity, analyzes collective dynamics (transversal lines, tensions, fertility), and generates new hybrid assemblages from "fertile" incubations.
+Brings assemblages into proximity based on multi-dimensional similarity, analyzes collective dynamics (transversal lines, tensions, fertility), generates new hybrid assemblages from "fertile" incubations, and computes **accessibility paths** - how assemblages perceive and leverage each other from their own positions.
 
 ## Usage
 
@@ -35,6 +35,13 @@ python -m carry.incubator \
   --mode full \
   --output carry/incubator/results \
   --viz
+
+# Compute accessibility paths (how assemblages perceive each other)
+python -m carry.incubator \
+  --subjects carry/assemblages/subjects/hari.yaml \
+  --mode accessibility \
+  --output carry/incubator/results \
+  --viz
 ```
 
 ## Options
@@ -45,7 +52,7 @@ python -m carry.incubator \
 | `--encounters` | Path to encounters directory |
 | `--threshold` | Proximity threshold for clustering (0.0-1.0, default: 0.5) |
 | `--min-cluster-size` | Minimum assemblages per cluster (default: 2) |
-| `--mode` | `cluster`, `incubate`, or `full` (default: full) |
+| `--mode` | `cluster`, `incubate`, `full`, or `accessibility` (default: full) |
 | `--cluster-id` | Only incubate a specific cluster |
 | `--output` | Output directory for reports |
 | `--format` | `markdown` or `json` (default: markdown) |
@@ -62,6 +69,7 @@ carry/incubator/
 ├── cluster.py        # Hierarchical clustering
 ├── incubation.py     # Transversal lines, tensions, fertility
 ├── emergence.py      # New assemblage generation
+├── accessibility.py  # Perception paths between assemblages
 ├── report.py         # Markdown/JSON reports
 └── viz.py            # pyvis network visualizations
 ```
@@ -118,6 +126,69 @@ Goldilocks zone for emergence:
 - `transcendence` - Diverse cluster produces genuinely novel abstract machine
 - `hybrid` - Component mixing without deep synthesis
 
+## Accessibility Paths
+
+**The Problem:** Proximity tells us HOW CLOSE assemblages are. But how does one assemblage **perceive** another from its own position? Previously, only "meta-assemblages" (Philosophy, Writing, Witnessing) could reflect on other assemblages. A Knife couldn't "see" what a Cello offers.
+
+**The Solution:** Accessibility paths are asymmetric perception channels. How Knife sees Cello differs from how Cello sees Knife. Each assemblage has a "lens" defined by its capacities.
+
+### Access Modes
+
+| Mode | Description | Example |
+|------|-------------|---------|
+| `capacity_lens` | My capacities define what I can perceive in others | Knife's Precision-Cutter sees Cello's Bow-Arm's "weight" |
+| `becoming_channel` | Shared becoming vectors create direct access | Both share "becoming-patient" → mutual channel |
+| `intensity_resonance` | High values on same dimension create visibility | Both high on "tactility" → can see each other's tactile capacities |
+| `territory_analogy` | Similar territory functions create mapping paths | "Daily return to board" ≈ "Daily return to instrument" |
+| `code_translation` | How my codes can interpret other codes | Knife's "Edge-Maintenance" can interpret Cello's "Slow-Passage-Work" |
+
+### Key Insight
+
+Accessibility is NOT symmetric like proximity:
+- Knife → Cello: Sees weight, control, precision in bow work
+- Cello → Knife: Sees rhythm, gesture, sustained attention in cutting
+
+Each assemblage has a **lens** (extracted from its components) that determines what aspects of other assemblages it can perceive and leverage.
+
+### Programmatic Usage
+
+```python
+from carry.incubator import (
+    build_accessibility_matrix,
+    generate_accessibility_report,
+    generate_path_narrative,
+    visualize_accessibility,
+)
+from carry.engine.interaction import load_assemblages
+
+# Load
+subjects = load_assemblages("carry/assemblages/subjects/hari.yaml")
+
+# Build accessibility matrix
+matrix = build_accessibility_matrix(subjects)
+
+# Get how Knife sees Cello
+knife = next(a for a in subjects if "Knife" in a.name)
+cello = next(a for a in subjects if "Cello" in a.name)
+paths = matrix.get_paths_between(knife.name, cello.name)
+
+for path in paths:
+    print(f"[{path.mode.value}] clarity={path.clarity:.2f}")
+    print(f"  {path.description}")
+
+# Get most accessible assemblages from Knife's perspective
+most_accessible = matrix.get_most_accessible_from(knife.name, k=5)
+for target, clarity in most_accessible:
+    print(f"  {target}: {clarity:.2f}")
+
+# Generate narrative (uses LLM)
+narrative = generate_path_narrative(knife, cello, paths)
+print(narrative)
+
+# Visualize
+visualize_accessibility(matrix, subjects, "accessibility.html")
+```
+
 ## Visualizations
 
 When `--viz` is enabled, generates interactive HTML network graphs:
@@ -127,6 +198,7 @@ When `--viz` is enabled, generates interactive HTML network graphs:
 | `proximity.html` | All assemblages with edges colored by alliance/tension |
 | `clusters.html` | Cluster membership with diamond centroids |
 | `incubation_N.html` | Per-cluster dynamics with emerged assemblage as gold star |
+| `accessibility.html` | Directed perception paths (arrows show how A sees B) |
 
 **Visual encoding:**
 - Node color: space type (green=smooth, blue=striated, purple=mixed)
