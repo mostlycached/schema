@@ -1975,6 +1975,164 @@ This framework generalizes these by providing:
 
 ---
 
+## 21. Pedagogy and Adaptation
+
+How does one *learn* to use this framework? How do the structures themselves *adapt*?
+
+### 21.1 Three Levels of Learning
+
+| Level | What is Learned | Framework Term |
+|-------|-----------------|----------------|
+| **Using** | Which group actions to apply | Operative fluency with $G$ |
+| **Expanding** | New group elements, generators | Enlarging $G$ |
+| **Transforming** | New groups, new maps | Changing $(W, \phi, \alpha, \tau)$ |
+
+These correspond to Boden's three types:
+- Combinational creativity → Using
+- Exploratory creativity → Expanding
+- Transformational creativity → Transforming
+
+### 21.2 Pedagogy as Group Acquisition
+
+**What does a novice lack?**
+
+1. **Doesn't know the group exists**: Unaware that "rotate category" is an operation
+2. **Knows group but not generators**: Knows things can vary, not *how*
+3. **Knows generators but not fluency**: Can execute but slowly, effortfully
+4. **Has fluency but not taste**: Can generate but can't evaluate ($V$ underdeveloped)
+
+**Pedagogical stages:**
+
+| Stage | Cognitive State | Goal |
+|-------|-----------------|------|
+| **Exposure** | See examples of $g \cdot w$ | Recognize that orbits exist |
+| **Naming** | Learn generator labels | "This is reflection," "this is transposition" |
+| **Execution** | Practice applying $g$ | Procedural fluency |
+| **Internalization** | $g$ becomes automatic | Direct perception of orbit structure |
+| **Evaluation** | Develop $V$ | Judge which orbit positions are valuable |
+
+**Example — learning music transposition:**
+1. Hear that melodies can be in different keys
+2. Learn that $T_n$ shifts all notes by $n$ semitones
+3. Practice transposing melodies by hand
+4. Hear transposition as "same melody, different key" directly
+5. Know which keys fit which contexts
+
+### 21.3 Coupling and Thickening (from MATHEMATICAL_COUPLING.md)
+
+The mathematical coupling model describes how perception-action relationships *thicken*:
+
+**Thin coupling:** Limited connections between perception and action
+- Few group operations available
+- Coarse $\phi$ (many states indistinguishable)
+- Reactive $\alpha$ (limited repertoire)
+
+**Thick coupling:** Rich, differentiated connections
+- Full group accessible
+- Fine $\phi$ (subtle distinctions perceived)
+- Nuanced $\alpha$ (many possible responses)
+
+**Thickening = learning:**
+
+$$\dim(\text{coupling}) : t \to \text{increases with practice}$$
+
+A baby learning to walk: initially the leg-floor system is thin (undifferentiated). Through practice, dimensions emerge: balance, weight shift, push-off, recovery...
+
+**In the rooms framework:** An inhabitant of a room initially perceives it coarsely. Through habitation, distinctions emerge. The $\phi$ for that room *sharpens* — Fisher information increases.
+
+### 21.4 Adaptation: Changing the Groups
+
+What happens when the existing groups are insufficient?
+
+**Trigger:** High symmetry-breaking error that doesn't decrease:
+
+$$\beta_\phi(G) > \theta \quad \text{persistently}$$
+
+Meaning: the current group $G$ doesn't capture the symmetries of the domain.
+
+**Response:** Modify $G$:
+
+1. **Add generators:** $G \to \langle G, g_{\text{new}} \rangle$
+   - Example: Discover that inversion is a useful operation
+   
+2. **Quotient:** $G \to G / N$ for normal subgroup $N$
+   - Example: Collapse distinctions that don't matter
+   
+3. **Extension:** $G \to G'$ where $G \triangleleft G'$
+   - Example: Embed current group in larger structure
+
+4. **Switch groups:** $G \to H$ entirely different
+   - Example: Stop thinking in D₄, start thinking in E(2)
+
+### 21.5 Adaptive Perception: Learning $\phi$
+
+The perception map itself can adapt:
+
+**Fixed $\phi$:** Traditional Geneplore — same perceptual categories throughout
+
+**Adaptive $\phi$:** The loop modifies its own perception:
+
+$$\phi_{t+1} = \phi_t + \eta \nabla_\phi V(w_t, \phi_t)$$
+
+Gradient ascent on value with respect to the perception map.
+
+**What this means:** You learn to see differently. The Fisher information landscape changes. Distinctions that were invisible become salient; distinctions that were salient become irrelevant.
+
+**Example:** Expert chess players perceive board positions as "chunks" (clusters of pieces with relational structure). Their $\phi$ has been reshaped by experience to produce higher Fisher information where expertise matters.
+
+### 21.6 Adaptive Policy: Learning $\alpha$
+
+Similarly, the policy adapts:
+
+$$\alpha_{t+1} = \alpha_t + \eta \nabla_\alpha V$$
+
+This is reinforcement learning: update the action selection based on value.
+
+**The perception-action gap persists:** Even as both $\phi$ and $\alpha$ adapt, they adapt to *different* pressures:
+- $\phi$ adapts to maximize distinguishability (Fisher)
+- $\alpha$ adapts to maximize value (V)
+
+Their misalignment (different loss functions) ensures the gap remains — which ensures the loop remains generative.
+
+### 21.7 The Stance System as Pedagogical Architecture
+
+From the stance system (THESIS.md):
+
+| Stance Mode | Relation to Learning |
+|-------------|---------------------|
+| **Adoption** | Consolidate: practice current group fluency |
+| **Novelty Search** | Explore: discover new generators, try new groups |
+
+**The $\sigma$ flip as pedagogical phase transition:**
+
+1. **Adoption phase:** Practice makes perfect. Refine $\alpha$ for current $G$.
+2. **Viability drops:** Current group insufficient for new challenge.
+3. **Novelty Search:** Try transformations outside current $G$. Explore.
+4. **Discovery:** Find new generator or new group $G'$.
+5. **Reterritorialize:** New Adoption phase with enriched $G'$.
+
+**Pedagogy is oscillation between Adoption and Novelty Search.**
+
+### 21.8 Implications for Teaching Creative Practice
+
+| Pedagogical Principle | Framework Translation |
+|----------------------|----------------------|
+| **Show examples** | Display orbits: $\{g \cdot w : g \in G\}$ |
+| **Name operations** | Label generators: $r$, $s$, $T_n$, etc. |
+| **Practice variations** | Iterate: apply $g$, observe $g \cdot w$ |
+| **Develop taste** | Calibrate $V$: which orbit positions are valuable? |
+| **Introduce challenges** | Trigger $\sigma$ flip: demand beyond current $G$ |
+| **Scaffold expansion** | Guided discovery of new generators |
+| **Allow integration** | Time in Adoption mode to consolidate |
+
+**The teacher's role:** Not to specify $w^*$ (that would violate Meno). Instead:
+- Reveal group structure
+- Model generator application
+- Create conditions for $\sigma$ flip
+- Provide evaluative feedback to calibrate $V$
+
+---
+
 ## Notes on Current Status
 
 ### What has been developed
