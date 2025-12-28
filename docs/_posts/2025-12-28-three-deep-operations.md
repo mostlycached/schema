@@ -234,4 +234,4 @@ Myth and metaphor bundled all three. Unbundling them gives you conscious access 
 
 ---
 
-*This is the fourth in a series exploring the theoretical framework behind [Rooms](https://hyperframes.org). See also: [What Is a Site?](/theory/concepts/2025/12/28/what-is-a-site.html)*
+*This is the fourth in a series exploring the theoretical framework behind [Rooms](https://hyperframes.org). See also: [What Is a Site?](/updates/2025/12/28/what-is-a-site/)*

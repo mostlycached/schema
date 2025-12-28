@@ -210,4 +210,4 @@ The practice-meets-field model changes how you approach creative work:
 
 ---
 
-*This is the fifth in a series exploring the theoretical framework behind [Rooms](https://hyperframes.org). See also: [What Is a Site?](/theory/concepts/2025/12/28/what-is-a-site.html)*
+*This is the fifth in a series exploring the theoretical framework behind [Rooms](https://hyperframes.org). See also: [What Is a Site?](/updates/2025/12/28/what-is-a-site/)*

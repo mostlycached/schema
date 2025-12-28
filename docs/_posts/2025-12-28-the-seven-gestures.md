@@ -263,4 +263,4 @@ The gestures are the vocabulary of possibility. Learn them, and you learn how cr
 
 ---
 
-*This is part of a series exploring the theoretical framework behind [Rooms](https://hyperframes.org). See also: [What Is a Site?](/theory/concepts/2025/12/28/what-is-a-site.html)*
+*This is part of a series exploring the theoretical framework behind [Rooms](https://hyperframes.org). See also: [What Is a Site?](/updates/2025/12/28/what-is-a-site/)*

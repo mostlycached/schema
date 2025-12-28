@@ -117,4 +117,4 @@ When work flows, it's often because you've found a site with rich available gest
 
 ---
 
-*This is the first in a series exploring the theoretical framework behind [Rooms](https://hyperframes.org). Next: [How Fields Are Born](/theory/concepts/2025/12/28/how-fields-are-born.html).*
+*This is the first in a series exploring the theoretical framework behind [Rooms](https://hyperframes.org). Next: [How Fields Are Born](/updates/2025/12/28/how-fields-are-born/).*

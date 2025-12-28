@@ -154,4 +154,4 @@ The frame of the field shapes what sites become visible. Change the frame, chang
 
 ---
 
-*This is the second in a series exploring the theoretical framework behind [Rooms](https://hyperframes.org). Next: [Flux Is Always Available](/theory/concepts/2025/12/28/flux-is-always-available.html).*
+*This is the second in a series exploring the theoretical framework behind [Rooms](https://hyperframes.org). Next: [Flux Is Always Available](/updates/2025/12/28/flux-is-always-available/).*

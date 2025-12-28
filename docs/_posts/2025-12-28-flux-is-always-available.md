@@ -202,4 +202,4 @@ Flux isn't failure. It's ground. The question is: how do you move between flux a
 
 ---
 
-*This is the third in a series exploring the theoretical framework behind [Rooms](https://hyperframes.org). Next: [The Three Deep Operations](/theory/concepts/2025/12/28/three-deep-operations.html).*
+*This is the third in a series exploring the theoretical framework behind [Rooms](https://hyperframes.org). Next: [The Three Deep Operations](/updates/2025/12/28/three-deep-operations/).*
