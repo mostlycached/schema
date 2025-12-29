@@ -22,6 +22,16 @@ Demonstrations of mobility through the system. Each entry shows:
 | The Skill Leaving Your Hands | process | [006](./006-skill-leaving-hands.md) |
 | The Decision Not Yet Made | tension | [007](./007-decision-not-yet-made.md) |
 | The Life You Almost Lived | virtuality | [008](./008-life-you-almost-lived.md) |
+| The Word That Loses Meaning When Repeated | process (dissolution) | [022](./022-word-repeated-loses-meaning.md) |
+| The Stranger Who Knows Your Name | relation (asymmetric) | [023](./023-stranger-knows-your-name.md) |
+| The Warmth of a Recently Vacated Seat | absence (residue) | [024](./024-warmth-of-vacated-seat.md) |
+| The Face in the Mirror That Isn't You | relation (self-split) | [025](./025-face-in-mirror-not-you.md) |
+| The Skill You Have But Cannot Teach | limit (tacit/explicit) | [026](./026-skill-you-cannot-teach.md) |
+| The Moment the Music Stops | absence (revealing) | [027](./027-moment-music-stops.md) |
+| The Memory That Never Happened | virtuality | [028](./028-memory-that-never-happened.md) |
+| The Thing That Recedes As You Approach | limit (asymptotic) | [029](./029-thing-recedes-as-you-approach.md) |
+| The Language You Understand But Cannot Speak | limit (passive/active) | [030](./030-language-understand-not-speak.md) |
+| The Part of Your Body You Can't Find in the Mirror | limit (self-access) | [031](./031-body-you-cant-find-in-mirror.md) |
 
 ### By Scale
 
@@ -107,6 +117,43 @@ Demonstrations of mobility through the system. Each entry shows:
 | 019 | [The Thought Thinking Itself](./019-thought-thinking-itself.md) | process, recursive |
 | 020 | [The Gift That Cannot Be Received](./020-gift-cannot-receive.md) | interference, paradoxical |
 | 021 | [The Edge Where the City Ends](./021-edge-where-city-ends.md) | limit, boundary-only, collective |
+| 022 | [The Word That Loses Meaning When Repeated](./022-word-repeated-loses-meaning.md) | process, dissolution, paradoxical |
+| 023 | [The Stranger Who Knows Your Name](./023-stranger-knows-your-name.md) | relation, asymmetric, paradoxical |
+| 024 | [The Warmth of a Recently Vacated Seat](./024-warmth-of-vacated-seat.md) | absence, transition, somatic, boundary-only |
+| 025 | [The Face in the Mirror That Isn't You](./025-face-in-mirror-not-you.md) | relation, paradoxical, direct |
+| 026 | [The Skill You Have But Cannot Teach](./026-skill-you-cannot-teach.md) | limit, tacit/explicit, expert |
+| 027 | [The Moment the Music Stops](./027-moment-music-stops.md) | absence, instant, boundary-only |
+| 028 | [The Memory That Never Happened](./028-memory-that-never-happened.md) | virtuality, memory, paradoxical |
+| 029 | [The Thing That Recedes As You Approach](./029-thing-recedes-as-you-approach.md) | limit, oscillation, paradoxical |
+| 030 | [The Language You Understand But Cannot Speak](./030-language-understand-not-speak.md) | limit, oscillation, paradoxical |
+| 031 | [The Part of Your Body You Can't Find in the Mirror](./031-body-you-cant-find-in-mirror.md) | limit, lifetime, somatic |
+
+---
+
+## High Strangeness-Vertigo Sites
+
+Sites 022-031 were generated using the **strangeness-vertigo heuristic** from the SPEC:
+
+> `StrangenessScore(a: Structure, b: Structure) => Float`
+> Categorical distance. Higher = more likely to produce vertigo.
+
+These sites maximize frame displacement by pairing categorically distant domains. Each includes a **Strangeness-Vertigo Analysis** table showing:
+- **StrangenessScore**: How categorically distant the transfer domains are
+- **Frame Displaced**: What naive model can no longer be used innocently
+- **Vertigo**: The resulting frame displacement intensity
+
+| Site | Peak Strangeness | Peak Vertigo | Key Frame Displaced |
+|------|------------------|--------------|---------------------|
+| 022 | 0.9 (satiation→language) | 0.9 | Meaning as intrinsic |
+| 023 | 0.9 (haunting→social) | 0.9 | Knowledge as earned |
+| 024 | 0.9 (haunting→thermal) | 0.9 | Bodies as bounded |
+| 025 | 0.8 (doppelgänger→perception) | 0.9 | Self-recognition as natural |
+| 026 | 0.8 (transmission→knowledge) | 0.8 | Knowledge as articulable |
+| 027 | 0.9 (death→perceptual) | 0.9 | Presence as noticed |
+| 028 | 0.95 (simulation→memory) | 0.95 | Past as given |
+| 029 | 0.95 (telos→experience) | 0.95 | Goals as achievable |
+| 030 | 0.8 (exile→competence) | 0.9 | Language as unified |
+| 031 | 0.95 (Gödel→embodiment) | 0.95 | Self-access as complete |
 
 ---
 
