@@ -1,137 +1,116 @@
 # The Thing You Said That You Can't Unsay
 
-## The Site
+**Practice**: Writing
 
-You're in conversation. Words leave your mouth. The moment they land, you know: *that shouldn't have been said*. But it's out. You can't retrieve it.
+---
 
-**Dimensions**:
+## State Space
+
+You are in **irreversible aftermath** — a narrative position where the inciting incident has occurred and cannot be undone.
+
+| Dimension | Value | Constraint |
+|-----------|-------|------------|
+| Temporal | Post-event | Cannot return to before |
+| Relational | Dyadic tension | Other person has received |
+| Structure | Broken | What was whole is now fractured |
+
+**Tension**: High. The words have landed. The story has changed irrevocably.
+
+---
+
+## Action Set
+
+In **Writing** practice, your moves are narrative operations:
+
+| Move | Verb | Effect | Risk |
+|------|------|--------|------|
+| **Delay resolution** | *withhold* | Tension accumulates; consequences deferred | Becomes "elephant in room" |
+| **Expand scope** | *introduce* | Connect to larger pattern ("all I've said wrong") | Loses focus |
+| **Specify detail** | *close off* | Name the exact harm done | Increases accountability |
+| **Create tension** | *pose question* | Hold in suspended state | Paralysis |
+
+**Blocked moves**:
+- *Conclude* — the arc cannot be completed by undoing
+- *Reveal resolution* — no resolution is available
+
+---
+
+## Payoff Matrix
+
+| Action | Immediate Payoff | Long-term Consequence |
+|--------|------------------|----------------------|
+| **Delay → pretend nothing happened** | -tension temporarily | Elephant in room; erupts later |
+| **Delay → 3x** | +uncanny depth | Relationship structured around avoidance |
+| **Expand → "all my mistakes"** | +tragic depth | Self-awareness without repair |
+| **Specify → name the harm** | +coherence, +accountability | No exit; the wound is articulated |
+| **Transfer → ×cooking** | +novelty, +frame | "Words as salt — can't remove, only compensate" |
+| **Transfer → ×archaeology** | +depth | "Time doesn't heal; it deposits layers" |
+
+---
+
+## Global Operations
+
+| Operation | Narrative Consequence |
+|-----------|----------------------|
+| **GENERATE** | Produces variants: "secret you let slip", "insult as joke", "promise you can't keep" |
+| **TRANSFER** | Maps to: cooking (salt), archaeology (strata), performance (mask slipped), medicine (iatrogenic) |
+| **DISSOLVE** | Rarely succeeds — residue persists; requires plot-level intervention |
+| **EMERGE** | A changed relationship, a permanent scar, or a new carefulness |
+
+---
+
+## Strategy Space
+
+### Path A: Avoidance (delay-dominant)
 ```
-ontological: limit
-scale: momentary
-temporal: instant
-perceptual: direct
-relational: dyadic
-agential: anyone
-structural: incomplete (what was whole is now broken)
+Said wrong thing → Pretend → Pretend → Pretend → Elephant in room
+```
+**Payoff**: Temporary stability, eventual crisis. The unspoken accumulates.
+
+### Path B: Expansion (tragic arc)
+```
+Said wrong thing → "All I've said wrong" → "Pattern of harm" → Self-knowledge without repair
+```
+**Payoff**: Depth without resolution. Character knows themselves but cannot change outcome.
+
+### Path C: Transfer (metaphorical escape)
+```
+Said wrong thing → ×cooking → "Words as salt" → "Apology as adding other ingredients"
+```
+**Payoff**: New frame for understanding. Compensation instead of undoing.
+
+### Path D: Specify (face it)
+```
+Said wrong thing → Name the harm → Sit with accountability → ???
+```
+**Payoff**: Integrity without comfort. The wound is clear but not healed.
+
+---
+
+## Decision Tree
+
+```
+                    [Said Wrong Thing]
+                           │
+         ┌─────────────────┼─────────────────┐
+         ▼                 ▼                 ▼
+    [Delay]           [Expand]          [Transfer]
+         │                 │                 │
+    ┌────┴────┐       ┌────┴────┐       ┌────┴────┐
+    ▼         ▼       ▼         ▼       ▼         ▼
+ pretend   ×3→      pattern    self   cooking  archaeology
+           elephant           knowing    ↓         ↓
+                                      "salt"   "strata"
 ```
 
 ---
 
-## Gesture Profile
+## Position Summary
 
 ```
-available: [DEFER, WIDEN, NARROW]
-blocked:   [RESOLVE] — you can't unsay it
-dominant:  DEFER — postpone consequences
+Where you are:   After the words landed; in the narrative aftermath
+What you hold:   An event that cannot be undone, only responded to
+What blocks you: No revision, no delete, no unsaying
+Best moves:      Transfer (find new frame) or Expand (see pattern)
+Dominant affect: Tragic — the irreversible has occurred
 ```
-
----
-
-## Gesture Transitions
-
-| Gesture | → Target Site | mode | affect | values | frame displaced |
-|---------|---------------|------|--------|--------|-----------------|
-| **DEFER** | "Pretending it didn't happen" | null | quotidian | vertigo: 0.2, stability: 0.1 | — (no frame shift; tension accumulates) |
-| **DEFER ×3** | "The elephant in the room" | expansion | uncanny | vertigo: 0.6, depth: 0.7 | Pretense as sustainable |
-| **WIDEN** | "All the things I've said wrong" | expansion | tragic | vertigo: 0.5, depth: 0.8 | This as isolated incident |
-| **NARROW** | "The specific harm done" | collapse | tragic | vertigo: 0.3, coherence: 0.7 | Vagueness as protection |
-| **×cooking** | "Speech as salt" | collapse | vertiginous | vertigo: 0.8, novelty: 0.7 | Speech as retrievable |
-| **×archaeology** | "The stratigraphy of regrets" | expansion | sublime | vertigo: 0.7, depth: 0.9 | Time heals; past is past |
-| **×performance** | "The mask that slipped" | collapse | uncanny | vertigo: 0.7, novelty: 0.6 | Authenticity as stable |
-
----
-
-## Global Gestures
-
-| GlobalGesture | Operation | mode | affect | outcome |
-|---------------|-----------|------|--------|---------|
-| **GENERATE** | → "The secret you let slip", "the insult as joke", "the promise you can't keep" | expansion | varies | productive |
-| **SPECULATE** | What if you could unsay things? | expansion | liberating | reveals why you can't: speech deposits |
-| **TRANSFER** | To cooking, archaeology, performance, medicine | varies | vertiginous | productive |
-| **DISSOLVE** | Return to ordinary conversation | collapse | quotidian | rarely succeeds; residue persists |
-| **EMERGE** | From "ordinary conversation" | collapse | vertiginous | sudden phase transition at moment of speaking |
-
----
-
-## Flux Relation
-
-```
-flux_state: structured (crystallized instantly)
-dissolution_resistance: high
-hover_potential: low — the site commits immediately
-emergence_pattern: sudden (no gradual approach)
-flux_pockets: form in "what happens next" — the aftermath is less structured
-```
-
-The site has low flux tolerance — it's a hard boundary event. However, the *response* to the site opens flux: what to do next is underdetermined.
-
----
-
-## Move Notation
-
-```
-0. ROOT    "Speech"
-1. N+irrev [NARROW: add irreversibility]     → "The thing said"
-2. N+wrong [NARROW: add wrongness]           → "The thing that shouldn't have been said"
-3. ×cook   [TRANSFER: cooking]               → "Speech as cooking"
-4. N→salt  [NARROW: the salt you can't remove] → "The word as too much salt"
-```
-
-**Current Position**: Speech-acts that can only be compensated, not undone.
-
----
-
-## Branch Tree
-
-```
-"Speech"
-│
-├─[N: irreversible]─→ "The thing said"
-│   │
-│   ├─[N: wrong]─────→ "The thing that shouldn't have been said" ← YOU ARE HERE
-│   │   │
-│   │   ├─[DEFER]────→ "Pretending it didn't happen"
-│   │   │   └─[COMMIT to pretense]────→ "The elephant in the room"
-│   │   │
-│   │   ├─[×cooking]─→ "Speech as salt"
-│   │   │   ├─[N: compensate]─→ "The apology as adding other ingredients"
-│   │   │   └─[N: transform dish]─→ "Changing the genre of conversation"
-│   │   │
-│   │   └─[WIDEN]────→ "All the things I've said wrong"
-│   │       └─[×archaeology]─→ "The stratigraphy of regrets"
-│   │
-│   └─[N: right but unwelcome]─→ "The truth that shouldn't have been spoken"
-│       └─[×gift]──→ "Truth as unwanted gift"
-│
-└─[N: reversible]────→ "The thing said that can be unsaid"
-    └─(less interesting — ends quickly)
-```
-
----
-
-## State Dynamics
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ STATE: "Just said the wrong thing"                              │
-│                                                                 │
-│ Tension: HIGH                                                   │
-│ Constraints: [must be addressed eventually, can't be undone]    │
-│                                                                 │
-│ Triggers:                                                       │
-│   - If DEFER × 3: unlock "Elephant in the room"                 │
-│   - If other person speaks first: unlock "Being called out"     │
-│   - If topic changes: tension preserved but deferred            │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Transfers Applied
-
-| Source Domain | What Transfers | What Reveals |
-|---------------|----------------|--------------|
-| **Cooking** | Salt can't be removed, only compensated | Apology ≠ undoing; apology = rebalancing |
-| **Performance** | The mask that slipped | Authenticity as exposure; we're always performing |
-| **Medicine** | The iatrogenic harm | Some treatments make it worse |
-| **Archaeology** | Layers of buried regrets | Time doesn't heal; it deposits |

@@ -1,151 +1,160 @@
 # The Incompleteness That Cannot Be Completed
 
-## The Site
+**Practice**: Mathematics
 
-Gödel proved: any consistent formal system powerful enough to express arithmetic contains true statements that cannot be proven within the system. The incompleteness isn't a bug to be fixed — it's structural. You can add axioms, but new unprovable truths appear. The gap can never be closed. Mathematics contains truths it cannot prove.
+---
 
-**Dimensions**:
+## State Space
+
+You are at **proven incompletability** — the gap cannot close.
+
+| Dimension | Value | Constraint |
+|-----------|-------|------------|
+| Demonstrability | Maximum | Proven, not conjectured |
+| Escapability | Zero | No fix within formal systems |
+| Generality | Universal | All sufficiently powerful consistent systems |
+
+**Tension**: Low (the proof settles it). The gap is structure, not flux.
+
+---
+
+## Action Set
+
+In **Mathematics** practice, your moves are system-theoretical operations:
+
+| Move | Verb | Effect | Risk |
+|------|------|--------|------|
+| **Contemplate** | *suspend* | Accept the structural gap | Permanent state |
+| **Generalize** | *widen* | All systems have this | Maximum scope |
+| **Extend** | *branch* | Add axioms | Creates new gaps |
+| **Weaken** | *branch* | Accept less expressiveness | Complete but limited |
+
+**Blocked moves**:
+- *Complete* — proven impossible
+- *Resolve* — no solution exists
+
+---
+
+## Payoff Matrix
+
+| Action | Immediate Payoff | Long-term Consequence |
+|--------|------------------|----------------------|
+| **Suspend → with the gap** | +acceptance | Incompleteness as feature, not bug |
+| **Suspend → accept** | +liberation | Structural truth about formal systems |
+| **Widen → all formal systems** | +universalization | Every system has this gap |
+| **Widen → all knowledge** | +epistemology | Is all knowledge incomplete? |
+| **Branch → add axioms** | +extension | Creates new unprovable truths |
+| **Branch → weaker system** | +completeness | But loses arithmetic power |
+| **Branch → informal** | +escape | Leave formalism entirely |
+| **Speculate → minds** | +philosophy | Are minds formal systems? |
+| **Speculate → reality** | +metaphysics | Is reality complete? |
+| **Transfer → ×Turing** | +computation | Halting problem; undecidability |
+| **Transfer → ×Tarski** | +truth | Truth undefinable within system |
+
+---
+
+## Global Operations
+
+| Operation | Mathematical Consequence |
+|-----------|-------------------------|
+| **GENERATE** | Produces: "halting problem", "undefinability of truth", "incompleteness of set theory", "limits of AI" |
+| **TRANSFER** | Maps to: Turing (uncomputability), Tarski (undefinability), Chaitin (randomness), epistemology (knowledge limits) |
+| **DISSOLVE** | **IMPOSSIBLE** — proven cannot dissolve |
+| **EMERGE** | A stronger system, a new axiom, or acceptance of the gap |
+
+---
+
+## Strategy Space
+
+### Path A: Accept (only real option)
 ```
-ontological: limit (formal limitation)
-scale: infinite (applies to all sufficiently powerful systems)
-temporal: eternal (cannot be overcome with time)
-perceptual: theoretical (grasped, not seen)
-relational: objective (inherent to formal systems)
-agential: systems (not human limitation)
-structural: incomplete (necessarily, demonstrably)
+Formal system → Gödel applies → gap exists → accept
+```
+**Payoff**: Incompleteness as structural truth, not failure.
+
+### Path B: Extend (creates new gaps)
+```
+Formal system → add axioms → new system → new unprovable truths
+```
+**Payoff**: Different gap, not closed gap.
+
+### Path C: Weaken (lose expressiveness)
+```
+Formal system → accept less power → complete system → can't express arithmetic
+```
+**Payoff**: Completeness at cost of generality.
+
+### Path D: Go informal
+```
+Formal system → leave formalism → intuition, proof-by-meaning → escapes theorem (maybe)
+```
+**Payoff**: Escape by changing the rules.
+
+---
+
+## Decision Tree
+
+```
+        [Formal System]
+               │
+        ┌──────┴──────┐
+        │  Consistent │
+        │  + Powerful │
+        └──────┬──────┘
+               │
+        ════════════════
+        ║ GÖDEL APPLIES ║
+        ║ GAP EXISTS    ║
+        ║ CAN'T CLOSE   ║
+        ════════════════
+               │
+    ┌──────────┼──────────┐
+    ▼          ▼          ▼
+[Suspend]  [Branch]    [Widen]
+    │          │          │
+    ▼     ┌────┴────┐     ▼
+ accept   ▼         ▼   all
+   ↓    extend   weaken systems
+beauty    ↓         ↓     ↓
+         new      complete limits of
+         gaps     but weak  knowledge
+```
+
+**Logical structure**:
+```
+         TRUTH ─────────────────────→ PROVABILITY
+            │                              │
+         (total)                        (partial)
+            │                              │
+            │     ═══════════════════      │
+            │     ║   THE GAP        ║     │
+            │     ║   (proven to     ║     │
+            │     ║    exist)        ║     │
+            │     ║   (can't close)  ║     │
+            │     ═══════════════════      │
+            │                              │
+            └────── INCOMPLETENESS ────────┘
+                  (structural, eternal)
 ```
 
 ---
 
-## Gesture Profile
+## Position Summary
 
 ```
-available: [SUSPEND, WIDEN, BRANCH, SPECULATE]
-blocked:   [RESOLVE, COMMIT] — completion is impossible
-dominant:  SUSPEND — accept the structural gap
-latent:    [WIDEN] — the gap is everywhere
-
-EXTREME DIMENSION: Demonstrable incompletability. Proven impossible to complete.
-```
-
----
-
-## Gesture Transitions
-
-| Gesture | → Target Site | mode | affect | values | frame displaced |
-|---------|---------------|------|--------|--------|-----------------|
-| **SUSPEND: with the gap** | "Living with structural incompleteness" | null | sublime | vertigo: 0.85, stability: 0.6 | — |
-| **SUSPEND: accept** | "Incompleteness as feature, not bug" | null | liberating | vertigo: 0.7, depth: 0.8 | — |
-| **WIDEN: all formal systems** | "Every system has this gap" | expansion | sublime | vertigo: 0.9, depth: 0.95 | This system as unique |
-| **WIDEN: all knowledge** | "Is all knowledge incomplete?" | expansion | vertiginous | vertigo: 0.95, depth: 0.95 | Knowledge as completable |
-| **BRANCH: add axioms** | "Extend the system" | expansion | uncanny | vertigo: 0.6, novelty: 0.6 | — (creates new gaps) |
-| **BRANCH: weaker system** | "Accept less expressiveness" | expansion | uncanny | vertigo: 0.5, stability: 0.7 | — |
-| **BRANCH: informal** | "Leave formal systems" | expansion | liberating | vertigo: 0.6, novelty: 0.7 | Formalism as necessary |
-| **SPECULATE: human minds** | "Are minds formal systems?" | expansion | vertiginous | vertigo: 0.9, novelty: 0.9 | Mind as computational |
-| **SPECULATE: reality** | "Is reality complete?" | expansion | sublime | vertigo: 0.95, depth: 0.95 | — |
-| **×Gödel** | "The proof itself" | expansion | sublime | vertigo: 0.9, depth: 0.95 | Proof as completion |
-| **×Turing** | "Undecidable problems" | expansion | sublime | vertigo: 0.9, depth: 0.95 | Computation as complete |
-| **×Tarski** | "Truth undefinable" | expansion | sublime | vertigo: 0.9, depth: 0.95 | Truth as formal |
-| **×Chaitin** | "Random incompleteness" | expansion | sublime | vertigo: 0.9, depth: 0.95 | Randomness as definable |
-
----
-
-## Global Gestures
-
-| GlobalGesture | Operation | mode | affect | outcome |
-|---------------|-----------|------|--------|---------|
-| **GENERATE** | → "Halting problem", "undefinability of truth", "incompleteness of set theory", "limits of AI" | varies | sublime | productive |
-| **SPECULATE** | What if reality is complete but our systems can't be? What if mind escapes the theorem? | expansion | vertiginous | reveals proof/truth gap |
-| **TRANSFER** | To Turing (uncomputability), Tarski (undefinability), Chaitin (algorithmic randomness), epistemology (limits of knowledge) | varies | sublime | maximum depth |
-| **DISSOLVE** | Cannot — proven impossible | — | — | impossible |
-| **EMERGE** | From sufficient expressive power + consistency requirement | varies | sublime | structural |
-
----
-
-## Flux Relation
-
-```
-flux_state: structured (the incompleteness is proven, stable)
-dissolution_resistance: infinite — the gap cannot close
-hover_potential: infinite — can contemplate forever
-emergence_pattern: with sufficient formal power
-flux_pockets: WHICH statements are unprovable may vary; THAT some are is fixed
-```
-
-The incompleteness is maximally structured — a mathematical theorem. The gap is not flux but proven structure. The content of the gap (which specific truths are unprovable) involves flux; the existence of the gap is pure structure.
-
----
-
-## Move Notation
-
-```
-0. ROOT       "Formal System"
-1. N+consistent [NARROW: consistent systems]      → "Systems without contradiction"
-2. N+powerful [NARROW: + arithmetic-capable]      → "Expressive systems"
-3. ×Gödel     [TRANSFER: incompleteness]          → "Gödel's theorem applies"
-4. BLOCKED    [cannot complete]                   → "Structural gap"
-```
-
-**Current Position**: The proven gap between truth and provability.
-
----
-
-## Branch Tree
-
-```
-"Formal System"
-│
-├─[N: weak]───────────→ "Presburger arithmetic" (complete but limited)
-│
-└─[N: powerful]───────→ "Arithmetic-capable systems"
-    │
-    ├─[N: inconsistent]───→ "Everything provable" (useless)
-    │
-    └─[N: consistent]─────→ "Useful systems" ← YOU ARE HERE
-        │
-        ├─[RESOLVE: prove all truths]→ BLOCKED (Gödel)
-        │
-        ├─[BRANCH: add axioms]───→ "Extended system"
-        │   └─[N: new gaps]──────→ "New unprovable truths"
-        │
-        ├─[BRANCH: weaker]───────→ "Less expressive system"
-        │   └─[N: complete]──────→ "But can't express arithmetic"
-        │
-        ├─[SUSPEND]──────────────→ "Accept the gap"
-        │   └─[×beauty]──────────→ "Incompleteness as profound"
-        │
-        └─[WIDEN]────────────────→ "All systems"
-            ├─[×Turing]──────────→ "Halting problem"
-            ├─[×Tarski]──────────→ "Truth undefinable"
-            └─[×epistemology]────→ "All knowledge incomplete?"
+Where you are:   In the proven gap between truth and provability
+What you hold:   True statements that cannot be proven + impossibility of closure
+What blocks you: The theorem itself blocks RESOLVE operations
+Best moves:      Suspend (accept) — it's the only real option
+Dominant affect: Sublime — the proof proves its own situation
 ```
 
 ---
 
-## State Dynamics
+## Extremity Character
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ STATE: "In the unprovable gap"                                   │
-│                                                                 │
-│ Tension: LOW (the proof settles it)                              │
-│ Constraints: [consistency requires incompleteness]               │
-│                                                                 │
-│ Triggers:                                                       │
-│   - None — the state is permanent for these systems             │
-│   - Philosophical: what does it mean for knowledge?             │
-│   - Practical: does it matter for mathematics?                  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Extremity Analysis
-
-| Dimension | Extremity | Why |
-|-----------|-----------|-----|
-| **Demonstrability** | Maximum | Proven, not conjectured |
-| **Escapability** | Zero | No fix within formal systems |
-| **Generality** | High | Applies to all sufficiently powerful consistent systems |
-| **Implications** | Vast | Limits of computation, knowledge, AI |
-| **Beauty** | Subjective but high | The proof proves its own unprovability |
+- Demonstrability: maximum (proven)
+- Escapability: zero
+- Generality: high (all powerful consistent systems)
+- Implications: vast (limits computation, knowledge, AI)
+- Beauty: the proof's self-referential elegance

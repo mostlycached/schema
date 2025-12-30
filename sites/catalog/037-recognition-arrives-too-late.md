@@ -1,150 +1,144 @@
 # The Recognition That Arrives Too Late
 
-## The Site
+**Practice**: Writing
 
-You understand now. What they meant. What you should have done. What it was really about. But the moment has passed. The person is gone. The opportunity closed. The recognition is perfect, complete, useless. You know exactly what to do in a situation that no longer exists.
+---
 
-**Dimensions**:
+## State Space
+
+You are at **temporal tragedy** — understanding and opportunity never coincide.
+
+| Dimension | Value | Constraint |
+|-----------|-------|------------|
+| Knowledge | Perfect | You know exactly now |
+| Application | BLOCKED | Moment has passed |
+| Reversibility | Zero | Can't redo |
+
+**Tension**: Medium (chronic grief, not acute).
+
+---
+
+## Action Set
+
+In **Writing** practice, your moves are retrospective operations:
+
+| Move | Verb | Effect | Risk |
+|------|------|--------|------|
+| **Carry** | *hold* | Bear the useless knowledge | Permanent weight |
+| **Apply elsewhere** | *transfer* | Use in similar situations | Not the same |
+| **Forgive** | *release* | "I didn't know then" | Self-compassion |
+| **Generalize** | *notice* | "Everyone carries these" | Abstract comfort |
+
+**Blocked moves**:
+- *Complete* — moment is gone
+- *Resolve* — can't redo the past
+
+---
+
+## Payoff Matrix
+
+| Action | Immediate Payoff | Long-term Consequence |
+|--------|------------------|----------------------|
+| **Hold → carry knowledge** | +acceptance | Useless clarity; permanent |
+| **Hold → what would have been** | +imagination | The unlived version |
+| **Expand → all late recognitions** | +scope | "Everything I understood too late" |
+| **Expand → everyone** | +solidarity | "The living accumulate these" |
+| **Branch → similar situation** | +application | But it's not the same |
+| **Branch → tell someone** | +transmission | Share what you learned |
+| **Branch → forgive self** | +release | "You didn't know then" |
+| **Transfer → ×owl of Minerva** | +frame | Wisdom comes at dusk |
+| **Transfer → ×l'esprit d'escalier** | +frame | The staircase wit |
+
+---
+
+## Global Operations
+
+| Operation | Writing Consequence |
+|-----------|---------------------|
+| **GENERATE** | Produces: "what you should have said at the funeral", "love recognized after they left", "meaning found after the door closed" |
+| **TRANSFER** | Maps to: owl of Minerva (wisdom at dusk), epitaph (too-late summary), hindsight (backward vision), elegy (mourning) |
+| **DISSOLVE** | **NEVER** — the knowledge persists, useless |
+| **EMERGE** | Wisdom, regret, or a cautionary tale |
+
+---
+
+## Strategy Space
+
+### Path A: Carry (default)
 ```
-ontological: limit (temporal irreversibility)
-scale: instant (the recognition) + lifetime (what's lost)
-temporal: retrospective (understanding comes after)
-perceptual: failure-mediated (you see through the failure)
-relational: often dyadic (what you should have said to them)
-agential: anyone (the living accumulate these)
-structural: tragic (knowledge and opportunity never coincide)
+Missed → now understand → carry perfect useless knowledge
+```
+**Payoff**: Tragic acceptance; wisdom-as-weight.
+
+### Path B: Apply elsewhere
+```
+Missed → now understand → apply to next situation → but it's not the same
+```
+**Payoff**: Partial application; incompleteness.
+
+### Path C: Forgive self
+```
+Missed → now understand → "I didn't know then" → developmental frame
+```
+**Payoff**: Knowing now IS the growth.
+
+### Path D: Abstract
+```
+Missed → now understand → "wisdom always comes after" → owl of Minerva
+```
+**Payoff**: Structural truth about understanding.
+
+---
+
+## Decision Tree
+
+```
+         [Recognition Too Late]
+                   │
+         ┌─────────┴─────────┐
+         │    KNOW PERFECTLY │
+         │    MOMENT GONE    │
+         │    CAN'T APPLY    │
+         └─────────┬─────────┘
+                   │
+       ┌───────────┼───────────┐
+       ▼           ▼           ▼
+    [Hold]     [Branch]     [Widen]
+       │           │           │
+       ▼      ┌────┴────┐      ▼
+    carry     ▼         ▼     all
+   useless  apply    forgive  late
+  knowledge elsewhere  self  recognitions
+       ↓        ↓        ↓      ↓
+   tragic    not the   release "everyone
+             same             carries"
+```
+
+**Temporal structure**:
+```
+         THEN ────────────────────────→ NOW
+           │                              │
+       (confused)                    (clear)
+           │                              │
+           │     ══════════════════       │
+           │     ║ MOMENT PASSED  ║       │
+           │     ║ OPPORTUNITY    ║       │
+           │     ║ CLOSED         ║       │
+           │     ══════════════════       │
+           │              ↑               │
+           │        (you are here)        │
+           │                              │
+           └───── KNOWLEDGE MOCKS ────────┘
 ```
 
 ---
 
-## Gesture Profile
+## Position Summary
 
 ```
-available: [SUSPEND, WIDEN, BRANCH]
-blocked:   [RESOLVE, COMMIT] — the moment is gone
-dominant:  SUSPEND — carrying perfect useless knowledge
-latent:    [BRANCH] — apply elsewhere (but it's not the same)
-
-EXTREME DIMENSION: The tragedy of temporal asymmetry — understanding requires what it makes impossible.
+Where you are:   Perfect clarity about inaccessible past
+What you hold:   Complete understanding + zero application
+What blocks you: Temporal irreversibility; understanding requires what it makes impossible
+Best moves:      Hold (tragic acceptance) or Forgive (developmental frame)
+Dominant affect: Tragic — the owl of Minerva flies at dusk
 ```
-
----
-
-## Gesture Transitions
-
-| Gesture | → Target Site | mode | affect | values | frame displaced |
-|---------|---------------|------|--------|--------|-----------------|
-| **SUSPEND: with the knowledge** | "Carrying what can't be used" | null | tragic | vertigo: 0.7, depth: 0.8 | — |
-| **SUSPEND: what would have been** | "The unlived version" | null | tragic | vertigo: 0.8, depth: 0.9 | — |
-| **WIDEN: all late recognitions** | "Everything I understood too late" | expansion | tragic | vertigo: 0.85, depth: 0.9 | This as unique |
-| **WIDEN: everyone** | "Everyone carries these" | expansion | tragic | vertigo: 0.75, depth: 0.85 | My loss as special |
-| **WIDEN: human condition** | "Understanding comes after" | expansion | sublime | vertigo: 0.9, depth: 0.95 | Real-time wisdom possible |
-| **BRANCH: similar situation** | "Apply it next time" | expansion | quotidian | vertigo: 0.5, novelty: 0.5 | — (not the same) |
-| **BRANCH: tell someone** | "Share what you learned" | expansion | uncanny | vertigo: 0.6, depth: 0.7 | — |
-| **BRANCH: forgive self** | "You didn't know then" | expansion | uncanny | vertigo: 0.6, stability: 0.6 | — |
-| **NARROW: the moment** | "Exactly what happened" | collapse | tragic | vertigo: 0.8, depth: 0.9 | — |
-| **×owl of Minerva** | "Wisdom comes at dusk" | expansion | sublime | vertigo: 0.85, depth: 0.9 | Understanding as timely |
-| **×l'esprit d'escalier** | "The staircase wit" | expansion | tragic | vertigo: 0.7, novelty: 0.6 | Readiness as possible |
-| **×epitaph** | "What you'd write now" | expansion | tragic | vertigo: 0.8, depth: 0.9 | Life as revisable |
-
----
-
-## Global Gestures
-
-| GlobalGesture | Operation | mode | affect | outcome |
-|---------------|-----------|------|--------|---------|
-| **GENERATE** | → "What you should have said at the funeral", "The love you recognized after they left", "The meaning you found after the door closed" | varies | tragic | productive |
-| **SPECULATE** | What if understanding came first? What if opportunities waited for wisdom? | expansion | vertiginous | reveals temporal tragedy |
-| **TRANSFER** | To owl of Minerva (wisdom at dusk), epitaph (too-late summary), hindsight (backward vision), elegy (mourning what's past) | varies | tragic | high depth |
-| **DISSOLVE** | Never fully — the knowledge persists, useless | — | tragic | permanent |
-| **EMERGE** | From reflection, distance, other experience, loss, growth | varies | tragic | developmental |
-
----
-
-## Flux Relation
-
-```
-flux_state: structured (the past is fixed, the knowledge is fixed)
-dissolution_resistance: infinite — can't unknow or redo
-hover_potential: high — can carry this indefinitely
-emergence_pattern: developmental (wisdom comes from experience)
-flux_pockets: interpretation may shift; the missed moment is structured
-```
-
-Double structure: the past can't change, and the understanding can't be un-understood. Both are fixed. The flux is in meaning, not fact.
-
----
-
-## Move Notation
-
-```
-0. ROOT       "Experience"
-1. N+past     [NARROW: past moment]               → "Something that happened"
-2. N+confused [NARROW: didn't understand then]    → "Confusion at the time"
-3. ×later     [TEMPORAL: time passes]             → "Distance"
-4. N→clarity  [NARROW: now understand]            → "Recognition"
-5. BLOCKED    [moment is gone]                    → "Too late"
-```
-
-**Current Position**: Perfect clarity about an inaccessible past.
-
----
-
-## Branch Tree
-
-```
-"Experience"
-│
-├─[N: understood in time]──→ "Timely recognition" (rare)
-│
-└─[N: understood later]────→ "Belated recognition"
-    │
-    ├─[N: still actionable]───→ "Can still respond" (relief)
-    │
-    └─[N: too late]───────────→ "Window closed" ← YOU ARE HERE
-        │
-        ├─[SUSPEND]───────────→ "Carry the knowledge"
-        │   ├─[×owl of Minerva]→ "This is the structure of wisdom"
-        │   └─[WIDEN]─────────→ "All late recognitions"
-        │
-        ├─[BRANCH: elsewhere]─→ "Apply to other situations"
-        │   └─[NARROW: but]───→ "It's not the same situation"
-        │
-        ├─[BRANCH: forgive]───→ "You didn't know then"
-        │   └─[×developmental]→ "Knowing now IS the growth"
-        │
-        └─[NARROW: fantasy]───→ "What would have happened"
-            └─[×counterfactual]→ "The unlived life"
-```
-
----
-
-## State Dynamics
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ STATE: "Belated clarity"                                         │
-│                                                                 │
-│ Tension: MEDIUM (chronic grief, not acute)                       │
-│ Constraints: [past fixed, knowledge fixed, can't coincide]       │
-│                                                                 │
-│ Triggers:                                                       │
-│   - Similar situation: chance to apply (but different)          │
-│   - Reminder: grief returns                                     │
-│   - Acceptance: integrate the loss                              │
-│   - Sharing: wisdom becomes transmissible                       │
-│   - Death: the finally-understood person dies                   │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Extremity Analysis
-
-| Dimension | Extremity | Why |
-|-----------|-----------|-----|
-| **Temporal asymmetry** | Maximum | Understanding structurally comes after |
-| **Utility** | Zero | Perfect knowledge, no application |
-| **Tragedy** | High | Knowledge mocks with its completeness |
-| **Universality** | Maximum | Everyone accumulates these |
-| **Reversibility** | Zero | Neither the past nor the knowing can be undone |

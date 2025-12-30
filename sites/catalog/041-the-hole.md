@@ -1,152 +1,138 @@
 # The Hole
 
-## The Site
+**Practice**: Philosophy
 
-A hole in a piece of paper. A hole in the ground. A hole in a tooth. The hole is real — you can put your finger through it, fall into it, feel the absence. But what IS a hole? It's defined entirely by what's not there. The hole is made of nothing, yet it has location, size, shape. You can dig a hole, fill a hole, buy a doughnut for its hole. The nothing that is something.
+---
 
-**Dimensions**:
+## State Space
+
+You are contemplating **ontological paradox** — absence that has presence.
+
+| Dimension | Value | Constraint |
+|-----------|-------|------------|
+| Ontology | Absence | Defined by what's not there |
+| Properties | Paradoxical | Nothing with location, size, shape |
+| Dependence | Relational | No hole without surrounding material |
+
+**Tension**: Medium-ontological. The nothing that IS something.
+
+---
+
+## Action Set
+
+In **Philosophy** practice, your moves are conceptual operations:
+
+| Move | Verb | Effect | Risk |
+|------|------|--------|------|
+| **Pose aporia** | *suspend* | Dwell in the paradox | May not resolve |
+| **Define terms** | *narrow* | Where does hole begin? What IS this? | Terms may fail |
+| **Extend argument** | *widen* | All absences, all negations | Goes maximally abstract |
+| **Distinguish cases** | *branch* | Physical holes, conceptual holes, emotional holes | Categories may mislead |
+| **Assert thesis** | *commit* | "Holes are X" | Forces position |
+
+**Blocked moves**:
+- *Complete* — the paradox may be structural; no resolution
+
+---
+
+## Payoff Matrix
+
+| Action | Immediate Payoff | Long-term Consequence |
+|--------|------------------|----------------------|
+| **Suspend → dwell** | +depth | The absent-present as permanent contemplation |
+| **Narrow → this hole** | +specificity | A pinhole, a grave, a gap |
+| **Narrow → the edge** | +boundary problem | Where does hole meet not-hole? |
+| **Widen → all holes** | +scope | Every bounded absence |
+| **Widen → all absences** | +maximum generality | Shadows, silences, deaths |
+| **Branch → fill it** | +practical | Hole becomes not-hole |
+| **Branch → enter it** | +experiential | Relationship to absence changes |
+| **Speculate → count them** | +puzzle | How many holes in a straw? (Topology) |
+| **Speculate → what IS it?** | +maximum vertigo | What exists when nothing's there? |
+| **Transfer → ×death** | +existential | The hole where someone was |
+
+---
+
+## Global Operations
+
+| Operation | Philosophical Consequence |
+|-----------|--------------------------|
+| **GENERATE** | Produces: "hole in understanding", "hole in argument", "hole in heart", "black hole" |
+| **TRANSFER** | Maps to: nothing (pure absence), shadow (absence of light), silence (absence of sound), death (absence of person) |
+| **DISSOLVE** | When filled; hole becomes not-hole |
+| **EMERGE** | Filling the hole, covering it, or the hole expanding to consume the surrounding |
+
+---
+
+## Strategy Space
+
+### Path A: Ontological contemplation
 ```
-ontological: absence (defined by what's not there)
-scale: varies (pinhole to abyss)
-temporal: extended (holes persist)
-perceptual: direct (you see the not-there)
-relational: dependent (no hole without surrounding material)
-agential: created or found
-structural: paradoxical (nothing with properties)
+Hole → "what IS it?" → nothing with properties → paradox as destination
+```
+**Payoff**: Maximum philosophical depth. The aporia itself.
+
+### Path B: Boundary investigation
+```
+Hole → "where does it begin?" → edge problem → topology
+```
+**Payoff**: Rigorous analysis. Genus and fundamental group.
+
+### Path C: Category expansion
+```
+Hole → "all absences" → shadows, silences, deaths → ontology of negation
+```
+**Payoff**: Grand theory of absence.
+
+### Path D: Practical (deflationary)
+```
+Hole → fill it → not-hole → problem dissolved (literally)
+```
+**Payoff**: Escapes paradox but misses the point.
+
+---
+
+## Decision Tree
+
+```
+                    [The Hole]
+                        │
+        ┌───────────────┼───────────────┐
+        ▼               ▼               ▼
+   [Suspend]        [Narrow]        [Branch]
+        │               │               │
+        ▼          ┌────┴────┐     ┌────┴────┐
+   "what IS       ▼         ▼     ▼         ▼
+    nothing?"   edge     interior  fill    enter
+        │         ↓         ↓       ↓         ↓
+        ▼     boundary  "what's  not-hole  relation
+   paradox    problem    there?"  (escapes) changes
+```
+
+**Ontological structure**:
+```
+         PRESENCE
+            │
+    ╭───────┴───────╮
+    │               │
+  MATERIAL      ← ABSENCE →      THE HOLE
+    │               │
+    │       ╭───────┴───────╮
+    │       │               │
+    │    has             has no
+    │  location,         substance
+    │   shape
+    │       │
+    └───────┴───── PARADOX
 ```
 
 ---
 
-## Gesture Profile
+## Position Summary
 
 ```
-available: [WIDEN, NARROW, SUSPEND, BRANCH, SPECULATE]
-blocked:   [COMMIT] — can't commit to the hole itself (only the edges)
-dominant:  SUSPEND — contemplate the absent-present
-latent:    [WIDEN] — all absences with presence
-
-EXTREME DIMENSION: Ontological paradox. Something that IS by NOT being.
+Where you are:   Contemplating the ontologically paradoxical
+What you hold:   Absence with properties; nothing that is something
+What blocks you: Paradox may be irreducible; no clean resolution
+Best moves:      Suspend (dwell in paradox) or Widen (ontology of negation)
+Dominant affect: Uncanny-sublime — presence of absence
 ```
-
----
-
-## Gesture Transitions
-
-| Gesture | → Target Site | mode | affect | values | frame displaced |
-|---------|---------------|------|--------|--------|-----------------|
-| **SUSPEND: the nothing** | "Dwelling in the absent-present" | null | uncanny | vertigo: 0.8, depth: 0.85 | — |
-| **NARROW: this hole** | "This specific absence" | collapse | uncanny | vertigo: 0.7, depth: 0.75 | — |
-| **NARROW: the edge** | "Where hole meets not-hole" | collapse | vertiginous | vertigo: 0.85, depth: 0.9 | Boundaries as clear |
-| **WIDEN: all holes** | "Every absence defined by presence" | expansion | sublime | vertigo: 0.85, depth: 0.9 | This hole as unique |
-| **WIDEN: all absences** | "Everything defined by not-being" | expansion | sublime | vertigo: 0.9, depth: 0.95 | Presence as primary |
-| **BRANCH: fill it** | "Make the hole not-hole" | expansion | quotidian | vertigo: 0.4, novelty: 0.5 | — |
-| **BRANCH: enter it** | "Go into the absence" | expansion | vertiginous | vertigo: 0.7, novelty: 0.7 | — |
-| **SPECULATE: what is it?** | "What exists when nothing's there?" | expansion | vertiginous | vertigo: 0.9, novelty: 0.8 | — |
-| **SPECULATE: count them** | "How many holes in a straw?" | expansion | vertiginous | vertigo: 0.85, novelty: 0.9 | Counting as straightforward |
-| **×nothing** | "The nothing that is something" | expansion | sublime | vertigo: 0.9, depth: 0.95 | Nothing as non-existent |
-| **×shadow** | "Another absence-presence" | expansion | uncanny | vertigo: 0.75, depth: 0.8 | Shadows as similar |
-| **×silence** | "The hole in sound" | expansion | uncanny | vertigo: 0.8, depth: 0.85 | Silence as absence |
-| **×death** | "The hole where someone was" | expansion | tragic | vertigo: 0.9, depth: 0.95 | Death as presence-removal |
-
----
-
-## Global Gestures
-
-| GlobalGesture | Operation | mode | affect | outcome |
-|---------------|-----------|------|--------|---------|
-| **GENERATE** | → "Hole in understanding", "hole in argument", "hole in heart", "black hole" | varies | uncanny | productive |
-| **SPECULATE** | What if nothing couldn't have properties? What if everything is holes in something else? | expansion | vertiginous | reveals being/nothing paradox |
-| **TRANSFER** | To nothing (pure absence), shadow (absence of light), silence (absence of sound), death (absence of person) | varies | sublime | high vertigo |
-| **DISSOLVE** | When filled — hole becomes not-hole | collapse | quotidian | contingent |
-| **EMERGE** | From removal, from creation, from decay | varies | uncanny | many paths |
-
----
-
-## Flux Relation
-
-```
-flux_state: structured (the hole has stable shape) yet absence-based
-dissolution_resistance: medium — can be filled, can expand
-hover_potential: high — holes persist
-emergence_pattern: created or found
-flux_pockets: the edges are structured; what goes through is flux
-```
-
-The hole is structured absence. It has properties (location, size, shape) but no substance. The flux passes through; the structure is the frame.
-
----
-
-## Move Notation
-
-```
-0. ROOT       "Space"
-1. N+occupied [NARROW: occupied space]            → "Things"
-2. ÷occupied  [NEGATE: remove occupant]           → "Where thing was"
-3. N+bounded  [NARROW: bounded absence]           → "Hole"
-4. ×nothing   [TRANSFER: nothing]                 → "The nothing that is"
-```
-
-**Current Position**: The ontologically paradoxical — absence with presence.
-
----
-
-## Branch Tree
-
-```
-"Space"
-│
-├─[N: occupied]───────→ "Filled space" (normal)
-│
-└─[N: unoccupied]─────→ "Empty space"
-    │
-    ├─[N: unbounded]──────→ "The void" (infinite nothing)
-    │
-    └─[N: bounded]────────→ "The hole" ← YOU ARE HERE
-        │
-        ├─[NARROW: edge]──────→ "Where hole meets material"
-        │   └─[SPECULATE]─────→ "Is the edge part of the hole?"
-        │
-        ├─[NARROW: interior]──→ "Inside the hole"
-        │   └─[×nothing]──────→ "What's there when nothing's there?"
-        │
-        ├─[WIDEN: all holes]──→ "Every bounded absence"
-        │   ├─[N: physical]───→ "Holes in matter"
-        │   ├─[N: conceptual]─→ "Holes in arguments"
-        │   └─[N: emotional]──→ "Holes in self"
-        │
-        ├─[BRANCH: fill]──────→ "Make it not-hole"
-        │
-        └─[SPECULATE: count]──→ "How many holes in X?"
-            └─[×topology]─────→ "Genus and fundamental group"
-```
-
----
-
-## State Dynamics
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ STATE: "Contemplating the hole"                                  │
-│                                                                 │
-│ Tension: MEDIUM (ontological, not urgent)                        │
-│ Constraints: [no hole without material, bounded absence]         │
-│                                                                 │
-│ Triggers:                                                       │
-│   - Fill it: hole becomes not-hole                              │
-│   - Enlarge it: hole changes properties                         │
-│   - Enter it: changes relationship                              │
-│   - Destroy material: hole dissolves (into what?)               │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Extremity Analysis
-
-| Dimension | Extremity | Why |
-|-----------|-----------|-----|
-| **Ontological paradox** | Maximum | Something made of nothing |
-| **Dependence** | High | No hole without surrounding |
-| **Properties** | Paradoxical | Location, size, shape — of nothing |
-| **Boundary** | Ambiguous | Where does hole begin? |
-| **Identity** | Problematic | Same hole after changes? |

@@ -1,144 +1,133 @@
 # The Fight You Keep Having
 
-## The Site
+**Practice**: Writing
 
-Same argument. Different Tuesday. The words are almost scripted now. You both know the moves, the escalations, the points where someone storms off. And yet it happens again.
+---
 
-**Dimensions**:
+## State Space
+
+You are in **recursive structure** — a narrative loop where the plot repeats with variations.
+
+| Dimension | Value | Constraint |
+|-----------|-------|------------|
+| Pattern | Stable attractor | Exits rarely; returns guaranteed |
+| Awareness | Meta-present | You see the script while acting it |
+| Structure | Recursive | The fight contains the history of the fight |
+
+**Tension**: Medium-chronic. Not acute (it's familiar), but exhausting.
+
+---
+
+## Action Set
+
+In **Writing** practice, your moves are narrative operations:
+
+| Move | Verb | Effect | Risk |
+|------|------|--------|------|
+| **Delay resolution** | *postpone* | Defer to next iteration of loop | Pattern persists |
+| **Create tension** | *suspend* | Watch yourself fight (meta-awareness) | Paralysis despite insight |
+| **Expand scope** | *introduce* | Connect to larger patterns ("inherited from parents") | Overwhelm |
+| **Specify trigger** | *narrow* | Identify what starts it | Knowledge without escape |
+| **Break pattern** | *complicate radically* | Do something unprecedented mid-fight | May create "fight about the fight" |
+
+**Blocked moves**:
+- *Resolve* — you've tried; the fight returns
+
+---
+
+## Payoff Matrix
+
+| Action | Immediate Payoff | Long-term Consequence |
+|--------|------------------|----------------------|
+| **Defer → "until next time"** | +stability | Pattern continues; nothing changes |
+| **Suspend → watch yourself** | +meta-awareness | Uncanny distance; still can't exit |
+| **Expand → "all our patterns"** | +tragic depth | See the constellation of conflicts |
+| **Expand → "inherited"** | +generational depth | Pattern is older than you |
+| **Specify → trigger** | +clarity | Know the mechanism; still trapped |
+| **Break → unprecedented move** | +high risk | Either exits orbit or creates meta-fight |
+| **Transfer → ×orbit** | +cosmic frame | "Gravitationally bound; return guaranteed" |
+| **Transfer → ×script** | +theatrical frame | "You're performing remembered conflict" |
+
+---
+
+## Global Operations
+
+| Operation | Narrative Consequence |
+|-----------|----------------------|
+| **GENERATE** | Produces: "the way your parent fought", "the thing you always eventually say", "trying couples therapy" |
+| **TRANSFER** | Maps to: orbit (gravity), script (theater), addiction (compulsion), ritual (functional repetition) |
+| **DISSOLVE** | Rare: requires external crisis, transformation, or relationship end |
+| **EMERGE** | The same relationship (strengthened or weakened), or a breakup |
+
+---
+
+## Strategy Space
+
+### Path A: Deferral loop (default)
 ```
-ontological: process (cyclical)
-scale: extended (each instance) + lifetime (the pattern)
-temporal: oscillation
-perceptual: retrospective + direct (you see it happening)
-relational: dyadic
-agential: anyone (in relationship)
-structural: recursive (the fight contains the history of the fight)
+Fight → ends somehow → time passes → trigger → Fight again
+```
+**Payoff**: Stability through familiarity. The loop continues.
+
+### Path B: Meta-awareness
+```
+Fight → watch yourself → "I see the script" → still acting it
+```
+**Payoff**: Uncanny insight without escape. Knowledge isn't freedom.
+
+### Path C: Generational expansion
+```
+Fight → "We fight like my parents" → Inherited pattern → The fight is older than you
+```
+**Payoff**: Tragic depth. You're continuing a script written before you were born.
+
+### Path D: Pattern break (high risk)
+```
+Fight → unprecedented move → ??? → Either exit or escalate
+```
+**Payoff**: Potential escape but may trigger "the fight about the fight."
+
+---
+
+## Decision Tree
+
+```
+                  [The Fight Again]
+                         │
+        ┌────────────────┼────────────────┐
+        ▼                ▼                ▼
+   [Defer]          [Suspend]         [Break]
+     │                  │                │
+     ▼                  ▼           ┌────┴────┐
+   "next              "watch        ▼         ▼
+   time"            yourself"    exit?    meta-fight
+     │                  │
+     ▼                  ▼
+  [repeat]          "still
+                   acting it"
+```
+
+**Orbital metaphor**:
+```
+      ╭──────────╮
+     ╱            ╲
+    ╱   [fight]    ╲
+   │       ↓        │
+   │    [defer]     │←──── you are here (locked in orbit)
+   │       ↓        │
+    ╲   [trigger]  ╱
+     ╲     ↓      ╱
+      ╰──[fight]─╯
 ```
 
 ---
 
-## Gesture Profile
+## Position Summary
 
 ```
-available: [WIDEN, SUSPEND, DEFER]
-blocked:   [RESOLVE] — you've tried; the fight returns
-dominant:  DEFER — postpone until next occurrence
-latent:    [BRANCH] — do something truly different (high risk)
+Where you are:   Inside a recursive loop; the fight is also the history of fights
+What you hold:   Meta-awareness (you see the script) + inability to exit
+What blocks you: Pattern is an attractor; gestures absorb back into orbit
+Best moves:      Expand (understand pattern) or Break (high-risk exit attempt)
+Dominant affect: Tragicomic — exhausting familiarity
 ```
-
----
-
-## Gesture Transitions
-
-| Gesture | → Target Site | mode | affect | values | frame displaced |
-|---------|---------------|------|--------|--------|-----------------|
-| **DEFER** | "Until next time" | null | quotidian | vertigo: 0.2, stability: 0.4 | — (orbit continues) |
-| **SUSPEND** | "Watching yourself fight" | null | uncanny | vertigo: 0.5, novelty: 0.5 | — (meta-awareness) |
-| **WIDEN** | "All our patterns" | expansion | tragic | vertigo: 0.5, depth: 0.7 | This fight as unique |
-| **WIDEN: inherited** | "The way your parent fought" | expansion | tragic | vertigo: 0.6, depth: 0.9 | Pattern as personal |
-| **NARROW: trigger** | "What starts it?" | collapse | quotidian | vertigo: 0.4, depth: 0.6 | Fight as inevitable |
-| **NARROW: exit** | "How does each instance end?" | collapse | quotidian | vertigo: 0.4, depth: 0.5 | Pattern as varying |
-| **BRANCH** | "Do something unprecedented" | expansion | vertiginous | vertigo: 0.9, novelty: 0.9 | Pattern as permanent |
-| **×orbit** | "The conflict orbit" | expansion | tragic | vertigo: 0.6, depth: 0.8 | Conflict as chosen |
-| **×script** | "Seeing the script while acting it" | expansion | uncanny | vertigo: 0.7, novelty: 0.6 | Spontaneity as real |
-| **×addiction** | "Return despite intent" | collapse | tragic | vertigo: 0.6, depth: 0.8 | Agency as free |
-
----
-
-## Global Gestures
-
-| GlobalGesture | Operation | mode | affect | outcome |
-|---------------|-----------|------|--------|---------|
-| **GENERATE** | → "The way your parent fought", "the thing you always eventually say", "trying couples therapy" | varies | tragic | productive |
-| **SPECULATE** | What if you broke the pattern? What if you never fought again? | expansion | vertiginous | reveals the pattern's function |
-| **TRANSFER** | To orbit, script, addiction, ritual | varies | tragic | productive |
-| **DISSOLVE** | Rarely: requires external intervention, major life change, or transformation | collapse | varies | difficult |
-| **EMERGE** | Via trigger event; pattern has known activation conditions | collapse | quotidian | triggered |
-
----
-
-## Flux Relation
-
-```
-flux_state: structured (the pattern is stable)
-dissolution_resistance: very high — patterns are attractors
-hover_potential: low — the fight tends to run its course
-emergence_pattern: triggered (specific events activate the script)
-flux_pockets: the specific words vary; the structure is fixed
-```
-
-The pattern is an attractor basin. Flux exists at the surface (word choice, timing) but not at the structural level. Breaking the pattern requires exiting the basin — a phase transition, not a gesture.
-
----
-
-## Move Notation
-
-```
-0. ROOT       "Conflict"
-1. N+recurring [NARROW: repeating]               → "Recurring conflict"
-2. N+same     [NARROW: same structure]           → "The same fight"
-3. ×orbit     [TRANSFER: astronomy]              → "Conflict as orbital pattern"
-4. N→inside   [NARROW: being inside the pattern] → "Knowing you're in the loop"
-```
-
-**Current Position**: Pattern as prison; the recursive structure of relational dynamics.
-
----
-
-## Branch Tree
-
-```
-"Conflict"
-│
-├─[N: resolved]───→ "The fight that ended" (different site)
-│
-└─[N: recurring]──→ "The recurring fight"
-    │
-    ├─[N: escalating]─→ "Each time worse" (spiral not orbit)
-    │
-    └─[N: stable pattern]─→ "The fight you keep having" ← YOU ARE HERE
-        │
-        ├─[×orbit]─────→ "The conflict orbit"
-        │   ├─[N: period]──→ "How long between fights?"
-        │   ├─[N: trigger]─→ "What starts it?"
-        │   └─[N: exit]────→ "How does each instance end?"
-        │
-        ├─[WIDEN]──────→ "All our patterns"
-        │   └─[N: multiple orbits]─→ "The constellation of recurring conflicts"
-        │
-        ├─[SUSPEND]────→ "Watching yourself fight"
-        │   └─[×film]───→ "Seeing the script while acting it"
-        │
-        └─[BRANCH: break pattern]─→ "Do something unprecedented"
-            ├─[→ works]────→ "Exit the orbit" (rare)
-            └─[→ absorbed]─→ "The fight about the fight"
-```
-
----
-
-## State Dynamics
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ STATE: "In the recurring fight"                                 │
-│                                                                 │
-│ Tension: MEDIUM (familiar, not novel; exhausting, not acute)    │
-│ Constraints: [pattern is known, escape seems impossible]        │
-│                                                                 │
-│ Triggers:                                                       │
-│   - External crisis: fight suspended for emergency              │
-│   - Third party enters: pattern disrupted or exposed            │
-│   - Exhaustion: one party exits pattern (temporary or final)    │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Transfers Applied
-
-| Source Domain | What Transfers | What Reveals |
-|---------------|----------------|--------------|
-| **Orbit** | Periodic return, gravitational lock | You're bound by forces that guarantee return |
-| **Script** | Lines known in advance | Spontaneity is illusion; you're performing remembered conflict |
-| **Addiction** | Return despite intent | The fight has its own momentum; you're vehicles |
-| **Ritual** | Repeated form | Conflict serves function beyond content; the fight *does* something |

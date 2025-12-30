@@ -1,156 +1,154 @@
 # The Choice Between Incommensurables
 
-## The Site
+**Practice**: Philosophy
 
-You must choose. Career or family. Loyalty or honesty. Save one life or save five. The options cannot be weighed on the same scale — there's no common currency. No algorithm can decide. Whatever you choose, something real is lost forever. This is not ignorance; you see the values clearly. They simply cannot be reconciled.
+---
 
-**Dimensions**:
+## State Space
+
+You are at **irreducible value conflict** — no common measure exists.
+
+| Dimension | Value | Constraint |
+|-----------|-------|------------|
+| Values | Clear | You see them distinctly |
+| Comparison | Impossible | No algorithm can decide |
+| Loss | Guaranteed | Something real foregone |
+
+**Tension**: Maximum. Career or family. Loyalty or honesty. No optimization possible.
+
+---
+
+## Action Set
+
+In **Philosophy** practice, your moves are deliberative operations:
+
+| Move | Verb | Effect | Risk |
+|------|------|--------|------|
+| **Decide** | *commit* | Choose A, lose B | Irreversible loss |
+| **Agonize** | *suspend* | Dwell in the impossible | Paralysis |
+| **Seek synthesis** | *speculate* | Is there a higher value? | Probably none |
+| **Bifurcate** | *branch* | Compromise? Refuse? | Lose both fully |
+
+**Blocked moves**:
+- *Define precisely* — cannot reduce one value to the other
+- *Complete* — no resolution; only choice with loss
+
+---
+
+## Payoff Matrix
+
+| Action | Immediate Payoff | Long-term Consequence |
+|--------|------------------|----------------------|
+| **Suspend → dwell in dilemma** | +depth | Experience the impossibility |
+| **Commit → choose A** | +certainty/-loss | Have A, lose B forever |
+| **Commit → choose B** | +certainty/-loss | Have B, lose A forever |
+| **Branch → compromise** | +partial both | Lose both fully |
+| **Branch → refuse to choose** | +temporary escape | Inaction is a choice; default wins |
+| **Speculate → higher value** | +possible synthesis | Usually none exists |
+| **Speculate → "why incommensurable?"** | +philosophical depth | Values are plural |
+| **Widen → all such choices** | +normalization | Everyone faces these |
+| **Transfer → ×trolley** | +canonical frame | The classic dilemma |
+| **Transfer → ×tragic hero** | +dramatic frame | Choosing ensures loss |
+| **Transfer → ×Berlin** | +political philosophy | Value pluralism |
+
+---
+
+## Global Operations
+
+| Operation | Philosophical Consequence |
+|-----------|--------------------------|
+| **GENERATE** | Produces: "Sophie's choice", "career vs. calling", "loyalty vs. truth", "duty vs. desire" |
+| **TRANSFER** | Maps to: tragedy (necessary loss), Berlin (pluralism), trolley (thought experiment), existentialism (choice creates value) |
+| **DISSOLVE** | Only by choice — but the loss remains forever |
+| **EMERGE** | Regret, relief, or the living of the unchosen life as shadow |
+
+---
+
+## Strategy Space
+
+### Path A: Agonize (temporary)
 ```
-ontological: tension (between irreducible values)
-scale: momentary (the decision) → lifetime (the foreclosure)
-temporal: present (must decide) + permanent (consequence)
-perceptual: direct (the values are clear) + paradoxical (comparison fails)
-relational: varies (may involve others, may be purely internal)
-agential: decider (the one who must choose)
-structural: paradoxical (no right answer exists)
+Dilemma → suspend → dwell → experience impossibility → must eventually choose
+```
+**Payoff**: Depth before decision. Can't stay here.
+
+### Path B: Commit to A
+```
+Dilemma → choose A → lose B → live with trade-off
+```
+**Payoff**: Have A. B is gone. The cost remains.
+
+### Path C: Seek higher frame
+```
+Dilemma → "is there a third way?" → usually no → back to choice
+```
+**Payoff**: Due diligence. Usually fails.
+
+### Path D: Refuse (default wins)
+```
+Dilemma → don't choose → inaction is choice → default value selected
+```
+**Payoff**: Escape agency; accept default.
+
+---
+
+## Decision Tree
+
+```
+                [Incommensurables]
+                       │
+           ┌───────────┴───────────┐
+           │   NO COMMON MEASURE   │
+           │   BOTH VALUES REAL    │
+           │   LOSS GUARANTEED     │
+           └───────────┬───────────┘
+                       │
+       ┌───────────────┼───────────────┐
+       ▼               ▼               ▼
+   [Suspend]       [Commit]        [Branch]
+       │               │               │
+       ▼          ┌────┴────┐     ┌────┴────┐
+   agonize        ▼         ▼     ▼         ▼
+       │       choose A  choose B  compromise refuse
+       ▼          ↓         ↓       ↓         ↓
+   must        have A    have B   lose     default
+  choose       lose B    lose A   both      wins
+            (forever) (forever)   fully
+```
+
+**Value structure**:
+```
+         VALUE A ─────────────────────── VALUE B
+            │                                │
+         (real)                           (real)
+            │                                │
+            │     NO CONVERSION RATE         │
+            │     NO COMMON CURRENCY         │
+            │     NO ALGORITHM               │
+            │                                │
+            └─────────── YOU ────────────────┘
+                    (must choose)
 ```
 
 ---
 
-## Gesture Profile
+## Position Summary
 
 ```
-available: [COMMIT, SUSPEND, BRANCH, SPECULATE]
-blocked:   [RESOLVE, NARROW] — cannot reduce or resolve
-dominant:  SUSPEND → COMMIT (must eventually choose)
-latent:    [WIDEN] — is there a higher synthesis?
-
-EXTREME DIMENSION: Irreducible value conflict. No optimization is possible.
-```
-
----
-
-## Gesture Transitions
-
-| Gesture | → Target Site | mode | affect | values | frame displaced |
-|---------|---------------|------|--------|--------|-----------------|
-| **SUSPEND: in the paralysis** | "Dwelling in impossible choice" | null | tragic | vertigo: 0.9, stability: 0.2 | — |
-| **COMMIT: choose A** | "Take this value, lose that" | collapse | tragic | vertigo: 0.8, depth: 0.9 | Full optimization possible |
-| **COMMIT: choose B** | "Take that value, lose this" | collapse | tragic | vertigo: 0.8, depth: 0.9 | Full optimization possible |
-| **BRANCH: both partially** | "Compromise" | expansion | tragic | vertigo: 0.7, novelty: 0.6 | — (but lose both fully) |
-| **BRANCH: refuse to choose** | "Avoid the decision" | expansion | uncanny | vertigo: 0.6, stability: 0.4 | — (often impossible) |
-| **SPECULATE: common measure** | "Is there a higher value?" | expansion | vertiginous | vertigo: 0.8, novelty: 0.7 | — (probably not) |
-| **SPECULATE: why incommensurable?** | "Why can't these be compared?" | expansion | vertiginous | vertigo: 0.85, depth: 0.9 | Values as commensurable |
-| **WIDEN: all such choices** | "Everyone faces these" | expansion | tragic | vertigo: 0.8, depth: 0.85 | My dilemma as unique |
-| **NARROW: which matters more?** | "Try to rank them" | collapse | tragic | vertigo: 0.7, depth: 0.8 | — (fails) |
-| **×trolley** | "The classic dilemma" | expansion | uncanny | vertigo: 0.8, novelty: 0.7 | — |
-| **×tragic hero** | "Choosing ensures loss" | expansion | tragic | vertigo: 0.9, depth: 0.95 | Happy endings possible |
-| **×Berlin** | "Value pluralism" | expansion | sublime | vertigo: 0.85, depth: 0.9 | Values as rankable |
-| **×existential** | "You create value by choosing" | expansion | vertiginous | vertigo: 0.9, novelty: 0.9 | Values as given |
-
----
-
-## Global Gestures
-
-| GlobalGesture | Operation | mode | affect | outcome |
-|---------------|-----------|------|--------|---------|
-| **GENERATE** | → "Sophie's choice", "loyalty vs. truth", "career vs. calling", "duty vs. desire" | varies | tragic | productive |
-| **SPECULATE** | What if all values were commensurable? What if choice itself creates value? | expansion | vertiginous | reveals commensuration as myth |
-| **TRANSFER** | To tragedy (necessary loss), Berlin (pluralism), trolley (ethical dilemma), existentialism (choice creates value) | varies | tragic | high depth |
-| **DISSOLVE** | Only by choice — but the loss remains | collapse | tragic | the cost remains |
-| **EMERGE** | From complex value systems + limited resources | varies | tragic | structural |
-
----
-
-## Flux Relation
-
-```
-flux_state: structured (the values are real) + flux (the choice is open)
-dissolution_resistance: medium — must choose eventually
-hover_potential: limited — pressure to decide
-emergence_pattern: when values collide + scarcity forces choice
-flux_pockets: which option is chosen is flux; that something is lost is structured
-```
-
-The values are structured — they are what they are. The choice is flux — open until decided. But the incommensurability itself is structured — no amount of thinking will make the values comparable.
-
----
-
-## Move Notation
-
-```
-0. ROOT       "Values"
-1. N+multiple [NARROW: multiple values]           → "Plural values"
-2. N+conflict [NARROW: conflicting]               → "Values in tension"
-3. N+irreducible [NARROW: incommensurable]        → "Cannot compare"
-4. →choice    [FORCED: must choose]               → "The impossible choice"
-```
-
-**Current Position**: Between values that cannot be ranked; must choose anyway.
-
----
-
-## Branch Tree
-
-```
-"Values"
-│
-├─[N: compatible]─────→ "Values that harmonize" (lucky)
-│
-└─[N: conflicting]────→ "Values in tension"
-    │
-    ├─[N: commensurable]──→ "Can be traded off" (optimization)
-    │   └─[RESOLVE: calculate]→ "The right answer"
-    │
-    └─[N: incommensurable]→ "Cannot be compared" ← YOU ARE HERE
-        │
-        ├─[SUSPEND: agonize]──→ "Dwell in the dilemma"
-        │   └─[×Buridan's ass]→ "Paralysis"
-        │
-        ├─[COMMIT: choose]────→ "Pick one"
-        │   ├─[N: A]──────────→ "Value A, lose B"
-        │   └─[N: B]──────────→ "Value B, lose A"
-        │
-        ├─[BRANCH: compromise]→ "Partial A, partial B"
-        │   └─[×tragic]───────→ "Lose both fully"
-        │
-        ├─[BRANCH: refuse]────→ "Don't choose"
-        │   └─[×default]──────→ "Inaction is a choice"
-        │
-        ├─[SPECULATE: higher]─→ "Seek common measure"
-        │   └─[×Berlin]───────→ "There may be none"
-        │
-        └─[WIDEN: all dilemmas]→ "Everyone faces these"
-            └─[×human condition]→ "Finitude forces choice"
+Where you are:   Between values that cannot be compared
+What you hold:   Clear view of both + inability to optimize
+What blocks you: No common measure; no right answer
+Best moves:      Suspend (agonize) then Commit (choose with loss)
+Dominant affect: Tragic — choosing ensures loss
 ```
 
 ---
 
-## State Dynamics
+## Extremity Character
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ STATE: "Between incommensurables"                                │
-│                                                                 │
-│ Tension: MAXIMUM (values pulling in opposite directions)         │
-│ Constraints: [must choose, cannot optimize, something lost]      │
-│                                                                 │
-│ Triggers:                                                       │
-│   - Deadline: forces choice                                     │
-│   - Insight: reveals (or fails to reveal) priority              │
-│   - External: someone else decides                              │
-│   - Exhaustion: choose to end the agony                         │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Extremity Analysis
-
-| Dimension | Extremity | Why |
-|-----------|-----------|-----|
-| **Commensurability** | Zero | No common measure |
-| **Optimization** | Impossible | No right answer |
-| **Loss** | Guaranteed | Something valuable foregone |
-| **Stakes** | High | Values, not preferences |
-| **Universality** | High | Everyone faces these |
+This site is **tragic** by structure:
+- Commensurability: zero
+- Optimization: impossible
+- Loss: guaranteed
+- Stakes: values, not preferences
+- Universality: everyone faces these

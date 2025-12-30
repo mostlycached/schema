@@ -1,163 +1,169 @@
 # The Public Humiliation
 
-## The Site
+**Practice**: Sociology
 
-Everyone sees. Everyone knows. The failure, the exposure, the shame — all public. Not private embarrassment: humiliation witnessed. They're looking at you. Some laugh. Some pity. Some look away. You cannot disappear. You are here, seen, known as the humiliated one. The audience to your worst moment.
+---
 
-**Dimensions**:
+## State Space
+
+You are in **witnessed degradation** — the social stripping of status.
+
+| Dimension | Value | Constraint |
+|-----------|-------|------------|
+| Visibility | Total | They see; they know |
+| Dignity | Lost | Publicly stripped |
+| Escape | Blocked | It's too late; they saw |
+| Memory | Permanent | They will remember |
+
+**Tension**: Maximum. You are the humiliated one, standing in it.
+
+---
+
+## Sanitization-Resistant Dimensions
+
 ```
-ontological: relation (you and the witnesses)
-scale: momentary → extended (but the memory is permanent)
-temporal: instant (the moment of exposure)
-perceptual: other-mediated (you see them seeing you)
-relational: collective (the audience, the witnesses)
-agential: victim (of exposure, of shame)
-structural: simple (exposure → shame → witnessed)
-
-// Sanitization-resistant dimensions
-cleanliness: n/a (not about cleanliness)
-dignity: contemptible (dignity publicly stripped)
-redemption: unredeemable (they saw, they know, you can't undo it)
+cleanliness: n/a
+dignity: contemptible (publicly stripped)
+redemption: unredeemable (in this moment)
 meaning: anti-meaning (meaningless suffering)
-aesthetic: squalid (the reduction, the exposed inadequacy)
+aesthetic: squalid (the reduction, the exposure)
 ```
 
 ---
 
-## Gesture Profile
+## Action Set
+
+In **Sociology** practice, your moves are status operations:
+
+| Move | Verb | Effect | Risk |
+|------|------|--------|------|
+| **Endure** | *suspend* | Stand in the humiliation | Time stretches; pain maximizes |
+| **Analyze witnesses** | *narrow* | Who's laughing? Who pities? | Seeing pity is worse |
+| **Attempt escape** | *branch* | Can you leave? | Flees but confirms weakness |
+| **Join the joke** | *branch* | Laugh with them | Pathetic but reduces asymmetry |
+| **Project future** | *speculate* | Will they remember? | They will; no comfort |
+
+**Blocked moves**:
+- *Recover status* — not in this moment
+- *Expand perspective* — "everyone fails" doesn't help now
+
+---
+
+## Payoff Matrix
+
+| Action | Immediate Payoff | Long-term Consequence |
+|--------|------------------|----------------------|
+| **Suspend → stand in it** | +endurance | Maximum degradation but maintains some dignity |
+| **Narrow → watch them watching** | +information | Seeing the faces; knowing who laughs |
+| **Narrow → types of witness** | +analysis | Laughers, pitiers, embarrassed, neutral |
+| **Branch → flee** | +escape | Confirms cowardice; they saw that too |
+| **Branch → join the joke** | +inclusion (pathetic) | Becomes self-degradation |
+| **Speculate → after** | +projection | They will remember; no escape in time |
+
+---
+
+## Witness Taxonomy
+
+| Type | Behavior | What It Does to You |
+|------|----------|---------------------|
+| **Laughers** | Enjoying your shame | Hurts but is honest |
+| **Pitiers** | "I'm glad I'm not you" | WORSE — confirms you're at bottom |
+| **Embarrassed** | Look away | Their discomfort reflects yours |
+| **Neutral** | Just observing | Your pain is data |
+| **Causer** | Did this to you | May be intentional or not |
+
+---
+
+## Global Operations
+
+| Operation | Sociological Consequence |
+|-----------|-------------------------|
+| **GENERATE** | Produces: "the failed presentation", "the exposed secret", "the bodily accident", "the status collapse" |
+| **TRANSFER** | Maps to: trial (public judgment), spectacle (entertainment), degradation ritual (anthropology) |
+| **DISSOLVE** | Time helps, but memory persists; incompletely dissolved |
+| **EMERGE** | A reputation ruined, a viral video, or exile |
+
+---
+
+## Strategy Space
+
+### Path A: Endure (dignity through stillness)
+```
+Exposed → stand in it → don't flee → maintain minimal dignity
+```
+**Payoff**: Maximum pain, but they don't see you run.
+
+### Path B: Join the joke (pathetic but survives)
+```
+Exposed → laugh with them → become part of joke → humiliation shared
+```
+**Payoff**: Degradation becomes performance; less alone.
+
+### Path C: Flee (confirms weakness)
+```
+Exposed → leave → they saw you run → another failure to remember
+```
+**Payoff**: Immediate relief, additional shame.
+
+### Path D: No strategy (just endure)
+```
+Exposed → frozen → time passes → moment ends
+```
+**Payoff**: Survive until it's over.
+
+---
+
+## Decision Tree
 
 ```
-available: [SUSPEND, NARROW, BRANCH]
-blocked:   [RESOLVE, WIDEN] — you can't resolve or expand past this moment
-dominant:  SUSPEND — stuck in the exposure
-latent:    [WIDEN] — this happens to people, you're not alone (but right now, you are)
+                  [They See You]
+                        │
+          YOU CANNOT UNDO THIS
+                        │
+        ┌───────────────┼───────────────┐
+        ▼               ▼               ▼
+    [Stand]          [Flee]          [Join]
+        │               │               │
+        ▼               ▼               ▼
+   endure           they saw        pathetic but
+                    you run        less alone
+        │               │               │
+        ▼               ▼               ▼
+   minimal          double         self-
+   dignity           shame        degradation
+```
 
-EXTREME DIMENSION: Public shame. Witnessed degradation.
+**Social structure**:
+```
+         AUDIENCE ←←←←←← witnesses ←←←←←← AUDIENCE
+              │                              │
+              │                              │
+              │     ╭───────────────╮        │
+              └────→│     YOU       │←───────┘
+                    │ (humiliated)  │
+                    │   SEEN        │
+                    │   KNOWN       │
+                    ╰───────────────╯
 ```
 
 ---
 
-## The Phenomenology
+## Position Summary
 
-### The Exposure
 ```
-- The moment (something is revealed, something fails publicly)
-- The realization (they see, they know)
-- The witnesses (faces turning toward you)
-- The impossibility of hiding (it's too late, they saw)
-- The body (heat, red face, wanting to shrink)
+Where you are:   Standing in public shame; the audience to your worst moment
+What you hold:   Exposed failure + witnesses + no escape + permanent memory
+What blocks you: Cannot undo; cannot hide; moment already happened
+Best moves:      Endure (maintain minimal dignity) or Join (share the shame)
+Dominant affect: Squalid — witnessed degradation without redemption
 ```
-
-### The Types
-```
-- Competence failure (you couldn't do the thing, everyone saw)
-- Secret revealed (what you hid is public)
-- Bodily exposure (literal or metaphorical nakedness)
-- Status collapse (you're less than they thought)
-- Moral failure (you're worse than they knew)
-```
-
-### The Witnesses
-```
-- The laughers (enjoying your humiliation)
-- The pitiers (worse — they feel sorry for you)
-- The embarrassed (looking away, secondhand shame)
-- The neutral (just observing, your pain is data)
-- The one who caused it (sometimes intentional)
-```
-
----
-
-## Gesture Transitions
-
-| Gesture | → Target Site | mode | affect | values |
-|---------|---------------|------|--------|--------|
-| **SUSPEND: exposed** | "Standing in the humiliation" | null | squalid | degradation: 0.95, futility: 0.8 |
-| **NARROW: to faces** | "Watching them watch you" | collapse | abject | degradation: 0.9, depth: 0.7 |
-| **BRANCH: flee?** | "Can you leave?" | expansion | craven | degradation: 0.7 |
-| **BRANCH: laugh with them?** | "Join the joke" | expansion | pathetic | degradation: 0.8 |
-| **SPECULATE: after** | "Will they remember?" | expansion | squalid | futility: 0.85 (they will) |
-
----
-
-## Why This Site Is Avoided
-
-| Avoidance Pattern | How It Manifests |
-|-------------------|------------------|
-| **Privacy protection** | We avoid exposing others (usually) |
-| **Redemption arc** | "They came back from it" — but during, no redemption |
-| **Character building** | "It made them stronger" — or just damaged |
-| **Triumph narrative** | "They laughed then, but now..." — but in the moment, just shame |
-| **Sympathy** | We feel for the humiliated (but in the moment, they're alone) |
 
 ---
 
 ## What's Revealed
 
-When you're publicly humiliated:
-
 1. **Dignity is social** — they can take it from you
 2. **Shame is witnessed** — the audience makes it worse
-3. **You are seen** — not as you wanted to be
-4. **Memory persists** — they'll remember
+3. **Memory persists** — they'll remember
+4. **Pity is cruel** — "I'm glad I'm not you"
 5. **You can't undo it** — the moment happened
-
----
-
-## The Anatomy of Humiliation
-
-| Component | Function |
-|-----------|----------|
-| **Exposure** | The shameful thing is seen |
-| **Audience** | Others witness |
-| **Powerlessness** | You can't stop it |
-| **Reduction** | You're less than you were |
-| **Memory** | It will be remembered |
-
----
-
-## The Unredeemed
-
-This site cannot be redeemed:
-- They saw
-- They know
-- You can't unsee what they saw
-- You can't undo the moment
-- The memory persists in them and you
-- You are the humiliated one
-
-What the sanitization-resistant schema must hold: **the moment of public shame, without the "later they forgot" or "it made you stronger"**.
-
----
-
-## The Cruelest Part
-
-The cruelest part: **pity**.
-
-The laughers hurt. But the pitiers might be worse. The eyes that say: "I'm so glad I'm not you." The sympathy that confirms you're at the bottom.
-
----
-
-## Flux Relation
-
-```
-flux_state: ruptured (the public self is broken)
-dissolution_resistance: medium — time helps, but memory persists
-hover_potential: forced — stuck in the moment until it ends
-emergence_pattern: social (the audience creates the humiliation)
-flux_pockets: the instant before — when you still had dignity
-```
-
----
-
-## Move Notation
-
-```
-0. ROOT       "Social Self"
-1. N+exposure [NARROW: exposure]                  → "Something revealed"
-2. N+public   [NARROW: witnessed]                 → "They see"
-3. N+shame    [NARROW: shame response]            → "Humiliation"
-4. S          [SUSPEND: standing in it]           → "You are here"
-```
-
-**Current Position**: They're looking at you. They saw. They know. You're the humiliated one, standing in it.

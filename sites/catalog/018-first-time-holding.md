@@ -1,144 +1,138 @@
 # The First Time Holding the Instrument
 
-## The Site
+**Practice**: Design
 
-You pick it up — the violin, the knife, the brush, the steering wheel. You don't know how to hold it. Every position feels wrong. The people who use this make it look easy, but your hands are strange to it.
+---
 
-**Dimensions**:
+## State Space
+
+You are at **maximum flux** — the skill doesn't exist yet; everything is possible.
+
+| Dimension | Value | Constraint |
+|-----------|-------|------------|
+| Competence | Zero | The hands don't know |
+| Possibility | Maximum | No wrong way yet |
+| Crystallization | Imminent | Will become structured or abandoned |
+
+**Tension**: Medium. Excitement + frustration + potential.
+
+---
+
+## Action Set
+
+In **Design** practice, your moves are exploration operations:
+
+| Move | Verb | Effect | Risk |
+|------|------|--------|------|
+| **Explore** | *branch* | Try different approaches | Data gathering |
+| **Mimic** | *prototype* | Copy what experts do | May not understand |
+| **Feel** | *suspend* | Let the strangeness register | Slower but deeper |
+| **Exit** | *defer* | Put it down | Leave without entering |
+
+**Blocked moves**:
+- *Complete* — can't master it; not yet
+- *Commit* — can't know the right way; still learning
+
+---
+
+## Payoff Matrix
+
+| Action | Immediate Payoff | Long-term Consequence |
+|--------|------------------|----------------------|
+| **Branch → try** | +data | Every attempt teaches |
+| **Branch → mimic** | +template | Copy expert form |
+| **Branch → explore** | +felt knowledge | Feel around; trust body |
+| **Suspend → hold awkwardness** | +depth | Let strangeness register |
+| **Defer → put down** | +escape | Exit without entering |
+| **Widen → "remember this"** | +future self | When you're good, recall the beginning |
+| **Transfer → ×foreign** | +frame | Instrument as territory |
+| **Transfer → ×language** | +frame | Not speaking → fluent |
+| **Transfer → ×birth** | +frame | Skill will be born |
+
+---
+
+## Global Operations
+
+| Operation | Design Consequence |
+|-----------|-------------------|
+| **GENERATE** | Produces: "first day at job", "learning to drive", "first time holding a baby" |
+| **TRANSFER** | Maps to: foreign territory (lost), language (stuttering), birth (emergence), childhood |
+| **DISSOLVE** | Via: practice (becomes familiar) or abandonment (put down forever) |
+| **EMERGE** | A musician, a frustrated quitter, or a specific technique |
+
+---
+
+## Strategy Space
+
+### Path A: Active exploration
 ```
-ontological: relation (mismatched)
-scale: momentary
-temporal: instant (the threshold)
-perceptual: somatic + direct
-relational: solitary (or watched, which is worse)
-agential: beginner
-structural: incomplete (the skill doesn't exist yet)
+Hold instrument → try → mimic → explore → data accumulates → skill crystalizes
+```
+**Payoff**: Fastest path to competence. High data, high effort.
+
+### Path B: Suspend and feel
+```
+Hold instrument → notice strangeness → let it register → deeper embodiment
+```
+**Payoff**: Slower, but builds from sensation not imitation.
+
+### Path C: Defer (exit)
+```
+Hold instrument → put it down → never enter the skill
+```
+**Payoff**: Escapes discomfort; forfeits possibility.
+
+### Path D: Widen to future self
+```
+Hold instrument → imagine mastery → "remember this when skilled" → motivational
+```
+**Payoff**: This moment becomes precious later.
+
+---
+
+## Decision Tree
+
+```
+               [First Time Holding]
+                       │
+           ┌───────────┴───────────┐
+           │    HANDS DON'T KNOW   │
+           │    SKILL = 0          │
+           │    POSSIBILITY = ∞    │
+           └───────────┬───────────┘
+                       │
+       ┌───────────────┼───────────────┐
+       ▼               ▼               ▼
+   [Branch]        [Suspend]        [Defer]
+       │               │               │
+  ┌────┴────┐          ▼               ▼
+  ▼    ▼    ▼       feel it        put down
+ try  mimic explore    │               │
+  ↓    ↓      ↓        ▼               ▼
+ data template body  strangeness    exit
+                    registers
+```
+
+**Flux → structure trajectory**:
+```
+  YOU ARE HERE          PRACTICE              MASTERY
+       │                   │                    │
+    [FLUX]          crystallizing          [STRUCTURE]
+   maximum           gradually              tool as
+ undetermination                           extension
+       │                   │                    │
+   no wrong way        wrong ways          one right
+      yet              emerging              feel
 ```
 
 ---
 
-## Gesture Profile
+## Position Summary
 
 ```
-available: [BRANCH, DEFER, SUSPEND]
-blocked:   [RESOLVE, COMMIT] — can't master it, can't know yet
-dominant:  BRANCH — try different positions
-latent:    [WIDEN] — remember this when you're good at it
+Where you are:   The threshold of beginning; maximum flux
+What you hold:   Instrument + incompetence + all possibility
+What blocks you: Body doesn't know; must pass through
+Best moves:      Branch (explore) or Suspend (feel the strangeness)
+Dominant affect: Uncanny — familiar to others, foreign to you
 ```
-
----
-
-## Gesture Transitions
-
-| Gesture | → Target Site | mode | affect | values | frame displaced |
-|---------|---------------|------|--------|--------|-----------------|
-| **BRANCH: try** | "Different approaches" | expansion | quotidian | vertigo: 0.4, novelty: 0.6 | One right way |
-| **BRANCH: mimic** | "Copy what experts do" | expansion | quotidian | vertigo: 0.5, novelty: 0.5 | — (learning mode) |
-| **BRANCH: explore** | "Feel around" | expansion | uncanny | vertigo: 0.5, novelty: 0.7 | Instruction as only path |
-| **DEFER** | "Put it down" | null | quotidian | vertigo: 0.2, stability: 0.3 | — (exit without entering) |
-| **SUSPEND** | "Hold the awkwardness" | null | uncanny | vertigo: 0.5, stability: 0.4 | — (let strangeness register) |
-| **SUSPEND: feel** | "Let the strangeness register" | null | uncanny | vertigo: 0.6, depth: 0.6 | Mastery as natural |
-| **WIDEN** | "Remember this when you're good at it" | expansion | sublime | vertigo: 0.6, depth: 0.7 | This moment as forgettable |
-| **×foreign** | "Instrument as foreign territory" | expansion | uncanny | vertigo: 0.7, novelty: 0.7 | Skill as natural |
-| **×language** | "Not speaking vs fluent" | expansion | uncanny | vertigo: 0.6, depth: 0.7 | Competence as gradual |
-| **×birth** | "Skill will be born through practice" | expansion | sublime | vertigo: 0.6, depth: 0.8 | Skill as pre-existing |
-
----
-
-## Global Gestures
-
-| GlobalGesture | Operation | mode | affect | outcome |
-|---------------|-----------|------|--------|---------|
-| **GENERATE** | → "Your first day at the job", "learning to drive", "first time holding a baby" | varies | uncanny | productive |
-| **SPECULATE** | What if you could skip beginnings? What if skills transferred instantly? | expansion | vertiginous | reveals beginning as necessary |
-| **TRANSFER** | To foreign territory (lost), language (stuttering), birth (emergence), childhood (everything new) | varies | uncanny | productive |
-| **DISSOLVE** | Via: practice (becomes familiar), abandonment (put down forever) | collapse | varies | gradual or sudden |
-| **EMERGE** | At moment of first contact; threshold between not-having and learning | expansion | uncanny | instantaneous |
-
----
-
-## Flux Relation
-
-```
-flux_state: flux (maximum undetermination)
-dissolution_resistance: low — will become structured or abandoned
-hover_potential: low — beginning wants to progress
-emergence_pattern: threshold (first contact triggers)
-flux_pockets: how to hold it is pure flux; there is no wrong way yet
-```
-
-The site is pure flux about to crystallize. Every attempt is data; no position is yet "wrong." The future skill exists as potentiality distributed across all possible first moves.
-
----
-
-## Move Notation
-
-```
-0. ROOT       "Instrument"
-1. N+first    [NARROW: first contact]            → "First encounter"
-2. N+hands    [NARROW: the bodily interface]     → "The hands don't know"
-3. ×foreign   [TRANSFER: unfamiliar territory]   → "Instrument as foreign country"
-4. N→gap      [NARROW: competence gap visible]   → "The gap between here and skill"
-```
-
-**Current Position**: The beginning as site; incompetence as open possibility.
-
----
-
-## Branch Tree
-
-```
-"Instrument"
-│
-├─[N: mastered]───→ "The tool that feels like extension" (different site)
-│
-└─[N: first encounter]─→ "First time holding"
-    │
-    ├─[N: natural]────→ "It fits right away" (rare; different site)
-    │
-    └─[N: foreign]────→ "The first time holding the instrument" ← YOU ARE HERE
-        │
-        ├─[×foreign]──────→ "Instrument as territory"
-        │   ├─[N: map]─────→ "You can see others navigate it"
-        │   └─[N: no access]─→ "Their path is invisible to you"
-        │
-        ├─[BRANCH: try]───→ "Different approaches"
-        │   ├─[N: mimic]────→ "Copy what experts do"
-        │   ├─[N: explore]──→ "Feel around"
-        │   └─[N: instruction]→ "Be told what to do"
-        │
-        ├─[DEFER]─────────→ "Put it down" (exit without entering)
-        │
-        └─[SUSPEND]───────→ "Hold the awkwardness"
-            └─[N: feel it]──→ "Let the strangeness register"
-```
-
----
-
-## State Dynamics
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ STATE: "Holding it for the first time"                          │
-│                                                                 │
-│ Tension: MEDIUM (excitement + frustration + potential)          │
-│ Constraints: [body doesn't know, can't fake it, must pass through]│
-│                                                                 │
-│ Triggers:                                                       │
-│   - Something works: micro-success (motivation spike)           │
-│   - Nothing works: frustration (quit or persist)                │
-│   - Being watched: self-consciousness amplifies                 │
-│   - Time passes: you're now in "practicing" not "first time"    │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Transfers Applied
-
-| Source Domain | What Transfers | What Reveals |
-|---------------|----------------|--------------|
-| **Foreign territory** | Lost without map | Skill is spatial; expertise is knowing where to go |
-| **Language** | Not speaking vs fluent | Competence is fluency; beginning is stuttering |
-| **Birth** | Beginning of life | The skill doesn't exist; it will be born through practice |
-| **Childhood** | Everything was once new | You once didn't know how to hold a spoon |

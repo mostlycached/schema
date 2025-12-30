@@ -6,7 +6,10 @@ Demonstrations of mobility through the system. Each entry shows:
 - **Branch Tree** — alternatives at each decision point
 - **State Dynamics** — what triggers transitions
 
+> **Practice**: All catalog entries use **Contemplation** as the implicit practice — phenomenological attention to structured experience. For verb vocabulary and constraint forms, see [SPEC.md § Contemplation](../SPEC.md#gesture-manifestations-by-practice). To render sites in other practices (Writing, Music, Philosophy), apply the practice-specific gesture manifestations.
+
 ---
+
 
 ## Entries by Primary Dimension
 

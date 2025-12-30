@@ -51,7 +51,7 @@ latent:    [BRANCH] — acknowledge it and everything splits
 | **SPECULATE** | What if all relations were visible? What if emergent thirds didn't form? | expansion | vertiginous | reveals constitutive invisibility |
 | **TRANSFER** | To physics (field), chemistry (compound), performance (unscripted scene), architecture (negative space) | varies | vertiginous | productive |
 | **DISSOLVE** | When: named directly (often), one party leaves, new person enters and changes configuration | collapse | varies | fragile |
-| **EMERGE** | Gradually through accumulation of interactions; sometimes crystallizes suddenly in a look | expansion | uncanny | gradual then sudden |
+| **EMERGE** | An affair, a collaborative work, or an elephant in the room | expansion | uncanny | gradual then sudden |
 
 ---
 

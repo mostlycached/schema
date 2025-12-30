@@ -1,136 +1,117 @@
 # The Apology That Made Things Worse
 
-## The Site
+**Practice**: Writing
 
-You apologize. Sincerely. But as you speak, you watch the other person close off. Your apology *did something*, but not what you intended.
+---
 
-**Dimensions**:
+## State Space
+
+You are in **ironic reversal** — the narrative beat where the attempt to heal causes new damage.
+
+| Dimension | Value | Constraint |
+|-----------|-------|------------|
+| Intention | Sincere repair | Action contradicts intention |
+| Effect | Negative | Worse than before apology |
+| Structure | Interference | Signals crossed; transmission ≠ reception |
+
+**Tension**: Very high. The apology was your best move. It made things worse.
+
+---
+
+## Action Set
+
+In **Writing** practice, your moves are narrative operations:
+
+| Move | Verb | Effect | Risk |
+|------|------|--------|------|
+| **Delay resolution** | *withhold* | Retreat without resolving; leave scene open | Freezes at nadir |
+| **Expand scope** | *introduce* | "It's not about this incident" — reveal deeper structure | May overwhelm |
+| **Create new complication** | *complicate* | The apology reveals something worse | Escalation |
+| **Diagnose** | *specify* | Identify WHY it backfired (accuracy, timing, register) | May deepen wound |
+
+**Blocked moves**:
+- *Reveal resolution* — the apology WAS the resolution attempt; it failed
+
+---
+
+## Payoff Matrix
+
+| Action | Immediate Payoff | Long-term Consequence |
+|--------|------------------|----------------------|
+| **Delay → retreat** | -immediate tension | Relationship freezes; tension calcifies |
+| **Expand → "not about this"** | +tragic depth | Reveals systemic issue, not incident |
+| **Transfer → ×medicine** | +insight | "Iatrogenic apology" — treatment caused new harm |
+| **Transfer → ×trial** | +dark depth | "Apology as admission" — your words used against you |
+| **Diagnose → too accurate** | +vertigo | Accuracy proved it was choice, not accident |
+| **Diagnose → too late** | +tragic | Timing revealed priorities |
+| **Diagnose → wrong register** | +disorienting | Formal apology for informal harm |
+
+---
+
+## Global Operations
+
+| Operation | Narrative Consequence |
+|-----------|----------------------|
+| **GENERATE** | Produces variants: "apology that revealed something worse", "apologizing for wrong thing", "apology used against you" |
+| **TRANSFER** | Maps to: medicine (iatrogenic), trial (admission), sacrifice (rejection), translation (wrong register) |
+| **DISSOLVE** | Slow: requires demonstrated change over time, third party, or meta-conversation |
+| **EMERGE** | A deepened conflict, legal silence, or total estrangement |
+
+---
+
+## Strategy Space
+
+### Path A: Diagnose the failure
 ```
-ontological: interference
-scale: momentary
-temporal: instant
-perceptual: failure-mediated
-relational: dyadic
-agential: anyone
-structural: incomplete
+Backfired → "WHY did it backfire?" → Too accurate → "Precision proved choice"
+```
+**Payoff**: Understanding but no repair. You know why, but knowing makes it worse.
+
+### Path B: Medical transfer
+```
+Backfired → ×medicine → "Iatrogenic apology" → "Treatment caused new damage"
+```
+**Payoff**: Frame that explains without blaming. Category shift.
+
+### Path C: Expand to pattern
+```
+Backfired → "It's not about this" → Systemic issue → The real wound surfaces
+```
+**Payoff**: Depth. The incident was symptom, not disease.
+
+### Path D: Legal transfer (dark)
+```
+Backfired → ×trial → "Admission of guilt" → Your words become evidence
+```
+**Payoff**: Maximum tragedy. The apology weaponized.
+
+---
+
+## Decision Tree
+
+```
+                 [Apology Backfired]
+                        │
+        ┌───────────────┼───────────────┐
+        ▼               ▼               ▼
+   [Diagnose]      [Transfer]       [Expand]
+        │               │               │
+   ┌────┼────┐     ┌────┼────┐          ▼
+   ▼    ▼    ▼     ▼         ▼     "systemic"
+  too  too  wrong medicine  trial
+accurate late register ↓       ↓
+   ↓              iatrogenic admission
+"choice"
 ```
 
 ---
 
-## Gesture Profile
+## Position Summary
 
 ```
-available: [DEFER, BRANCH, WIDEN]
-blocked:   [RESOLVE] — the apology was supposed to resolve; it failed
-dominant:  SUSPEND — frozen in the aftermath
+Where you are:   In ironic reversal; your repair attempt caused damage
+What you hold:   Confirmed sincerity + negative outcome = double bind
+What blocks you: Already deployed best move; it failed
+Best moves:      Diagnose (understand failure) or Transfer (new frame)
+Dominant affect: Tragic irony — good intentions, bad outcome
 ```
-
----
-
-## Gesture Transitions
-
-| Gesture | → Target Site | mode | affect | values | frame displaced |
-|---------|---------------|------|--------|--------|-----------------|
-| **DEFER** | "Retreat without resolution" | null | quotidian | vertigo: 0.2, stability: 0.1 | — (tension unresolved) |
-| **WIDEN** | "It's not about this incident" | expansion | tragic | vertigo: 0.6, depth: 0.8 | Apology as sufficient response |
-| **×medicine** | "Iatrogenic apology" | collapse | vertiginous | vertigo: 0.8, novelty: 0.7 | Treatment as healing |
-| **×trial** | "Apology as admission of guilt" | collapse | tragic | vertigo: 0.7, depth: 0.7 | Apology as repair |
-| **×sacrifice** | "The offering rejected" | collapse | tragic | vertigo: 0.6, novelty: 0.6 | Giving as received |
-| **NARROW** (why: accuracy) | "Accuracy proves it was choice" | collapse | tragic | vertigo: 0.8, depth: 0.9 | Mistakes as accidental |
-| **NARROW** (why: timing) | "Timing reveals priorities" | collapse | tragic | vertigo: 0.7, depth: 0.8 | Apology as timeless |
-| **NARROW** (why: register) | "Formal apology for informal harm" | collapse | disorienting | vertigo: 0.5, novelty: 0.6 | Register as neutral |
-
----
-
-## Global Gestures
-
-| GlobalGesture | Operation | mode | affect | outcome |
-|---------------|-----------|------|--------|---------|
-| **GENERATE** | → "The apology that revealed something worse", "apologizing for wrong thing", "the apology used against you" | varies | tragic | productive |
-| **SPECULATE** | What if apologies had guaranteed effects? | expansion | liberating | reveals reception ≠ transmission |
-| **TRANSFER** | To medicine, trial, sacrifice, translation | varies | vertiginous | productive |
-| **DISSOLVE** | Via: time + demonstrated change, third party mediation, mutual meta-conversation | collapse | quotidian | possible but slow |
-| **EMERGE** | From "sincere apology" at moment of negative reception | collapse | vertiginous | sudden phase transition |
-
----
-
-## Flux Relation
-
-```
-flux_state: structured but unstable
-dissolution_resistance: low — the aftermath is fluid
-hover_potential: medium — can freeze in awkwardness
-emergence_pattern: sudden (the backfire moment)
-flux_pockets: large pocket around "what to do now" — highly underdetermined
-```
-
-The site creates flux in its wake. The apology attempted to close a structure; its failure opens flux wider than before.
-
----
-
-## Move Notation
-
-```
-0. ROOT       "Apology"
-1. N+sincere  [NARROW: add sincerity]          → "The sincere apology"
-2. ¬→inverse [NEGATE: inverts effect]          → "Apology that backfires"
-3. ×medicine [TRANSFER: prescription]          → "Iatrogenic apology"
-4. N→why     [NARROW: diagnose why]            → "Accuracy as proof of choice"
-```
-
----
-
-## Branch Tree
-
-```
-"Apology"
-│
-├─[N: insincere]───→ "The hollow apology"
-│
-└─[N: sincere]─────→ "The sincere apology"
-    │
-    ├─[→ works]────→ "Reconciliation" (standard path, less interesting)
-    │
-    └─[→ backfires]─→ "The apology that made things worse" ← YOU ARE HERE
-        │
-        ├─[×medicine]────→ "Iatrogenic apology"
-        │   ├─[N: side-effect]──→ "The apology that revealed something worse"
-        │   └─[N: wrong diagnosis]→ "Apologizing for wrong thing"
-        │
-        ├─[×trial]───────→ "Apology as admission of guilt"
-        │   └─[N: evidence]──→ "The apology used against you"
-        │
-        └─[N: WHY backfire?]─→ determinant branches:
-            ├─[too accurate]───→ "Accuracy proves it was choice"
-            ├─[too late]───────→ "Timing reveals priorities"
-            └─[wrong register]─→ "Formal apology for informal harm"
-```
-
----
-
-## State Dynamics
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ STATE: "Apology just backfired"                                 │
-│                                                                 │
-│ Tension: VERY HIGH (worse than before apologizing)              │
-│ Constraints: [sincerity confirmed, damage now doubled]          │
-│                                                                 │
-│ Triggers:                                                       │
-│   - Other person explains: unlock understanding                 │
-│   - Silence: tension freezes, becomes pattern                   │
-│   - Time: possible decay, possible calcification                │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Transfers Applied
-
-| Source Domain | What Transfers | What Reveals |
-|---------------|----------------|--------------|
-| **Medicine** | Iatrogenic harm | Treatment can cause new damage |
-| **Trial** | Admission as evidence | Apology proves you knew; knowledge implies choice |
-| **Sacrifice** | Offering rejected | The gift-structure of apology; rejection = judgment |
-| **Translation** | Wrong register | Apology failed to match the original wound's language |

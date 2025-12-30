@@ -1,139 +1,129 @@
 # The Weight of an Old Tool in Your Hand
 
-## The Site
+**Practice**: Contemplation
 
-You pick up a tool you haven't used in years — a chisel, a pen, your grandfather's hammer. The weight is *familiar*. Your hand knows it before you do.
+---
 
-**Dimensions**:
+## State Space
+
+You are in **somatic memory** — the body knows before you do.
+
+| Dimension | Value | Constraint |
+|-----------|-------|------------|
+| Ontology | Substance | Weight is real, physical |
+| Temporal | Memory-present | The past floods into the pickup moment |
+| Perception | Somatic | Felt in the hand, not thought |
+
+**Tension**: Low-meditative. Time stretches. Ghosts are present.
+
+---
+
+## Action Set
+
+In **Contemplation** practice, your moves are attentional operations:
+
+| Move | Verb | Effect | Risk |
+|------|------|--------|------|
+| **Dwell** | *hold* | Rest in the sensation without acting | May become static |
+| **Expand** | *notice* | All such objects with sediment | Loses this tool's specificity |
+| **Focus** | *attend* | Whose tool? What skill? | May surface grief |
+| **Accept** | *rest in* | The weight is what it is | Closes exploration |
+| **Use** | *release* | Pick up and do the work | Changes the site |
+
+**Blocked moves**:
+- *Complete* — what would resolution mean here?
+
+---
+
+## Payoff Matrix
+
+| Action | Immediate Payoff | Long-term Consequence |
+|--------|------------------|----------------------|
+| **Hold → dwell in weight** | +temporal depth | Time stretches; you're in the past |
+| **Expand → all such objects** | +sublime scope | "Everything carries sediment" |
+| **Focus → whose tool?** | +tragic depth | Inheritance surfaces |
+| **Focus → your practice** | +uncanny | Skill remembered through object |
+| **Use → try it** | +test | Either body remembers or skill is gone |
+| **Transfer → ×vessel** | +frame | Tool as container of accumulated use |
+| **Transfer → ×archaeology** | +temporal frame | Layers of use like strata |
+| **Transfer → ×prosthesis** | +ontological frame | Where does hand end, tool begin? |
+
+---
+
+## Global Operations
+
+| Operation | Contemplative Consequence |
+|-----------|--------------------------|
+| **GENERATE** | Produces: "instrument you used to play", "your old handwriting", "childhood bedroom revisited" |
+| **TRANSFER** | Maps to: vessel (container), archaeology (strata), prosthesis (extension), inheritance (bequest) |
+| **DISSOLVE** | When: tool breaks, given away, skill fully lost, familiarity erodes |
+| **EMERGE** | A remembered skill, a blister, or the tool reused |
+
+---
+
+## Strategy Space
+
+### Path A: Somatic dwelling (default)
 ```
-ontological: substance
-scale: momentary → extended (floods backward)
-temporal: memory
-perceptual: somatic
-relational: solitary (but ghosts present)
-agential: anyone
-structural: composite (layers of use sediment in the object)
+Pick up tool → feel weight → dwell → time stretches → past becomes present
+```
+**Payoff**: Contemplative depth. The moment expands.
+
+### Path B: Interrogate inheritance
+```
+Pick up tool → "whose?" → grandfather's hammer → the dead are present
+```
+**Payoff**: Tragic depth. The tool carries the person.
+
+### Path C: Test the skill
+```
+Pick up tool → use it → body remembers? → yes/no
+```
+**Payoff**: Discovery. Either skill returns or loss is confirmed.
+
+### Path D: Universalize
+```
+Pick up tool → all such objects → prostheses, vessels, archives → everything carries
+```
+**Payoff**: Philosophical expansion. Material memory everywhere.
+
+---
+
+## Decision Tree
+
+```
+                  [Pick Up Old Tool]
+                         │
+        ┌────────────────┼────────────────┐
+        ▼                ▼                ▼
+    [Dwell]          [Focus]           [Use]
+        │                │                │
+        ▼           ┌────┴────┐      ┌────┴────┐
+   "weight         ▼         ▼      ▼         ▼
+    itself"     whose?    skill?  works    fails
+        │          ↓         ↓       ↓         ↓
+        ▼      inheritance memory  body     loss
+   meditation   surfaces surfaces returns confirmed
+```
+
+**Temporal structure**:
+```
+  PAST ←←←←←←←← PICKUP MOMENT →→→→→→→→ FUTURE
+   │              │                      │
+   layers of      you are here          will you
+   use/practice                         use it again?
+   │              │                      │
+   structured     present               flux
 ```
 
 ---
 
-## Gesture Profile
+## Position Summary
 
 ```
-available: [WIDEN, SUSPEND, NARROW]
-blocked:   [RESOLVE] — what would resolution even mean?
-dominant:  SUSPEND — holding the weight, holding the past
-latent:    [COMMIT] — to use it again would change something
+Where you are:   Holding sediment of practice; body's archive in your hand
+What you hold:   Weight that knows you; memory stored outside the body
+What blocks you: Nothing to resolve — just something to feel
+Best moves:      Dwell (contemplative) or Use (test the body's memory)
+Dominant affect: Uncanny — the object knows you before you know it
 ```
-
----
-
-## Gesture Transitions
-
-| Gesture | → Target Site | mode | affect | values | frame displaced |
-|---------|---------------|------|--------|--------|-----------------|
-| **SUSPEND** | "Dwelling in the weight" | null | uncanny | vertigo: 0.4, stability: 0.6 | — (time stretches) |
-| **WIDEN** | "All such objects" | expansion | sublime | vertigo: 0.5, depth: 0.7 | This tool as unique |
-| **NARROW** (whose) | "Inherited tool" | collapse | tragic | vertigo: 0.4, depth: 0.8 | Object as ownerless |
-| **NARROW** (your practice) | "Skill remembered through object" | collapse | uncanny | vertigo: 0.6, novelty: 0.5 | Memory as abstract |
-| **COMMIT: use** | "Using it again" | varies | vertiginous | vertigo: 0.7, novelty: 0.6 | Past as past |
-| **×vessel** | "Tool as container of practice" | expansion | sublime | vertigo: 0.7, depth: 0.8 | Objects as inert |
-| **×archaeology** | "Stratified layers of use" | expansion | sublime | vertigo: 0.6, depth: 0.9 | Time as linear |
-| **×prosthesis** | "The boundary between hand and tool" | collapse | uncanny | vertigo: 0.7, novelty: 0.7 | Body as bounded |
-
----
-
-## Global Gestures
-
-| GlobalGesture | Operation | mode | affect | outcome |
-|---------------|-----------|------|--------|---------|
-| **GENERATE** | → "The instrument you used to play", "reading your old handwriting", "the childhood bedroom revisited" | varies | uncanny | productive |
-| **SPECULATE** | What if objects forgot? What if weight didn't carry history? | expansion | disorienting | reveals memory as material |
-| **TRANSFER** | To vessel, archaeology, prosthesis, inheritance | varies | vertiginous | productive |
-| **DISSOLVE** | When: tool is given away, tool breaks, skill fully lost, time erases familiarity | collapse | tragic | slow |
-| **EMERGE** | At moment of contact — the pickup is the phase transition | expansion | uncanny | tactile trigger |
-
----
-
-## Flux Relation
-
-```
-flux_state: structured (crystallized at contact)
-dissolution_resistance: high while held; medium when stored
-hover_potential: high — can dwell in the sensation
-emergence_pattern: tactile (touch triggers emergence)
-flux_pockets: future use is undetermined; past is crystallized
-```
-
-The site inverts usual flux direction: the past is structured, the future is flux. Memory has higher solidity than anticipation here.
-
----
-
-## Move Notation
-
-```
-0. ROOT       "Tool"
-1. N+old      [NARROW: add age/disuse]           → "The unused tool"
-2. N+hand     [NARROW: add pickup moment]        → "Picking up the old tool"
-3. ×vessel    [TRANSFER: container]              → "Tool as vessel of accumulated use"
-4. N→weight   [NARROW: the specific weight]      → "The weight that knows you"
-```
-
-**Current Position**: Objects as sediment of practice; the body's memory stored outside the body.
-
----
-
-## Branch Tree
-
-```
-"Tool"
-│
-├─[N: new]────→ "The unfamiliar tool" (potential, not memory)
-│
-└─[N: old/unused]─→ "The tool put away"
-    │
-    ├─[N: pickup]───→ "The weight of an old tool in your hand" ← YOU ARE HERE
-    │   │
-    │   ├─[×vessel]────→ "Tool as container of practice"
-    │   │   ├─[N: whose practice?]─→ "Inherited tool"
-    │   │   └─[N: your practice]───→ "Skill remembered through object"
-    │   │
-    │   ├─[SUSPEND]────→ "Holding without using"
-    │   │   └─[N: display]─→ "The tool as relic"
-    │   │
-    │   └─[COMMIT: use]─→ "Using it again"
-    │       ├─[→ works]────→ "The body remembers"
-    │       └─[→ fails]────→ "The skill is gone; only the weight remains"
-    │
-    └─[N: broken]────→ "The tool that can't be used"
-        └─[×inheritance]─→ "The bequest of incapacity"
-```
-
----
-
-## State Dynamics
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ STATE: "Holding the old tool"                                   │
-│                                                                 │
-│ Tension: LOW-MEDIUM (contemplative, not urgent)                 │
-│ Constraints: [weight is real, memory is real, skill uncertain]  │
-│                                                                 │
-│ Triggers:                                                       │
-│   - If COMMIT and skill returns: unlock "Embodied memory"       │
-│   - If COMMIT and skill gone: unlock "Loss felt through object" │
-│   - If another finds you holding it: unlock "Explanation"       │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Transfers Applied
-
-| Source Domain | What Transfers | What Reveals |
-|---------------|----------------|--------------|
-| **Vessel** | Container holding contents | Tools accumulate use; weight = sediment of practice |
-| **Inheritance** | Objects passed down | You receive not just object but crystallized capacity |
-| **Archaeology** | Stratified layers | The tool has your history in it like geological record |
-| **Prosthesis** | Extension of body | The boundary between hand and tool is itself historical |

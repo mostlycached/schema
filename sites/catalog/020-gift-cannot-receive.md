@@ -1,150 +1,141 @@
 # The Gift That Cannot Be Received
 
-## The Site
+**Practice**: Sociology
 
-Someone offers you something. It's a gift — but to receive it would harm you, humiliate you, or bind you in ways you can't accept. The gift is real. Your refusal is necessary. The giving-receiving circuit shorts out.
+---
 
-**Dimensions**:
+## State Space
+
+You are in **gift-logic breakdown** — the giving-receiving circuit shorted.
+
+| Dimension | Value | Constraint |
+|-----------|-------|------------|
+| Gift | Real | Something valuable offered |
+| Acceptance | Impossible | Would harm, bind, or humiliate |
+| Refusal | Painful | Wounds the giver |
+
+**Tension**: High-double-bind. Both paths lead to harm.
+
+---
+
+## Action Set
+
+In **Sociology** practice, your moves are exchange operations:
+
+| Move | Verb | Effect | Risk |
+|------|------|--------|------|
+| **Defer** | *suspend* | "Let me think about it" | Buys time but doesn't solve |
+| **Transform** | *branch* | Can I change what this is? | Make it mutual exchange |
+| **Decline** | *branch* | Refuse without offense | May wound anyway |
+| **Accept** | *commit* | Bear the consequences | Self-harm |
+
+**Blocked moves**:
+- *Complete* — accepting destroys; refusing wounds; no clean exit
+
+---
+
+## Payoff Matrix
+
+| Action | Immediate Payoff | Long-term Consequence |
+|--------|------------------|----------------------|
+| **Suspend → neither** | +time | Neither accept nor refuse; tension persists |
+| **Defer → hope** | +waiting | Maybe conditions will change |
+| **Branch → transform** | +creative | Make it mutual; change the gift's nature |
+| **Branch → return** | +exchange | Convert gift to trade |
+| **Branch → decline** | +refusal | Try to refuse gracefully |
+| **Commit → accept** | +completion | Bear the harmful consequences |
+| **Transfer → ×poison** | +frame | Beautiful but deadly |
+| **Transfer → ×debt** | +frame | Generosity as trap; invisible ledgers |
+| **Transfer → ×trap** | +frame | Bait and catch |
+
+---
+
+## Global Operations
+
+| Operation | Sociological Consequence |
+|-----------|-------------------------|
+| **GENERATE** | Produces: "inheritance you don't want", "help that diminishes", "love requiring you to change" |
+| **TRANSFER** | Maps to: poison (beautiful/deadly), debt (ledgers), trap (prey structure), translation (lossy) |
+| **DISSOLVE** | Via: giver withdraws, gift transforms, third party intervenes |
+| **EMERGE** | A debt, a break in relationship, or a returned package |
+
+---
+
+## Strategy Space
+
+### Path A: Defer (buy time)
 ```
-ontological: interference
-scale: extended
-temporal: instant (the moment of offering) → extended (consequences)
-perceptual: direct
-relational: dyadic (giver, receiver)
-agential: specific-capacity (requires refusal capacity)
-structural: paradoxical
+Gift offered → "let me think" → time passes → conditions may change
+```
+**Payoff**: Escape immediate decision; problem may dissolve or intensify.
+
+### Path B: Transform
+```
+Gift offered → "can I change this?" → make it exchange → escape one-way debt
+```
+**Payoff**: Convert gift to trade; remove asymmetry.
+
+### Path C: Decline gracefully
+```
+Gift offered → refuse without offense → wound giver anyway
+```
+**Payoff**: Escape binding but relationship cost.
+
+### Path D: Accept and bear
+```
+Gift offered → accept → live with consequences → bound/harmed/diminished
+```
+**Payoff**: Relationship preserved but self-cost.
+
+---
+
+## Decision Tree
+
+```
+               [Gift That Can't Be Received]
+                          │
+           ┌──────────────┴──────────────┐
+           │    ACCEPT = HARMFUL         │
+           │    REFUSE = WOUNDS GIVER    │
+           │    NO CLEAN EXIT            │
+           └──────────────┬──────────────┘
+                          │
+        ┌─────────────────┼─────────────────┐
+        ▼                 ▼                 ▼
+    [Defer]           [Branch]           [Accept]
+        │                 │                 │
+        ▼            ┌────┴────┐            ▼
+   "let me         ▼         ▼       bear
+   think"     transform  decline   consequences
+        │         ↓         ↓            │
+        ▼      mutual    wound         bound/
+   buy time   exchange   giver        harmed
+```
+
+**Gift structure**:
+```
+         GIVER ────────────────── RECEIVER
+           │                          │
+         offers                    (you)
+           │                          │
+           ↓                          │
+         [GIFT]                       │
+           │                          │
+           │     ══════════════════   │
+           │     ║ CANNOT TRAVERSE ║  │
+           │     ══════════════════   │
+           │                          │
+           └───── CIRCUIT SHORTED ────┘
 ```
 
 ---
 
-## Gesture Profile
+## Position Summary
 
 ```
-available: [DEFER, NARROW, SUSPEND]
-blocked:   [RESOLVE, COMMIT] — accepting destroys; refusing wounds
-dominant:  SUSPEND — hold the paradox
-latent:    [BRANCH] — transform the gift into something receivable
+Where you are:   In double-bind; gift-logic broken
+What you hold:   Real gift + impossible acceptance + painful refusal
+What blocks you: Both paths lead to harm; no clean exit
+Best moves:      Defer (buy time) or Transform (change the nature)
+Dominant affect: Tragic-vertiginous — generosity as trap
 ```
-
----
-
-## Gesture Transitions
-
-| Gesture | → Target Site | mode | affect | values | frame displaced |
-|---------|---------------|------|--------|--------|-----------------|
-| **SUSPEND** | "Holding the paradox" | null | vertiginous | vertigo: 0.6, stability: 0.3 | — (buys time) |
-| **SUSPEND: neither** | "Neither accept nor refuse" | null | uncanny | vertigo: 0.7, stability: 0.4 | Binary choice as only options |
-| **DEFER** | "Not deciding yet" | null | quotidian | vertigo: 0.4, stability: 0.3 | — (tension preserved) |
-| **DEFER: hope** | "Maybe conditions will change" | null | quotidian | vertigo: 0.3, stability: 0.4 | — (waiting for transformation) |
-| **NARROW: transform** | "Can I change what this is?" | collapse | vertiginous | vertigo: 0.6, novelty: 0.7 | Gift as fixed |
-| **NARROW: return** | "Make it mutual exchange" | collapse | quotidian | vertigo: 0.4, stability: 0.5 | Gift as one-way |
-| **NARROW: decline** | "Refuse without offense" | collapse | tragic | vertigo: 0.5, depth: 0.6 | Refusal as wounding |
-| **BRANCH: accept** | "Accept and bear consequences" | collapse | tragic | vertigo: 0.7, depth: 0.8 | Refusal as option |
-| **×poison** | "The poisoned gift" | expansion | tragic | vertigo: 0.7, depth: 0.8 | Gifts as benign |
-| **×debt** | "Generosity as trap" | expansion | vertiginous | vertigo: 0.7, depth: 0.7 | Receiving as free |
-| **×trap** | "Bait and catch" | expansion | vertiginous | vertigo: 0.8, novelty: 0.6 | Generosity as pure |
-
----
-
-## Global Gestures
-
-| GlobalGesture | Operation | mode | affect | outcome |
-|---------------|-----------|------|--------|---------|
-| **GENERATE** | → "The inheritance you don't want", "the help that would diminish you", "the love that requires becoming someone else" | varies | tragic | productive |
-| **SPECULATE** | What if gifts could be neutral? What if receiving had no consequences? | expansion | vertiginous | reveals gift economy |
-| **TRANSFER** | To poison (beautiful but deadly), debt (invisible ledgers), trap (prey structure), translation (lossy) | varies | tragic | productive |
-| **DISSOLVE** | Via: giver withdraws, gift transforms, third party intervenes | collapse | varies | external |
-| **EMERGE** | When: gift is offered and its impossible nature is recognized | collapse | tragic | sudden |
-
----
-
-## Flux Relation
-
-```
-flux_state: hovering (between accept and refuse)
-dissolution_resistance: medium — can't hover forever
-hover_potential: high — but socially pressured
-emergence_pattern: social (the offer creates the trap)
-flux_pockets: what to do is flux; the impossibility is structured
-```
-
-The site is a classic double-bind: both paths lead to harm. The flux is in finding a third way (transform, defer, escape) that isn't obviously available.
-
----
-
-## Move Notation
-
-```
-0. ROOT       "Gift"
-1. N+offered  [NARROW: gift offered]             → "The offered gift"
-2. ¬receive   [NEGATE: can't be received]        → "Gift that can't be received"
-3. ×poison    [TRANSFER: toxicity]               → "The poisoned gift"
-4. N→trapped  [NARROW: stuck between]            → "The impossible position"
-```
-
-**Current Position**: Gift-logic breakdown; the double-bind of generosity.
-
----
-
-## Branch Tree
-
-```
-"Gift"
-│
-├─[N: receivable]───→ "The gift gratefully accepted" (standard case)
-│
-└─[N: unreceivable]─→ "The gift that can't be received"
-    │
-    ├─[N: too much]───→ "The gift that's too generous"
-    │   └─[×debt]──────→ "Generosity as trap"
-    │
-    ├─[N: wrong]──────→ "The gift that misunderstands you"
-    │   └─[×mirror]────→ "The gift shows how they see you"
-    │
-    └─[N: binds]──────→ "The gift with strings" ← YOU ARE HERE
-        │
-        ├─[×poison]───────→ "The poisoned gift"
-        │   ├─[N: political]─→ "The favor that demands return"
-        │   ├─[N: emotional]─→ "The gift that guilt-binds"
-        │   └─[N: identity]──→ "The gift that defines you as needy"
-        │
-        ├─[SUSPEND]───────→ "Neither accept nor refuse"
-        │   └─[N: defer]───→ "Let me think about it"
-        │
-        ├─[DEFER]─────────→ "Not yet"
-        │   └─[N: hope]────→ "Maybe conditions will change"
-        │
-        └─[NARROW: transform]→ "Can I change what this is?"
-            ├─[N: return]────→ "Make it mutual exchange"
-            └─[N: decline gracefully]→ "Refuse without offense"
-```
-
----
-
-## State Dynamics
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ STATE: "Gift offered, can't receive"                            │
-│                                                                 │
-│ Tension: HIGH (social, emotional)                               │
-│ Constraints: [gift is real, acceptance harmful, refusal wounds] │
-│                                                                 │
-│ Triggers:                                                       │
-│   - Giver insists: pressure increases                           │
-│   - Time passes: answer required                                │
-│   - Third party intervenes: dynamics shift                      │
-│   - New information: gift's nature changes                      │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Transfers Applied
-
-| Source Domain | What Transfers | What Reveals |
-|---------------|----------------|--------------|
-| **Poison** | Beautiful but deadly | Appearance and effect diverge; gifts can harm |
-| **Debt** | Receiving = owing | Gift economy has invisible ledgers |
-| **Trap** | Bait and catch | Generosity can have prey-structure |
-| **Translation** | Lossy transfer | What's given isn't what's received |

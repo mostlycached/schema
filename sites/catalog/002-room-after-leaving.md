@@ -1,133 +1,128 @@
 # The Room After Someone Has Left It
 
-## The Site
+**Practice**: Contemplation
 
-Someone was here. Now they're not. The room is the same — same furniture, same light — but it's *saturated with absence*.
+---
 
-**Dimensions**:
+## State Space
+
+You are in **saturated absence** — presence has departed, trace remains.
+
+| Dimension | Value | Constraint |
+|-----------|-------|------------|
+| Ontology | Absence | Same furniture, same light; different presence |
+| Temporal | Transitional | Between presence and full absence |
+| Perception | Somatic | The absence is felt, not thought |
+
+**Tension**: Medium-melancholic. The room is the same but not.
+
+---
+
+## Action Set
+
+In **Contemplation** practice, your moves are attentional operations:
+
+| Move | Verb | Effect | Risk |
+|------|------|--------|------|
+| **Dwell** | *hold* | Rest in the absence | May become static |
+| **Notice trace** | *focus* | The half-finished cup, the warmth | Intensifies loss |
+| **Expand** | *notice* | All such rooms, all thresholds | Universalizes but dilutes |
+| **Wait** | *defer* | See if they return | May be false hope |
+
+**Blocked moves**:
+- *Complete* — absence cannot be resolved into presence
+- *Release* — the trace resists release
+
+---
+
+## Payoff Matrix
+
+| Action | Immediate Payoff | Long-term Consequence |
+|--------|------------------|----------------------|
+| **Dwell → hold absence** | +melancholic depth | Time stretches; presence felt through absence |
+| **Focus → warmth** | +uncanny intensity | The bed still warm — they were JUST here |
+| **Focus → object** | +tragic specificity | The half-finished cup — interrupted |
+| **Expand → every threshold** | +sublime scope | All departures, all absences |
+| **Defer → wait** | +hope | They might return |
+| **Transfer → ×inheritance** | +frame | Presence deposited as absence |
+| **Transfer → ×archaeology** | +temporal frame | Layers of presence in room |
+| **Transfer → ×haunting** | +uncanny frame | Presence that refuses to leave |
+
+---
+
+## Global Operations
+
+| Operation | Contemplative Consequence |
+|-----------|--------------------------|
+| **GENERATE** | Produces: "the bed still warm", "the half-finished cup", "the childhood home returned to" |
+| **TRANSFER** | Maps to: inheritance (bequest), archaeology (layers), haunting (persistence), photography (trace) |
+| **DISSOLVE** | Slowly via time — warmth fades, arrangement disturbed, new presence overwrites |
+| **EMERGE** | Grief, cleaning, or the next tenant |
+
+---
+
+## Strategy Space
+
+### Path A: Dwell in threshold (default)
 ```
-ontological: absence
-scale: extended
-temporal: transition
-perceptual: direct
-relational: dyadic (you and the absent one)
-agential: anyone
-structural: incomplete
+Someone left → notice absence → hold without resolving → melancholy
+```
+**Payoff**: The threshold itself as destination. Time stretches.
+
+### Path B: Trace investigation
+```
+Someone left → notice specific trace → cup, warmth, object → presence vivified through trace
+```
+**Payoff**: Uncanny intensity. They were JUST here.
+
+### Path C: Universalize
+```
+Someone left → all such rooms → every threshold → the structure of absence
+```
+**Payoff**: This room as instance of departure pattern.
+
+### Path D: Wait for return
+```
+Someone left → hope for return → defer resolution → they may come back
+```
+**Payoff**: Keeps possibility open but may never resolve.
+
+---
+
+## Decision Tree
+
+```
+                [Room After Leaving]
+                        │
+        ┌───────────────┼───────────────┐
+        ▼               ▼               ▼
+    [Dwell]          [Focus]        [Expand]
+        │               │               │
+        ▼          ┌────┴────┐          ▼
+   melancholy      ▼         ▼     "all rooms"
+   threshold    warmth    object       │
+        │          ↓         ↓          ▼
+        ▼      uncanny    tragic    universal
+   time             "just    "inter-  structure
+  stretches          here"   rupted"
+```
+
+**Temporal structure**:
+```
+  PRESENCE ──────── DEPARTURE ──────── ABSENCE
+      │                 │                  │
+  (saturated)         YOU ARE            (empty)
+                      HERE
 ```
 
 ---
 
-## Gesture Profile
+## Position Summary
 
 ```
-available: [WIDEN, SUSPEND, NARROW]
-blocked:   [RESOLVE, COMMIT] — can't resolve absence into presence
-dominant:  SUSPEND — hold the absence open
+Where you are:   In the threshold between presence and full absence
+What you hold:   Traces; the room shaped by who was there
+What blocks you: Cannot resolve absence into presence
+Best moves:      Dwell (hold the threshold) or Focus (intensify through trace)
+Dominant affect: Melancholic-uncanny — saturated absence
 ```
-
----
-
-## Gesture Transitions
-
-| Gesture | → Target Site | mode | affect | values | frame displaced |
-|---------|---------------|------|--------|--------|-----------------|
-| **SUSPEND** | "Dwelling in absence" | null | tragic | vertigo: 0.3, stability: 0.5 | — (tension held) |
-| **WIDEN** | "Every threshold of departure" | expansion | sublime | vertigo: 0.6, depth: 0.8 | This as unique loss |
-| **NARROW** (warmth) | "The bed still warm" | collapse | uncanny | vertigo: 0.5, novelty: 0.4 | Absence as uniform |
-| **NARROW** (object) | "The half-finished cup" | collapse | tragic | vertigo: 0.4, depth: 0.6 | Absence as abstract |
-| **×inheritance** | "Presence deposited as absence" | expansion | uncanny | vertigo: 0.7, novelty: 0.7 | Leaving as ending |
-| **×archaeology** | "Layers of presence in room" | expansion | sublime | vertigo: 0.6, depth: 0.9 | Presence as singular |
-| **×grief** | "Mourning as suspended absence" | collapse | tragic | vertigo: 0.5, depth: 0.9 | Grief as resolving |
-
----
-
-## Global Gestures
-
-| GlobalGesture | Operation | mode | affect | outcome |
-|---------------|-----------|------|--------|---------|
-| **GENERATE** | → "The bed still warm", "the half-finished cup", "the childhood home returned to" | varies | varies | productive |
-| **SPECULATE** | What if absence didn't fade? → haunting. What if presence left no trace? → erasure | expansion | uncanny | reveals absence as presence-mode |
-| **TRANSFER** | To inheritance, archaeology, photography, haunting | varies | vertiginous | productive |
-| **DISSOLVE** | Slowly via time; warmth fades, arrangement disturbed, new presence overwrites | collapse | quotidian | gradual, inevitable |
-| **EMERGE** | At moment of departure — the transition creates the site | expansion | tragic | sudden phase transition |
-
----
-
-## Flux Relation
-
-```
-flux_state: dissolving (slowly)
-dissolution_resistance: medium — time erodes
-hover_potential: high — can dwell in threshold
-emergence_pattern: transitional (departure creates it)
-flux_pockets: the future of the room is undetermined
-```
-
-This site naturally hovers — it exists precisely at a boundary between presence and full absence. The flux operation HOVER is native here.
-
----
-
-## Move Notation
-
-```
-0. ROOT      "Presence"
-1. ¬         [NEGATE: person leaves]           → "Absence"
-2. N+room    [NARROW: localize to room]        → "The room after leaving"
-3. ×inherit  [TRANSFER: inheritance]           → "Presence as bequest"
-4. W→all     [WIDEN: all such rooms]           → "Every room that holds absence"
-```
-
----
-
-## Branch Tree
-
-```
-"Presence"
-│
-└─[¬: leaves]─→ "Absence"
-    │
-    ├─[N: room]─────→ "The room after leaving" ← YOU ARE HERE
-    │   │
-    │   ├─[×inheritance]──→ "Presence deposited as absence"
-    │   │   ├─[N: warmth]───→ "The bed still warm"
-    │   │   ├─[W: all rooms]─→ "Every threshold of departure"
-    │   │   └─[N: object]───→ "The half-finished cup"
-    │   │
-    │   ├─[×archaeology]──→ "Layers of presence in room"
-    │   │   └─[W: lifetime]─→ "The childhood home returned to"
-    │   │
-    │   └─[SUSPEND]───────→ "Holding the absence without resolving"
-    │       └─[×grief]────→ "Mourning as suspended absence"
-    │
-    └─[N: permanent]──→ "The room after death"
-        └─[×haunting]─→ "Presence that refuses to leave"
-```
-
----
-
-## State Dynamics
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ STATE: "Room after leaving"                                     │
-│                                                                 │
-│ Tension: MEDIUM (melancholic, not acute)                        │
-│ Constraints: [absence is real, presence was real, can't undo]   │
-│                                                                 │
-│ Triggers:                                                       │
-│   - Time passes: warmth fades, tension decays                   │
-│   - Object noticed: tension spikes on specific trace            │
-│   - Return occurs: RESOLVE unlocks                              │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Transfers Applied
-
-| Source Domain | What Transfers | What Reveals |
-|---------------|----------------|--------------|
-| **Inheritance** | The giver absent, object present | Leaving = bequeathing; you deposit as you go |
-| **Archaeology** | Layered traces | Presence accumulates, doesn't just happen |
-| **Haunting** | Presence that persists | Absence as negative presence, not zero |
-| **Photography** | The trace of what was | Room as exposure, person as light that left |

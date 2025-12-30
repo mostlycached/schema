@@ -275,6 +275,65 @@ The constraint-derive-constrain loop is the engine of exploration.
 
 ---
 
+## Advanced: Axiomatic Intervention (Practice Mutation)
+
+You can use constraints to "mutate" an entire practice by identifying its **load-bearing assumptions** and applying a constraint that breaks or inverts them.
+
+This transforms the discipline into a "shadow practice."
+
+### The Protocol
+
+1.  **Identify the Practice**: (e.g., Architecture)
+2.  **Find the Axiom**: What is the unstated goal? (e.g., "Shelter protects the body.")
+3.  **Apply Constraint**: Invert or block the axiom. (e.g., `function = exposure`)
+4.  **Derivate**: What does the practice become? (e.g., Architecture becomes "Asceticism" or "Torture Design")
+
+### Examples
+
+| Practice | Axiom | Intervention Constraint | Mutation |
+|----------|-------|-------------------------|----------|
+| **Architecture** | Shelter | `Nesting(Within(PROTECTION, EXPOSURE))` <br> *Protect specifically to expose.* | **The Panopticon** |
+| **Economics** | Exchange | `Recursion(PAYMENT → INCREASES_DEBT)` <br> *Paying makes debt grow.* | **Theology (Original Sin)** |
+| **Science** | Distance | `Identity(OBSERVER == OBSERVED)` <br> *To measure is to become.* | **Magick / Auto-Cannibalism** |
+
+This approach generates **Speculative Disciplines** — entire fields of study that operate under alien laws.
+
+---
+
+## The Infrastructure of Autonomy: Constraint Closure
+
+Why do some sites feel "alive" or "inescapable"?
+
+We can answer this using **Constraint Closure**, a concept from theoretical biology (Montévil/Mossio).
+
+### Process vs. Constraint
+
+To understand autonomy, we must distinguish two things:
+1.  **Process**: The flow of work/energy. It consumes input and produces output. (e.g., The User struggling, the currency being paid).
+2.  **Constraint**: The structure that channels the flow without being consumed. (e.g., The Rule, the Wall, the Debt Ledger).
+
+### The Loop of Closure
+
+In a dead system, constraints are imposed from the outside.
+In a living system (or a perfect trap), **the constraints regenerate each other**.
+
+`Constraint A` channels the process to maintain `Constraint B`.
+`Constraint B` channels the process to maintain `Constraint A`.
+
+This is **Closure**. The system defines itself.
+
+### Example: The Infinite Debt
+
+*   **Process**: The User pays with somatic currency (tissue/life).
+*   **Constraint A (The Ledger)**: Dictates that payment is required.
+*   **Constraint B (The Interest Rate)**: Dictates that payment increases the principal.
+
+The process (Paying) flows through Constraint B (Interest Rate) which *regenerates* Constraint A (The Ledger/Debt). The more you work (Process), the stronger the Trap (Constraint) becomes.
+
+**Generative Goal**: Aim for closure. Design sites where the user's attempt to escape is the energy source that maintains the walls.
+
+---
+
 ## Summary
 
 - **Constraints** are generative restrictions — they reveal, not just restrict

@@ -1,147 +1,145 @@
 # The Decision Not Yet Made
 
-## The Site
+**Practice**: Writing
 
-You have to choose. Both options are real, both are possible, both would lead somewhere. You haven't chosen. The decision *exists* — it has weight, it affects everything — but it hasn't happened yet.
+---
 
-**Dimensions**:
+## State Space
+
+You are in **maximum hover** — both futures real, neither chosen.
+
+| Dimension | Value | Constraint |
+|-----------|-------|------------|
+| Potentiality | Maximum | Both paths available |
+| Commitment | Zero | Neither foreclosed |
+| Urgency | Variable | May be low hum or acute crisis |
+
+**Tension**: Variable. You feel the fork. Both options have weight.
+
+---
+
+## Action Set
+
+In **Writing** practice, your moves are narrative operations:
+
+| Move | Verb | Effect | Risk |
+|------|------|--------|------|
+| **Defer** | *postpone* | Keep branches open | Paralysis |
+| **Explore** | *probe* | "If I go this way..." | Visualization without commitment |
+| **Hold** | *suspend* | Dwell in superposition | Uneasy peace |
+| **Decide** | *commit* | Choice collapses possibility | Irreversible |
+
+**Blocked moves**:
+- *Complete* — that would end the site
+
+---
+
+## Payoff Matrix
+
+| Action | Immediate Payoff | Long-term Consequence |
+|--------|------------------|----------------------|
+| **Defer → "not yet"** | +preservation | Tension preserved |
+| **Defer → gather info** | +information | Research as deferral |
+| **Suspend → hold both** | +potentiality | Superposition maintained |
+| **Narrow → "if I go A..."** | +visualization | Probe one future |
+| **Narrow → "what criteria?"** | +clarity | Identify decision heuristics |
+| **Widen → all forks** | +perspective | "Every consequential crossroads" |
+| **Commit → choose** | +certainty | Collapses wave; kills one life |
+| **Transfer → ×fork** | +path frame | Standing at the path-split |
+| **Transfer → ×quantum** | +physics frame | Superposition of lives |
+| **Transfer → ×pregnancy** | +carrying frame | Possibility gestates |
+
+---
+
+## Global Operations
+
+| Operation | Narrative Consequence |
+|-----------|----------------------|
+| **GENERATE** | Produces: "choosing between two people", "job offer unanswered", "whether to have children" |
+| **TRANSFER** | Maps to: fork (path), quantum (superposition), pregnancy (carrying possibility), trial (verdict pending) |
+| **DISSOLVE** | Via: choosing (COMMIT), option disappearing, external decision |
+| **EMERGE** | One actual life (via choice) or a life shaped by indecision |
+
+---
+
+## Strategy Space
+
+### Path A: Defer (default)
 ```
-ontological: tension
-scale: extended (can last days, months, years)
-temporal: anticipation
-perceptual: direct (you feel the fork)
-relational: solitary (even if others involved, the choosing is yours)
-agential: specific-capacity (requires decision-capability)
-structural: paradoxical (must be one but currently both)
+Fork → don't choose → gather info → wait → still haven't chosen
+```
+**Payoff**: Preserves potentiality. May become paralysis.
+
+### Path B: Probe one future
+```
+Fork → "if I go A..." → visualize → feel the consequences → data for decision
+```
+**Payoff**: Information gathering through imagination.
+
+### Path C: Hold superposition
+```
+Fork → suspend → dwell → both lives real simultaneously
+```
+**Payoff**: Live in potentiality. Can't stay forever.
+
+### Path D: Commit
+```
+Fork → choose → one life begins → other life dies
+```
+**Payoff**: Exit site. Future crystallizes. Loss accepted.
+
+---
+
+## Decision Tree
+
+```
+                 [Decision Pending]
+                        │
+           ┌────────────┴────────────┐
+           │    BOTH FUTURES REAL    │
+           │    NEITHER CHOSEN       │
+           └────────────┬────────────┘
+                        │
+       ┌────────────────┼────────────────┐
+       ▼                ▼                ▼
+    [Defer]         [Suspend]        [Commit]
+        │               │                │
+   ┌────┴────┐          ▼                ▼
+   ▼         ▼       "both         choice
+ wait     gather      real"        collapses
+  ↓        info         ↓          wave
+paralysis   ↓      superposition      │
+         research                     ▼
+                                  one future
+                                  lives;
+                                  other dies
+```
+
+**Temporal structure**:
+```
+                          PAST ──── NOW ──── FUTURE
+                                     │
+                             ┌───────┴───────┐
+                             │  YOU ARE HERE │
+                             │  (at the fork)│
+                             └───────┬───────┘
+                                ╱         ╲
+                               ╱           ╲
+                            [A]            [B]
+                           (real)         (real)
+                              ╲           ╱
+                               ╲         ╱
+                            (one will die)
 ```
 
 ---
 
-## Gesture Profile
+## Position Summary
 
 ```
-available: [DEFER, WIDEN, NARROW, SUSPEND]
-blocked:   [RESOLVE] — that would end the site
-dominant:  DEFER — keep the branches open
-latent:    [COMMIT] — always available, always postponed
+Where you are:   At the fork; both futures real, neither chosen
+What you hold:   Maximum potentiality + decision weight
+What blocks you: Choosing kills one life; not choosing is paralysis
+Best moves:      Defer (gather info) or Suspend (dwell in superposition)
+Dominant affect: Vertiginous — standing at the path-split
 ```
-
----
-
-## Gesture Transitions
-
-| Gesture | → Target Site | mode | affect | values | frame displaced |
-|---------|---------------|------|--------|--------|-----------------|
-| **DEFER** | "Not deciding yet" | null | quotidian | vertigo: 0.2, stability: 0.3 | — (tension preserved) |
-| **DEFER: gather info** | "Research as deferral" | null | quotidian | vertigo: 0.3, stability: 0.4 | — (action without decision) |
-| **SUSPEND** | "Hold both possibilities open" | null | vertiginous | vertigo: 0.6, stability: 0.5 | — (uneasy peace) |
-| **NARROW: one path** | "If I go this way..." | collapse | vertiginous | vertigo: 0.7, depth: 0.7 | Both as equally real |
-| **NARROW: criteria** | "What would make me choose?" | collapse | quotidian | vertigo: 0.4, depth: 0.6 | Choice as arbitrary |
-| **WIDEN: all forks** | "Every consequential crossroads" | expansion | sublime | vertigo: 0.6, depth: 0.8 | This decision as unique |
-| **COMMIT** | "Decision made" | collapse | vertiginous | vertigo: 0.9, novelty: 0.7 | Future as open |
-| **×fork** | "Standing at the path-split" | expansion | vertiginous | vertigo: 0.7, novelty: 0.6 | Life as continuous |
-| **×quantum** | "Superposition of lives" | expansion | sublime | vertigo: 0.8, depth: 0.8 | Self as singular |
-| **×pregnancy** | "Carrying possibility" | expansion | uncanny | vertigo: 0.6, novelty: 0.7 | Decisions as events |
-
----
-
-## Global Gestures
-
-| GlobalGesture | Operation | mode | affect | outcome |
-|---------------|-----------|------|--------|---------|
-| **GENERATE** | → "Choosing between two people", "the job offer you haven't answered", "whether to have children" | varies | vertiginous | productive |
-| **SPECULATE** | What if you could take both paths? What if you had already chosen without knowing? | expansion | sublime | reveals choice as cut |
-| **TRANSFER** | To fork (path), quantum (superposition), pregnancy (carrying possibility), trial (verdict pending) | varies | vertiginous | productive |
-| **DISSOLVE** | Via: choosing (COMMIT), option disappearing (forced exit), external decision (removed agency) | collapse | varies | forced |
-| **EMERGE** | When stakes become clear, deadline appears, options multiply beyond holding | expansion | vertiginous | gradual or sudden |
-
----
-
-## Flux Relation
-
-```
-flux_state: hovering (maximum hover)
-dissolution_resistance: medium — pressure from time/others
-hover_potential: maximum — this IS hovering
-emergence_pattern: gradual (as stakes clarify) or sudden (deadline imposed)
-flux_pockets: both futures are flux until chosen; choosing crystallizes one
-```
-
-This is a paradigmatic hovering site. The FluxOperation HOVER is the site's essence. COMMIT (choosing) would trigger EMERGE from flux into structured future.
-
----
-
-## Move Notation
-
-```
-0. ROOT       "Decision"
-1. N+unmade   [NARROW: add not-yet]              → "The pending decision"
-2. N+weight   [NARROW: consequential]            → "The decision that matters"
-3. ×fork      [TRANSFER: path]                   → "Decision as fork in road"
-4. N→standing [NARROW: at the fork]              → "Standing at the fork"
-```
-
-**Current Position**: Potentiality as dwelling; the power and paralysis of uncommitted possibility.
-
----
-
-## Branch Tree
-
-```
-"Decision"
-│
-├─[N: trivial]───→ "The easy choice" (ends quickly)
-│
-└─[N: consequential]─→ "The decision that matters"
-    │
-    ├─[N: made]────→ "The decision behind you" (different site)
-    │
-    └─[N: unmade]──→ "The decision not yet made" ← YOU ARE HERE
-        │
-        ├─[×fork]──────→ "Standing at the path-split"
-        │   ├─[N: one path]─→ "If I go this way..."
-        │   ├─[N: other path]─→ "If I go that way..."
-        │   └─[W: all forks]─→ "Every consequential crossroads"
-        │
-        ├─[DEFER]──────→ "Not deciding yet"
-        │   ├─[→ gathers info]─→ "Research as deferral"
-        │   ├─[→ waits for sign]─→ "Deferral as superstition"
-        │   └─[→ just waits]───→ "Paralysis"
-        │
-        ├─[SUSPEND]────→ "Hold both possibilities open"
-        │   └─[×quantum]───→ "Superposition of lives"
-        │
-        └─[NARROW: criteria]─→ "What would make me choose?"
-            ├─[N: values]────→ "What do I actually want?"
-            └─[N: information]─→ "What would I need to know?"
-```
-
----
-
-## State Dynamics
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ STATE: "Decision pending"                                       │
-│                                                                 │
-│ Tension: VARIABLE (can be low hum or acute crisis)              │
-│ Constraints: [must eventually choose, both still possible]      │
-│                                                                 │
-│ Triggers:                                                       │
-│   - Deadline approaches: tension spikes                         │
-│   - Option disappears: forced choice or grief                   │
-│   - New information: can resolve or complicate                  │
-│   - Someone else decides: exit via external force               │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Transfers Applied
-
-| Source Domain | What Transfers | What Reveals |
-|---------------|----------------|--------------|
-| **Path** | Fork, branching roads | Choosing = foreclosing; you kill one life by choosing another |
-| **Quantum mechanics** | Superposition | Before measurement, both states real; the decision collapses the wave |
-| **Pregnancy** | Carrying possibility | The decision gestates; you live with it before it exists |
-| **Trial** | Verdict pending | The wait itself is a kind of sentence |

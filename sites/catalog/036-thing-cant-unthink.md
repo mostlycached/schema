@@ -1,147 +1,153 @@
 # The Thing You Can't Unthink Once Thought
 
-## The Site
+**Practice**: Contemplation
 
-You've thought it. A possibility, an interpretation, a suspicion. You can't go back to not having thought it. The thought is in you now, coloring everything. You wish you hadn't thought it. You can't stop thinking it. The mind has no undo.
+---
 
-**Dimensions**:
+## State Space
+
+You are in **cognitive irreversibility** — the mind has no undo.
+
+| Dimension | Value | Constraint |
+|-----------|-------|------------|
+| Reversibility | Zero | Can't unthink |
+| Duration | Permanent | Once thought, always thought-able |
+| Agency | Inverted | The thought has you |
+
+**Tension**: Medium-high (chronic, not acute). The white bear problem at existential scale.
+
+---
+
+## Action Set
+
+In **Contemplation** practice, your moves are cohabitation operations:
+
+| Move | Verb | Effect | Risk |
+|------|------|--------|------|
+| **Dwell with** | *accept* | Living alongside the thought | Cohabitation |
+| **Wait** | *suspend* | Maybe it will fade | May not fade |
+| **Redirect** | *release* | Think about something else | Temporary only |
+| **Integrate** | *transform* | Let it become part of you | Self changes |
+
+**Blocked moves**:
+- *Complete* — can't delete thought
+- *Engage directly* — attention increases presence
+
+---
+
+## Payoff Matrix
+
+| Action | Immediate Payoff | Long-term Consequence |
+|--------|------------------|----------------------|
+| **Accept → live with it** | +stability | Cohabitation, not cure |
+| **Suspend → wait** | +hope | It may fade (or not) |
+| **Widen → all intrusions** | +normalization | "Everyone carries these" |
+| **Branch → reframe** | +interpretation shift | What if it's not what I think? |
+| **Branch → integrate** | +transformation | Let it become part of self |
+| **Branch → act** | +externalization | Do something about it |
+| **Narrow → examine directly** | -increase | Looking at it increases presence |
+| **Defer → distract** | +temporary relief | Returns when distraction stops |
+| **Transfer → ×white bear** | +frame | "Don't think of it" paradox |
+| **Transfer → ×possession** | +frame | The thought has me |
+
+---
+
+## Global Operations
+
+| Operation | Contemplative Consequence |
+|-----------|--------------------------|
+| **GENERATE** | Produces: "suspicion about them", "possibility of meaninglessness", "thought of death", "doubt about love" |
+| **TRANSFER** | Maps to: contamination (spreading), possession (taken over), infection (invaded), stain (permanent) |
+| **DISSOLVE** | Rarely — through time, therapy, or integration |
+| **EMERGE** | A tick, a sleepless night, or a changed worldview |
+
+---
+
+## Strategy Space
+
+### Path A: Cohabitation
 ```
-ontological: limit (cognitive irreversibility)
-scale: instant (the thought) → lifetime (its residence)
-temporal: permanent (once thought, always thought-able)
-perceptual: intrusive (it recurs without permission)
-relational: solitary (your thought, your burden)
-agential: anyone (the thinking are vulnerable)
-structural: paradoxical (trying not to think it thinks it)
+Thought arrives → can't delete → accept → live alongside it
+```
+**Payoff**: Stability through acceptance, not cure.
+
+### Path B: Waiting
+```
+Thought arrives → can't delete → wait → maybe it fades
+```
+**Payoff**: Hope; may or may not work.
+
+### Path C: Integration
+```
+Thought arrives → can't delete → let it change you → self expands
+```
+**Payoff**: Transformation rather than deletion.
+
+### Path D: Reframe
+```
+Thought arrives → can't delete → what if wrong interpretation? → meaning shifts
+```
+**Payoff**: Same thought, different significance.
+
+---
+
+## Decision Tree
+
+```
+              [Thought Arrives]
+                     │
+          ┌──────────┴──────────┐
+          │    CAN'T UNTHINK    │
+          │    NO COGNITIVE UNDO│
+          │    RECURS UNBIDDEN  │
+          └──────────┬──────────┘
+                     │
+       ┌─────────────┼─────────────┐
+       ▼             ▼             ▼
+   [Accept]      [Branch]       [Wait]
+       │             │             │
+       ▼        ┌────┴────┐        ▼
+  cohabitation  ▼         ▼      maybe
+       │      reframe integrate  fades
+       ▼        ↓         ↓        │
+  live with  meaning    self       ▼
+    it       shifts    changes  hope or
+                                   despair
+```
+
+**Cognitive structure**:
+```
+         THOUGHT ────────────────────→ SELF
+              │                          │
+          (intrudes)                 (receives)
+              │                          │
+              │     ═══════════════      │
+              │     ║   NO UNDO     ║    │
+              │     ║  (you can see ║    │
+              │     ║  but not erase)║   │
+              │     ═══════════════      │
+              │                          │
+              └───── PERMANENT RESIDENT ─┘
 ```
 
 ---
 
-## Gesture Profile
+## Position Summary
 
 ```
-available: [SUSPEND, WIDEN, BRANCH]
-blocked:   [RESOLVE, COMMIT] — can't undo the thought
-dominant:  SUSPEND — living with the unthinkable
-latent:    [NARROW] — direct attention increases presence
-
-EXTREME DIMENSION: Cognitive irreversibility. The white bear problem at existential scale.
-```
-
----
-
-## Gesture Transitions
-
-| Gesture | → Target Site | mode | affect | values | frame displaced |
-|---------|---------------|------|--------|--------|-----------------|
-| **SUSPEND: with it** | "Living alongside the thought" | null | uncanny | vertigo: 0.7, stability: 0.5 | — |
-| **SUSPEND: waiting** | "Waiting for it to fade" | null | tragic | vertigo: 0.5, stability: 0.4 | — |
-| **WIDEN: all intrusions** | "Every thought I can't escape" | expansion | tragic | vertigo: 0.8, depth: 0.8 | This thought as unique |
-| **WIDEN: everyone** | "Everyone carries unthinkable thoughts" | expansion | uncanny | vertigo: 0.7, depth: 0.7 | My burden as special |
-| **BRANCH: reframe** | "What if it's not what I think?" | expansion | uncanny | vertigo: 0.6, novelty: 0.7 | — |
-| **BRANCH: integrate** | "Let it become part of me" | expansion | vertiginous | vertigo: 0.8, depth: 0.9 | Self as fixed |
-| **BRANCH: act** | "Do something about it" | expansion | vertiginous | vertigo: 0.7, novelty: 0.6 | Thought as passive |
-| **NARROW: the thought** | "Look directly at it" | collapse | vertiginous | vertigo: 0.9, depth: 0.9 | — (increases presence) |
-| **DEFER: distract** | "Think about something else" | null | quotidian | vertigo: 0.4, stability: 0.5 | — (temporary) |
-| **×white bear** | "Don't think of it" | expansion | vertiginous | vertigo: 0.9, novelty: 0.7 | Suppression as effective |
-| **×contamination** | "The thought spreads" | expansion | uncanny | vertigo: 0.8, depth: 0.8 | Thoughts as contained |
-| **×possession** | "The thought has me" | expansion | vertiginous | vertigo: 0.85, depth: 0.9 | Agency over thoughts |
-
----
-
-## Global Gestures
-
-| GlobalGesture | Operation | mode | affect | outcome |
-|---------------|-----------|------|--------|---------|
-| **GENERATE** | → "The suspicion about them", "The possibility of meaninglessness", "The thought of death", "The doubt about love" | varies | vertiginous | productive |
-| **SPECULATE** | What if we could selectively forget? What if no thought could be unthought? | expansion | vertiginous | reveals memory as burden |
-| **TRANSFER** | To contamination (spreading), possession (taken over), infection (invaded), stain (permanent mark) | varies | uncanny | high vertigo |
-| **DISSOLVE** | Rarely — through time, therapy, or integration | collapse | varies | gradual if at all |
-| **EMERGE** | From insight, revelation, intrusion, accident, conversation | varies | vertiginous | often unwilled |
-
----
-
-## Flux Relation
-
-```
-flux_state: structured (the thought is fixed)
-dissolution_resistance: very high — thoughts don't disappear
-hover_potential: high — can coexist with the thought indefinitely
-emergence_pattern: intrusive (unbidden recurrence)
-flux_pockets: the thought's meaning may shift; its presence is structured
-```
-
-The thought is structure. Its interpretation is flux. But the structure resists dissolution.
-
----
-
-## Move Notation
-
-```
-0. ROOT       "Thought"
-1. N+new      [NARROW: new thought]               → "A thought arrives"
-2. N+unwanted [NARROW: unwanted]                  → "I don't want this thought"
-3. ×possession[TRANSFER: possession]              → "The thought has me"
-4. BLOCKED    [cannot RESOLVE]                    → "Can't unthink it"
-```
-
-**Current Position**: Permanent residence with an uninvited thought.
-
----
-
-## Branch Tree
-
-```
-"Thought"
-│
-├─[N: wanted]─────────→ "Welcome thoughts" (normal cognition)
-│
-└─[N: unwanted]───────→ "Intrusive thought"
-    │
-    ├─[DEFER: suppress]───→ "Try not to think it" (paradox)
-    │   └─[×white bear]───→ "Suppression amplifies"
-    │
-    ├─[NARROW: examine]───→ "Look at it directly" ← YOU ARE HERE
-    │   ├─[WIDEN]─────────→ "All my intrusive thoughts"
-    │   └─[BRANCH: meaning]→ "What does it mean about me?"
-    │
-    ├─[BRANCH: integrate]─→ "Accept its presence"
-    │   ├─[×shadow]───────→ "It's part of me"
-    │   └─[×cohabitation]─→ "Living with it"
-    │
-    └─[BRANCH: act]───────→ "Respond to the thought"
-        ├─[N: verify]─────→ "Is it true?"
-        └─[N: express]────→ "Tell someone"
+Where you are:   Hosting a thought you can't evict
+What you hold:   Unwanted thought + permanent residence + trying-not-to-think-it-thinks-it
+What blocks you: Cognitive irreversibility; suppression amplifies
+Best moves:      Accept (cohabitation) or Integrate (transformation)
+Dominant affect: Uncanny-vertiginous — the thought has you
 ```
 
 ---
 
-## State Dynamics
+## Extremity Character
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ STATE: "Hosting the unthinkable"                                 │
-│                                                                 │
-│ Tension: MEDIUM-HIGH (chronic, not acute)                        │
-│ Constraints: [thought exists, can't delete, recurs]              │
-│                                                                 │
-│ Triggers:                                                       │
-│   - Reminder: associated stimuli bring it back                  │
-│   - Suppression attempt: paradoxically activates                │
-│   - Time: may fade (or may not)                                 │
-│   - New information: changes meaning                            │
-│   - Integration: becomes part of self-understanding             │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Extremity Analysis
-
-| Dimension | Extremity | Why |
-|-----------|-----------|-----|
-| **Reversibility** | Zero | No cognitive undo |
-| **Duration** | Permanent | Once thought, always thought-able |
-| **Paradox** | High | Suppression amplifies |
-| **Agency** | Inverted | The thought has you |
-| **Privacy** | Maximum | Only you know it's there |
+- Reversibility: zero
+- Duration: permanent
+- Paradox: high (suppression amplifies)
+- Agency: inverted
+- Privacy: maximum

@@ -1,145 +1,144 @@
 # The Stranger Who Knows Your Name
 
-## The Site
+**Practice**: Sociology
 
-Someone you've never met says your name. Not your public name — your *real* name. The one only intimates use. They know you. You don't know them. The asymmetry is vertiginous.
+---
 
-**Dimensions**:
+## State Space
+
+You are in **asymmetric recognition** — they know you; you don't know them.
+
+| Dimension | Value | Constraint |
+|-----------|-------|------------|
+| Recognition | One-way | They see you; you don't see them |
+| Identity | Distributed | You exist in systems you don't control |
+| Resolution | BLOCKED | Can't resolve asymmetric knowledge |
+
+**Tension**: High. Threatening and uncanny.
+
+---
+
+## Action Set
+
+In **Sociology** practice, your moves are identity-verification operations:
+
+| Move | Verb | Effect | Risk |
+|------|------|--------|------|
+| **Demand** | *narrow* | "Who are you?" | May or may not resolve |
+| **Hold** | *suspend* | Let asymmetry stand | Vertigo persists |
+| **Escape** | *defer* | Walk away without answering | Leaves unresolved |
+| **Cascade** | *widen* | How many know me who I don't know? | Maximum vertigo |
+
+**Blocked moves**:
+- *Complete* — can't resolve asymmetric knowledge from inside
+
+---
+
+## Payoff Matrix
+
+| Action | Immediate Payoff | Long-term Consequence |
+|--------|------------------|----------------------|
+| **Narrow → "who are you?"** | +demand | May reduce to answerable |
+| **Narrow → "how do you know?"** | +source | Privacy displaced |
+| **Suspend → let stand** | +dwelling | Unresolved uncanny |
+| **Defer → walk away** | +escape | Still don't know |
+| **Widen → "how many?"** | +maximum scope | Vertigo of distributed self |
+| **Widen → surveillance** | +frame | The digital stranger |
+| **Transfer → ×one-way mirror** | +frame | Asymmetric visibility |
+| **Transfer → ×database** | +frame | Identity in external systems |
+| **Transfer → ×haunting** | +frame | Ghost who knows your name |
+
+---
+
+## Global Operations
+
+| Operation | Sociological Consequence |
+|-----------|-------------------------|
+| **GENERATE** | Produces: "caller who knows your history", "being recognized without recognizing", "data in foreign systems" |
+| **TRANSFER** | Maps to: one-way mirror (asymmetric), database (identity in systems), haunting (dead who know), dream (inner stranger) |
+| **DISSOLVE** | Via explanation (stranger becomes known) or proven mistake |
+| **EMERGE** | Paranoia, celebrity, or a debit card inquiry |
+
+---
+
+## Strategy Space
+
+### Path A: Demand explanation
 ```
-ontological: relation (asymmetric, impossible)
-scale: momentary (the encounter) → extended (the aftermath)
-temporal: instant (the collision)
-perceptual: direct + other-mediated
-relational: dyadic (but broken)
-agential: anyone
-structural: paradoxical (recognition without reciprocity)
+Stranger names you → "who are you?" → may or may not explain → resolution or deeper vertigo
+```
+**Payoff**: Attempt to collapse asymmetry.
+
+### Path B: Let it stand
+```
+Stranger names you → suspend → let asymmetry be → live with the uncanny
+```
+**Payoff**: Dwell in the vertigo without attempting resolution.
+
+### Path C: Escape
+```
+Stranger names you → walk away → never know who they were → unresolved
+```
+**Payoff**: Leave the site; mystery persists.
+
+### Path D: Cascade
+```
+Stranger names you → "how many know me?" → databases, systems, watchers → distributed self
+```
+**Payoff**: Maximum vertigo; identity as non-self-owned.
+
+---
+
+## Decision Tree
+
+```
+              [Stranger Names You]
+                      │
+           ┌──────────┴──────────┐
+           │    THEY KNOW YOU    │
+           │    YOU DON'T KNOW   │
+           │    ASYMMETRY REAL   │
+           └──────────┬──────────┘
+                      │
+       ┌──────────────┼──────────────┐
+       ▼              ▼              ▼
+   [Narrow]       [Suspend]      [Widen]
+       │              │              │
+       ▼              ▼              ▼
+  "who are        let it       "how many
+  you?"           stand           know?"
+       │              │              │
+  ┌────┴────┐         ▼              ▼
+  ▼         ▼      unresolved    distributed
+explains  doesn't   uncanny        self
+  ↓          ↓
+relief   deeper
+        vertigo
+```
+
+**Recognition structure**:
+```
+         THEY ─────────────────────── YOU
+           │                           │
+        (know)                     (don't know)
+           │                           │
+           │     ═══════════════════   │
+           │     ║ ASYMMETRIC GAP ║    │
+           │     ║   (the site)   ║    │
+           │     ═══════════════════   │
+           │                           │
+           └────── ONE-WAY MIRROR ─────┘
+                   (you are behind)
 ```
 
 ---
 
-## Gesture Profile
+## Position Summary
 
 ```
-available: [NARROW, SUSPEND, DEFER]
-blocked:   [RESOLVE] — you can't resolve asymmetric knowledge
-dominant:  NARROW — demand explanation
-latent:    [WIDEN] — how many know me that I don't know?
+Where you are:   Named by stranger; asymmetric recognition
+What you hold:   Being known without knowing; distributed identity
+What blocks you: Can't own all versions of self; exist in systems you don't control
+Best moves:      Narrow (demand explanation) or Widen (how many know me?)
+Dominant affect: Vertiginous-uncanny — the self that exists elsewhere
 ```
-
----
-
-## Gesture Transitions
-
-| Gesture | → Target Site | mode | affect | values | frame displaced |
-|---------|---------------|------|--------|--------|-----------------|
-| **NARROW: who are you?** | "Demanding explanation" | collapse | vertiginous | vertigo: 0.7, novelty: 0.6 | — (reduces to answerable) |
-| **NARROW: how do you know?** | "The source of the knowledge" | collapse | vertiginous | vertigo: 0.8, depth: 0.7 | Privacy as maintained |
-| **SUSPEND** | "Letting the asymmetry stand" | null | uncanny | vertigo: 0.8, stability: 0.3 | — (unresolved) |
-| **DEFER** | "Walk away without answering" | null | uncanny | vertigo: 0.6, stability: 0.4 | — (escape) |
-| **WIDEN** | "How many know me without my knowing?" | expansion | sublime | vertigo: 0.9, depth: 0.9 | Knowledge as mutual |
-| **WIDEN: surveillance** | "The digital stranger" | expansion | vertiginous | vertigo: 0.9, novelty: 0.7 | Anonymity as real |
-| **×one-way mirror** | "They see you; you don't see them" | expansion | uncanny | vertigo: 0.9, novelty: 0.8 | Perception as symmetric |
-| **×database** | "Your name exists in structures you don't know" | expansion | vertiginous | vertigo: 0.8, depth: 0.8 | Identity as self-controlled |
-| **×haunting** | "The ghost who knows your name" | expansion | uncanny | vertigo: 0.9, novelty: 0.8 | Knowledge as living |
-| **×dream** | "The stranger in your dream who knows you" | expansion | uncanny | vertigo: 0.9, depth: 0.9 | Inner as private |
-
----
-
-## Global Gestures
-
-| GlobalGesture | Operation | mode | affect | outcome |
-|---------------|-----------|------|--------|---------|
-| **GENERATE** | → "The caller who knows your history", "being recognized without recognizing", "your data in foreign systems" | varies | uncanny | productive |
-| **SPECULATE** | What if everyone knew you? What if recognition were always one-way? | expansion | vertiginous | reveals self as distributed |
-| **TRANSFER** | To one-way mirror (asymmetric seeing), database (identity in systems), haunting (dead who know), dream (inner stranger) | varies | uncanny | high vertigo |
-| **DISSOLVE** | Via: explanation (stranger becomes known), proven mistake (they didn't really know) | collapse | quotidian | resolution |
-| **EMERGE** | At moment of being named by unknown — the instant of asymmetric recognition | collapse | vertiginous | sudden |
-
----
-
-## Flux Relation
-
-```
-flux_state: structured (the asymmetry is real)
-dissolution_resistance: medium — explanation can resolve
-hover_potential: high — can dwell in the vertigo
-emergence_pattern: encounter (triggered by the naming)
-flux_pockets: who they are is flux; that they know you is structured
-```
-
-The site crystallizes a usually-invisible structure: your identity exists in other minds, databases, systems you don't access. The stranger is a messenger from that external self.
-
----
-
-## Move Notation
-
-```
-0. ROOT       "Recognition"
-1. ¬mutual    [NEGATE: only one-way]              → "Asymmetric recognition"
-2. N+stranger [NARROW: by someone unknown]        → "The stranger who recognizes"
-3. ×mirror    [TRANSFER: one-way mirror]          → "The asymmetric gaze"
-4. N→name     [NARROW: they know your name]       → "Named by the unknown"
-```
-
-**Current Position**: Identity as distributed; the self that exists in systems you don't control.
-
----
-
-## Branch Tree
-
-```
-"Recognition"
-│
-├─[N: mutual]───→ "Meeting someone you both know" (standard)
-│
-└─[¬: asymmetric]─→ "Asymmetric recognition"
-    │
-    ├─[N: you know them]─→ "The forgotten acquaintance" (different site)
-    │
-    └─[N: they know you]─→ "The stranger who knows your name" ← YOU ARE HERE
-        │
-        ├─[×one-way mirror]──→ "Asymmetric perception"
-        │   ├─[N: surveillance]─→ "The watcher you don't see"
-        │   ├─[N: fame]────────→ "The fan who knows you"
-        │   └─[N: data]────────→ "The database that knows you"
-        │
-        ├─[NARROW: who are you?]─→ "Demanding explanation"
-        │   ├─[→ explicable]────→ "Oh, we met at..." (relief)
-        │   └─[→ inexplicable]──→ "The explanation doesn't satisfy"
-        │
-        ├─[WIDEN]────────────────→ "How many know me without my knowing?"
-        │   └─[×database]────────→ "Your name in systems"
-        │
-        └─[SUSPEND]──────────────→ "Let the asymmetry stand"
-            └─[×haunting]────────→ "The ghost who knows you"
-```
-
----
-
-## State Dynamics
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ STATE: "Named by a stranger"                                    │
-│                                                                 │
-│ Tension: HIGH (threatening, uncanny)                            │
-│ Constraints: [they know you, you don't know them, asymmetry real]│
-│                                                                 │
-│ Triggers:                                                       │
-│   - Explanation: resolves to known category                     │
-│   - No explanation: vertigo persists                            │
-│   - They know more: escalating vertigo                          │
-│   - You figure it out: asymmetry collapses                      │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Transfers Applied (Strangeness-Vertigo Analysis)
-
-| Source Domain | StrangenessScore | What Transfers | Frame Displaced | Vertigo |
-|---------------|------------------|----------------|-----------------|---------|
-| **One-way mirror** | 0.8 (optical→social) | Asymmetric visibility | Perception as mutual | 0.9 |
-| **Database** | 0.7 (technical→personal) | Identity in external systems | Self as self-owned | 0.8 |
-| **Haunting** | 0.9 (supernatural→social) | Knowledge from the unknown | Knowledge as earned | 0.9 |
-| **Dream** | 0.9 (psychological→social) | Inner stranger who knows | Privacy of mind | 0.9 |

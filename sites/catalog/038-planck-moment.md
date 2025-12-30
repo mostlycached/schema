@@ -1,144 +1,125 @@
 # The Planck Moment
 
-## The Site
+**Practice**: Mathematics
 
-10^-43 seconds. Below this, time itself loses meaning. Not just unmeasurable but perhaps nonexistent. The smallest possible unit of duration. A grain of time that cannot be divided further. The pixel of temporal reality.
+---
 
-**Dimensions**:
+## State Space
+
+You are at the **minimum of temporal scale** — a position where further descent is blocked.
+
+| Dimension | Value | Constraint |
+|-----------|-------|------------|
+| Scale | 10⁻⁴³ seconds | Cannot decrease |
+| Certainty | Conjectured | Cannot prove |
+| Accessibility | Theoretical | Cannot experience |
+
+**Tension**: High conceptual vertigo, low urgency. You can dwell here indefinitely.
+
+---
+
+## Action Set
+
+Your available moves and what they cost/yield:
+
+| Move | Verb | Effect | Risk |
+|------|------|--------|------|
+| **Generalize** | *remove restriction* | Opens to all Planck units, all scales | Loses specificity |
+| **Conjecture** | *pose open problem* | Creates new inquiry without commitment | May never resolve |
+| **Branch** | *consider cases* | Explores parallel possibilities (LQG, strings, emergence) | Multiplies uncertainty |
+| **Defer** | *leave as exercise* | Preserves position, awaits new information | Stalls progress |
+
+**Blocked moves**:
+- *Specialize* — no structure below to constrain on
+- *Assert* — insufficient proof to commit
+- *Complete* — no resolution available
+
+---
+
+## Payoff Matrix
+
+If you take action X, what happens:
+
+| Action | Immediate Payoff | Long-term Consequence |
+|--------|------------------|----------------------|
+| **Generalize → all units** | +depth, +coherence | See Planck as one case in natural unit system |
+| **Generalize → all scales** | +vertigo, +sublime | Human time becomes 10⁴³ multiples of this |
+| **Conjecture "discrete time?"** | +novelty, +openness | Opens deep physics inquiry, no closure |
+| **Conjecture "below Planck?"** | +max vertigo | May dissolve the floor you're standing on |
+| **Branch theories** | +breadth | Commits to none, explores many |
+| **Defer** | +stability | Wait for physics to change the game |
+
+---
+
+## Global Operations
+
+What happens if you invoke system-level moves:
+
+| Operation | Consequence |
+|-----------|-------------|
+| **GENERATE** | Produces sibling sites: Planck length, Planck mass, Planck temperature |
+| **TRANSFER** | Maps to: pixel (discrete image), prime (indivisible number), atom (discrete matter) |
+| **DISSOLVE** | Unknown — requires physics beyond current axioms; may not be possible |
+| **EMERGE** | A unified theory, a smaller unit, or the realization it was a mirage |
+
+---
+
+## Strategy Space
+
+Possible trajectories from this position:
+
+### Path A: Generalization (breadth-first)
 ```
-ontological: limit (fundamental)
-scale: sub-sub-momentary (the minimum quantum of time)
-temporal: instantaneous (below which 'instant' breaks down)
-perceptual: absent (utterly beyond experience)
-relational: non-human (physics, not psychology)
-agential: none (no observer possible at this scale)
-structural: simple (indivisible) + paradoxical (is it still time?)
+Planck time → Planck units → Natural constants → Fundamental physics
+```
+**Payoff**: High coherence, moderate vertigo. You see the system.
+
+### Path B: Depth-first conjecture
+```
+Planck time → "Is there below?" → Quantum gravity → Unknown territory
+```
+**Payoff**: Maximum vertigo, high risk. May dissolve current understanding.
+
+### Path C: Lateral transfer
+```
+Planck time → ×pixel → Discrete vs continuous → Information theory
+```
+**Payoff**: Novel connections, moderate vertigo. Cross-domain insight.
+
+### Path D: Hold position
+```
+Planck time → (dwell) → (dwell) → Await new physics
+```
+**Payoff**: Stability, low progress. Contemplative.
+
+---
+
+## Decision Tree
+
+```
+                    [Planck Time]
+                         │
+         ┌───────────────┼───────────────┐
+         ▼               ▼               ▼
+    [Generalize]    [Conjecture]    [Transfer]
+         │               │               │
+    ┌────┴────┐     ┌────┴────┐     ┌────┴────┐
+    ▼         ▼     ▼         ▼     ▼         ▼
+  units    scales  below?  discrete? pixel   prime
+    │         │     │         │       │       │
+    ▼         ▼     ▼         ▼       ▼       ▼
+ system    cosmic  ???      open   image    number
+            awe            problem theory  theory
 ```
 
 ---
 
-## Gesture Profile
+## Position Summary
 
 ```
-available: [WIDEN, SUSPEND, SPECULATE]
-blocked:   [NARROW, COMMIT, RESOLVE] — can't go smaller
-dominant:  SUSPEND — contemplate the unthinkable small
-latent:    [WIDEN] — from here, all duration expands
-
-EXTREME DIMENSION: Minimum temporal scale. The floor of duration itself.
+Where you are:   Floor of temporal scale
+What you hold:   A conjectured minimum, not a proven one
+What blocks you: Cannot go smaller, cannot prove
+Best moves:      Generalize (see system) or Conjecture (open inquiry)
+Dominant affect: Sublime contemplation
 ```
-
----
-
-## Gesture Transitions
-
-| Gesture | → Target Site | mode | affect | values | frame displaced |
-|---------|---------------|------|--------|--------|-----------------|
-| **SUSPEND: at the limit** | "Dwelling at time's floor" | null | sublime | vertigo: 0.95, depth: 0.95 | — |
-| **WIDEN: to human time** | "From Planck to heartbeat" | expansion | sublime | vertigo: 0.9, depth: 0.9 | Human scale as ground |
-| **WIDEN: to cosmic time** | "From Planck to universe age" | expansion | sublime | vertigo: 0.95, depth: 0.95 | Any scale as natural |
-| **WIDEN: all Planck units** | "Length, mass, energy too" | expansion | sublime | vertigo: 0.9, depth: 0.9 | Time as separate |
-| **SPECULATE: below** | "What if there's something smaller?" | expansion | vertiginous | vertigo: 0.98, novelty: 0.95 | Planck as fundamental |
-| **SPECULATE: discrete** | "Is time made of these?" | expansion | vertiginous | vertigo: 0.9, novelty: 0.9 | Time as continuous |
-| **×pixel** | "The pixel of time" | expansion | uncanny | vertigo: 0.8, novelty: 0.8 | Time as smooth |
-| **×Big Bang** | "When time was new" | expansion | sublime | vertigo: 0.95, depth: 0.95 | Time as eternal |
-| **×quantum foam** | "Spacetime at this scale" | expansion | sublime | vertigo: 0.95, depth: 0.95 | Reality as solid |
-| **×Zeno** | "Infinite divisibility stops" | expansion | vertiginous | vertigo: 0.85, depth: 0.9 | Time as infinitely divisible |
-
----
-
-## Global Gestures
-
-| GlobalGesture | Operation | mode | affect | outcome |
-|---------------|-----------|------|--------|---------|
-| **GENERATE** | → "Planck length", "Planck mass", "quantum of action", "minimum observation" | varies | sublime | productive |
-| **SPECULATE** | What if time were infinitely divisible? What if Planck time is emergent, not fundamental? | expansion | vertiginous | reveals floor as contingent |
-| **TRANSFER** | To pixel (discrete image), atom (discrete matter), quantum (discrete energy), note (discrete sound) | varies | sublime | moderate vertigo |
-| **DISSOLVE** | Unknown — would require physics beyond current knowledge | — | — | unknown |
-| **EMERGE** | From quantum gravity, from mathematical physics, from cosmology | varies | sublime | theoretical |
-
----
-
-## Flux Relation
-
-```
-flux_state: structured (if fundamental) or flux (if emergent)
-dissolution_resistance: unknown — at the edge of physical knowledge
-hover_potential: high — can contemplate indefinitely
-emergence_pattern: theoretical (mathematical discovery)
-flux_pockets: whether time exists at this scale is genuinely uncertain
-```
-
-This site exists at the boundary of knowledge. It may be fundamental structure (time's true floor) or may dissolve under deeper physics. The flux is in our knowledge of it.
-
----
-
-## Move Notation
-
-```
-0. ROOT       "Duration"
-1. N+short    [NARROW: short duration]            → "Brief moments"
-2. N+shorter  [NARROW: shorter]                   → "Milliseconds, microseconds..."
-3. N→limit    [NARROW: to limit]                  → "Where division stops"
-4. ×pixel     [TRANSFER: discreteness]            → "Planck time"
-```
-
-**Current Position**: The floor of temporal reality; below which 'duration' may not apply.
-
----
-
-## Branch Tree
-
-```
-"Duration"
-│
-├─[N: human scale]────→ "Seconds, minutes, hours" (normal)
-│
-├─[N: short]──────────→ "Fractions of a second"
-│   │
-│   └─[N: shorter]────→ "Milliseconds, nanoseconds..."
-│       │
-│       └─[N: fundamental]→ "Planck time" ← YOU ARE HERE
-│           │
-│           ├─[WIDEN: to human]───→ "10^43 Planck times = 1 second"
-│           │
-│           ├─[WIDEN: to cosmic]──→ "10^60 Planck times = universe age"
-│           │
-│           ├─[SPECULATE: below]──→ "Is there something smaller?"
-│           │   └─[×quantum gravity]→ "Unknown physics"
-│           │
-│           └─[SUSPEND]───────────→ "Dwell at the limit"
-│
-└─[N: long]───────────→ "Years, eons..."
-    └─[N: longest]────→ "Heat death" (Site 039)
-```
-
----
-
-## State Dynamics
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ STATE: "At time's minimum"                                       │
-│                                                                 │
-│ Tension: LOW (contemplative, not urgent)                         │
-│ Constraints: [human cognition can't grasp, physics uncertain]    │
-│                                                                 │
-│ Triggers:                                                       │
-│   - New physics: changes understanding of the floor             │
-│   - Analogy: pixel, quantum help grasp it                       │
-│   - WIDEN: any larger scale seems infinite from here            │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Extremity Analysis
-
-| Dimension | Extremity | Why |
-|-----------|-----------|-----|
-| **Scale** | Minimum | Smallest meaningful duration |
-| **Accessibility** | Zero | Utterly beyond experience |
-| **Certainty** | Uncertain | Physics doesn't fully confirm |
-| **Frame displacement** | High | "Time" may not apply here |
-| **Relation to human** | Maximum distance | 10^43 times smaller than perception |

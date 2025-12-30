@@ -1,152 +1,148 @@
 # The Phase Transition
 
-## The Site
+**Practice**: Mathematics
 
-Water at exactly 0°C. Ice becoming water becoming ice. The critical point where structure dissolves into flux or flux crystallizes into structure. Not stable as either state — hovering at the threshold. A tiny push in either direction and it transforms completely. The moment between states, belonging to neither.
+---
 
-**Dimensions**:
+## State Space
+
+You are at **the flux-structure boundary** — where order emerges or dissolves.
+
+| Dimension | Value | Constraint |
+|-----------|-------|------------|
+| Stability | Zero | System at critical point |
+| Sensitivity | Maximum | Small perturbations → large effects |
+| Position | Boundary | Neither flux nor structure |
+
+**Tension**: Maximum (system at critical point).
+
+---
+
+## Action Set
+
+In **Mathematics** practice, your moves are thermodynamic operations:
+
+| Move | Verb | Effect | Risk |
+|------|------|--------|------|
+| **Hold** | *suspend* | Stay at critical point | Unstable; can't hold forever |
+| **Crystallize** | *branch* | Tip toward order | Commits to structure |
+| **Dissolve** | *branch* | Tip toward disorder | Commits to flux |
+| **Generalize** | *widen* | All phase transitions | Goes abstract |
+
+**Blocked moves**:
+- *Resolve* — resolution destroys the transition
+
+---
+
+## Payoff Matrix
+
+| Action | Immediate Payoff | Long-term Consequence |
+|--------|------------------|----------------------|
+| **Suspend → threshold** | +critical point | Holding at the boundary (unstable) |
+| **Branch → order** | +crystallization | Solidify, organize |
+| **Branch → disorder** | +dissolution | Melt, dissolve |
+| **Narrow → this transition** | +specificity | This particular phase change |
+| **Narrow → critical point** | +maximum vertigo | Exactly at the boundary |
+| **Widen → all transitions** | +scope | Every boundary between states |
+| **Speculate → "what is it?"** | +paradox | What exists AT the transition? |
+| **Transfer → ×bifurcation** | +frame | System splitting into possibilities |
+| **Transfer → ×emergence** | +frame | New properties appearing |
+| **Transfer → ×symmetry breaking** | +frame | One state chosen from many |
+
+---
+
+## Global Operations
+
+| Operation | Mathematical Consequence |
+|-----------|-------------------------|
+| **GENERATE** | Produces: "revolution", "paradigm shift", "breakdown", "awakening", "death", "birth" |
+| **TRANSFER** | Maps to: revolution (social), awakening (consciousness), death (life), paradigm (conceptual) |
+| **DISSOLVE** | **IS dissolution** — the transition is the dissolving |
+| **EMERGE** | **IS emergence** — the transition is the emerging |
+
+---
+
+## Strategy Space
+
+### Path A: Hold (unstable)
 ```
-ontological: process (transformation)
-scale: momentary (the transition itself) + any scale (applies to many systems)
-temporal: instant (the threshold crossing) + extended (critical slowing)
-perceptual: direct (you see ice melting) + theoretical (phase space)
-relational: system (requires the system transitioning)
-agential: varies (natural or induced)
-structural: boundary-only (between two structures)
+Critical point → suspend → fluctuations → eventually tips
+```
+**Payoff**: Maximum sensitivity; can't stay indefinitely.
+
+### Path B: Crystallize
+```
+Critical point → toward order → structure emerges
+```
+**Payoff**: Stability; flux becomes structure.
+
+### Path C: Dissolve
+```
+Critical point → toward disorder → structure breaks down
+```
+**Payoff**: Freedom; structure becomes flux.
+
+### Path D: Abstract
+```
+Critical point → all phase transitions → universal pattern
+```
+**Payoff**: This transition as instance of transformation.
+
+---
+
+## Decision Tree
+
+```
+              [System at Critical Point]
+                        │
+             ┌──────────┴──────────┐
+             │    WATER AT 0°C     │
+             │    MAXIMUM UNSTABLE │
+             │    SMALL → LARGE    │
+             └──────────┬──────────┘
+                        │
+          ┌─────────────┼─────────────┐
+          ▼             ▼             ▼
+      [Branch]      [Suspend]      [Widen]
+          │             │             │
+     ┌────┴────┐        ▼             ▼
+     ▼         ▼    critical      all phase
+  crystallize dissolve point      transitions
+     ↓         ↓        ↓             ↓
+   order    disorder unstable    universal
+   (ice)    (water)  (hold)      pattern
+```
+
+**Thermodynamic structure**:
+```
+         ORDER (structure) ────────────── DISORDER (flux)
+              │                                 │
+          (solid)                           (liquid)
+              │                                 │
+              │     ════════════════════        │
+              │     ║ PHASE TRANSITION ║        │
+              │     ║ (you are here)   ║        │
+              │     ║ belongs to       ║        │
+              │     ║ neither          ║        │
+              │     ════════════════════        │
+              │                                 │
+              └─────── 0°C / THRESHOLD ─────────┘
 ```
 
 ---
 
-## Gesture Profile
+## Position Summary
 
 ```
-available: [SUSPEND, BRANCH, NARROW, WIDEN]
-blocked:   [RESOLVE] — resolution destroys the transition
-dominant:  SUSPEND — hold at the critical point
-latent:    [BRANCH] — which direction will it go?
-
-EXTREME DIMENSION: The flux-structure boundary itself. Where order emerges from or dissolves into disorder.
-```
-
----
-
-## Gesture Transitions
-
-| Gesture | → Target Site | mode | affect | values | frame displaced |
-|---------|---------------|------|--------|--------|-----------------|
-| **SUSPEND: at threshold** | "Holding at the critical point" | null | vertiginous | vertigo: 0.85, stability: 0.3 | — |
-| **BRANCH: toward order** | "Crystallize, solidify, organize" | collapse | quotidian | vertigo: 0.5, stability: 0.7 | — |
-| **BRANCH: toward disorder** | "Melt, dissolve, disorganize" | expansion | quotidian | vertigo: 0.5, stability: 0.3 | — |
-| **NARROW: this transition** | "This specific phase change" | collapse | quotidian | vertigo: 0.4, depth: 0.5 | — |
-| **NARROW: the critical point** | "Exactly at the boundary" | collapse | vertiginous | vertigo: 0.9, depth: 0.9 | Boundaries as sharp |
-| **WIDEN: all phase transitions** | "Every boundary between states" | expansion | sublime | vertigo: 0.85, depth: 0.9 | This transition as unique |
-| **WIDEN: emergent properties** | "Properties that exist only at transition" | expansion | vertiginous | vertigo: 0.9, depth: 0.95 | Properties as state-dependent |
-| **SPECULATE: critical point** | "What is it AT the transition?" | expansion | vertiginous | vertigo: 0.9, novelty: 0.85 | States as discrete |
-| **×bifurcation** | "System splitting into possibilities" | expansion | vertiginous | vertigo: 0.85, novelty: 0.85 | Linear change |
-| **×emergence** | "New properties appearing" | expansion | sublime | vertigo: 0.9, depth: 0.95 | Reduction as complete |
-| **×symmetry breaking** | "One state chosen from many" | expansion | vertiginous | vertigo: 0.9, novelty: 0.9 | Symmetry as stable |
-| **×criticality** | "Self-organized criticality" | expansion | sublime | vertigo: 0.9, depth: 0.95 | Systems avoiding edges |
-
----
-
-## Global Gestures
-
-| GlobalGesture | Operation | mode | affect | outcome |
-|---------------|-----------|------|--------|---------|
-| **GENERATE** | → "Revolution", "paradigm shift", "breakdown", "awakening", "death", "birth" | varies | vertiginous | highly productive |
-| **SPECULATE** | What if all change were phase transition? What if some transitions have no stable endpoint? | expansion | vertiginous | reveals change as structured |
-| **TRANSFER** | To revolution (social transition), awakening (consciousness transition), death (life transition), paradigm (conceptual transition) | varies | vertiginous | maximum generativity |
-| **DISSOLVE** | IS dissolution — the transition is the dissolving | collapse | varies | the process itself |
-| **EMERGE** | IS emergence — the transition is the emerging | expansion | varies | the process itself |
-
----
-
-## Flux Relation
-
-```
-flux_state: THE flux-structure boundary
-dissolution_resistance: zero — the point of transformation
-hover_potential: possible (critical slowing) but unstable
-emergence_pattern: spontaneous when conditions met
-flux_pockets: THE SITE IS WHERE FLUX BECOMES STRUCTURE OR VICE VERSA
-```
-
-This is perhaps the most important site for the flux/structure ontology. The phase transition IS the boundary. It's where flux crystallizes into structure (ordering) or structure dissolves into flux (disordering). All emergence and dissolution pass through here.
-
----
-
-## Move Notation
-
-```
-0. ROOT       "System"
-1. N+state    [NARROW: system in state]           → "Stable state"
-2. N+boundary [NARROW: at boundary]               → "Near transition"
-3. ×critical  [TRANSFER: criticality]             → "At critical point"
-4. S          [SUSPEND: hold here]                → "The phase transition"
-```
-
-**Current Position**: The threshold between states — where structure and flux meet.
-
----
-
-## Branch Tree
-
-```
-"System"
-│
-├─[N: stable state A]─────→ "Ordered state" (ice, solid, structure)
-│
-├─[N: stable state B]─────→ "Disordered state" (water, liquid, flux)
-│
-└─[N: transition]─────────→ "Between states" ← YOU ARE HERE
-    │
-    ├─[BRANCH: toward A]──────→ "Crystallize"
-    │   └─[×freeze]───────────→ "Order emerges"
-    │
-    ├─[BRANCH: toward B]──────→ "Dissolve"
-    │   └─[×melt]─────────────→ "Structure breaks down"
-    │
-    ├─[SUSPEND: hold]─────────→ "Critical point"
-    │   ├─[×critical slowing]─→ "Time dilates near transition"
-    │   └─[×fluctuations]─────→ "Wild oscillations"
-    │
-    ├─[NARROW: the point]─────→ "Exactly at transition"
-    │   └─[×singularity]──────→ "Infinite susceptibility"
-    │
-    └─[WIDEN: all transitions]→ "Every phase boundary"
-        ├─[×physical]─────────→ "Solid/liquid/gas"
-        ├─[×social]───────────→ "Revolution, reform"
-        ├─[×psychological]────→ "Breakdown, breakthrough"
-        └─[×cosmological]─────→ "Symmetry breaking"
+Where you are:   At the flux-structure boundary itself
+What you hold:   Maximum instability + maximum sensitivity
+What blocks you: Can't stay here indefinitely; any perturbation tips
+Best moves:      Branch (choose direction) or Suspend (dwell briefly)
+Dominant affect: Vertiginous — the transformation point
 ```
 
 ---
 
-## State Dynamics
+## Ontological Note
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ STATE: "At the phase transition"                                 │
-│                                                                 │
-│ Tension: MAXIMUM (system at critical point)                      │
-│ Constraints: [unstable, small perturbations → large effects]     │
-│                                                                 │
-│ Triggers:                                                       │
-│   - Any perturbation: tips toward one state or other            │
-│   - Time: critical slowing (near transition, time stretches)    │
-│   - Fluctuations: wild swings before settling                   │
-│   - Hysteresis: path-dependence (how you got here matters)      │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Extremity Analysis
-
-| Dimension | Extremity | Why |
-|-----------|-----------|-----|
-| **Flux-structure position** | Boundary | Neither fully flux nor structure |
-| **Sensitivity** | Maximum | Small changes → large effects |
-| **Instability** | Maximum | Cannot stay here indefinitely |
-| **Generativity** | Maximum | Where new states emerge |
-| **Ontological significance** | Maximum | The transformation point |
+This is the most important site for flux/structure ontology. The phase transition IS the boundary. All emergence and dissolution pass through here.

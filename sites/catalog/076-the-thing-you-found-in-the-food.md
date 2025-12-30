@@ -1,151 +1,126 @@
 # The Thing You Found in the Food
 
-## The Site
+**Practice**: Contemplation
 
-You're eating. And then you see it. Hair. Insect. Mold. A fingernail. Something that should not be there. The food — which was inside you, which you were taking into yourself — is contaminated. The boundary between you and not-you has been violated. You have already swallowed some. The thing was inside you before you knew.
+---
 
-**Dimensions**:
+## State Space
+
+You are at **the breached boundary** — outside has entered inside.
+
+| Dimension | Value | Constraint |
+|-----------|-------|------------|
+| Ontological | Intrusion | Contamination |
+| Status | Irreversible | Already swallowed some |
+| Safety | Ruptured | Food unsafe |
+| Affect | Nausea | Rejection response |
+
+**Tension**: Immediate (gag reflex) + Lingering (distrust).
+
+---
+
+## Action Set
+
+In **Contemplation** practice, your moves are visceral operations:
+
+| Move | Verb | Effect | Risk |
+|------|------|--------|------|
+| **Inspect** | *witness* | Identify the thing | Increased nausea |
+| **Reject** | *branch* | Spit it out | Social scene |
+| **Recall** | *narrow* | "What did I eat?" | Horror |
+| **Generalize** | *widen* | "All food is dirty" | Paranoia |
+
+**Blocked moves**:
+- *Un-eat* — impossible
+- *Ignore* — once seen, cannot be unseen
+
+---
+
+## Payoff Matrix
+
+| Action | Immediate Payoff | Long-term Consequence |
+|--------|------------------|----------------------|
+| **Witness → hair** | +identification | Human contamination |
+| **Witness → insect** | +revulsion | Biological contamination |
+| **Witness → mold** | +disgust | Decay contamination |
+| **Narrow → past** | +horror | Imagining what is inside you |
+| **Reject → spit** | +relief | Getting it out |
+| **Widen → industry** | +cynicism | Knowing food systems |
+| **Transfer → ×porous** | +frame | You are open to the world |
+
+---
+
+## Global Operations
+
+| Operation | Contemplative Consequence |
+|-----------|--------------------------|
+| **GENERATE** | Produces: "appetite loss", "food safety laws", "trust issues", "paranoid eating" |
+| **TRANSFER** | Maps to: purity (cultural), borders (political), infection (medical) |
+| **DISSOLVE** | When hunger returns (biology wins) |
+| **EMERGE** | Loss of appetite, a lawsuit, or a refunded meal |
+
+---
+
+## Strategy Space
+
+### Path A: The Ejection
 ```
-ontological: interference (contamination, intrusion)
-scale: momentary (the discovery) + extended (the disgust lingers)
-temporal: instant (the moment of seeing)
-perceptual: direct (you see it, you feel it)
-relational: object-relation (you and the contaminated food)
-agential: victim (you didn't choose this)
-structural: boundary-violation (inside/outside breached)
+See thing -> Spit -> Stop eating -> Wash mouth
+```
+**Payoff**: Physical removal; lingering disgust.
 
-// Sanitization-resistant dimensions
-cleanliness: filthy (contamination is the essence)
-dignity: diminished (you ate some of that)
-redemption: unredeemable (you can't un-eat it)
-meaning: meaning-absent (it's just contamination)
-aesthetic: abject (Kristeva's territory)
+### Path B: The Investigation
+```
+See thing -> Examine -> Identify source -> Blame
+```
+**Payoff**: Cognitive resolution; appetite still ruined.
+
+### Path C: The Paranoid
+```
+See thing -> "What else?" -> Check everything -> Stop eating
+```
+**Payoff**: Safety; starvation/anxiety.
+
+---
+
+## Decision Tree
+
+```
+              [The Contamination]
+                      │
+           ┌──────────┴──────────┐
+           │    FOREIGN OBJECT   │
+           │    IN YOUR FOOD     │
+           │    ALREADY EATEN    │
+           └──────────┬──────────┘
+                      │
+       ┌──────────────┼──────────────┐
+       ▼              ▼              ▼
+   [Inspect]       [Narrow]       [Reject]
+       │              │              │
+       ▼              ▼              ▼
+    what is        what is         spit
+      it?         inside me?       out
+       ↓              ↓              ↓
+    revulsion       horror         relief
+```
+
+**Boundary Map**:
+```
+      WORLD ──→ FOOD ──→ MOUTH ──→ GUT
+                          │
+                   (YOU ARE HERE)
+                   (INTRUSION)
 ```
 
 ---
 
-## Gesture Profile
+## Position Summary
 
 ```
-available: [NARROW, SUSPEND, BRANCH]
-blocked:   [RESOLVE] — you already ate some
-dominant:  NARROW — what is it? where did it come from?
-latent:    [WIDEN] — contamination is everywhere
-
-EXTREME DIMENSION: Contamination. The inside/outside boundary breached.
+Where you are:   With foreign matter inside your boundary
+What you hold:   The contaminated bite + the knowledge
+What blocks you: Cannot un-swallow
+Best moves:      Reject (spit) or Narrow (assess damage)
+Dominant affect: Nausea — the body rejecting the abject
 ```
-
----
-
-## The Phenomenology
-
-### The Discovery
-```
-- Seeing (the wrongness in the food)
-- Recognition (what is that?)
-- Horror (it was in my mouth)
-- Revulsion (the gag reflex, real or suppressed)
-- The past (I already swallowed some)
-```
-
-### The Object
-```
-- Hair (human? animal? whose?)
-- Insect (whole? parts? legs in the sauce?)
-- Mold (how long has this been there?)
-- Fingernail (whose? how?)
-- Unknown (something, wrong, can't identify)
-```
-
-### The Aftermath
-```
-- Can't finish (the meal is ruined)
-- Questioning all previous bites (was there more?)
-- Phantom sensations (is there something in my teeth?)
-- Appetite loss (extends to future meals)
-- The memory (will return unbidden)
-```
-
----
-
-## Gesture Transitions
-
-| Gesture | → Target Site | mode | affect | values |
-|---------|---------------|------|--------|--------|
-| **NARROW: to object** | "What is it exactly?" | collapse | abject | disgust: 0.95, depth: 0.6 |
-| **NARROW: to past bites** | "What did I already eat?" | collapse | abject | disgust: 0.9, degradation: 0.7 |
-| **SUSPEND: with nausea** | "Sitting with the contamination" | null | grotesque | disgust: 0.8 |
-| **BRANCH: spit or swallow?** | "What's in my mouth now?" | expansion | abject | disgust: 0.9 |
-| **WIDEN: all food** | "Any food could contain this" | expansion | abject | vertigo: 0.7, disgust: 0.6 |
-
----
-
-## Why This Site Is Avoided
-
-| Avoidance Pattern | How It Manifests |
-|-------------------|------------------|
-| **Food safety narrative** | "Our food is clean" — but it's not |
-| **Disgust suppression** | Don't think about what's in food |
-| **Appetite protection** | Can't function if constantly worried |
-| **Industry trust** | Restaurants, factories, supply chains are "safe" |
-| **Contamination denial** | It won't happen to me |
-
----
-
-## Kristeva's Abject (Food Category)
-
-Food contamination is abject because:
-1. **Boundary violation** — outside got inside
-2. **Incorporation failure** — you can't integrate this
-3. **Body boundary threatened** — what is me, what is not-me?
-4. **Nausea as response** — the body rejects
-5. **Can't be undone** — you already ate some
-
----
-
-## What's Revealed
-
-When you find the thing:
-
-1. **Food is always potentially contaminated** — you just don't see it
-2. **Eating is incorporation** — taking outside inside
-3. **Disgust protects** — the response is functional
-4. **The boundary is porous** — you are what you eat, literally
-5. **Control is illusion** — you can't monitor everything that enters you
-
----
-
-## The Unredeemed
-
-This site cannot be redeemed:
-- You already ate some
-- You can't un-eat it
-- The contamination happened
-- Your body processed what it processed
-- The memory will persist
-
----
-
-## Flux Relation
-
-```
-flux_state: ruptured (the clean food assumption broke)
-dissolution_resistance: low — appetite returns, you forget
-hover_potential: medium — disgust fades but returns in memory
-emergence_pattern: random (contamination is accidental)
-flux_pockets: the moment of seeing — the object in the food
-```
-
----
-
-## Move Notation
-
-```
-0. ROOT       "Eating"
-1. N+food     [NARROW: this food]                 → "This meal"
-2. N+wrong    [NARROW: something wrong]           → "What is that?"
-3. DISCOVER   [contamination]                     → "The thing"
-4. S          [SUSPEND: in disgust]               → "You are here"
-```
-
-**Current Position**: Looking at the thing in the food. Already having eaten some. The gag reflex suppressed or not.

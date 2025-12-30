@@ -1,147 +1,155 @@
 # The Thing That Exists Only While Unobserved
 
-## The Site
+**Practice**: Mathematics
 
-Quantum mechanics suggests particles exist in superposition until measured. But beyond physics: the fridge light that might be off when the door is closed. Schrödinger's cat. The tree falling with no one to hear. The face you make when you don't know you're being watched. Things that may only exist — or may only be one way — when no one is looking.
+---
 
-**Dimensions**:
+## State Space
+
+You are at **pure flux** — all possibilities until observation collapses them.
+
+| Dimension | Value | Constraint |
+|-----------|-------|------------|
+| Knowability | BLOCKED | Observation destroys original state |
+| Observation dependence | Maximum | Observation constitutes reality |
+| Flux | Pure | All possibilities coexist |
+
+**Tension**: High (epistemic/ontological paradox).
+
+---
+
+## Action Set
+
+In **Mathematics** practice, your moves are limited by measurement collapse:
+
+| Move | Verb | Effect | Risk |
+|------|------|--------|------|
+| **Dwell** | *suspend* | Remain in unknowing | Principled ignorance |
+| **Generalize** | *widen* | All observer-effects | Goes cosmic |
+| **Imagine** | *speculate* | What is the unobserved state? | Unverifiable |
+| **Collapse** | *observe* | Look and see | Destroys original state |
+
+**Blocked moves**:
+- *Focus* — observation destroys
+- *Engage* — measuring kills superposition
+- *Complete* — can't know without changing
+
+---
+
+## Payoff Matrix
+
+| Action | Immediate Payoff | Long-term Consequence |
+|--------|------------------|----------------------|
+| **Suspend → unknowing** | +preservation | Dwell in principled ignorance |
+| **Widen → all observer-effects** | +scope | Everything changed by looking |
+| **Widen → all superpositions** | +cosmic | Everything not yet collapsed |
+| **Speculate → what is it?** | +imagination | Imagine the unobserved |
+| **Speculate → realism** | +philosophy | Is it definite anyway? |
+| **Observe → look** | +knowledge | But destroys original state |
+| **Transfer → ×Schrödinger** | +frame | The cat in the box |
+| **Transfer → ×superposition** | +physics | All states at once |
+| **Transfer → ×privacy** | +frame | Who are you when unwatched? |
+| **Transfer → ×unwitnessed** | +frame | Tree falling with no one to hear |
+
+---
+
+## Global Operations
+
+| Operation | Mathematical Consequence |
+|-----------|-------------------------|
+| **GENERATE** | Produces: "quantum state", "private self", "unwatched universe", "history without record" |
+| **TRANSFER** | Maps to: Schrödinger (superposition), privacy (unobserved self), collapse (measurement), unwitnessed (events) |
+| **DISSOLVE** | When observed — unobserved state collapses |
+| **EMERGE** | A measured value, a dead cat, or a "reset" system |
+
+---
+
+## Strategy Space
+
+### Path A: Principled ignorance
 ```
-ontological: paradoxical (observation-dependent existence)
-scale: momentary (collapses when observed)
-temporal: conditional (exists only while unobserved)
-perceptual: absent (by definition cannot be perceived)
-relational: anti-relational (relation destroys it)
-agential: quantum (or imaginative)
-structural: paradoxical (can't confirm without destroying)
+Unobserved → don't look → preserve unknowing → dwell with mystery
+```
+**Payoff**: The state remains uncollapsed.
+
+### Path B: Realism bet
+```
+Unobserved → bet it's definite anyway → hidden variables
+```
+**Payoff**: Philosophical comfort; may be wrong.
+
+### Path C: Idealism bet
+```
+Unobserved → observation creates reality → Copenhagen
+```
+**Payoff**: Accept measurement as constitutive.
+
+### Path D: Collapse (destroys)
+```
+Unobserved → look → state collapses → know but destroyed original
+```
+**Payoff**: Knowledge at cost of original state.
+
+---
+
+## Decision Tree
+
+```
+              [Unobserved Thing]
+                     │
+          ┌──────────┴──────────┐
+          │    ALL STATES AT    │
+          │    ONCE (MAYBE)     │
+          │    OBSERVATION =    │
+          │    COLLAPSE         │
+          └──────────┬──────────┘
+                     │
+       ┌─────────────┼─────────────┐
+       ▼             ▼             ▼
+   [Suspend]     [Speculate]    [Observe]
+       │             │             │
+       ▼        ┌────┴────┐        ▼
+  principled    ▼         ▼    COLLAPSE
+  ignorance  realism?  imagine    │
+       │        ↓         ↓       ▼
+       ▼     hidden   all states  know but
+   preserve  variables at once   destroyed
+  unknowing                      original
+```
+
+**Quantum structure**:
+```
+         UNOBSERVED ────────────────→ OBSERVED
+              │                          │
+         (all states)                (one state)
+              │                          │
+              │     ═══════════════      │
+              │     ║ COLLAPSE    ║      │
+              │     ║ (measurement)║     │
+              │     ═══════════════      │
+              │                          │
+              └──── OBSERVATION ─────────┘
+                   (constitutive?)
 ```
 
 ---
 
-## Gesture Profile
+## Position Summary
 
 ```
-available: [SUSPEND, WIDEN, SPECULATE]
-blocked:   [NARROW, COMMIT, RESOLVE] — observation destroys the state
-dominant:  SUSPEND — dwell with the unobservable
-latent:    [SPECULATE] — imagine what you can't see
-
-EXTREME DIMENSION: Epistemic/ontological paradox. Knowing destroys what's known.
-```
-
----
-
-## Gesture Transitions
-
-| Gesture | → Target Site | mode | affect | values | frame displaced |
-|---------|---------------|------|--------|--------|-----------------|
-| **SUSPEND: with unknowing** | "Dwelling in principled ignorance" | null | uncanny | vertigo: 0.85, depth: 0.85 | — |
-| **WIDEN: all observer-effects** | "Everything changed by looking" | expansion | sublime | vertigo: 0.9, depth: 0.9 | Observation as passive |
-| **WIDEN: all superpositions** | "Everything not yet collapsed" | expansion | vertiginous | vertigo: 0.95, depth: 0.95 | Reality as definite |
-| **SPECULATE: what is it?** | "Imagine the unobserved state" | expansion | vertiginous | vertigo: 0.8, novelty: 0.85 | — |
-| **SPECULATE: look anyway** | "Collapse it to know" | collapse | uncanny | vertigo: 0.7, novelty: 0.7 | — (destroys the state) |
-| **SPECULATE: realism** | "It IS something even unobserved?" | expansion | vertiginous | vertigo: 0.9, novelty: 0.85 | — |
-| **NARROW: look** | "Observe it" | collapse | quotidian | vertigo: 0.5, novelty: 0.6 | — (destroys original state) |
-| **×Schrödinger** | "The cat in the box" | expansion | vertiginous | vertigo: 0.9, novelty: 0.9 | Life/death as binary |
-| **×superposition** | "All states at once" | expansion | sublime | vertigo: 0.95, depth: 0.95 | States as exclusive |
-| **×fridge light** | "Is it off when the door is closed?" | expansion | uncanny | vertigo: 0.7, novelty: 0.8 | — |
-| **×privacy** | "Who are you when no one watches?" | expansion | uncanny | vertigo: 0.8, depth: 0.9 | Self as consistent |
-| **×unwitnessed** | "The tree falling with no one to hear" | expansion | sublime | vertigo: 0.85, depth: 0.9 | Sound without hearer |
-
----
-
-## Global Gestures
-
-| GlobalGesture | Operation | mode | affect | outcome |
-|---------------|-----------|------|--------|---------|
-| **GENERATE** | → "Quantum state", "private self", "the unwatched universe", "history without record" | varies | sublime | productive |
-| **SPECULATE** | What if observation creates reality? What if things are fully real without observers? | expansion | vertiginous | reveals observation as constitutive |
-| **TRANSFER** | To Schrödinger (superposition of life/death), privacy (unobserved self), collapse (measurement), unwitnessed (events without observers) | varies | vertiginous | maximum paradox |
-| **DISSOLVE** | When observed — the unobserved state collapses | collapse | uncanny | observation-triggered |
-| **EMERGE** | Between observations — state returns to superposition? | varies | vertiginous | uncertain |
-
----
-
-## Flux Relation
-
-```
-flux_state: pure flux (all possibilities until observation)
-dissolution_resistance: zero — observation collapses to structure
-hover_potential: high in principle (if unobserved)
-emergence_pattern: measurement collapses flux to structure
-flux_pockets: the unobserved state IS pure flux
-```
-
-This is the flux site par excellence. The unobserved state is maximally flux — all possibilities coexist. Observation is the structure-creation act. The site exists only in the flux state.
-
----
-
-## Move Notation
-
-```
-0. ROOT       "Thing"
-1. N+unobserved [NARROW: unobserved]              → "Thing not being looked at"
-2. ×superposition [TRANSFER: quantum]             → "Thing in all states"
-3. SPECULATE  [what is it?]                       → "The unobservable"
-4. BLOCKED    [cannot NARROW without destroying]  → "Can't know without collapsing"
-```
-
-**Current Position**: The thing that cannot be known without ceasing to be what it was.
-
----
-
-## Branch Tree
-
-```
-"Thing"
-│
-├─[N: observed]───────→ "Definite state" (collapsed)
-│
-└─[N: unobserved]─────→ "Indefinite state?" ← YOU ARE HERE
-    │
-    ├─[SPECULATE: realism]────→ "Does it have definite state anyway?"
-    │   ├─[yes: hidden variables]→ "Reality is definite, just unknown"
-    │   └─[no: Copenhagen]────→ "Observation creates reality"
-    │
-    ├─[SPECULATE: what is it?]─→ "Imagine the unobserved"
-    │   └─[×superposition]────→ "All possibilities at once"
-    │
-    ├─[NARROW: look]──────────→ "Observe it" (collapses state)
-    │   └─[×measurement problem]→ "What counts as observation?"
-    │
-    ├─[WIDEN: all unobserved]─→ "Everything no one is watching"
-    │   └─[×cosmic]───────────→ "Most of universe unobserved"
-    │
-    └─[SUSPEND]───────────────→ "Dwell with not-knowing"
-        └─[×apophatic]────────→ "Knowledge through what can't be said"
+Where you are:   Contemplating the unobservable; pure flux
+What you hold:   Imagination + inability to verify + observation-as-destruction
+What blocks you: Looking destroys what you want to see
+Best moves:      Suspend (principled ignorance) or Speculate (imagine)
+Dominant affect: Vertiginous-sublime — knowing destroys the known
 ```
 
 ---
 
-## State Dynamics
+## Extremity Character
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ STATE: "The unobserved"                                          │
-│                                                                 │
-│ Tension: HIGH (epistemic/ontological paradox)                    │
-│ Constraints: [can't know without destroying, observation collapses]│
-│                                                                 │
-│ Triggers:                                                       │
-│   - Observation: state collapses                                │
-│   - Deduction: can infer without observing?                     │
-│   - Realism commitment: decide it's definite anyway             │
-│   - Idealism commitment: decide existence requires observer     │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Extremity Analysis
-
-| Dimension | Extremity | Why |
-|-----------|-----------|-----|
-| **Knowability** | Zero (direct) | Can't know without destroying |
-| **Observation dependence** | Maximum | Observation constitutes reality |
-| **Paradox** | Maximum | Knowing destroys the known |
-| **Flux** | Pure | All possibilities until collapse |
-| **Realism challenge** | Maximum | Is it real if unobserved? |
+- Knowability: blocked (direct)
+- Observation dependence: maximum
+- Paradox: maximum
+- Flux: pure
+- Realism challenge: maximum

@@ -1,151 +1,155 @@
 # The Moment You Realize You've Been Wrong Your Whole Life
 
-## The Site
+**Practice**: Writing
 
-Something shifts. A fact you built on turns out to be false. A person you trusted was lying. A belief you organized your life around dissolves. Everything downstream of that error — every decision, every interpretation — is now suspect. The ground doesn't just shake; it reveals it was never ground.
+---
 
-**Dimensions**:
+## State Space
+
+You are at **epistemic collapse** — the frame displaced IS the frame-checking mechanism.
+
+| Dimension | Value | Constraint |
+|-----------|-------|------------|
+| Scope | Lifetime | Everything downstream is suspect |
+| Vertigo | Maximum | Stability = 0 |
+| Recursion | High | The error was in error-detection itself |
+
+**Tension**: Maximum. The ground reveals it was never ground.
+
+---
+
+## Action Set
+
+In **Writing** practice, your moves are narrative-revision operations:
+
+| Move | Verb | Effect | Risk |
+|------|------|--------|------|
+| **Re-describe** | *widen* | All beliefs now questionable | Maximum scope |
+| **Hold open** | *suspend* | Dwell in groundlessness | May not be sustainable |
+| **Reconstruct** | *branch* | Start over — with what? | No guarantee of better ground |
+| **Postpone** | *defer* | "I can't face this yet" | Temporary; must eventually face |
+
+**Blocked moves**:
+- *Narrate forward* — the old frame is broken
+- *Complete* — cannot resolve; must rebuild
+- *Narrow* — cannot focus; everything is question
+
+---
+
+## Payoff Matrix
+
+| Action | Immediate Payoff | Long-term Consequence |
+|--------|------------------|----------------------|
+| **Suspend → dwell in collapse** | +maximum vertigo | Can't stay here; must eventually move |
+| **Suspend → "what else?"** | +cascading doubt | Every certainty now suspect |
+| **Widen → all beliefs** | +maximum scope | Everything I think I know: questionable |
+| **Widen → everyone** | +normalization | Others have had this moment |
+| **Widen → history** | +perspective | Civilizations built on errors |
+| **Branch → rebuild** | +forward motion | But on what foundation? |
+| **Branch → which parts survive** | +triage | Some things might hold |
+| **Branch → trust** | +relational | Who/what can I trust now? |
+| **Defer → not yet** | +temporary relief | Must eventually face |
+| **Transfer → ×earthquake** | +frame | Ground giving way |
+| **Transfer → ×conversion** | +frame | Old self dies; new self born |
+
+---
+
+## Global Operations
+
+| Operation | Narrative Consequence |
+|-----------|----------------------|
+| **GENERATE** | Produces: "the marriage was a lie", "the ideology was false", "the memory was fabricated", "the self-image was defense" |
+| **TRANSFER** | Maps to: earthquake (ground), apostasy (faith), Copernican (center displaced), awakening (dream ending) |
+| **DISSOLVE** | Slowly through reconstruction — or never fully |
+| **EMERGE** | A new life (painful), a divorce, or a rewritten history |
+
+---
+
+## Strategy Space
+
+### Path A: Dwell in vertigo
 ```
-ontological: limit (epistemic collapse)
-scale: lifetime (recontextualizes everything)
-temporal: instant (the moment of recognition) → extended (the reckoning)
-perceptual: failure-mediated (you see the failure of your seeing)
-relational: solitary (no one can do this for you)
-agential: anyone (but especially the certain)
-structural: recursive (the error was in how you checked for errors)
+Collapse → suspend → groundlessness → maximum vertigo as experience
+```
+**Payoff**: The experience itself. Can't stay here, but must pass through.
+
+### Path B: Cascading doubt
+```
+Collapse → "what else?" → everything suspect → radical skepticism
+```
+**Payoff**: Total reconstruction required.
+
+### Path C: Triage
+```
+Collapse → "what survives?" → sort the rubble → partial rebuild
+```
+**Payoff**: Not all is lost; some foundation remains.
+
+### Path D: Defer (temporary)
+```
+Collapse → "not yet" → postpone → must eventually face
+```
+**Payoff**: Buys time; doesn't solve.
+
+---
+
+## Decision Tree
+
+```
+                [You Were Wrong]
+                       │
+           ┌───────────┴───────────┐
+           │    GROUND GONE        │
+           │    VERTIGO = 1.0      │
+           │    STABILITY = 0      │
+           └───────────┬───────────┘
+                       │
+       ┌───────────────┼───────────────┐
+       ▼               ▼               ▼
+   [Suspend]       [Branch]        [Defer]
+       │               │               │
+       ▼          ┌────┴────┐          ▼
+   dwell in       ▼         ▼       "not yet"
+   vertigo     rebuild     triage       │
+       │          ↓         ↓           ▼
+       ▼       "with     "what     buys time
+   unstable    what?"   survives?"
+```
+
+**Epistemic structure**:
+```
+         CERTAINTIES (what you thought you knew)
+                     │
+                 FOUNDATION
+                     │
+              ═══════════════════
+                  COLLAPSE
+              ═══════════════════
+                     │
+                 YOU ARE HERE
+                     │
+                GROUNDLESS
 ```
 
 ---
 
-## Gesture Profile
+## Position Summary
 
 ```
-available: [WIDEN, SUSPEND, BRANCH]
-blocked:   [NARROW, COMMIT, RESOLVE] — the old frame is broken
-dominant:  SUSPEND — the vertigo before reconstruction
-latent:    [BRANCH] — eventually, rebuild on what?
-
-EXTREME DIMENSION: Maximum vertigo. The frame displaced IS the frame-checking mechanism.
-```
-
----
-
-## Gesture Transitions
-
-| Gesture | → Target Site | mode | affect | values | frame displaced |
-|---------|---------------|------|--------|--------|-----------------|
-| **SUSPEND: in the collapse** | "Dwelling in groundlessness" | null | vertiginous | vertigo: 1.0, stability: 0.0 | — |
-| **SUSPEND: what else?** | "What else have I been wrong about?" | null | vertiginous | vertigo: 0.95, depth: 0.9 | This error as isolated |
-| **WIDEN: all my beliefs** | "Everything I think I know" | expansion | sublime | vertigo: 0.95, depth: 0.95 | Knowledge as secure |
-| **WIDEN: everyone** | "Everyone has a moment like this" | expansion | tragic | vertigo: 0.8, depth: 0.9 | My error as unique |
-| **WIDEN: history** | "Entire civilizations built on errors" | expansion | sublime | vertigo: 0.9, depth: 0.95 | Truth as progressive |
-| **BRANCH: rebuild** | "Start over with what?" | expansion | vertiginous | vertigo: 0.8, novelty: 0.7 | — |
-| **BRANCH: which parts** | "What survives the collapse?" | expansion | uncanny | vertigo: 0.7, depth: 0.8 | All-or-nothing |
-| **BRANCH: trust** | "Who/what can I trust now?" | expansion | tragic | vertigo: 0.8, depth: 0.8 | Trust as restored |
-| **DEFER: not yet** | "I can't face this yet" | null | tragic | vertigo: 0.6, stability: 0.4 | — |
-| **×house of cards** | "Everything connected falls" | expansion | vertiginous | vertigo: 0.95, depth: 0.9 | Errors as isolated |
-| **×archaeology** | "Dig through the layers" | expansion | uncanny | vertigo: 0.7, depth: 0.9 | Past as accessible |
-| **×conversion** | "The old self dies" | expansion | sublime | vertigo: 0.9, depth: 0.95 | Self as continuous |
-
----
-
-## Global Gestures
-
-| GlobalGesture | Operation | mode | affect | outcome |
-|---------------|-----------|------|--------|---------|
-| **GENERATE** | → "The marriage was a lie", "The ideology was false", "The memory was fabricated", "The self-image was defense" | varies | vertiginous | productive |
-| **SPECULATE** | What if you could never be wrong? What if you could know you're wrong before it matters? | expansion | vertiginous | reveals error as structural |
-| **TRANSFER** | To earthquake (ground giving way), apostasy (faith collapsing), Copernican (center displaced), awakening (dream ending) | varies | sublime | maximum vertigo |
-| **DISSOLVE** | Slowly — through reconstruction, or never fully | collapse | tragic | gradual or permanent |
-| **EMERGE** | From evidence, confession, accident, maturation, trauma | varies | vertiginous | often unwilled |
-
----
-
-## Flux Relation
-
-```
-flux_state: maximum flux (all structures questionable)
-dissolution_resistance: zero — the frame has already dissolved
-hover_potential: limited — must eventually rebuild or break
-emergence_pattern: revelatory (truth forces itself)
-flux_pockets: what WAS true is now flux; that something is true remains (or does it?)
-```
-
-This is an extreme vertigo site. The frame displaced is not a particular belief but the mechanism by which beliefs were validated. Meta-epistemic collapse.
-
----
-
-## Move Notation
-
-```
-0. ROOT       "Knowledge"
-1. N+mine     [NARROW: my knowledge]              → "What I know"
-2. N+certain  [NARROW: what I was certain of]     → "My certainties"
-3. ×foundation[TRANSFER: architecture]            → "The foundation"
-4. DISSOLVE   [foundation collapses]              → "Groundlessness"
-```
-
-**Current Position**: The moment after the ground gives way; before new ground forms.
-
----
-
-## Branch Tree
-
-```
-"Knowledge"
-│
-├─[N: uncertain]──────→ "What I doubt" (normal)
-│
-└─[N: certain]────────→ "What I was sure of"
-    │
-    ├─[verified]──────→ "Still holds" (relief)
-    │
-    └─[collapses]─────→ "Was wrong" ← YOU ARE HERE
-        │
-        ├─[N: isolated]───→ "Just this one thing" (containment)
-        │
-        └─[N: foundational]→ "Everything built on it"
-            │
-            ├─[SUSPEND]───────→ "Dwell in vertigo"
-            │
-            ├─[BRANCH: rebuild]→ "What survives?"
-            │   ├─[N: evidence]───→ "Trust only evidence"
-            │   ├─[N: nothing]────→ "Radical skepticism"
-            │   └─[N: intuition]──→ "Trust differently"
-            │
-            ├─[WIDEN: all beliefs]→ "Everything questionable"
-            │
-            └─[DEFER]─────────────→ "Not yet"
+Where you are:   In epistemic collapse; the moment after ground gives way
+What you hold:   Nothing reliable; even error-detection failed
+What blocks you: Old frame broken; can't unknow; must rebuild
+Best moves:      Suspend (experience vertigo) then Branch (rebuild something)
+Dominant affect: Maximum vertigo — the frame-checking frame is displaced
 ```
 
 ---
 
-## State Dynamics
+## Extremity Character
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ STATE: "Epistemic collapse"                                      │
-│                                                                 │
-│ Tension: MAXIMUM (identity-threatening)                          │
-│ Constraints: [can't unknow, can't stay here, must rebuild]       │
-│                                                                 │
-│ Triggers:                                                       │
-│   - Time: pressure to function                                  │
-│   - More evidence: collapse extends or stabilizes               │
-│   - Support: someone helps sort                                 │
-│   - Denial: attempt to restore old frame (unstable)             │
-│   - Acceptance: begin reconstruction                            │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Extremity Analysis
-
-| Dimension | Extremity | Why |
-|-----------|-----------|-----|
-| **Vertigo** | Maximum (1.0) | The frame-checking frame is displaced |
-| **Recursion** | High | The error was in error-detection |
-| **Stakes** | Lifetime | Recontextualizes entire history |
-| **Reversibility** | Zero | Cannot unknow |
-| **Stability** | Zero | All ground suspect |
+This site is **maximum vertigo**:
+- Vertigo: 1.0
+- Stability: 0.0
+- Reversibility: impossible (cannot unknow)
+- Stakes: lifetime (recontextualizes entire history)
+- Recursion: the error was in error-detection

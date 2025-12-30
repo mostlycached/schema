@@ -1006,7 +1006,45 @@ Philosophy: {
   WIDEN: "Extend argument, connect to new problems"
   RESOLVE: "Conclude argument, dissolve problem"
 }
+
+Contemplation: {
+  // Default practice for catalog entries
+  // Phenomenological attention to structured experience
+  
+  BRANCH: "Notice alternatives, see what else is there"
+  NARROW: "Attend specifically, focus the gaze"
+  COMMIT: "Accept what is, stop seeking otherwise"
+  DEFER: "Wait, let it unfold, don't force clarity"
+  SUSPEND: "Hold in attention, dwell without resolution"
+  WIDEN: "Expand the view, include more, step back"
+  RESOLVE: "Understanding arrives, the site dissolves"
+  
+  // Constraint form (how constraints appear in contemplation)
+  constraint_form: {
+    name: "Object of attention"
+    establishment_verb: "notice"      // notice the thing
+    development_verb: "dwell with"    // dwell with the thing
+    resolution_verb: "release"        // release the thing
+  }
+  
+  // The catalog's implicit verbs
+  verbs: {
+    // Opening gestures
+    notice: "bring into attention"
+    include: "expand what's attended to"
+    hold: "maintain without action"
+    
+    // Closing gestures
+    focus: "narrow the field"
+    rest_in: "commit to a position"
+    release: "complete and let go"
+    
+    // Holding gestures
+    wait: "defer without distraction"
+  }
+}
 ```
+
 
 ---
 
@@ -1030,3 +1068,107 @@ Seven gestures move through possibility space:
 - Opening: BRANCH, WIDEN, SUSPEND
 - Closing: NARROW, COMMIT, RESOLVE
 - Holding: DEFER
+
+---
+
+## Catalog Format
+
+The site catalog (`catalog/`) uses a documentary format that extends the Site data model for human readability.
+
+### Catalog Entries as Documentary Sites
+
+Catalog entries are rendered in **Contemplation practice** by default — a phenomenological mode of attending to structured experience. Each entry documents:
+
+| Catalog Section | SPEC Mapping | Notes |
+|-----------------|--------------|-------|
+| `## The Site` (prose) | `Site.description` | Rich textual rendering |
+| `### Dimensions` (code block) | `Site.dimensions` | Core 7+ dimensions |
+| `## Gesture Profile` | `Site.gestures` | available, blocked, dominant, latent |
+| `## Gesture Transitions` | **Documentary extension** | TransitionValue for each gesture |
+| `## Global Gestures` | **Documentary extension** | GENERATE, SPECULATE, TRANSFER, etc. |
+| `## Flux Relation` | **Documentary extension** | flux_state, dissolution_resistance, etc. |
+| `## Move Notation` | **Documentary extension** | Derivation path from ROOT |
+| `## Branch Tree` | **Documentary extension** | Possibility space visualization |
+| `## State Dynamics` | **Documentary extension** | Tension, constraints, triggers |
+| `## Transfers Applied` | `Site.mapping_properties.connected_to` | Transfer domains |
+
+### Fields Implicit in Catalog
+
+The following SPEC fields are **implicit** in catalog entries:
+
+```
+// Assumed for all catalog entries
+domain: Contemplation × AnyField
+practice: Contemplation
+field_levels_engaged: [phenomenal, conceptual]  // primarily
+
+// Derived by inspection
+fertility: inferred from gesture richness
+stability: inferred from flux_relation
+existence_type: engagement_dependent  // most sites
+```
+
+### Documentary Extensions
+
+These structures appear in catalogs but not in the SPEC Site type:
+
+```
+// Move Notation: derivation path
+MoveNotation {
+  steps: MoveStep[]
+}
+
+MoveStep {
+  index: Integer
+  label: String        // e.g., "ROOT", "N+wrong", "×cooking"
+  gesture: GestureType | TransferMarker
+  result: String       // description of position
+}
+
+// Branch Tree: possibility space
+BranchTree {
+  root: String
+  branches: BranchNode[]
+}
+
+BranchNode {
+  gesture: GestureType | TransferMarker
+  label: String
+  target: String
+  children: BranchNode[]
+  is_current: Boolean  // "← YOU ARE HERE"
+}
+
+// State Dynamics: situational profile
+StateDynamics {
+  tension: LOW | MEDIUM | HIGH | ZERO
+  constraints: String[]
+  triggers: Trigger[]
+}
+
+Trigger {
+  condition: String
+  outcome: String
+}
+```
+
+### Rendering Sites in Other Practices
+
+To render a catalog site in a specific practice (Writing, Music, etc.), apply the practice's gesture manifestations:
+
+```
+// Example: Site 001 "The Thing You Said" in Writing practice
+Writing.render(site_001) => {
+  DEFER: "Withhold information, delay resolution" → "Pretending it didn't happen"
+  WIDEN: "Expand scope, introduce new elements" → "All the things I've said wrong"
+  // etc.
+}
+
+// Example: Same site in Music practice  
+Music.render(site_001) => {
+  DEFER: "Deceptive cadence, extension" → "The phrase that doesn't resolve"
+  WIDEN: "Modulation, new theme" → "The key change of regret"
+  // etc.
+}
+```
+

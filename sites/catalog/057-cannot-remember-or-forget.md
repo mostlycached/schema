@@ -1,154 +1,138 @@
 # The Thing That Cannot Be Remembered or Forgotten
 
-## The Site
+**Practice**: Contemplation
 
-It happened. Or did it? You can't quite remember. But you can't stop thinking about it either. Not repression — repressed things can be recovered. This is different: present enough to haunt, absent enough to doubt. The memory that hovers between existence and non-existence.
+---
 
-**Dimensions**:
+## State Space
+
+You are **haunted by the half-memory** — present absence.
+
+| Dimension | Value | Constraint |
+|-----------|-------|------------|
+| Resolution | Zero | Can't complete either way |
+| Presence | Paradoxical | Present enough to haunt, absent enough to doubt |
+| Duration | Infinite | Haunting persists indefinitely |
+
+**Tension**: Chronic (not acute, but persistent).
+
+---
+
+## Action Set
+
+In **Contemplation** practice, your moves are memory operations:
+
+| Move | Verb | Effect | Risk |
+|------|------|--------|------|
+| **Accept** | *hold* | Live with the haunting | Permanent state |
+| **Question** | *focus* | Did it happen? | Slips away |
+| **Investigate** | *attend* | Seek evidence | May clarify or deepen mystery |
+| **Abstract** | *notice* | Memory's nature | All memory is construction |
+
+**Blocked moves**:
+- *Remember fully* — slips away
+- *Forget fully* — won't leave
+
+---
+
+## Payoff Matrix
+
+| Action | Immediate Payoff | Long-term Consequence |
+|--------|------------------|----------------------|
+| **Hold → accept limbo** | +stability | "It won't resolve; live with it" |
+| **Hold → with haunting** | +cohabitation | "Living with the unresolved" |
+| **Speculate → did it happen?** | +inquiry | "Was it real?" |
+| **Speculate → what happened?** | +attempt | Slips away when approached |
+| **Branch → investigate** | +action | Find evidence (if possible) |
+| **Branch → therapy** | +help | Professional assistance |
+| **Branch → let go** | +attempt | But it won't let go |
+| **Expand → memory's nature** | +understanding | "Memory is construction" |
+| **Transfer → ×trauma** | +frame | Too painful to remember |
+| **Transfer → ×false memory** | +frame | Maybe never happened |
+
+---
+
+## Global Operations
+
+| Operation | Contemplative Consequence |
+|-----------|--------------------------|
+| **GENERATE** | Produces: "childhood incident", "face you half-remember", "conversation that may have happened", "dream or reality" |
+| **TRANSFER** | Maps to: trauma (fragmentary), false memory (constructed), presque vu (tip of memory), haunting (present absence) |
+| **DISSOLVE** | **BLOCKED** — neither direction available |
+| **EMERGE** | A gap in the narrative, a feeling of unease, or a trigger |
+
+---
+
+## Strategy Space
+
+### Path A: Accept limbo
 ```
-ontological: paradoxical (present-absent)
-scale: varies (the event) + lifetime (the haunting)
-temporal: past (it happened?) + continuous present (it won't resolve)
-perceptual: absent (can't access) + present (can't escape)
-relational: solitary (only you are haunted by this)
-agential: rememberer (caught between remembering and forgetting)
-structural: incomplete (can't be completed in either direction)
+Haunted → can't resolve → accept → live with not knowing
+```
+**Payoff**: Peace through acceptance.
+
+### Path B: Investigate
+```
+Haunted → can't resolve → seek evidence → may clarify (or not)
+```
+**Payoff**: Attempt at resolution; uncertain outcome.
+
+### Path C: Abstract
+```
+Haunted → memory's nature → "all memory is construction" → reframe
+```
+**Payoff**: Philosophical distance.
+
+---
+
+## Decision Tree
+
+```
+              [Half-Memory]
+                    │
+         ┌──────────┴──────────┐
+         │    CAN'T REMEMBER   │
+         │    CAN'T FORGET     │
+         │    WON'T RESOLVE    │
+         └──────────┬──────────┘
+                    │
+       ┌────────────┼────────────┐
+       ▼            ▼            ▼
+    [Hold]     [Speculate]   [Branch]
+       │            │            │
+       ▼            ▼            ▼
+    accept      "did it      investigate
+    limbo       happen?"        ↓
+       ↓            ↓        evidence,
+    live with   slips away   therapy
+    haunting
+```
+
+**Memory structure**:
+```
+         REMEMBERED ────────────────── FORGOTTEN
+              │                            │
+          (clear)                      (absent)
+              │                            │
+              │     ════════════════       │
+              │     ║  LIMBO       ║       │
+              │     ║  (you are    ║       │
+              │     ║   here)      ║       │
+              │     ║  can't reach ║       │
+              │     ║  can't leave ║       │
+              │     ════════════════       │
+              │                            │
+              └──── PRESENT ABSENCE ───────┘
 ```
 
 ---
 
-## Gesture Profile
+## Position Summary
 
 ```
-available: [SUSPEND, SPECULATE, BRANCH]
-blocked:   [RESOLVE, NARROW, COMMIT] — can't clarify or dismiss
-dominant:  SUSPEND — dwell with the unresolved
-latent:    [BRANCH] — investigate, accept, seek help
-
-EXTREME DIMENSION: Maximum suspension. Neither forgettable nor rememberable.
+Where you are:   Haunted by what can neither arrive nor depart
+What you hold:   Half-memory + uncertainty + inability to resolve
+What blocks you: Memory slips away when approached; won't leave when ignored
+Best moves:      Hold (accept limbo) or Branch (investigate)
+Dominant affect: Uncanny — the ghost that won't crystallize or dissolve
 ```
-
----
-
-## Gesture Transitions
-
-| Gesture | → Target Site | mode | affect | values | frame displaced |
-|---------|---------------|------|--------|--------|-----------------|
-| **SUSPEND: with the haunting** | "Living with the unresolved" | null | uncanny | vertigo: 0.8, stability: 0.3 | — |
-| **SUSPEND: accepting limbo** | "It won't resolve" | null | tragic | vertigo: 0.7, stability: 0.5 | Resolution as possible |
-| **SPECULATE: did it happen?** | "Was it real?" | expansion | vertiginous | vertigo: 0.85, novelty: 0.7 | Memory as reliable |
-| **SPECULATE: what happened?** | "What exactly occurred?" | expansion | uncanny | vertigo: 0.8, novelty: 0.75 | — (slips away) |
-| **BRANCH: investigate** | "Find evidence" | expansion | uncanny | vertigo: 0.6, novelty: 0.6 | — (if possible) |
-| **BRANCH: therapy** | "Professional help" | expansion | uncanny | vertigo: 0.6, stability: 0.6 | — |
-| **BRANCH: let go** | "Abandon the search" | expansion | tragic | vertigo: 0.5, stability: 0.5 | — (but it won't let go) |
-| **WIDEN: all such memories** | "Everything half-remembered" | expansion | uncanny | vertigo: 0.8, depth: 0.85 | This memory as unique |
-| **WIDEN: memory's nature** | "Memory is construction" | expansion | vertiginous | vertigo: 0.85, depth: 0.9 | Memory as retrieval |
-| **×trauma** | "Too painful to remember" | expansion | tragic | vertigo: 0.85, depth: 0.9 | Memory as voluntary |
-| **×false memory** | "Maybe it never happened" | expansion | vertiginous | vertigo: 0.9, novelty: 0.85 | Memory as reliable |
-| **×flashbulb** | "Vivid but unreliable" | expansion | vertiginous | vertigo: 0.8, novelty: 0.8 | Vivid = accurate |
-| **×presque vu** | "Almost remembering" | expansion | uncanny | vertigo: 0.75, novelty: 0.75 | — |
-
----
-
-## Global Gestures
-
-| GlobalGesture | Operation | mode | affect | outcome |
-|---------------|-----------|------|--------|---------|
-| **GENERATE** | → "The childhood incident", "the face you half-remember", "the conversation that may have happened", "the dream or reality" | varies | uncanny | productive |
-| **SPECULATE** | What if memory is always partial? What if there's no fact of the matter about what you remember? | expansion | vertiginous | reveals memory as constructed |
-| **TRANSFER** | To trauma (fragmentary memory), false memory (constructed memory), presque vu (tip of memory), haunting (present absence) | varies | uncanny | high vertigo |
-| **DISSOLVE** | Neither direction available — can't remember fully, can't forget fully | — | — | blocked |
-| **EMERGE** | From significant events + imperfect encoding/retrieval | varies | uncanny | structural |
-
----
-
-## Flux Relation
-
-```
-flux_state: maximum flux (neither determined to have happened nor not)
-dissolution_resistance: very high — the haunting persists
-hover_potential: very high — can dwell here indefinitely
-emergence_pattern: from trauma, significance, fragmentary encoding
-flux_pockets: the FACT of whether it happened is (experientially) flux
-```
-
-This is a profound flux state for the rememberer. The event's reality itself hovers in flux — not because of external uncertainty but because of memory's structure. The ghost won't crystallize into presence or dissolve into absence.
-
----
-
-## Move Notation
-
-```
-0. ROOT       "Memory"
-1. N+partial  [NARROW: partial memory]            → "Fragmentary"
-2. N+present  [NARROW: can't dismiss]             → "Won't leave"
-3. N+absent   [NARROW: can't access]              → "Can't reach"
-4. ×haunting  [TRANSFER: haunting]                → "Present absence"
-```
-
-**Current Position**: The memory that can neither arrive nor depart.
-
----
-
-## Branch Tree
-
-```
-"Memory"
-│
-├─[N: clear]──────────→ "I remember this" (stable)
-│
-├─[N: forgotten]──────→ "I don't remember this" (absent)
-│
-└─[N: limbo]──────────→ "I can't remember or forget" ← YOU ARE HERE
-    │
-    ├─[NARROW: remember more]→ BLOCKED (slips away)
-    │
-    ├─[NARROW: dismiss]──────→ BLOCKED (won't leave)
-    │
-    ├─[SUSPEND: accept limbo]→ "Live with the haunting"
-    │
-    ├─[SPECULATE: real?]─────→ "Did it happen?"
-    │   ├─[×evidence]────────→ "Look for external traces"
-    │   ├─[×false memory]────→ "Maybe constructed"
-    │   └─[×trauma]──────────→ "Maybe fragmented by pain"
-    │
-    ├─[BRANCH: investigate]──→ "Seek information"
-    │   ├─[×others]──────────→ "Ask people who might know"
-    │   ├─[×records]─────────→ "Check documents"
-    │   └─[×therapy]─────────→ "Professional help"
-    │
-    └─[WIDEN: memory's nature]→ "All memory is partial"
-        └─[×construction]────→ "Memory isn't retrieval"
-```
-
----
-
-## State Dynamics
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ STATE: "Haunted by the half-memory"                              │
-│                                                                 │
-│ Tension: CHRONIC (not acute, but persistent)                     │
-│ Constraints: [can't resolve, can't dismiss, keeps recurring]     │
-│                                                                 │
-│ Triggers:                                                       │
-│   - Association: something evokes it                            │
-│   - Quiet: it surfaces when attention wanders                   │
-│   - Similar situation: partial recognition                      │
-│   - Investigation: may clarify (or deepen mystery)              │
-│   - Acceptance: live with not knowing                           │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Extremity Analysis
-
-| Dimension | Extremity | Why |
-|-----------|-----------|-----|
-| **Resolution possibility** | Zero | Can't complete either way |
-| **Presence** | Paradoxical | Present-absent |
-| **Duration** | Potentially infinite | Haunting persists |
-| **Ontological status** | Uncertain | Did it happen? |
-| **Agency** | Low | Can't control the memory |
