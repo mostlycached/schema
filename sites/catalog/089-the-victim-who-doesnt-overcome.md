@@ -57,6 +57,7 @@ In **Contemplation** practice, your moves are endurance operations:
 | **GENERATE** | Produces: "discomfort", "social failure", "medical failures", "tragic realism" |
 | **TRANSFER** | Maps to: chronic illness, disability, ruins (architecture), entropy |
 | **DISSOLVE** | Only in death |
+| **PARASITIZE** | The GoFundMe intercepts the tragedy; we monetize the suffering, measuring worth in dollars |
 | **EMERGE** | A witness, a ruin, or a warning |
 
 ---

@@ -59,6 +59,7 @@ In **Contemplation** practice, your moves are cohabitation operations:
 | **GENERATE** | Produces: "suspicion about them", "possibility of meaninglessness", "thought of death", "doubt about love" |
 | **TRANSFER** | Maps to: contamination (spreading), possession (taken over), infection (invaded), stain (permanent) |
 | **DISSOLVE** | Rarely — through time, therapy, or integration |
+| **PARASITIZE** | The Meme intercepts the obsession; viral repetition makes the thought generic, stripping its personal horror |
 | **EMERGE** | A tick, a sleepless night, or a changed worldview |
 
 ---

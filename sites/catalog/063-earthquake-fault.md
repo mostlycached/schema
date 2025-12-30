@@ -59,6 +59,7 @@ In **Engineering** practice, your moves are limited by uncertainty:
 | **GENERATE** | Produces: "personal fault lines", "social tensions", "historical fractures", "psychological breaking points" |
 | **TRANSFER** | Maps to: tension (psychological), fracture (social), building pressure (relational), sudden break (personal) |
 | **DISSOLVE** | Only through earthquake — violent dissolution |
+| **PARASITIZE** | The Real Estate Developer intercepts the risk; building codes become a magic spell against plate tectonics |
 | **EMERGE** | The quake itself, rebuilding, or a changed landscape |
 
 ---

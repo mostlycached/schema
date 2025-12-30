@@ -58,6 +58,7 @@ In **Mathematics** practice, your moves are cosmic operations:
 | **GENERATE** | Produces: "heavy elements", "neutron stars", "black holes", "nebulae" |
 | **TRANSFER** | Maps to: phoenix (rebirth), creative destruction (Schumpeter), transformation (death as door), origin (stardust) |
 | **DISSOLVE** | IS dissolution — star dissolves explosively |
+| **PARASITIZE** | The Observer intercepts the light (millions of years late); the death becomes a pretty picture |
 | **EMERGE** | Heavy elements, a neutron star, or a black hole |
 
 ---

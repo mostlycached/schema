@@ -57,6 +57,7 @@ In **Sociology** practice, your moves are identity-verification operations:
 | **GENERATE** | Produces: "caller who knows your history", "being recognized without recognizing", "data in foreign systems" |
 | **TRANSFER** | Maps to: one-way mirror (asymmetric), database (identity in systems), haunting (dead who know), dream (inner stranger) |
 | **DISSOLVE** | Via explanation (stranger becomes known) or proven mistake |
+| **PARASITIZE** | The Algorithm intercepts the encounter; they know you because they bought your data, not because they saw you |
 | **EMERGE** | Paranoia, celebrity, or a debit card inquiry |
 
 ---

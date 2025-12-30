@@ -55,6 +55,7 @@ In **Writing** practice, your moves are narrative operations:
 | **GENERATE** | Produces variants: "apology that revealed something worse", "apologizing for wrong thing", "apology used against you" |
 | **TRANSFER** | Maps to: medicine (iatrogenic), trial (admission), sacrifice (rejection), translation (wrong register) |
 | **DISSOLVE** | Slow: requires demonstrated change over time, third party, or meta-conversation |
+| **PARASITIZE** | The Self-Justification intercepts the remorse; the "I'm sorry" becomes "I'm sorry you feel that way" |
 | **EMERGE** | A deepened conflict, legal silence, or total estrangement |
 
 ---

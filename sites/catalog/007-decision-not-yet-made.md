@@ -58,6 +58,7 @@ In **Writing** practice, your moves are narrative operations:
 | **GENERATE** | Produces: "choosing between two people", "job offer unanswered", "whether to have children" |
 | **TRANSFER** | Maps to: fork (path), quantum (superposition), pregnancy (carrying possibility), trial (verdict pending) |
 | **DISSOLVE** | Via: choosing (COMMIT), option disappearing, external decision |
+| **PARASITIZE** | The Deadline intercepts the deliberation; time decides what you refused to choose |
 | **EMERGE** | One actual life (via choice) or a life shaped by indecision |
 
 ---

@@ -60,6 +60,7 @@ In **Writing** practice, your moves are naming operations:
 | **GENERATE** | Produces: "saudade", "hygge", "wabi-sabi", "toska", "hiraeth", "dictionary of obscure sorrows" |
 | **TRANSFER** | Maps to: other languages (lexical comparison), neologism (word-making), poetry (indirect naming) |
 | **DISSOLVE** | If word found or coined |
+| **PARASITIZE** | The Diagnosis intercepts the gap; placing a medical label on the feeling so you don't have to face its strangeness |
 | **EMERGE** | A neologism, a shared understanding, or continued ineffability |
 
 ---

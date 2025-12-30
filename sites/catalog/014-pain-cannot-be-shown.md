@@ -57,6 +57,7 @@ In **Contemplation** practice, your moves are private-experience operations:
 | **GENERATE** | Produces: "chronic pain no one believes", "grief they think you should be over", "pleasure equally private" |
 | **TRANSFER** | Maps to: black box (sealed), foreign language (untranslatable), island (isolated), courtroom (testimony) |
 | **DISSOLVE** | Pain may dissolve (healing); privacy never dissolves |
+| **PARASITIZE** | The Performance intercepts the agony; you act out "being in pain" so they will believe the real pain |
 | **EMERGE** | Art, isolation, or a scream |
 
 ---

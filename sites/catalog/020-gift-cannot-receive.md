@@ -57,6 +57,7 @@ In **Sociology** practice, your moves are exchange operations:
 | **GENERATE** | Produces: "inheritance you don't want", "help that diminishes", "love requiring you to change" |
 | **TRANSFER** | Maps to: poison (beautiful/deadly), debt (ledgers), trap (prey structure), translation (lossy) |
 | **DISSOLVE** | Via: giver withdraws, gift transforms, third party intervenes |
+| **PARASITIZE** | The Loan Shark intercepts the charity; the gift is recorded as a debt before it touches your hand |
 | **EMERGE** | A debt, a break in relationship, or a returned package |
 
 ---

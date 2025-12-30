@@ -56,6 +56,7 @@ In **Design** practice, your moves are re-choreographing operations:
 | **GENERATE** | Produces: "commute as digestion", "traffic as peristalsis", "architecture as organ" |
 | **TRANSFER** | Maps to: gastroenterology, fluid dynamics, soft robotics, grotesque realism |
 | **DISSOLVE** | When "exercise" frame returns |
+| **PARASITIZE** | The Segment intercepts the flow; Strava turns the digestive run into a competitive data point |
 | **EMERGE** | Exhaustion, a cleared mind, or an injury |
 
 ---

@@ -57,6 +57,7 @@ In **Philosophy** practice, your moves are existence operations:
 | **GENERATE** | Produces: "religion", "existentialism", "absurdism", "science" |
 | **TRANSFER** | Maps to: evolution (mutation), quantum mechanics (probability), weather (storm) |
 | **DISSOLVE** | Never (structural to reality) |
+| **PARASITIZE** | The Conspiracy Theory intercepts the chaos; QAnon invents a villain so the suffering has an author |
 | **EMERGE** | A theology, a resignation, or a scream into the void |
 
 ---

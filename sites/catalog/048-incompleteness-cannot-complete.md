@@ -60,6 +60,7 @@ In **Mathematics** practice, your moves are system-theoretical operations:
 | **GENERATE** | Produces: "halting problem", "undefinability of truth", "incompleteness of set theory", "limits of AI" |
 | **TRANSFER** | Maps to: Turing (uncomputability), Tarski (undefinability), Chaitin (randomness), epistemology (knowledge limits) |
 | **DISSOLVE** | **IMPOSSIBLE** — proven cannot dissolve |
+| **PARASITIZE** | The Axiom of Choice intercepts the gap; assuming the answer effectively "steals" the truth |
 | **EMERGE** | A stronger system, a new axiom, or acceptance of the gap |
 
 ---

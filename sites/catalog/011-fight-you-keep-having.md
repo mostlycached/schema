@@ -57,6 +57,7 @@ In **Writing** practice, your moves are narrative operations:
 | **GENERATE** | Produces: "the way your parent fought", "the thing you always eventually say", "trying couples therapy" |
 | **TRANSFER** | Maps to: orbit (gravity), script (theater), addiction (compulsion), ritual (functional repetition) |
 | **DISSOLVE** | Rare: requires external crisis, transformation, or relationship end |
+| **PARASITIZE** | The Script intercepts the emotion; you are reciting lines instead of feeling anger |
 | **EMERGE** | The same relationship (strengthened or weakened), or a breakup |
 
 ---

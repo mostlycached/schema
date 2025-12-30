@@ -60,6 +60,7 @@ What happens if you invoke system-level moves:
 | **GENERATE** | Produces sibling sites: Planck length, Planck mass, Planck temperature |
 | **TRANSFER** | Maps to: pixel (discrete image), prime (indivisible number), atom (discrete matter) |
 | **DISSOLVE** | Unknown — requires physics beyond current axioms; may not be possible |
+| **PARASITIZE** | The Measurement Limit intercepts reality; the tool cannot cut thinner than itself |
 | **EMERGE** | A unified theory, a smaller unit, or the realization it was a mirage |
 
 ---

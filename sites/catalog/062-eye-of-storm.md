@@ -58,6 +58,7 @@ In **Contemplation** practice, your moves are presence operations:
 | **GENERATE** | Produces: "eye of metaphorical storm", "calm before storm", "being centered", "still point" |
 | **TRANSFER** | Maps to: stillness (general peace), vortex (spinning), respite (temporary), paradox (unity) |
 | **DISSOLVE** | When storm dissipates |
+| **PARASITIZE** | The News Crew intercepts the calm; broadcasting the silence as "suspense" before the violence returns |
 | **EMERGE** | The return of the wind, or false safety revealed |
 
 ---

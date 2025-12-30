@@ -56,6 +56,7 @@ In **Philosophy** practice, your moves are absurdity operations:
 | **GENERATE** | Produces: "insurance", "superstition", "anxiety", "safety rituals" |
 | **TRANSFER** | Maps to: quantum mechanics (uncertainty), stoicism (fate), statistics (probability) |
 | **DISSOLVE** | Never (structural to reality) |
+| **PARASITIZE** | The True Crime Podcast intercepts the accident; turning the meaningless death into entertainment for commuters |
 | **EMERGE** | A stunned survivor, a statistic, or absurdism |
 
 ---

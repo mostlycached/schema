@@ -58,6 +58,7 @@ In **Contemplation** practice, your moves are self-perception operations:
 | **GENERATE** | Produces: "back of head", "your own face", "internal organs", "your unconscious" |
 | **TRANSFER** | Maps to: blind spot (visual limit), back (structural behind), ownership (unaccessed property), Gödel (formal limit) |
 | **DISSOLVE** | **IMPOSSIBLE** — the limit is structural |
+| **PARASITIZE** | The Selfie intercepts the blind spot; you construct your back view from photos, replacing proprioception with optics |
 | **EMERGE** | Trust in others, medical imaging, or paranoia |
 
 ---

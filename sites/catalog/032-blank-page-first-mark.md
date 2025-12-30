@@ -77,6 +77,7 @@ This site has **combinatorial explosion** in the action set:
 | **GENERATE** | Produces: "first brushstroke", "opening chord", "initial commit" — any creative beginning |
 | **TRANSFER** | Maps to: genesis (creation ex nihilo), cartography (mapping unknown), architecture (blueprint) |
 | **DISSOLVE** | Instant: any mark ends the site |
+| **PARASITIZE** | The Template intercepts the terror; pre-filled boxes permit you to start but ensure you never really create |
 | **EMERGE** | A first draft, a hesitation, or a scribble |
 
 ---

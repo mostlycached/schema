@@ -187,51 +187,102 @@ How do we carve bounded regions from flux? What gives structure its structure?
 
 ### Warm-up
 
-**1.1** You're describing a movie to someone and realize halfway through you've forgotten how it ends. You keep talking. 
+**1.1 The Forgotten Ending**
 
-What's happening to the structure "this movie's plot" as you speak? Are you dissolving, hovering, or emerging something new?
+**Position**: You are mid-sentence describing a movie. The ending has dissolved. The listener is waiting.
 
-**1.2** You walk into a party where you know no one. For the first few seconds, before you locate someone to talk to or a place to stand, what's the structure of the room? Now compare: walking into your own kitchen.
+| Move | Effect | Risk |
+|------|--------|------|
+| **CONFABULATE** | Invent an ending | Exposed if they've seen it |
+| **DISSOLVE** | "Actually, I forgot how it ends..." | Social friction; but honest |
+| **TRANSFER** | "The ending isn't the point of this movie..." | Reframes; but dodges |
 
-What dissolved when you entered the party? What's always-already structured when you enter your kitchen?
+**Question**: Which move produces the most *creative* material? Which produces the most *social* capital? Are they the same?
+
+**1.2 The Unknown Room**
+
+**Position**: You enter a party where you know no one. For 3 seconds, you have no map.
+
+| State | Structure Level | Your Move Set |
+|-------|-----------------|---------------|
+| **Party (unknown)** | Near-zero | HOVER, scan, freeze |
+| **Your Kitchen** | Maximum | Autopilot, no decisions |
+
+**Question**: What *specific* structure dissolved when you entered the party? (Hint: your social position, your body's default stance, your sense of "where I belong"). What would it take to dissolve your kitchen to the same level?
 
 ---
 
 ### Standard
 
-**1.3** The itch you shouldn't scratch.
+**1.3 The Itch**
 
-You have a mosquito bite. You know scratching will make it worse. The itch is *structured*: it has location, intensity, a pull toward action. 
+**Position**: You have a mosquito bite. Scratching is blocked (makes it worse). The itch has location, intensity, and a *pull* toward action.
 
-Now: you decide not to scratch. But you stay with the itch. Describe what happens to the itch-structure over the next minute. Does it dissolve? Transform? Intensify? 
+| Move | Effect on Itch-Structure | Outcome |
+|------|--------------------------|---------|
+| **ATTEND** (focus on it) | Intensifies | Structure hardens |
+| **DISSOLVE** (defocus) | Diffuses | Structure weakens but re-forms |
+| **TRANSFER** (reframe as "energy") | Transforms | New structure emerges |
 
-What does this teach you about the relationship between *attending to structure* and *dissolving it*?
+**Blocked Move**: SCRATCH (Constraint: consequences).
 
-**1.4** You're learning a new language. At first, sentences are just noise. Then you start to hear words. Then the words become transparent — you hear meaning, not sound.
+**Question**: What is the relationship between *attention* and *structure*? Can you dissolve a structure by staring at it, or only by looking away?
 
-Map this to the crystallization-dissolution cycle. Where are the phase transitions? What causes them? 
+**1.4 The Language Crystallization**
 
-Now: what would it take to *dissolve* your native language back to noise?
+**Position**: You are learning a new language. Map the phase transitions:
 
-**1.5** You're lying in bed, about to fall asleep. Thoughts come, but you're not directing them. You're somewhere between awake-structure and sleep-flux.
+| Phase | State | Trigger |
+|-------|-------|---------|
+| **I. Noise** | Pure flux | — |
+| **II. Words** | Local structure | Repetition, pattern-matching |
+| **III. Meaning** | Transparent structure | Automation; the sign disappears |
 
-This is a natural HOVER state. What maintains it? What tips you into structure (snapping awake, a worry grabs you)? What tips you into flux (you fall asleep)?
+**Blocked Move**: You cannot easily reverse Phase III (your native language is locked).
+
+**Question**: What would it take to *dissolve* your native language back to noise? (Hint: extreme repetition, brain damage, or a very specific drug). What does this say about the stickiness of crystallized structure?
+
+**1.5 The Pre-Sleep HOVER**
+
+**Position**: You are in bed, between awake-structure and sleep-flux. Thoughts come unbidden.
+
+| Perturbation | Tips you toward... | Mechanism |
+|--------------|---------------------|-----------|
+| A worry with action-demand | STRUCTURE (awake) | Creates a goal; re-orients |
+| Physical discomfort | STRUCTURE (awake) | Demands attention |
+| Thoughts becoming incoherent | FLUX (sleep) | Agency dissolves |
+
+**Question**: The HOVER is maintained by *not needing to do anything*. What does this reveal about the relationship between *need* and *structure*?
 
 ---
 
 ### Challenge
 
-**1.6** You catch yourself in the middle of doing something you do every day (making coffee, commuting, checking your phone). For a moment, the automaticity breaks. You see the action as if for the first time. Then the structure snaps back.
+**1.6 The Voluntary OPEN**
 
-This is brief accidental OPEN. 
+**Position**: You are making coffee. The action is fully automated. You want to *see* it as strange without breaking the action.
 
-Design a practice that makes this happen *on purpose* without breaking the action's functionality. You should be able to make coffee while experiencing it as strange, not fail to make coffee.
+| Move | Effect | Risk |
+|------|--------|------|
+| **SLOW** (one step) | Defamiliarizes that step | Disrupts flow |
+| **DESCRIBE** (narrate aloud) | Forces encoding | Feels absurd |
+| **FEEL** (attend to hands, not task) | Shifts level | May spill |
 
-**1.7** Someone you love has a habit that irritates you. You've mentioned it. They haven't changed. The irritation is now a structure — it activates automatically when the habit appears.
+**Design**: Construct a protocol that produces accidental OPEN *reliably*. Test it for one week. Report the success rate.
 
-You want the irritation to dissolve without the habit changing. 
+**1.7 The Structural Irritation**
 
-Using only the flux operations (DISSOLVE, OPEN, EMERGE, HOVER), design an approach. What's the difference between *suppressing* the irritation and *dissolving* the structure that produces it? Can you dissolve the structure while the trigger keeps recurring?
+**Position**: Someone you love has an irritating habit. You've mentioned it. They haven't changed. The irritation is now a *structure* that activates automatically.
+
+**Constraint**: You cannot change their behavior. You cannot suppress your reaction (costs energy). You must *dissolve* the structure itself.
+
+| Move | Target | Effect |
+|------|--------|--------|
+| **OPEN** | Attend to irritation as sensation | Converts "anger" to "heat in chest" |
+| **HOVER** | Stay with sensation, don't follow story | Prevents narrative hardening |
+| **DISSOLVE** | Wait for structure to lose coherence | Requires time; may not work |
+
+**Question**: Can you dissolve a structure *while the trigger keeps recurring*? Or must you remove the trigger first? What is the difference between *suppressing* irritation and *dissolving* it?
 
 ---
 

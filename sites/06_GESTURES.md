@@ -265,44 +265,98 @@ We've mentioned constraints several times — restrictions that shape which site
 
 ### Warm-up
 
-**6.1** You're in a conversation and realize you've said something you shouldn't have. Map the gesture profile of this site:
-- What gestures are available?
-- Which is dominant?
-- Which are blocked?
+**6.1 The Gaffe**
 
-**6.2** "The job offer you have to decide on by Friday." Which gesture is the deadline forcing? What gestures does it block?
+**Position**: You are in a conversation and realize you've said something you shouldn't have.
+
+| Gesture | Status | Effect |
+|---------|--------|--------|
+| **RESOLVE** | Available | Apologize; close the wound |
+| **WIDEN** | Available | Make it a joke; dilute the impact |
+| **DEFER** | Dominant | Pretend it didn't happen; social pressure |
+| **NARROW** | Blocked | You can't "un-say" it |
+
+**Question**: Which gesture does the social situation *force* on you? (Hint: DEFER. The group prefers to pretend.)
+
+**6.2 The Deadline**
+
+**Position**: You have a job offer. You must decide by Friday.
+
+| Gesture | Effect |
+|---------|--------|
+| **COMMIT** | Forced | The deadline collapses possibility into actuality |
+| **DEFER, SUSPEND, WIDEN** | Blocked | No more time to explore |
+
+**Question**: Deadlines are *COMMIT-forcing mechanisms*. What do they block? (Hint: Everything that keeps options open.)
 
 ---
 
 ### Standard
 
-**6.3** You keep DEFERing something — a conversation, a decision, a project. The DEFER is chronic.
+**6.3 Chronic DEFER**
 
-What would it take to execute COMMIT here? What's blocking it? Is the block structural (something about the site) or psychological (something about you)?
+**Position**: You keep DEFERring something (conversation, decision, project). The DEFER is chronic.
 
-**6.4** Pick a site from your life where RESOLVE feels blocked — something that can't be fully resolved.
+| Block Type | Test |
+|------------|------|
+| **Structural** | The site genuinely has no exit (rare) |
+| **Psychological** | Fear of what COMMIT reveals |
 
-What would it mean to accept that RESOLVE is unavailable? What gestures *are* available from an irresoluble site?
+**Intervention**: Artificial NARROW. Reduce options to 2. Then the cost of COMMIT is lower.
 
-**6.5** Navigate a sequence from "the relationship that's grown stale" through four gestures. Document each move:
-1. Starting site
-2. Gesture executed
-3. Resulting site(s)
-4. New gesture profile
+**Question**: What is the *Fear of Loss* that blocks your COMMIT? (Hint: Committing kills the unchosen options.)
 
-Where do you end up? Was it where you expected?
+**6.4 Blocked RESOLVE**
+
+**Position**: Pick a site where RESOLVE feels blocked—something that cannot be "fixed" or "finished."
+
+| Site Type | Example |
+|-----------|---------|
+| **Chronic Illness** | No cure; only management |
+| **Grief** | The dead stay dead |
+
+**Question**: What gestures *are* available from an irresoluble site? (Hint: WIDEN—integrate into larger life. DEEPEN—understand it better.)
+
+**6.5 Navigate a Sequence**
+
+**Position**: "The Relationship That's Grown Stale."
+
+| Step | Gesture | Resulting Site | New Gesture Profile |
+|------|---------|----------------|---------------------|
+| 1 | **WIDEN** | "The Open Marriage" | SUSPEND (jealousy), COMMIT (new partner) |
+| 2 | **SUSPEND** | "The Anxious Dyad" | COMMIT, RESOLVE |
+| 3 | **COMMIT** | "The New Relationship" | NARROW, DEFER |
+| 4 | **NARROW** | Back to "Stale" | Attractor loop |
+
+**Question**: Is this a loop? What would break it?
 
 ---
 
 ### Challenge
 
-**6.6** The chapter pairs gestures: BRANCH/NARROW, SUSPEND/RESOLVE, WIDEN/COMMIT. DEFER stands alone.
+**6.6 DEFER's Pair**
 
-Why is DEFER unpaired? What would its pair be? Design a gesture that completes the set and explain what it does.
+**Position**: BRANCH/NARROW, SUSPEND/RESOLVE, WIDEN/COMMIT. DEFER stands alone.
 
-**6.7** You're at a site where the dominant gesture is one you refuse to execute. (Maybe COMMIT where you don't want to commit, or RESOLVE where you want to keep the question open.)
+| Proposed Pair | What It Does |
+|---------------|--------------|
+| **ACCELERATE** (or **FORCE**) | Rushes time forward (prematurity) |
 
-What happens when you resist the dominant gesture? Can you stay at the site? Does it force you out? Design a strategy for occupying a site while refusing its dominant gesture.
+**Question**: If DEFER *holds time back*, what gesture *pushes time forward*?
+
+**6.7 Refusing the Dominant Gesture**
+
+**Position**: You're at a site where the dominant gesture is one you refuse to execute (COMMIT when you won't commit).
+
+| Strategy | Effect |
+|----------|--------|
+| **SUSPEND** | Hold the question open; absorb pressure |
+| **TRANSFER** | Leave the site; find a new one |
+| **INVERT** | Do the opposite; destabilize the field |
+
+**Example (The Argument)**: Dominant gesture is COMMIT/ATTACK. Refusal: Execute SUSPEND (Silence). Result: The other person over-commits to fill the void.
+
+**Question**: Can you *stay* at a site while refusing its dominant gesture? What does it cost?
 
 ---
 

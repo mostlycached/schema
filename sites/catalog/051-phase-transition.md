@@ -58,6 +58,7 @@ In **Mathematics** practice, your moves are thermodynamic operations:
 | **GENERATE** | Produces: "revolution", "paradigm shift", "breakdown", "awakening", "death", "birth" |
 | **TRANSFER** | Maps to: revolution (social), awakening (consciousness), death (life), paradigm (conceptual) |
 | **DISSOLVE** | **IS dissolution** — the transition is the dissolving |
+| **PARASITIZE** | The Freeze intercepts the flux; we measure the states on either side, ignoring the catastrophe in between |
 | **EMERGE** | **IS emergence** — the transition is the emerging |
 
 ---

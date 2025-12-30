@@ -61,6 +61,7 @@ In **Engineering** practice, your moves are limited by extreme conditions:
 | **GENERATE** | Produces: "lava field", "pyroclastic flow", "volcanic island", "magma chamber" |
 | **TRANSFER** | Maps to: forge (human fire), creation myth (making from fire), hell (underground), phoenix (rebirth) |
 | **DISSOLVE** | When eruption ends; when mountain erodes — geological time |
+| **PARASITIZE** | The Tourist Rail intercepts the sublime; guardrails and ticket booths turn the planet's blood into a scenic overlook |
 | **EMERGE** | Cooling rock, a new island, or catastrophic winter |
 
 ---

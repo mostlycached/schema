@@ -57,6 +57,7 @@ In **Music** practice, your moves are compositional operations:
 | **GENERATE** | Produces: "the hum you only hear when it stops", "the refrigerator's drone revealed", "heartbeat after exertion ends" |
 | **TRANSFER** | Maps to: figure/ground (Gestalt inversion), negative space (visual absence), death (presence by cessation), photography (flash reveals room) |
 | **DISSOLVE** | Via: new sound starts, attention normalizes, silence filled |
+| **PARASITIZE** | The Echo (or Tinnitus) intercepts the silence; the brain manufactures sound to fill the void |
 | **EMERGE** | Applause (covering the void), coughing, or the shuffling of chairs |
 
 ---

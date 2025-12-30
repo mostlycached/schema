@@ -56,8 +56,10 @@ In **Economics** practice, moves are traps:
 | Operation | Mutated Consequence |
 |-----------|--------------------|
 | **GENERATE** | Produces: "indulgences", "organ markets", "company towns", "creation myths" |
+| **SPECULATE** | What if debt could be eaten? What if the ledger was the only territory? |
 | **TRANSFER** | Maps to: religion (guilt), physics (heat death), addiction (tolerance) |
 | **DISSOLVE** | Only via Default (Death) or Jubilee (System Reset - unlikely) |
+| **PARASITIZE** | The Credit Score App intercepts the crushing weight; gamifying the slavery into a climbing number |
 | **EMERGE** | A hollow man, a fanatic, or a revolution |
 
 ---

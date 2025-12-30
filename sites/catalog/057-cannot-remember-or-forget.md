@@ -59,6 +59,7 @@ In **Contemplation** practice, your moves are memory operations:
 | **GENERATE** | Produces: "childhood incident", "face you half-remember", "conversation that may have happened", "dream or reality" |
 | **TRANSFER** | Maps to: trauma (fragmentary), false memory (constructed), presque vu (tip of memory), haunting (present absence) |
 | **DISSOLVE** | **BLOCKED** — neither direction available |
+| **PARASITIZE** | The Archive intercepts the ghost; you digitize the half-memory, fixing it as a file that can be corrupted |
 | **EMERGE** | A gap in the narrative, a feeling of unease, or a trigger |
 
 ---

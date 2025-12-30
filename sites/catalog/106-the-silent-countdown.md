@@ -60,6 +60,7 @@ Moves are reduced to physical semiotics:
 | **GENERATE** | Produces: "handprints", "last gaze", "physical struggle", "suicide pact" |
 | **TRANSFER** | Maps to: diving (signals), ICU (intubated), vacuum (space) |
 | **DISSOLVE** | T=0 |
+| **PARASITIZE** | The Text Message intercepts the gaze; typing replaces the final stare |
 | **EMERGE** | A written note, a final stare, or deafness |
 
 ---

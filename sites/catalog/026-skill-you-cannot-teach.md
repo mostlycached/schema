@@ -57,6 +57,7 @@ In **Design** practice, your moves are transmission attempts:
 | **GENERATE** | Produces: "riding a bike", "wine tasting", "recognizing faces", "hitting a baseball" |
 | **TRANSFER** | Maps to: bicycle (balance), wine (perception), embodiment (body-knowledge), transmission (signal loss) |
 | **DISSOLVE** | Doesn't dissolve — student either suddenly gets it or doesn't |
+| **PARASITIZE** | The Checklist intercepts the tacit; reducing the master's art to a dead procedure that kills the spirit |
 | **EMERGE** | A master (who cannot explain), a failed student, or a mystery |
 
 ---

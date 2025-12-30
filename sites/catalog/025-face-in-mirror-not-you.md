@@ -57,6 +57,7 @@ In **Contemplation** practice, your moves are attention operations:
 | **GENERATE** | Produces: "voice on recording", "handwriting grown unfamiliar", "photo that doesn't look like you" |
 | **TRANSFER** | Maps to: uncanny valley (near-self), doppelgänger (threatening), mask (worn), Capgras (familiar stranger) |
 | **DISSOLVE** | Via: breaking gaze, time, motion (proprioception bridges), speaking |
+| **PARASITIZE** | The Filter intercepts the reflection; you prefer the digital mask to the biological stranger |
 | **EMERGE** | Madness, aging, or a self-portrait |
 
 ---

@@ -57,6 +57,7 @@ In **Mathematics** practice, your moves are blocked:
 | **GENERATE** | Produces: "tohu wa-bohu", "the formless void", "maximum uncertainty", "pre-structural" |
 | **TRANSFER** | Maps to: void (emptiness), Genesis (before creation), entropy (thermodynamic limit), information (maximum uncertainty) |
 | **DISSOLVE** | **THIS IS DISSOLUTION** — nothing to dissolve from |
+| **PARASITIZE** | The Pattern-Match (Pareidolia) intercepts the noise; you see faces where there is only static |
 | **EMERGE** | An attractor, a pattern, or a god |
 
 ---

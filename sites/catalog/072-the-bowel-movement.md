@@ -58,6 +58,7 @@ In **Contemplation** practice, your moves are somatic operations:
 | **GENERATE** | Produces: "vomiting", "menstruation", "urination", "sweating" |
 | **TRANSFER** | Maps to: waste management (civic), hydraulics (physics), shame structures (social) |
 | **DISSOLVE** | When euphemisms return ("freshen up") |
+| **PARASITIZE** | The Scroll intercepts the release; the phone prevents the encounter with your own biology |
 | **EMERGE** | Relief, a blocked pipe, or shame |
 
 ---

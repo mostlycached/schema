@@ -237,50 +237,96 @@ We've been mentioning "movements" and "dynamics" from sites. What exactly are th
 
 ### Warm-up
 
-**5.1** Take the site "the moment before you check your phone."
+**5.1 The Pre-Phone Check**
 
-What are its dimensional coordinates?
-- Ontological: (substance, relation, absence, process, limit, tension, interference, virtuality?)
-- Temporal: (instant, transition, oscillation, accumulation, memory, anticipation?)
-- Structural: (simple, composite, recursive, paradoxical, incomplete, boundary-only?)
+**Position**: You are at the site "The moment before you check your phone."
 
-**5.2** You're at the site "the conversation you've been avoiding."
+| Dimension | Value | Notes |
+|-----------|-------|-------|
+| **Ontological** | Virtuality + Tension | The phone *contains* a potential world; you feel the pull |
+| **Temporal** | Anticipation | Craving the hit |
+| **Structural** | Boundary-only | You are on the edge of the digital |
 
-Is this site engagement-dependent or persistent? Does it exist when you're not thinking about it?
+**Question**: What is the *exact* structure of this site? What gesture is about to fire? (Hint: COMMIT).
+
+**5.2 The Avoided Conversation**
+
+**Position**: You are at the site "The conversation you've been avoiding."
+
+| Existence Type | Test |
+|----------------|------|
+| **Engagement-dependent** | Exists only when you think about it |
+| **Persistent** | Exists even when you're not thinking about it (shapes behavior) |
+
+**Question**: Is this site Persistent? (Hint: Yes. It's a "gravity well" invisible to the eye but visible to the trajectory—you avoid certain rooms, topics, people.)
 
 ---
 
 ### Standard
 
-**5.3** "The apology" is a site. Derive three child sites by applying different operations:
-1. Add a property (what kind of apology?)
-2. Add a context (apology where/when?)
-3. Add a failure condition (apology that doesn't work because...?)
+**5.3 Deriving "The Apology"**
 
-**5.4** Compare the fertility of these two sites:
-- "The doorway"
-- "The locked door"
+**Position**: "The Apology" is a site. Derive three child sites:
 
-Which has more gestures available? Which is closer to an endpoint? What determines fertility?
+| Derivation Method | Child Site |
+|-------------------|------------|
+| **Add Property** | "The Preemptive Apology" (apologizing before doing the bad thing) |
+| **Add Context** | "The Public Apology" (performance vs. contrition) |
+| **Add Failure** | "The Apology That Demands Forgiveness" (transaction, not gift) |
 
-**5.5** You're in the domain of "morning routine." Generate a site that exists at each temporal dimension:
-- Instant: 
-- Transition:
-- Accumulation:
+**Question**: Which derivation produces the most *fertile* child?
 
-How do they relate to each other?
+**5.4 Fertility Comparison**
+
+**Position**: Compare two sites:
+
+| Site | Fertility | Available Gestures |
+|------|-----------|-------------------|
+| **The Doorway** | High | Go through, stand in, block, look through |
+| **The Locked Door** | Low (locally) | Knock, break, turn away |
+
+**However**: The Locked Door has high *narrative* fertility (Why? Who has the key?) but low *spatial* fertility.
+
+**Question**: What determines fertility? (Hint: number of available moves × their variance.)
+
+**5.5 Temporal Dimensions (Morning Routine)**
+
+**Position**: Generate a site at each temporal dimension:
+
+| Temporal Dimension | Site |
+|--------------------|------|
+| **Instant** | "The Alarm" (the shock of return) |
+| **Transition** | "The Shower" (liquid state between sleep and costume) |
+| **Accumulation** | "The Coffee Stain" (evidence of the routine's repetition) |
+
+**Question**: How do they relate? (Hint: Instant triggers Transition; Accumulation is the fossil record.)
 
 ---
 
 ### Challenge
 
-**5.6** Design a site that is simultaneously recursive (contains itself) and boundary-only (just the edge, no inside).
+**5.6 Recursive + Boundary-Only**
 
-Can such a site exist? What would it look like? Give an example or explain why it's impossible.
+**Position**: Design a site that is both recursive (contains itself) and boundary-only (just the edge, no inside).
 
-**5.7** Some sites only become visible through failure. "The relationship you took for granted" only appears when it's damaged.
+| Example | Why It Works |
+|---------|--------------|
+| **The Klein Bottle** | One continuous surface (boundary) that folds into itself (recursive) |
+| **Bureaucracy** | All interface (forms, rules) with no center; rules about rules |
 
-Identify three failure-mediated sites in your life. What would it take to perceive them *before* failure? Is that possible?
+**Question**: Can such a site exist? (Yes. It produces "Absurdity.")
+
+**5.7 Failure-Mediated Sites**
+
+**Position**: Some sites only appear through breakdown.
+
+| Domain | Failure-Mediated Site | Breakdown Trigger |
+|--------|----------------------|-------------------|
+| **Health** | "The breath" | Asthma, running |
+| **Infrastructure** | "The electricity" | Blackout |
+| **Trust** | "The truth" | Being lied to |
+
+**Question**: What would it take to perceive them *before* failure? (Hint: "Voluntary Failure"—fasting, camping, skepticism.)
 
 ---
 

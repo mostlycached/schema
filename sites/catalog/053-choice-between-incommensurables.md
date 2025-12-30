@@ -58,8 +58,10 @@ In **Philosophy** practice, your moves are deliberative operations:
 | Operation | Philosophical Consequence |
 |-----------|--------------------------|
 | **GENERATE** | Produces: "Sophie's choice", "career vs. calling", "loyalty vs. truth", "duty vs. desire" |
+| **SPECULATE** | What if you refused both? What if the frame is false? |
 | **TRANSFER** | Maps to: tragedy (necessary loss), Berlin (pluralism), trolley (thought experiment), existentialism (choice creates value) |
 | **DISSOLVE** | Only by choice — but the loss remains forever |
+| **PARASITIZE** | The Coin Flip (Chance) intercepts the deliberation; the Burden of Choice is offloaded to Chaos |
 | **EMERGE** | Regret, relief, or the living of the unchosen life as shadow |
 
 ---

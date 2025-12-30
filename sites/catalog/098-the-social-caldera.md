@@ -58,6 +58,7 @@ In **Sociology** practice, your moves are structural awareness operations:
 | **GENERATE** | Produces: "civil wars", "market crashes", "general strikes", "new constitutions" |
 | **TRANSFER** | Maps to: psychology (repressed trauma), geology (supervolcano), economics (bubble burst) |
 | **DISSOLVE** | Via eruption (collapse) or gradual solidification (rare) |
+| **PARASITIZE** | The Algorithm intercepts the rumble; content modulation hides the unrest until it's too late |
 | **EMERGE** | A new constitution, a ruin, or a massacre |
 
 ---

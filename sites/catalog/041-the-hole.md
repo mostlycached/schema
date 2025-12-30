@@ -57,8 +57,10 @@ In **Philosophy** practice, your moves are conceptual operations:
 | Operation | Philosophical Consequence |
 |-----------|--------------------------|
 | **GENERATE** | Produces: "hole in understanding", "hole in argument", "hole in heart", "black hole" |
+| **SPECULATE** | What if the hole is the object? What if the material is the void? |
 | **TRANSFER** | Maps to: nothing (pure absence), shadow (absence of light), silence (absence of sound), death (absence of person) |
 | **DISSOLVE** | When filled; hole becomes not-hole |
+| **PARASITIZE** | The Desire to Fill works as parasite; you cannot let the hole BE a hole |
 | **EMERGE** | Filling the hole, covering it, or the hole expanding to consume the surrounding |
 
 ---

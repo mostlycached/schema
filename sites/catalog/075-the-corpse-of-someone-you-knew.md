@@ -58,6 +58,7 @@ In **Contemplation** practice, your moves are limit-witnessing:
 | **GENERATE** | Produces: "grief", "horror", "funerals", "afterlife myths" |
 | **TRANSFER** | Maps to: mortality (universal), dualism (body/soul split), waste (disposal) |
 | **DISSOLVE** | Through decomposition (total) or cremation (rapid) |
+| **PARASITIZE** | The Selfie intercepts the vigil; you document the attendance, turning the dead into content |
 | **EMERGE** | Grief, an inheritance, or a funeral bill |
 
 ---

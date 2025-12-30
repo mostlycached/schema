@@ -57,6 +57,7 @@ In **Contemplation** practice, your moves are competence operations:
 | **GENERATE** | Produces: "reading without writing", "recognizing without naming", "heritage speakers" |
 | **TRANSFER** | Maps to: heritage (ancestral half-loss), exile (preserved comprehension), child (asymmetric bilingual), recognition (knowing without naming) |
 | **DISSOLVE** | Via practice (developing active from passive), immersion, or loss of passive too |
+| **PARASITIZE** | The Academy intercepts the tongue; they teach you grammar rules until you are too afraid to make a mistake to speak at all |
 | **EMERGE** | A nod, a gesture, or the shame of silence |
 
 ---

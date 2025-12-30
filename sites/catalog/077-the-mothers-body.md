@@ -57,6 +57,7 @@ In **Contemplation** practice, your moves are origin operations:
 | **GENERATE** | Produces: "psychoanalysis", "matrophobia", "goddess worship", "misogyny" |
 | **TRANSFER** | Maps to: earth (planet), nature (source), matter (matrix), death (return) |
 | **DISSOLVE** | Only in death (return to earth/mother) |
+| **PARASITIZE** | The Therapy Speak intercepts the bond; "Toxic" labels the origin, turning the debt into a pathology |
 | **EMERGE** | A child, postpartum depression, or a scar |
 
 ---

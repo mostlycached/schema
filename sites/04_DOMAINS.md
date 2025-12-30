@@ -228,55 +228,98 @@ We've arrived. What exactly is a site? What structure does it have? What does it
 
 ### Warm-up
 
-**4.1** Think of something you used to love doing but now find boring. Name the domain.
+**4.1 The Boring Domain**
 
-Which type of barrenness applies? (Familiarity, completion, categorical, exhaustion, or status?) How do you know?
+**Position**: You used to love something. Now it's boring. Name the domain.
 
-**4.2** Take the domain "cooking dinner for your family." What would change if you switched the practice?
+| Barrenness Type | Test | Example |
+|-----------------|------|---------|
+| **Familiarity** | You know what will happen | "Video games are all the same" |
+| **Completion** | You've mastered the loop | "I've seen every good movie" |
+| **Exhaustion** | Effort yields no surprise | "I've tried everything" |
 
-- Cooking × phenomenological attention
-- Cooking × engineering optimization
-- Cooking × performance art
+**Question**: Which type applies to your domain? How do you *know*? (Hint: If you can predict the next move, it's Familiarity. If effort doesn't help, it's Exhaustion.)
 
-Which switch would reveal the most unexpected sites?
+**4.2 The Practice Switch**
+
+**Position**: Take "Cooking dinner." Switch the practice:
+
+| Practice | What It Reveals |
+|----------|-----------------|
+| **Phenomenological** | Textures, smells, heat changes |
+| **Engineering** | Heat transfer, emulsion stability |
+| **Performance Art** | The violence of chopping, the ritual of serving |
+
+**Question**: Which switch breaks the domestic stupor most effectively? (Hint: Performance Art. It makes the ordinary *theatrical*.)
 
 ---
 
 ### Standard
 
-**4.3** You're in a meeting at work. The domain feels barren — nothing interesting is happening here.
+**4.3 The Barren Meeting**
 
-Apply one defamiliarization technique from each category:
-- Familiarity: literal, temporal, or scale estrangement
-- Status: elevation, dependency tracing, or expertise seeking
+**Position**: You're in a meeting at work. The domain feels barren.
 
-Did either recover sites? What did you find?
+| Defamiliarization | Technique | Result |
+|-------------------|-----------|--------|
+| **Literal** | "Animals in suits making mouth-noises" | Reveals primate hierarchy |
+| **Temporal** | "This is a 1950s boardroom ritual" | Reveals obsolescence |
+| **Status** | Treat the quietest person as the secret CEO | Reveals hidden influence |
 
-**4.4** Two domains you operate in feel completely separate — say, "being a parent" and "being a professional."
+**Question**: Did any technique recover sites? What did you find that was invisible before?
 
-Attempt a site translation. Take one site from the parenting domain and find its analog in the professional domain. (Example: "the teachable moment" → ?)
+**4.4 Site Translation**
 
-What transfers? What doesn't?
+**Position**: Two domains feel separate: "Parenting" and "Professional."
 
-**4.5** You're barren in a domain you've practiced for years. You know it too well.
+| Parenting Site | Translation | Professional Analog |
+|----------------|-------------|---------------------|
+| "The Tantrum" | Unregulated emotional discharge | "The Reply-All Chain" |
 
-Design a "practice switch" intervention. Keep the field; change the practice.
+**Transfer Mechanism**: Both demand attention, resist logic, require containment.
 
-What practice would be strange enough to defamiliarize but not so strange you can't engage?
+**Question**: If you handle a tantrum by "containing and waiting," what if you handled Reply-All the same way?
+
+**4.5 Barrenness Intervention**
+
+**Position**: You're barren in a domain you've practiced for years.
+
+| Operation | Target | Effect |
+|-----------|--------|--------|
+| **SWITCH PRACTICE** | Keep field; change lens | "Botanical Survey" turns dog-walking into species-cataloging |
+
+**Question**: What practice would be strange enough to defamiliarize but not so strange you can't engage?
 
 ---
 
 ### Challenge
 
-**4.6** The chapter lists five types of barrenness. But sometimes barrenness is *defensive* — you're calling it boring because you're afraid of what you'd find if you looked.
+**4.6 Defensive Barrenness**
 
-Can you distinguish between genuine barrenness and defensive barrenness? What would the test be? Give an example from your own experience.
+**Position**: Sometimes you call something "boring" because you're afraid of what you'd find if you looked.
 
-**4.7** You inherited a domain — a practice × field pairing you didn't choose. (Family religion, professional training, cultural conventions.)
+| Test | Genuine Barrenness | Defensive Barrenness |
+|------|--------------------|----------------------|
+| **Sensation** | Flat, sleepy | Tight, irritated |
+| **Behavior** | You look, but there's nothing | You look away *quickly* |
 
-The accumulated sites, constraints, and knowledge structures came pre-loaded. Some of them don't serve you.
+**Question**: Can you distinguish them in yourself? Name one case where "boring" was actually "terrifying."
 
-How do you operate *critically* within an inherited domain? Can you use the domain's resources against its constraints? Design an approach.
+**4.7 The Inherited Domain**
+
+**Position**: You inherited a domain (family religion, professional training). The sites and constraints came pre-loaded. Some don't serve you.
+
+| Operation | Effect |
+|-----------|--------|
+| **Critical Use** | Use the domain's tools *against* its own constraints |
+
+**Example**: "Corporate Professionalism" has a constraint: "Hide emotions." Critical Use: Use the mask to smuggle subversive ideas behind it.
+
+**Question**: What is the "load-bearing assumption" of your inherited domain? What breaks if you negate it?
+
+---
+
+*Solutions: [SOLUTIONS.md](./SOLUTIONS.md#chapter-4-domains)*
 
 ---
 

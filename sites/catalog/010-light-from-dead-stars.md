@@ -56,6 +56,7 @@ In **Contemplation** practice, your moves are attentional operations:
 | **GENERATE** | Produces: "photograph of someone now dead", "news that arrives late", "voice on old recording" |
 | **TRANSFER** | Maps to: message (posthumous), ghost (visible dead), archaeology (fossil), photography (trace) |
 | **DISSOLVE** | Via: clouds, dawn, or learning the star is dead |
+| **PARASITIZE** | The Atmosphere intercepts the signal; the stars twinkle not because of them, but because of our air (distortion) |
 | **EMERGE** | Via: darkness + looking up + knowledge of light travel |
 
 ---

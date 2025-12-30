@@ -59,6 +59,7 @@ In **Engineering** practice, your moves are exploration operations:
 | **GENERATE** | Produces: "Challenger Deep", "Mariana Trench", "hadal zone", "abyssal plain" |
 | **TRANSFER** | Maps to: Hades (underworld), abyss (unfathomable), pressure (crushing), darkness (eternal) |
 | **DISSOLVE** | Very stable — trenches persist millions of years |
+| **PARASITIZE** | The Plastic Bag intercepts the pristine; trash reaches the bottom before we do |
 | **EMERGE** | A new map, a crushed hull, or a surfacing |
 
 ---

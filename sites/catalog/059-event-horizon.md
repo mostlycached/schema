@@ -57,6 +57,7 @@ In **Mathematics** practice, your moves are theoretical operations:
 | **GENERATE** | Produces: "stellar black hole", "supermassive black hole", "micro black hole" |
 | **TRANSFER** | Maps to: irreversibility (thermodynamic), death (no return), abyss (unfathomable), void (ultimate) |
 | **DISSOLVE** | Hawking radiation — very slow dissolution |
+| **PARASITIZE** | The Screen intercepts the abyss; we represent the edge of physics as a CGI rendering, safe to watch |
 | **EMERGE** | Hawking radiation, a hologram, or spaghettification |
 
 ---

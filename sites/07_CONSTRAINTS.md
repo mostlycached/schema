@@ -348,7 +348,7 @@ The process (Paying) flows through Constraint B (Interest Rate) which *regenerat
 
 ## Next
 
-[Chapter 8: The Three Operations →](./08_OPERATIONS.md)
+[Chapter 8: The Operations (Structure & Transformation) →](./08_OPERATIONS.md)
 
 We've built up the whole system: flux, fields, practices, domains, sites, gestures, constraints. Now we go underneath to the abstract infrastructure. What's the deep structure that makes all of this work?
 
@@ -358,45 +358,105 @@ We've built up the whole system: flux, fields, practices, domains, sites, gestur
 
 ### Warm-up
 
-**7.1** "I have to be home by 10pm." This is a constraint on your evening. What does it reveal? (What sites become visible that wouldn't be otherwise?)
+**7.1 The Curfew**
 
-**7.2** You're cooking and realize you're missing a key ingredient. This accidental constraint just got added. Assess its fertility: does it reveal more than it hides?
+**Position**: "I have to be home by 10pm." A constraint on your evening.
+
+| Effect | Result |
+|--------|--------|
+| **Revealed** | The shape of what can fit in 4 hours (dinner, not party) |
+| **Forced** | COMMIT to efficient socializing |
+| **Blocked** | The "maybe stay" open-endedness |
+
+**Question**: What sites become visible *because* of the constraint? (Hint: The Goodbye. The Hurry. The Last Drink.)
+
+**7.2 The Missing Ingredient**
+
+**Position**: You're cooking. A key ingredient is missing. Accidental constraint activated.
+
+| Fertility Test | Result |
+|----------------|--------|
+| **Reveals > Hides** | High fertility (forces substitution, creativity) |
+| **Reveals < Hides** | Low fertility (just broken recipe) |
+
+**Question**: Is this constraint fertile? (Hint: Depends on your skill. For a beginner, Low. For a chef, High.)
 
 ---
 
 ### Standard
 
-**7.3** Take a constraint you live under that you didn't choose — a health condition, a financial limit, a family obligation.
+**7.3 The Unchosen Constraint**
 
-Extract its dimensional and gestural properties. Then: what sites does it reveal that wouldn't be visible without it?
+**Position**: Take a constraint you live under that you didn't choose (health, money, family).
 
-**7.4** Design a high-fertility constraint for "your morning routine." It should:
-- Target at least two dimensions
-- Open new gesture profiles
-- Be unstable (might reveal different things on different days)
+| Extract | Value |
+|---------|-------|
+| **Dimensional** | Scale/Temporal/Relational blocked |
+| **Gestural** | WIDEN blocked; NARROW forced |
 
-Test it for one morning. What sites did you find?
+**Question**: What sites does it reveal that wouldn't exist without it? (Example: Chronic Fatigue → Site: "The 4-Hour Day.")
 
-**7.5** The chapter describes the constraint-derive-constrain loop. Execute one full cycle:
-1. Start with a constraint
-2. Generate under it
-3. Find a site that interests you
-4. Derive a new constraint from that site
-5. Generate under the new constraint
+**7.4 Design a High-Fertility Constraint**
 
-Document each step.
+**Position**: Your morning routine. Design a constraint.
+
+| Property | Target |
+|----------|--------|
+| **Dimensions** | 2+ (e.g., Temporal AND Spatial) |
+| **Gesture Profile** | Opens BRANCH; blocks DEFER |
+| **Stability** | Unstable (different effects on different days) |
+
+**Example Constraint**: "No phone until you've left the house."
+
+**Test it**: Report the sites you found.
+
+**7.5 The Loop**
+
+**Position**: Execute the Constraint-Derive-Constrain cycle:
+
+| Step | Result |
+|------|--------|
+| 1. Start with constraint | "No screens after 9pm" |
+| 2. Generate under it | Notice the silence, the boredom |
+| 3. Find a site | "The Thing You Do With Your Hands" |
+| 4. Derive constraint | "Only activities requiring physical manipulation" |
+| 5. Generate under new constraint | Whittling, cooking, repair |
+
+**Document each step.**
 
 ---
 
 ### Challenge
 
-**7.6** Some constraints are so internalized you don't see them as constraints — they feel like "just how things are."
+**7.6 The Invisible Constraint**
 
-Identify one invisible constraint in your life. How do you know it's a constraint and not just reality? What would change if you made it explicit and then relaxed it?
+**Position**: Some constraints are so internalized they feel like "reality."
 
-**7.7** The chapter says "good constraints are fertile — they reveal more than they hide." But sometimes you need a low-fertility constraint that forces you to an endpoint.
+| Test | Result |
+|------|--------|
+| **Phrase starts with "I have to..."** | Probably a constraint |
+| **You feel anxiety when imagining violation** | Definitely a constraint |
 
-When would you deliberately choose a low-fertility constraint? Design one that forces a resolution you've been avoiding.
+**Example**: "I have to answer emails within 24 hours." Constraint? Yes. Reality? No.
+
+**Question**: What would change if you relaxed it?
+
+**7.7 The Low-Fertility Constraint**
+
+**Position**: Sometimes you *need* a constraint that forces an endpoint.
+
+| High Fertility | Low Fertility |
+|----------------|---------------|
+| Opens possibility | Closes possibility |
+| Use for exploration | Use for resolution |
+
+**Example**: "I will decide by midnight." Low fertility. Forced COMMIT.
+
+**Design a low-fertility constraint for something you've been avoiding.**
+
+---
+
+*Solutions: [SOLUTIONS.md](./SOLUTIONS.md#chapter-7-constraints)*
 
 ---
 

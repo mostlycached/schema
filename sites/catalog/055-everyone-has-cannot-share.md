@@ -60,6 +60,7 @@ In **Philosophy** practice, your moves are communicative attempts:
 | **GENERATE** | Produces: "déjà vu", "jamais vu", "tip-of-tongue", "sudden clarity", "existential vertigo" |
 | **TRANSFER** | Maps to: qualia (privacy), mysticism (ineffability), phenomenology (first-person), poetry (indirect) |
 | **DISSOLVE** | BLOCKED — if articulated it's no longer this; but it can't be articulated |
+| **PARASITIZE** | The Hashtag intercepts the private; #Relatable reduces the ineffable to a viral search term |
 | **EMERGE** | Solipsism, art, or a silent nod between strangers |
 
 ---

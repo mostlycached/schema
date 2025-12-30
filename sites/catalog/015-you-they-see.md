@@ -58,6 +58,7 @@ In **Sociology** practice, your moves are role-analytic operations:
 | **GENERATE** | Produces: "your voice on recording", "your reputation", "how they'll describe you at your funeral" |
 | **TRANSFER** | Maps to: mirror (reflection), translation (loss in transfer), ghost (haunting), acting (role vs. person) |
 | **DISSOLVE** | Rare: requires profound self-knowledge OR complete social alignment |
+| **PARASITIZE** | The Brand intercepts the identity; the "You" becomes a product managed by PR, even for yourself |
 | **EMERGE** | A reputation, a persona, or social anxiety |
 
 ---

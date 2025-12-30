@@ -58,6 +58,7 @@ In **Mathematics** practice, your moves are cosmological operations:
 | **GENERATE** | Produces: "interstellar medium", "intergalactic void", "cosmic void", "perfect vacuum" |
 | **TRANSFER** | Maps to: nothing (philosophical), silence (auditory), void (spatial), death (experiential) |
 | **DISSOLVE** | **CANNOT** — vacuum is already minimal state |
+| **PARASITIZE** | The Debris intercepts the void; low-earth orbit is so crowded with junk the emptiness is now a minefield |
 | **EMERGE** | A vacuum realized, a cold realization, or silence |
 
 ---

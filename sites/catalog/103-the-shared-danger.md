@@ -56,8 +56,10 @@ In **Sociology** practice, your moves are bonding operations:
 | Operation | Constrained Consequence |
 |-----------|------------------------|
 | **GENERATE** | Produces: "trauma bonds", "war stories", "survivor guilt", "the pact" |
+| **SPECULATE** | What if the danger was chosen? What if the danger is the other person? |
 | **TRANSFER** | Maps to: foxhole (war), horror movie (last survivors), heist (shared risk) |
 | **DISSOLVE** | Through rescue (safety separates us) or death of one |
+| **PARASITIZE** | The Adventure Package intercepts the risk; the danger is curated, so the bond is purchased |
 | **EMERGE** | Trauma bond, breakup, or lifelong trust |
 
 ---

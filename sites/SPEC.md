@@ -804,7 +804,7 @@ GestureExecution {
 }
 
 // Global gestures (structure → structure at any level)
-GlobalGestureType = GENERATE | SPECULATE | TRANSFER | DISSOLVE | EMERGE
+GlobalGestureType = GENERATE | SPECULATE | TRANSFER | DISSOLVE | EMERGE | PARASITIZE
 
 GlobalGesture {
   type: GlobalGestureType
@@ -846,6 +846,17 @@ GlobalGestureSemantics = {
     description: "Precipitate structure from flux"
     direction: closing  // creates constraint
     typical_mode: expansion
+  }
+  EMERGE: {
+    description: "Precipitate structure from flux"
+    direction: closing  // creates constraint
+    typical_mode: expansion
+  }
+  PARASITIZE: {
+    description: "Intercept a relation to force complexity"
+    direction: deviating // redirects flow
+    typical_mode: mutation
+    operations: [interception, noise_injection, canalization]
   }
 }
 ```

@@ -59,6 +59,7 @@ In **Contemplation** practice, your moves are somatic attentions:
 | **GENERATE** | Produces: "still-damp towel", "handwriting still drying", "food still warm" |
 | **TRANSFER** | Maps to: handshake (delayed touch), fossil (impression), contagion (transmission), haunting |
 | **DISSOLVE** | Via cooling — the heat dissipates; race against entropy |
+| **PARASITIZE** | The Hygiene Theater intercepts the trace; the seat is sanitized, erasing the ghost before you sit |
 | **EMERGE** | Disgust, intimacy, or the seat cooling |
 
 ---

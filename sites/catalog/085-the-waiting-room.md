@@ -56,6 +56,7 @@ In **Contemplation** practice, your moves are temporal operations:
 | **GENERATE** | Produces: "boredom", "patient identity", "anxiety", "administrative violence" |
 | **TRANSFER** | Maps to: prison (holding), purgatory (limital), queue (algorithm) |
 | **DISSOLVE** | When name is called |
+| **PARASITIZE** | The Candy Crush intercepts the duration; gamified time erases the pause |
 | **EMERGE** | Your name called, a diagnosis, or leaving without being seen |
 
 ---

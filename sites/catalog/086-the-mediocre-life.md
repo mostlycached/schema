@@ -56,6 +56,7 @@ In **Sociology** practice, your moves are normative operations:
 | **GENERATE** | Produces: "suburbs", "middle class", "mainstream media", "reality TV" |
 | **TRANSFER** | Maps to: bell curve (center), thermodynamics (equilibrium), biology (species norm) |
 | **DISSOLVE** | Through crisis or lottery win (rare) |
+| **PARASITIZE** | The Curated Feed intercepts the average; you post only the highlights, simulating a triumph you don't live |
 | **EMERGE** | A midlife crisis, a quiet death, or resentment |
 
 ---

@@ -55,8 +55,10 @@ In **Contemplation** practice, your moves are visceral operations:
 | Operation | Contemplative Consequence |
 |-----------|--------------------------|
 | **GENERATE** | Produces: "appetite loss", "food safety laws", "trust issues", "paranoid eating" |
+| **SPECULATE** | What if the food ate you? What if the contamination was intentional? |
 | **TRANSFER** | Maps to: purity (cultural), borders (political), infection (medical) |
 | **DISSOLVE** | When hunger returns (biology wins) |
+| **PARASITIZE** | The Yelp Review intercepts the nausea; you don't spit it out, you photograph it for leverage |
 | **EMERGE** | Loss of appetite, a lawsuit, or a refunded meal |
 
 ---

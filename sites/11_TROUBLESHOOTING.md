@@ -301,44 +301,97 @@ The troubleshooting assumes conventional sites. But what if we need unconvention
 
 ### Warm-up
 
-**11.1** You're stuck on a writing project. Apply the quick reference:
-- What symptom matches best?
-- What should you check first?
+**11.1 Apply the Quick Reference**
 
-**11.2** "I keep writing the same story." Which category of problem is this? What's the first intervention to try?
+**Position**: You're stuck on a writing project.
+
+| Symptom | First Check |
+|---------|-------------|
+| Nothing coming | Barrenness type |
+| Everything the same | Constraint fertility |
+| Can't move | Gesture profile |
+
+**Question**: What matches your stuck-state best?
+
+**11.2 The Repeating Story**
+
+**Position**: "I keep writing the same story."
+
+| Cause | Intervention |
+|-------|--------------|
+| **Hidden attractor** | Find the fixed valuation; negate it |
+| **Barren constraint** | The constraint admits only one site |
+
+**Question**: What does the repetition *protect*?
 
 ---
 
 ### Standard
 
-**11.3** Think of a creative project you abandoned. Retroactively diagnose it:
-- What symptom did you experience?
-- What was the likely cause?
-- What intervention might have worked?
+**11.3 Retroactive Diagnosis**
 
-**11.4** You're procrastinating on something that matters to you. Use the troubleshooting framework:
-- Is it "nothing coming" (barrenness)?
-- Is it "can't move" (blocked gestures)?
-- Is it "feels forced" (missing valuation)?
+**Position**: Think of a creative project you abandoned.
 
-Design an intervention based on your diagnosis.
+| Element | Your Case |
+|---------|-----------|
+| **Symptom** | ? |
+| **Likely Cause** | ? |
+| **Intervention (if you'd known)** | ? |
 
-**11.5** "I can't resolve" — think of a question in your life that's been suspended for a long time.
+**Question**: Would the intervention have worked? Or was the project doomed?
 
-Check the four causes. Is it intrinsically irresoluble, premature, wrong resolution, or needing external input? What would each intervention look like?
+**11.4 Procrastination Diagnosis**
+
+**Position**: You are procrastinating on something that matters.
+
+| Category | Test |
+|----------|------|
+| **Nothing coming** | Do you have zero ideas? |
+| **Can't move** | Do you have ideas but can't execute? |
+| **Feels forced** | Do you have ideas but they feel wrong? |
+
+**Intervention**: Design based on your category.
+
+**11.5 Chronic Suspension**
+
+**Position**: You have a question suspended for a long time.
+
+| Cause | Intervention |
+|-------|--------------|
+| **Intrinsically irresoluble** | Accept; integrate into life |
+| **Premature** | Gather more experience |
+| **Wrong resolution** | BRANCH to find alternatives |
+| **External input needed** | Exit domain; find the input |
+
+**Question**: Which cause applies? What would the intervention look like?
 
 ---
 
 ### Challenge
 
-**11.6** The chapter assumes the problem is fixable. But some projects *should* die.
+**11.6 The Death Diagnosis**
 
-How do you distinguish between a project that needs intervention and a project that should be abandoned? Design diagnostic criteria for "let it go."
+**Position**: Some projects should die.
 
-**11.7** The troubleshooting chapter is itself a site. Apply the ontology:
-- What gesture is the chapter offering? (BRANCH? NARROW? RESOLVE?)
-- What's the dominant gesture of "troubleshooting" as a practice?
-- What would a "troubleshooting" site look like where RESOLVE is blocked?
+| Test | Result |
+|------|--------|
+| **No valuation** | You don't care if it works |
+| **External imposition** | You're doing it for someone else |
+| **Incompatible constraint** | The project violates a load-bearing value |
+
+**Question**: Design criteria for "let it go."
+
+**11.7 The Meta-Troubleshoot**
+
+**Position**: This chapter is itself a site.
+
+| Element | The Chapter |
+|---------|-------------|
+| **Dominant Gesture** | BRANCH (offers many paths) |
+| **Practice** | Debugging (mechanical) |
+| **Blocked Gesture** | DISSOLVE (won't let you give up) |
+
+**Question**: What does a "Troubleshooting" site look like where RESOLVE is blocked? (Hint: Endless debugging.)
 
 ---
 

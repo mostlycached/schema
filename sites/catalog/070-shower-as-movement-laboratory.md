@@ -57,6 +57,7 @@ In **Design** practice, your moves are reconstruction operations (Laban Grammar)
 | **GENERATE** | Produces: "kitchen as dance", "commute as flow", "typing as percussion" |
 | **TRANSFER** | Maps to: Laban analysis, somatic practice, architectural design, ergonomics |
 | **DISSOLVE** | When habitual cleaning resumes |
+| **PARASITIZE** | The Podcast intercepts the silence; content fills the acoustic void, preventing the shower thoughts from forming |
 | **EMERGE** | Cleanliness, a good idea, or pruney skin |
 
 ---

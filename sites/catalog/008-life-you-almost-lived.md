@@ -58,6 +58,7 @@ In **Writing** practice, your moves are narrative operations:
 | **GENERATE** | Produces: "the person you didn't marry", "the career you abandoned", "if you had stayed" |
 | **TRANSFER** | Maps to: ghost (haunting), shadow (cast by actual), quantum (many-worlds), fiction (unwritten story) |
 | **DISSOLVE** | Slow: requires radical acceptance or replacement satisfactions |
+| **PARASITIZE** | The Fantasy intercepts the grief; you prefer the perfect ghost to the flawed reality |
 | **EMERGE** | Acceptance of the singular life, or a renovated present |
 
 ---

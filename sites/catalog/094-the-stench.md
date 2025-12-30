@@ -56,6 +56,7 @@ In **Contemplation** practice, your moves are breath operations:
 | **GENERATE** | Produces: "sanitation", "perfume", "zoning laws", "disgust" |
 | **TRANSFER** | Maps to: biology (warning system), social class (clean/dirty), chemistry (volatiles) |
 | **DISSOLVE** | Through ventilation or removal |
+| **PARASITIZE** | The Scent Diffuser intercepts the rot; "Ocean Breeze" is pumped into the lobby to mask the decay |
 | **EMERGE** | Nausea, a memory of the smell, or fresh air (finally) |
 
 ---

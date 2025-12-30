@@ -60,6 +60,7 @@ In **Mathematics** practice, your moves are logical operations:
 | **GENERATE** | Produces: "prime numbers", "the circle", "infinity", "Pythagorean theorem" |
 | **TRANSFER** | Maps to: Platonic forms (eternal objects), logic (necessary inference), physics (applicable truth) |
 | **DISSOLVE** | **IMPOSSIBLE** — infinite dissolution resistance |
+| **PARASITIZE** | The Application (Physics) intercepts the purity; truth becomes merely "approximate" for utility |
 | **EMERGE** | A proof, a physical application, or a doubting mind |
 
 ---

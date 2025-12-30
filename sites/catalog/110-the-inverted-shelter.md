@@ -58,6 +58,7 @@ In **Architecture** practice, moves are inverted by the goal of exposure:
 | **GENERATE** | Produces: "panopticons", "isolation tanks", "ascetic cells", "torture gardens" |
 | **TRANSFER** | Maps to: institutional design (hostile architecture), religious architecture (stylites), modernism (glass houses) |
 | **DISSOLVE** | Through destruction of the lens (ruin) |
+| **PARASITIZE** | The HVAC intercepts the focus; climate control fights the lens, normalizing the temperature |
 | **EMERGE** | A callus, a saint, or a corpse |
 
 ---

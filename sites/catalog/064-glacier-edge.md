@@ -59,6 +59,7 @@ In **Contemplation** practice, your moves are witnessing operations:
 | **GENERATE** | Produces: "ice core", "glacial moraine", "meltwater", "terminal moraine" |
 | **TRANSFER** | Maps to: deep time (geological), memory (stored), retreat (loss), archive (preserved) |
 | **DISSOLVE** | Melting — accelerating in anthropocene |
+| **PARASITIZE** | The Time-Lapse intercepts the deep time; speeding up centuries into seconds for easy consumption |
 | **EMERGE** | Meltwater, a moraine, or calving |
 
 ---

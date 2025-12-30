@@ -198,54 +198,91 @@ When a practice engages a field, something stabilizes. That's a domain. What are
 
 ### Warm-up
 
-**3.1** You're eating dinner with your family. Apply three different practices to this moment:
-- Phenomenological: What are you actually experiencing?
-- Sociological: What roles and norms are operating?
-- Design: What would you optimize?
+**3.1 The Dinner Table**
 
-Which practice reveals the most interesting sites? Which practice would be strangest to actually adopt at the dinner table?
+**Position**: You are eating dinner with your family. Apply three different practices:
 
-**3.2** You're in a conversation and realize you've shifted levels — you started at the social level (what should be said) and dropped to the phenomenal level (what you're actually feeling).
+| Practice | Level | Reveals |
+|----------|-------|---------|
+| **Phenomenological** | Phenomenal | The scrape of the fork, the saltiness, the tension in a jaw |
+| **Sociological** | Social | Gender roles (who serves?), power dynamics (who interrupts?) |
+| **Design** | Material/Functional | Poor table layout, inefficient passing routes |
 
-What does that shift feel like? What triggers it? Can you control it?
+**Question**: Which practice would be *strangest* to actually adopt at the table? (Hint: Design. Treating family dinner as logistics ignores the social contract.)
+
+**3.2 The Level Shift**
+
+**Position**: You're in a conversation. You realize you've shifted from Social level (what should be said) to Phenomenal level (what you're actually feeling).
+
+| Before | After | Trigger |
+|--------|-------|---------|
+| Social (Words) | Phenomenal (Sensation) | Fatigue, emotion, drugs, or intense staring |
+
+**Question**: What does this shift *feel* like? (Hint: vertigo. The words stop meaning things and become sounds. The face becomes meat.)
 
 ---
 
 ### Standard
 
-**3.3** Pick something you do regularly but don't think of as having a "practice" — scrolling your phone, taking a shower, commuting.
+**3.3 The Implicit Practice**
 
-What are the gestures you perform without naming them? (When do you BRANCH? NARROW? COMMIT?) 
+**Position**: Pick something you do regularly that isn't named as a "practice" (scrolling, commuting, showering).
 
-Make the implicit practice explicit. What changes when you see it as a practice?
+| Activity | Implicit Gestures |
+|----------|-------------------|
+| **Commuting** | NARROW (ignore homeless person), COMMIT (choose lane), DEFER (podcast to not be "here") |
 
-**3.4** The chapter lists practices by their flux capacity — some can dissolve, some can only hover, some can't approach flux at all.
+**Question**: Once you name the implicit gestures, what *is* the practice? (Example: Commuting = "The Practice of Erasure" — navigating space while pretending not to exist.)
 
-What practice are you most fluent in? What's its flux capacity? 
+**3.4 Flux Capacity**
 
-Now: what's a practice you've tried that has *different* flux capacity? What was disorienting about operating in it?
+**Position**: What practice are you most fluent in? What's its flux capacity?
 
-**3.5** You're stuck in a project. The practice you're using isn't generating sites.
+| Practice Type | Flux Capacity | Examples |
+|---------------|---------------|----------|
+| **Analytical** | Low (solid concepts) | Criticism, Debugging |
+| **Improvisational** | High (can dissolve) | Jazz, Improv Comedy |
+| **Meditative** | Very High | Vipassana, Floating |
 
-Design a "practice switch" — temporarily adopt a radically different practice to engage the same field. 
+**Question**: What's *disorienting* about entering a practice with different flux capacity than your native one? (Hint: the lack of handholds. In high-flux, you can't "lean" on rules.)
 
-Example: If you've been analyzing, try composing. If you've been designing, try phenomenological attention.
+**3.5 The Practice Switch**
 
-What would it take to actually do this? What's the barrier?
+**Position**: You're stuck in a project. The practice you're using isn't generating sites.
+
+| Original Practice | Stuck Symptom | Switch To | New Sites |
+|-------------------|---------------|-----------|-----------|
+| **Analyzing** | No new insights | Composing (aesthetic) | Rhythm, form |
+| **Designing** | No new forms | Walking (somatic) | Sensation, pace |
+
+**Barrier**: The belief that the new practice is "not working" (i.e., not analyzing). You must value the new output (a rhythm) even if it looks like waste to the old practice.
 
 ---
 
 ### Challenge
 
-**3.6** Therapy could be framed as a practice. What field levels does it engage? What's its flux capacity?
+**3.6 Therapy Design**
 
-Now: design a *different* therapeutic practice — same goal (healing, change) but different levels engaged, different flux capacity. How would it work? What would it reveal that standard therapy doesn't?
+**Position**: Standard talk therapy engages Conceptual/Social levels, low flux.
 
-**3.7** You've internalized a practice so deeply you can't see it anymore — it's become "just how you see things."
+| Property | Standard Therapy | Alt-Therapy (Design) |
+|----------|------------------|----------------------|
+| Levels | Conceptual, Social | Phenomenal, Material |
+| Flux | Low (seeks stability) | High (dissolves "self") |
+| Reveals | The "story" | Where trauma lives in the fascia |
 
-How do you identify such an invisible practice? What would reveal it?
+**Question**: Design an alt-therapy. What levels does it engage? What does it reveal that the standard form misses?
 
-Try to name one of your own invisible practices. What would you see differently if you could step outside it?
+**3.7 The Invisible Practice**
+
+**Position**: You've internalized a practice so deeply you can't see it. It's become "just how you see things."
+
+| Example | The Practice | How to Reveal |
+|---------|--------------|---------------|
+| Always optimizing | "Efficiency" | Try to do something purely for waste. Feel the anxiety. |
+| Always reading status | "Hierarchy" | Enter a room and ignore who has power. What happens? |
+
+**Question**: Name one of your own invisible practices. What would you see differently if you stepped outside it?
 
 ---
 

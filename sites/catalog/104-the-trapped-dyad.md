@@ -58,6 +58,7 @@ In **Sociology** practice, moves are intensified by enclosure:
 | **GENERATE** | Produces: "cabin fever", "liferaft ethics", "extreme disclosure" |
 | **TRANSFER** | Maps to: submarine (pressure), elevator (stuck), quarantine (sickness) |
 | **DISSOLVE** | ONLY via external rescue or breach |
+| **PARASITIZE** | The WiFi intercepts the enclosure; screens allow you to leave the bunker mentally, ghosting the person next to you |
 | **EMERGE** | Madness, rescue, or asphyxiation |
 
 ---

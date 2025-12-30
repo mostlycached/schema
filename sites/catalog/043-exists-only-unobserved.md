@@ -60,6 +60,7 @@ In **Mathematics** practice, your moves are limited by measurement collapse:
 | **GENERATE** | Produces: "quantum state", "private self", "unwatched universe", "history without record" |
 | **TRANSFER** | Maps to: Schrödinger (superposition), privacy (unobserved self), collapse (measurement), unwitnessed (events) |
 | **DISSOLVE** | When observed — unobserved state collapses |
+| **PARASITIZE** | The Camera intercepts the flux; the record replaces the event (Schrödinger's Paparazzi) |
 | **EMERGE** | A measured value, a dead cat, or a "reset" system |
 
 ---

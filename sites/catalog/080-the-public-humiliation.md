@@ -81,6 +81,7 @@ In **Sociology** practice, your moves are status operations:
 | **GENERATE** | Produces: "the failed presentation", "the exposed secret", "the bodily accident", "the status collapse" |
 | **TRANSFER** | Maps to: trial (public judgment), spectacle (entertainment), degradation ritual (anthropology) |
 | **DISSOLVE** | Time helps, but memory persists; incompletely dissolved |
+| **PARASITIZE** | The Viral Clip intercepts the memory; the moment is looped forever on TikTok, removing the possibility of forgetting |
 | **EMERGE** | A reputation ruined, a viral video, or exile |
 
 ---

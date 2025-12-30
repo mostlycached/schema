@@ -58,6 +58,7 @@ In **Design** practice, your moves are bodily operations:
 | **GENERATE** | Produces: any movement vocabulary — dance, martial arts, yoga, sport |
 | **TRANSFER** | Maps to: dance (phrase), martial arts (strike), yoga (asana), music (technique) |
 | **DISSOLVE** | When any movement ends the stillness |
+| **PARASITIZE** | The Drill intercepts the impulse; the standardized form overrides the body's natural path |
 | **EMERGE** | An action, a dance, or a collapse |
 
 ---

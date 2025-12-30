@@ -58,6 +58,7 @@ In **Contemplation** practice, your moves are reflection operations:
 | **GENERATE** | Produces: "scars", "statues", "records", "hardened hearts" |
 | **TRANSFER** | Maps to: trauma (post-event hardening), photography (frozen time), geology (igneous rock) |
 | **DISSOLVE** | Very slow erosion; or sudden shattering |
+| **PARASITIZE** | The Selfie intercepts the reflection; you look at the screen, not the black glass |
 | **EMERGE** | A sharp edge, a reflection, or a museum piece |
 
 ---

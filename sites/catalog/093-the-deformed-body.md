@@ -57,6 +57,7 @@ In **Contemplation** practice, your moves are gaze operations:
 | **GENERATE** | Produces: "freak shows", "horror tropes", "plastic surgery", "eugenics" |
 | **TRANSFER** | Maps to: teratology (study of monsters), evolution (errors), art (grotesque) |
 | **DISSOLVE** | Through familiarity (sometimes) or death |
+| **PARASITIZE** | The AI Beauty Filter intercepts the variation; replacing the anomaly with the statistical mean |
 | **EMERGE** | Cruelty, sainthood, or the averted gaze of others |
 
 ---

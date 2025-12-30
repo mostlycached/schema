@@ -57,6 +57,7 @@ In **Contemplation** practice, your moves are resistance operations:
 | **GENERATE** | Produces: "recovery industry", "secrets", "shame spirals", "overdose" |
 | **TRANSFER** | Maps to: hunger (biological), obsession (mental), erosion (geological), slavery (agency) |
 | **DISSOLVE** | Through using (temporary relief) or long abstinence (fading) |
+| **PARASITIZE** | The Vape intercepts the smoke; the ritual is digitized, delivering nicotine without the fire |
 | **EMERGE** | Relapse, overdose, or recovery |
 
 ---

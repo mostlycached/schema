@@ -58,6 +58,7 @@ In **Philosophy** practice, your moves are teleological operations:
 | **GENERATE** | Produces: "perfect life always ahead", "person you almost become", "understanding just out of reach" |
 | **TRANSFER** | Maps to: horizon (receding edge), rainbow (unlocalizable), asymptote (infinite approach), telos (constitutive goal) |
 | **DISSOLVE** | Via abandoning pursuit, redefining goal, accepting limit |
+| **PARASITIZE** | The Zeno Paradox intercepts the motion; you move halfway, then halfway, proving you never moved at all |
 | **EMERGE** | Exhaustion, a new goal, or the realization of the chase |
 
 ---

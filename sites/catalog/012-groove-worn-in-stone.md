@@ -57,6 +57,7 @@ In **Engineering** practice, your moves are analytical operations:
 | **GENERATE** | Produces: "path worn through grass", "stairs worn at center", "brass rail worn bright" |
 | **TRANSFER** | Maps to: river (erosion), voting (aggregate), archaeology (sediment), language (worn words) |
 | **DISSOLVE** | Requires destruction of substrate or counter-process |
+| **PARASITIZE** | The Tourist's Foot intercepts the history; erasing the specificity of the Pilgrim's Step |
 | **EMERGE** | A replaced step, a structural failure, or the museum frame |
 
 ---

@@ -59,6 +59,7 @@ In **Contemplation** practice, your moves are endurance operations:
 | **GENERATE** | Produces: "dark night of the soul", "season of darkness", "waiting for dawn", "the long night" |
 | **TRANSFER** | Maps to: depression (inner darkness), waiting (extended anticipation), death (the long darkness), rebirth (return of light) |
 | **DISSOLVE** | When the sun returns — which it will. Seasonal certainty. |
+| **PARASITIZE** | The Sun Lamp intercepts the cycle; artificial daylight erases the season of darkness |
 | **EMERGE** | Cabin fever, the first dawn, or madness |
 
 ---

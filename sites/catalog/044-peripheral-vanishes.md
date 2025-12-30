@@ -59,6 +59,7 @@ In **Contemplation** practice, your moves are attentional strategies:
 | **GENERATE** | Produces: "peripheral insight", "shy ideas", "things best not looked at directly" |
 | **TRANSFER** | Maps to: creativity (indirect), meditation (soft gaze), photography (indirect), therapy (not asking directly) |
 | **DISSOLVE** | When looked at directly — vanishes or transforms |
+| **PARASITIZE** | The Spotlight intercepts the ghost; direct attention demands high resolution, erasing the vague reality |
 | **EMERGE** | A ghost story, a doubt, or a turn of the head |
 
 ---

@@ -59,6 +59,7 @@ In **Philosophy** practice, your moves are post-factum operations:
 | **GENERATE** | Produces: "first words spoken", "shot fired", "vow made", "secret told" |
 | **TRANSFER** | Maps to: entropy (time's direction), Rubicon (crossing), death (ultimate), creation (bringing into being) |
 | **DISSOLVE** | Act can't dissolve — only its meaning can shift |
+| **PARASITIZE** | The Insurance intercepts the consequence; paying to pretend the irreversible can be undone |
 | **EMERGE** | New world emerges — new possibilities, new foreclosures |
 
 ---

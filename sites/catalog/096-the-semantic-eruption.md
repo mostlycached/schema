@@ -58,6 +58,7 @@ In **Linguistics** practice, your moves are modified by the fluid state of meani
 | **GENERATE** | Produces: "manifestos", "new slangs", "schizophasia", "revolutionary texts" |
 | **TRANSFER** | Maps to: volcano (physical rupture), revolution (social rupture), psychosis (mental rupture) |
 | **DISSOLVE** | Via cooling (becoming standard language) or exhaustion (silence) |
+| **PARASITIZE** | The Meme intercepts the rupture; viral templates structure the glossolalia into shareable units |
 | **EMERGE** | A neologism, a dead metaphor, or a banned book |
 
 ---

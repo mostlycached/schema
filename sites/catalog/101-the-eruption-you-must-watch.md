@@ -59,6 +59,7 @@ In **Contemplation** practice, your moves are attention operations under duress:
 | **GENERATE** | Produces: "witness testimony", "flashbulb memories", "cultural trauma", "the Zapruder film" |
 | **TRANSFER** | Maps to: car crash (can't look away), 9/11 (collectively pinned), execution (witnessing) |
 | **DISSOLVE** | Only when the event ends on its own terms |
+| **PARASITIZE** | The Livestream intercepts the eye; the chat sidebar scrolls over the catastrophe, distracting from the horror |
 | **EMERGE** | PTSD, a recorded video, or questions about God |
 
 ---

@@ -60,6 +60,7 @@ In **Contemplation** practice, your moves are endurance operations:
 | **GENERATE** | Produces: "emotional desert", "creative drought", "isolation", "wilderness testing" |
 | **TRANSFER** | Maps to: exposure (psychological), drought (deprivation), wilderness (spiritual), waste (stripped) |
 | **DISSOLVE** | When rain falls (rare), when oasis found |
+| **PARASITIZE** | The AC Unit intercepts the exposure; we carry a bubble of 72°F everywhere, denying the planet's heat |
 | **EMERGE** | Nightfall, dehydration, or a hallucination |
 
 ---

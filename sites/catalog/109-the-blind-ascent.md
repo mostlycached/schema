@@ -59,6 +59,7 @@ Moves are re-mapped to non-visual channels:
 | **GENERATE** | Produces: "echolocation", "haptic languages", "trust walks", "night terrors" |
 | **TRANSFER** | Maps to: deep ocean (no light), womb (pre-visual), sleep (dreaming) |
 | **DISSOLVE** | Sunrise (if physical) or Sight restoration |
+| **PARASITIZE** | The GPS intercepts the dark; the blue dot tells you where you are, removing the need to feel the rock |
 | **EMERGE** | Echolocation, night vision, or a broken climber |
 
 ---

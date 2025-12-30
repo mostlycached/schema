@@ -59,6 +59,7 @@ Moves are inverted by nesting:
 | **GENERATE** | Produces: "storm chasers", "crisis managers", "calm in battle" |
 | **TRANSFER** | Maps to: surfing (tube), war (frontline safety), negotiation (center of conflict) |
 | **DISSOLVE** | When the danger subsides (and safety expands) |
+| **PARASITIZE** | The VR Headset intercepts the eye; you sit in the fire but see a beach |
 | **EMERGE** | A storm chaser, a bunker mentality, or survival against odds |
 
 ---

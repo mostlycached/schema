@@ -55,6 +55,7 @@ In **Music** practice, your moves are temporal operations:
 | **GENERATE** | Produces: "the moment of impact", "seeing the fist coming", "instant after you let go" |
 | **TRANSFER** | Maps to: prophecy (foreknowledge), fissure (crack), death row (condemned), freeze-frame |
 | **DISSOLVE** | Cannot — auto-terminates when effect arrives |
+| **PARASITIZE** | The Anticipation intercepts the pain; you suffer the fear before the blow |
 | **EMERGE** | The scream, the recoil, or the irreversible damage |
 
 ---

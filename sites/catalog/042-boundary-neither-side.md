@@ -60,6 +60,7 @@ In **Mathematics** practice, your moves are boundary operations:
 | **GENERATE** | Produces: "edge of sanity", "border of self", "line between love and hate", "threshold of sacred" |
 | **TRANSFER** | Maps to: liminal (threshold), skin (body), twilight (temporal), membrane (selective) |
 | **DISSOLVE** | When distinction collapses |
+| **PARASITIZE** | The Crossing (Smuggler) intercepts the limit; the line becomes a thickness (zone) |
 | **EMERGE** | A new territory, a merged state, or a border war |
 
 ---

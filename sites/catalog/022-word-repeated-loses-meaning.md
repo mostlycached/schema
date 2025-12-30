@@ -57,6 +57,7 @@ In **Music** practice, your moves are auditory operations:
 | **GENERATE** | Produces: "face studied until strange", "name that doesn't fit", "gesture performed until empty" |
 | **TRANSFER** | Maps to: satiation (hunger/fullness), erosion (wear), meditation (intentional dissolution), jamais vu |
 | **DISSOLVE** | **THE SITE IS DISSOLUTION** — you're watching it happen |
+| **PARASITIZE** | The Sound Shape intercepts the Meaning; the phonetics become an independent object |
 | **EMERGE** | A new strangeness, laughter, or the gradual return of the concept |
 
 ---

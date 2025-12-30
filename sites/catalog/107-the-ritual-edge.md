@@ -59,6 +59,7 @@ In **Sociology** practice, moves are strictly ordered:
 | **GENERATE** | Produces: "initiation rites", "blood brothers", "codependency cycles" |
 | **TRANSFER** | Maps to: trust falls (weak), brinksmanship (political), BDSM (scene) |
 | **DISSOLVE** | When the catch becomes guaranteed (ritual becomes routine) |
+| **PARASITIZE** | The Safety Net intercepts the fall; HR regulations ensure the push is never dangerous, so the catch is never real |
 | **EMERGE** | Trauma bonding, a secret handshake, or the scar |
 
 ---

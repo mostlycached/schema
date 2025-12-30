@@ -57,6 +57,7 @@ In **Sociology** practice, your moves are speech operations:
 | **GENERATE** | Produces: first dates, interviews, arguments, negotiations, therapy |
 | **TRANSFER** | Maps to: dance (lead/follow), chess (gambit), jazz (improv), tennis (rally) |
 | **DISSOLVE** | When conversation ends, third party enters, topic exhausts |
+| **PARASITIZE** | The Script intercepts the opening; "How are you?" "Fine" kills the possibility space instantly |
 | **EMERGE** | A relationship, an argument, or silence |
 
 ---

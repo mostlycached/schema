@@ -59,6 +59,7 @@ In **Mathematics** practice, your moves are endpoint operations:
 | **GENERATE** | Produces: "heat death of relationship", "heat death of culture", "personal heat death" |
 | **TRANSFER** | Maps to: death (personal ending), silence (auditory nothing), void (spatial nothing), boredom (experiential nothing) |
 | **DISSOLVE** | **CANNOT** — this IS the final dissolution |
+| **PARASITIZE** | Life (as Negentropy) intercepts the decay; temporarily reversing the flow (but losing long-term) |
 | **EMERGE** | A Boltzmann brain, a vacuum fluctuation, or true silence |
 
 ---

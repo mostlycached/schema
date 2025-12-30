@@ -58,6 +58,7 @@ In **Mathematics** practice, your moves are limit operations:
 | **GENERATE** | Produces: "Bose-Einstein condensates", "superconductivity", "superfluidity", "quantum stillness" |
 | **TRANSFER** | Maps to: asymptote (math), limits (philosophy), stillness (meditation), death (cessation) |
 | **DISSOLVE** | Cannot — the limit is absolute |
+| **PARASITIZE** | The Vacuum Fluctuation intercepts the stillness; energy borrows from nothing to violate the zero |
 | **EMERGE** | A warmed lab, a quantum statistic, or the Big Freeze |
 
 ---

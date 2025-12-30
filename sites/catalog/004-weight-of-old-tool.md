@@ -57,6 +57,7 @@ In **Contemplation** practice, your moves are attentional operations:
 | **GENERATE** | Produces: "instrument you used to play", "your old handwriting", "childhood bedroom revisited" |
 | **TRANSFER** | Maps to: vessel (container), archaeology (strata), prosthesis (extension), inheritance (bequest) |
 | **DISSOLVE** | When: tool breaks, given away, skill fully lost, familiarity erodes |
+| **PARASITIZE** | The Rust intercepts the utility; the object becomes aesthetic because it can no longer work |
 | **EMERGE** | A remembered skill, a blister, or the tool reused |
 
 ---

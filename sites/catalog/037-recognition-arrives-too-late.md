@@ -58,6 +58,7 @@ In **Writing** practice, your moves are retrospective operations:
 | **GENERATE** | Produces: "what you should have said at the funeral", "love recognized after they left", "meaning found after the door closed" |
 | **TRANSFER** | Maps to: owl of Minerva (wisdom at dusk), epitaph (too-late summary), hindsight (backward vision), elegy (mourning) |
 | **DISSOLVE** | **NEVER** — the knowledge persists, useless |
+| **PARASITIZE** | The Moral intercepts the tragedy; we wrap the loss in a "lesson learned" to avoid facing the waste |
 | **EMERGE** | Wisdom, regret, or a cautionary tale |
 
 ---

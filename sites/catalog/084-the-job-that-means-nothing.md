@@ -56,6 +56,7 @@ In **Sociology** practice, your moves are role operations:
 | **GENERATE** | Produces: "bullshit jobs", "quiet quitting", "middle management", "corporate speak" |
 | **TRANSFER** | Maps to: entropy (wasted energy), ritual (empty form), economics (surplus value) |
 | **DISSOLVE** | Through economic collapse or retirement |
+| **PARASITIZE** | The Slack Status intercepts the presence; the green dot proves you are working when you are actually dead inside |
 | **EMERGE** | Burnout, a paycheck, or a revolution (unlikely) |
 
 ---

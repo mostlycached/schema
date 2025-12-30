@@ -58,6 +58,7 @@ In **Mathematics** practice, your moves are logical operations:
 | **GENERATE** | Produces: Liar paradox, Russell's set, Zeno's arrow, Berry paradox, Newcomb's problem |
 | **TRANSFER** | Maps to: incompleteness (Gödel), undecidability (halting), superposition (quantum) |
 | **DISSOLVE** | **IMPOSSIBLE** — structure forbids resolution |
+| **PARASITIZE** | The Loophole intercepts the logic; a semantic trick allows escape (but corrupts the system) |
 | **EMERGE** | A new logic (paraconsistent), a collapse of the system, or oscillation |
 
 ---

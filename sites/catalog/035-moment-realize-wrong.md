@@ -61,6 +61,7 @@ In **Writing** practice, your moves are narrative-revision operations:
 | **GENERATE** | Produces: "the marriage was a lie", "the ideology was false", "the memory was fabricated", "the self-image was defense" |
 | **TRANSFER** | Maps to: earthquake (ground), apostasy (faith), Copernican (center displaced), awakening (dream ending) |
 | **DISSOLVE** | Slowly through reconstruction — or never fully |
+| **PARASITIZE** | The Retcon intercepts the collapse; you rewrite your history to pretend you knew it all along |
 | **EMERGE** | A new life (painful), a divorce, or a rewritten history |
 
 ---

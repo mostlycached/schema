@@ -57,6 +57,7 @@ In **Contemplation** practice, your moves are endurance operations:
 | **GENERATE** | Produces: "chronic illness", "unresolved grief", "societal rot", "climate damage" |
 | **TRANSFER** | Maps to: fragility (structural), maintenance (infinite), entropy (biological) |
 | **DISSOLVE** | Only if healing occurs (rare) |
+| **PARASITIZE** | The Search intercepts the tending; WebMD offers a thousand diagnoses, none of which heal the breach |
 | **EMERGE** | Scar tissue, gangrene, or chronic pain |
 
 ---

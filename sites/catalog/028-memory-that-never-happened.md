@@ -58,6 +58,7 @@ In **Writing** practice, your moves are narrative-verification operations:
 | **GENERATE** | Produces: "childhood trauma that didn't happen", "person you remember meeting", "conversation you're sure occurred" |
 | **TRANSFER** | Maps to: dream (crossed boundary), fiction (story→truth), implant (external origin), simulation |
 | **DISSOLVE** | Only via incontrovertible external evidence |
+| **PARASITIZE** | The Implant intercepts the recall; the fiction is so vivid it overwrites the actual past (Total Recall) |
 | **EMERGE** | An epistemically humble narrator, or a fictionalized past |
 
 ---

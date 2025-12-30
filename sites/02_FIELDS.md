@@ -220,53 +220,110 @@ A field exists. But sites don't appear until a practice engages it. What are pra
 
 ### Warm-up
 
-**2.1** You're angry at someone. Where does "this anger" end? 
+**2.1 The Anger Field**
 
-Try three different boundings:
-- Temporal: When did it start? When will it end?
-- Phenomenal: What sensations belong to the anger vs. adjacent experiences?
-- Conceptual: What *kind* of anger is this? (Betrayal-anger? Injustice-anger? Frustration-anger?)
+**Position**: You are angry at someone. The anger is a field. You must bound it to work with it.
 
-Which bounding creates the most useful field for working with the anger?
+| Bounding Type | Question | Effect |
+|---------------|----------|--------|
+| **Temporal** | When did it start? When will it end? | Reveals duration; useful for management |
+| **Phenomenal** | What sensations belong to the anger? | Reveals body-site; useful for somatic work |
+| **Conceptual** | What *kind* of anger? (Betrayal? Injustice?) | Reveals structure; useful for understanding |
 
-**2.2** "Friendship" is a field most people treat as obvious. Name three ways to differentiate it internally that would reveal sites invisible to the default differentiation.
+**Question**: Which bounding creates the most *actionable* field? Which creates the most *generative* field for writing?
+
+**2.2 Differentiating "Friendship"**
+
+**Position**: "Friendship" is a field most people treat as obvious. But it hides internal faults.
+
+| Differentiation Axis | Sub-Fields Revealed | Hidden Sites |
+|----------------------|---------------------|--------------|
+| **Maintenance cost** | High-cost vs. Low-cost friends | Sites of depletion, resentment |
+| **Information asymmetry** | Who knows whose secrets? | Sites of power, leverage |
+| **Decay rate** | Which friendships are dying? | Sites of grief, neglect |
+
+**Question**: Name a differentiation that would reveal a site *invisible* under the default ("friends are friends") bounding.
 
 ---
 
 ### Standard
 
-**2.3** Pick a field you know well (cooking, parenting, your job). It probably feels established and stable.
+**2.3 Splitting a Stable Field**
 
-Now: where are the fault lines? Where could you SPLIT it? Try to find at least two cracks — places where what's inside operates by different logics that are currently hidden by the shared boundary.
+**Position**: Pick a field you know well (cooking, parenting, your job). It feels stable.
 
-**2.4** You're at a party. "Party" is a field. But halfway through, you realize you've been operating in a different field than everyone else — maybe "work networking" while they're in "casual socializing."
+| Operation | Target | Result |
+|-----------|--------|--------|
+| **SPLIT** | Find a fault line | Two sub-fields with different logics |
 
-What happens at the moment of recognition? Does your field dissolve? Merge? Contract? What determines which field you end up in?
+**Example (Parenting)**:
+- **Fault Line 1**: Custodial (keeping them alive) vs. Developmental (helping them grow)
+- **Fault Line 2**: Public (performance of good parent) vs. Private (actual relationship)
 
-**2.5** BRIDGE is described as connecting to a distant field. 
+**Question**: Find two cracks in your chosen field. What would happen if you explicitly SPLIT along them?
 
-Take "grief" and bridge it to three increasingly distant fields:
-1. An obvious connection
-2. A less obvious connection  
-3. A strange connection that shouldn't work but does
+**2.4 The Field Switch**
 
-For each, what structure transfers? What breaks?
+**Position**: You're at a party. Halfway through, you realize you've been operating in "Work Networking" while everyone else is in "Casual Socializing."
+
+| Your Field | Their Field | Recognition Moment |
+|------------|-------------|-------------------|
+| Work Networking | Casual Socializing | Vertigo; map mismatch |
+
+| Move | Effect | Risk |
+|------|--------|------|
+| **CONTRACT** | Isolate; reduce exposure | Alienation |
+| **MERGE** | Try to play-work | Inauthentic |
+| **SWITCH** | Abandon your field; adopt theirs | Loss of goals |
+
+**Question**: What determines which field you end up in? Who has the power to define the dominant field?
+
+**2.5 The BRIDGE Operation**
+
+**Position**: Take "Grief" and BRIDGE it to three increasingly distant fields.
+
+| Target Field | Structural Transfer | What Breaks |
+|--------------|---------------------|-------------|
+| **Depression** (obvious) | Sadness, withdrawal | Difference: grief has object, depression diffuse |
+| **Architecture** (less obvious) | Ruins; persistence after function | — |
+| **Digestion** (strange) | Metabolizing a heavy object | Grief *consumes* the lost person |
+
+**Question**: What is the *mechanism* of BRIDGE? You are finding a shared structure and forcing a mapping. What determines if the bridge holds?
 
 ---
 
 ### Challenge
 
-**2.6** The chapter says bounding can be spatial, temporal, conceptual, phenomenal, or social. Most fields use multiple at once.
+**2.6 The Phenomenal-Only Field**
 
-Design a field that uses *only* phenomenal bounding — the boundary is entirely about how something feels, with no conceptual, social, or temporal support.
+**Position**: Design a field bounded *only* by how something feels. No concept, no clock, no social role.
 
-Can such a field be stable? What happens when the feeling fades?
+**Example**: "The hum of the refrigerator."
 
-**2.7** You have two fields that you keep carefully separate: "work self" and "home self." They share a boundary (you) but are differentiated differently, populated differently, connected differently.
+| Property | Value |
+|----------|-------|
+| Bounding | Auditory only |
+| Stability | Very low |
+| Decay | When attention drifts |
 
-What would happen if you MERGED them? Not collapsed — actually merged, finding a new bounding that encompasses both and re-differentiates.
+**Question**: Can such a field be stable? What happens when the feeling fades? (Hint: it dissolves back into flux or gets captured by a conceptual field).
 
-What sites would emerge that neither field currently shows?
+**2.7 The Merge**
+
+**Position**: You have two fields you keep separate: "Work Self" and "Home Self." They share a boundary (you) but are differentiated differently.
+
+| Operation | Effect |
+|-----------|--------|
+| **MERGE** | Find a new bounding that encompasses both; re-differentiate |
+
+**Example Merge**: "The Project Manager of the Soul."
+
+| Emerged Site | Source |
+|--------------|--------|
+| "The inefficient love" | Revealed as *waste* by work-logic |
+| "The profitable rest" | Revealed as *investment* by home-logic |
+
+**Question**: What sites would emerge that neither field currently shows? What monstrosity would you become if the merge succeeded?
 
 ---
 

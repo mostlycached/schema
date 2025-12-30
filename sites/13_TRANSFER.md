@@ -402,46 +402,96 @@ See [SPEC.md](./SPEC.md) for complete type definitions.
 
 ### Warm-up
 
-**13.1** The chapter gives examples: comedy→grief, recursion→architecture, counterfeiting→memory.
+**13.1 Two Domains**
 
-Pick two domains from your life, one you know well, one you know less well. What might transfer between them?
+**Position**: Pick two domains from your life—one familiar, one less familiar.
 
-**13.2** Think of a metaphor you use often. Is it a transfer? What structure actually maps? Where does it break?
+| Familiar Domain | Unfamiliar Domain | Hypothetical Transfer |
+|-----------------|-------------------|----------------------|
+| *Cooking* | *Music* | Timing, heat, crescendo |
+| *Parenting* | *Gardening* | Pruning, patience, seasons |
+
+**Question**: What structure might transfer?
+
+**13.2 Metaphor Anatomy**
+
+**Position**: Think of a metaphor you use often.
+
+| Metaphor | What Actually Maps | Where It Breaks |
+|----------|-------------------|-----------------|
+| "Life is a journey" | Direction, progress | No destination; no map |
+| "Argument is war" | Attack, defend, win | No corpses |
+
+**Question**: Is your metaphor a transfer? Where does the mapping break?
 
 ---
 
 ### Standard
 
-**13.3** Execute a transfer:
-1. Source domain: pick one you know well
-2. Target domain: pick one that's distant
-3. Extract gesture + dimensional structure from source
-4. Apply to target
-5. Generate 2-3 sites
+**13.3 Execute a Transfer**
 
-Did you produce genuine vertigo, or just metaphor?
+**Position**: Full transfer sequence.
 
-**13.4** The catalog includes "Cooking → Speech" (apology as compensation, not undoing).
+| Step | Your Case |
+|------|-----------|
+| 1. Source domain | ? |
+| 2. Target domain | ? |
+| 3. Extract gesture + dimensions | ? |
+| 4. Apply | ? |
+| 5. Generate 2-3 sites | ? |
 
-Design a transfer in reverse: Speech → Cooking. What structure from speech might reveal something in cooking?
+**Question**: Did you produce *vertigo* or just *metaphor*?
 
-**13.5** The chapter says "the transfer should feel wrong at first."
+**13.4 Reverse Transfer**
 
-Think of a transfer that feels *too* wrong — one you'd refuse to try. What are you protecting? What might you find if you tried it anyway?
+**Position**: The catalog includes "Cooking → Speech." Reverse it.
+
+| Source | Target | Structure |
+|--------|--------|-----------|
+| **Speech** | **Cooking** | ? |
+
+**Example**: "Argument as Over-Salting" — once you've added certain words, you cannot remove them.
+
+**Question**: What structure from speech reveals something in cooking?
+
+**13.5 The Forbidden Transfer**
+
+**Position**: Think of a transfer that feels *too wrong*.
+
+| Refused Transfer | What Are You Protecting? |
+|------------------|--------------------------|
+| *Romance → Economics* | "Love shouldn't be transactional" |
+| *Death → Comedy* | "Death shouldn't be funny" |
+
+**Question**: What might you find if you tried it anyway?
 
 ---
 
 ### Challenge
 
-**13.6** Transfer the system itself. Apply the SPEC ontology to a domain you know the system wasn't designed for (sports? cooking? romance?).
+**13.6 Transfer the System**
 
-What works? What breaks? What would you need to modify?
+**Position**: Apply the SPEC ontology to a domain it wasn't designed for.
 
-**13.7** The chapter ends: "The system is for arriving somewhere unexpected."
+| Domain | What Works | What Breaks |
+|--------|------------|-------------|
+| **Cooking** | Sites (recipes), Gestures (techniques) | MVA less clear |
+| **Romance** | Gestures (COMMIT, DEFER), Constraints | "Fertility" becomes loaded |
 
-Have you arrived somewhere unexpected? What did the collision of these exercises reveal?
+**Question**: What would you need to modify?
 
-Write a one-paragraph answer in the vocabulary of the system: what sites, gestures, constraints, and values emerged from working through this textbook?
+**13.7 The Final Site**
+
+**Position**: "The system is for arriving somewhere unexpected."
+
+| Element | What Emerged for You? |
+|---------|----------------------|
+| **Sites** | ? |
+| **Gestures** | ? |
+| **Constraints** | ? |
+| **Values** | ? |
+
+**Question**: Write a one-paragraph answer in the vocabulary of the system. What did the collision reveal?
 
 ---
 

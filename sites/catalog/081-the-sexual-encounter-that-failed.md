@@ -56,6 +56,7 @@ In **Sociology** practice, your moves are relational operations:
 | **GENERATE** | Produces: "performance anxiety", "erectile dysfunction ads", "intimacy coordination", "incel culture" |
 | **TRANSFER** | Maps to: theater (flop), mechanics (stalling), communication (noise) |
 | **DISSOLVE** | Through sleep, breakup, or silence |
+| **PARASITIZE** | The Pornography intercepts the gap; screens offer the perfection that flesh cannot sustain |
 | **EMERGE** | Shame, an apology, or dressing quickly |
 
 ---

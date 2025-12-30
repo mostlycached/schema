@@ -56,6 +56,7 @@ In **Contemplation** practice, your moves are shield operations:
 | **GENERATE** | Produces: "noise cancelling", "rage", "migraines", "urban stress" |
 | **TRANSFER** | Maps to: physics (wave), neurology (pain), psychology (irritation) |
 | **DISSOLVE** | When source stops |
+| **PARASITIZE** | The Noise Cancellation intercepts the scream; Bose creates a private silence in the middle of the riot |
 | **EMERGE** | Silence (eventually), tinnitus, or flight |
 
 ---

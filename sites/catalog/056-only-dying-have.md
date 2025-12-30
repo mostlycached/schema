@@ -58,6 +58,7 @@ In **Philosophy** practice, your moves are existential operations:
 | **GENERATE** | Produces: "last breath", "consciousness ending", "what the dead know", "the other side" |
 | **TRANSFER** | Maps to: NDE (reports), Tibetan Buddhism (bardo), Epicurus (nothingness), phenomenology (first-person) |
 | **DISSOLVE** | The one who dies dissolves — site cannot be revisited |
+| **PARASITIZE** | The Simulation intercepts the limit; NDE VR sets sell the "death experience" without the dying |
 | **EMERGE** | The end of the subject, or (speculatively) a new state |
 
 ---

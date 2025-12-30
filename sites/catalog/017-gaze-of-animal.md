@@ -55,8 +55,10 @@ In **Philosophy** practice, your moves are conceptual operations:
 | Operation | Philosophical Consequence |
 |-----------|--------------------------|
 | **GENERATE** | Produces: "dying animal's eyes", "predator's attention", "pet's look of recognition" |
+| **SPECULATE** | What if the animal pities you? What if the gaze is a camera? |
 | **TRANSFER** | Maps to: window (aperture), mirror (reflection), language (communication without content), alien (radical alterity) |
 | **DISSOLVE** | When: one looks away; context imposes interpretation |
+| **PARASITIZE** | Anthropomorphism intercepts the abyss; you see a "friend" instead of an "alien" (Survival) |
 | **EMERGE** | The animal looks away, or you project a human mind to cope |
 
 ---

@@ -56,6 +56,7 @@ In **Philosophy** practice, your moves are moral operations:
 | **GENERATE** | Produces: "regret", "moral injury", "cynicism", "caution" |
 | **TRANSFER** | Maps to: tragedy (hamartia), ethics (akrasia), psychology (fight/flight) |
 | **DISSOLVE** | Through forgiveness (rare) or total forgetting |
+| **PARASITIZE** | The Disclaimer intercepts the guilt; "I was protecting my boundaries" reframes fear as self-care |
 | **EMERGE** | A lie, a lifelong shame, or a specific silence |
 
 ---

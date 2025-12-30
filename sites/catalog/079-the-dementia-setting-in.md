@@ -57,6 +57,7 @@ In **Contemplation** practice, your moves are vanishing operations:
 | **GENERATE** | Produces: "caregiving crisis", "identity loss", "legal issues", "family trauma" |
 | **TRANSFER** | Maps to: digital corruption (data rot), erosion (landscape), sunset (light fading) |
 | **DISSOLVE** | The site dissolves the user |
+| **PARASITIZE** | The Smart Home intercepts the confusion; Alexa remembers so you don't have to |
 | **EMERGE** | Silence, the loss of self, or moments of clarity |
 
 ---

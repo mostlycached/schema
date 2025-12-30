@@ -56,6 +56,7 @@ In **Philosophy** practice, your moves are shadow operations:
 | **GENERATE** | Produces: "tabloids", "public shaming", "cancel culture", "colosseums" |
 | **TRANSFER** | Maps to: evolution (competition), psychology (ego defense), theology (sin) |
 | **DISSOLVE** | Through compassion (hard work) or exhaustion |
+| **PARASITIZE** | The Reaction GIF intercepts the cruelty; a meme masks the pleasure as "humor" |
 | **EMERGE** | A hidden smile, a bond with other haters, or moral rot |
 
 ---

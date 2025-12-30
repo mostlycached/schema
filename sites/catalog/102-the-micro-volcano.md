@@ -58,6 +58,7 @@ In **Design** practice, your moves are precision operations:
 | **GENERATE** | Produces: "soldering", "welding", "popping a pimple", "lighting a cigarette" |
 | **TRANSFER** | Maps to: nanotechnology (handling atoms), surgery (micro-intervention), anger management (small outbursts) |
 | **DISSOLVE** | Rapid cooling; blowing it out |
+| **PARASITIZE** | The Macro Lens intercepts the scale; zooming in turns the pimple into a landscape, dissolving the person |
 | **EMERGE** | Molten solder, a burnt finger, or a sterile needle |
 
 ---

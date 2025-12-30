@@ -57,6 +57,7 @@ In **Engineering** practice, your moves are maintenance operations:
 | **GENERATE** | Produces: "athlete watching their sport", "musician who can hear but not play", "teaching what you can no longer do" |
 | **TRANSFER** | Maps to: tide (receding water), erosion (gradual wear), haunting (capacity ghosts), inheritance (passing on) |
 | **DISSOLVE** | **THE SITE IS DISSOLUTION** — skill dissolving into flux |
+| **PARASITIZE** | The Compensatory Habit intercepts the decay; the body learns a cheat to hide the loss |
 | **EMERGE** | A retired master, a flawed object, or a new reliance on others |
 
 ---

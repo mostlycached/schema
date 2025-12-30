@@ -56,8 +56,10 @@ In **Philosophy** practice, your moves are expression-attempts:
 | Operation | Philosophical Consequence |
 |-----------|--------------------------|
 | **GENERATE** | Produces: "grief that has no name", "joy beyond expression", "love that can't be said" |
+| **SPECULATE** | What if pain IS a language? What if the body is speaking truth? |
 | **TRANSFER** | Maps to: Wittgenstein (limits), Scarry (pain's world-destruction), mysticism (ineffable), music (non-verbal) |
 | **DISSOLVE** | If pain ends, or if words finally found (rare) |
+| **PARASITIZE** | The Scream intercepts the silence; sound replaces the need for words |
 | **EMERGE** | A scream, unconsciousness, or a weak metaphor |
 
 ---

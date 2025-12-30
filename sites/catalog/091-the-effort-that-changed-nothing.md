@@ -56,6 +56,7 @@ In **Philosophy** practice, your moves are futility operations:
 | **GENERATE** | Produces: "burnout", "cynicism", "risk aversion", "nihilism" |
 | **TRANSFER** | Maps to: thermodynamics (efficiency), evolution (extinction), economics (sunk cost) |
 | **DISSOLVE** | Through forgetting (eventually) |
+| **PARASITIZE** | The LinkedIn Post intercepts the waste; you spin the failure as a "learning journey" for engagement |
 | **EMERGE** | Bitterness, wisdom (rare), or the next project |
 
 ---

@@ -57,6 +57,7 @@ In **Writing** practice, your moves are narrative anticipation operations:
 | **GENERATE** | Produces: "waiting for test results", "the parent who is dying", "before the wedding" |
 | **TRANSFER** | Maps to: weather (storm), pregnancy (carrying), execution (scheduled doom), illness (prognosis) |
 | **DISSOLVE** | When event arrives, event averted, or certainty collapses |
+| **PARASITIZE** | The Anxiety intercepts the event; you exhaust the suffering before the blow even lands |
 | **EMERGE** | The event itself (relief/horror), or the realization it won't happen |
 
 ---

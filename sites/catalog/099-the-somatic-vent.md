@@ -58,6 +58,7 @@ In **Medicine** practice, your moves are regulation operations:
 | **GENERATE** | Produces: "rashes", "fevers", "panic attacks", "unexplained pains" |
 | **TRANSFER** | Maps to: geology (fumarole), plumbing (pressure valve), psychology (acting out) |
 | **DISSOLVE** | Via healing (source cools) or chronic adaptation |
+| **PARASITIZE** | The Painkiller intercepts the signal; Oxycontin silences the alarm, allowing the damage to continue |
 | **EMERGE** | A scar, a diagnosis, or relief |
 
 ---

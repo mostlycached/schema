@@ -326,46 +326,98 @@ What to do when analysis fails or generation stalls.
 
 ### Warm-up
 
-**10.1** A friend keeps talking about applying for a job but never does. Which pattern is this? (DEFER endpoint, SUSPEND blocks RESOLVE, something else?)
+**10.1 The Chronic DEFERer**
 
-**10.2** Think of a movie you love. Which of the eight patterns is most central to how it works?
+**Position**: A friend keeps talking about applying for a job but never does.
+
+| Possible Pattern | Test |
+|------------------|------|
+| **DEFER Endpoint** | Is there a belief that "later" will be better? |
+| **SUSPEND blocks RESOLVE** | Is the question held open but not deferred? |
+| **Fear of COMMIT** | Is the act available but avoided? |
+
+**Question**: Which pattern applies? (Hint: DEFER Endpoint. "Later" is endlessly preferred.)
+
+**10.2 Pattern-in-Film**
+
+**Position**: Name a movie you love.
+
+| Film | Dominant Pattern |
+|------|------------------|
+| *Mulholland Drive* | Ontological Shift (Dream → Reality → ???) |
+| *Waiting for Godot* | DEFER Endpoint (He never comes) |
+| *Memento* | WIDEN Cascade (reversed) |
+
+**Question**: Which of the 8 patterns is most central?
 
 ---
 
 ### Standard
 
-**10.3** Generate three sites using the "Failure-Mediated Perception" constraint:
-- A domain where something only becomes visible through breakdown
+**10.3 Failure-Mediated Sites**
 
-What did you find? Were the sites surprising?
+**Position**: Generate 3 sites using the constraint.
 
-**10.4** Apply "Valuation Inversion" to a domain where you have strong preferences. What's currently high-value? What would it look like inverted?
+| Domain | Failure | Site Revealed |
+|--------|---------|---------------|
+| **Body** | Injury | "The Tendon You Never Noticed" |
+| **Relationship** | Fight | "The Assumption That Cracked" |
+| **City** | Blackout | "The Dependency on the Grid" |
 
-Can you actually operate from the inverted values, or just describe them?
+**Question**: Were the sites surprising?
 
-**10.5** Execute a "WIDEN cascade" starting from wherever you're sitting right now:
-1. This seat
-2. WIDEN → ?
-3. WIDEN → ?
-4. WIDEN → ?
+**10.4 Valuation Inversion**
 
-Where do you end up? How many WIDENs before you hit cosmic scale or loop back?
+**Position**: Pick a domain where you have strong preferences.
+
+| Current Valuation | Inverted |
+|-------------------|----------|
+| Efficiency > Leisure | Leisure > Efficiency |
+| Success > Contentment | Contentment > Success |
+
+**Question**: Can you *operate* from the inverted values, or only describe them?
+
+**10.5 WIDEN Cascade**
+
+**Position**: Start from where you're sitting.
+
+| Step | Result |
+|------|--------|
+| 1. This seat | Object (chair) |
+| 2. WIDEN | This room (container) |
+| 3. WIDEN | This building (institution) |
+| 4. WIDEN | This city (culture) |
+| 5. WIDEN | This civilization (history) |
+
+**Question**: How many WIDENs before you hit cosmic scale or loop back?
 
 ---
 
 ### Challenge
 
-**10.6** The patterns are derived from literature. But you live a life, not a text.
+**10.6 Patterns in Life**
 
-Do these patterns show up in lived experience? Pick a pattern and trace it through a period of your life. Was it generative then, or only visible in retrospect?
+**Position**: The patterns are derived from literature. Do they show up in lived experience?
 
-**10.7** Design a new pattern not listed in the chapter. Give it:
-- Structure (dimensional and gestural)
-- Literary instances (2-3 examples)
-- Derived constraint
-- Use case
+| Pattern | Life Example |
+|---------|--------------|
+| **Disappearing Agent** | Flow state in running; "I" dissolves |
+| **Valuation Inversion** | Burnout (Success → Meaningless) |
 
-What does this pattern reveal?
+**Question**: Pick a pattern and trace it through a period of your life. Was it generative then, or only visible in retrospect?
+
+**10.7 Design a New Pattern**
+
+**Position**: Create a pattern not listed.
+
+| Property | Your Design |
+|----------|-------------|
+| **Structure** | Dimensional + Gestural |
+| **Literary Instances** | 2-3 examples |
+| **Derived Constraint** | The rule that produces this |
+| **Use Case** | When to deploy it |
+
+**Question**: What does your new pattern reveal?
 
 ---
 

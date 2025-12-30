@@ -57,6 +57,7 @@ In **Contemplation** practice, your moves are attentional operations:
 | **GENERATE** | Produces: "the bed still warm", "the half-finished cup", "the childhood home returned to" |
 | **TRANSFER** | Maps to: inheritance (bequest), archaeology (layers), haunting (persistence), photography (trace) |
 | **DISSOLVE** | Slowly via time — warmth fades, arrangement disturbed, new presence overwrites |
+| **PARASITIZE** | The Next Tenant intercepts the shrine; treating your sacred traces as mere "mess" to be cleared |
 | **EMERGE** | Grief, cleaning, or the next tenant |
 
 ---

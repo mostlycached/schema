@@ -56,6 +56,7 @@ In **Philosophy** practice, your moves are void operations:
 | **GENERATE** | Produces: "global inequality", "bystander effect", "structural violence", "peace" (false) |
 | **TRANSFER** | Maps to: stoicism (misunderstood), biology (energy conservation), physics (inertia) |
 | **DISSOLVE** | Through direct contact or trauma |
+| **PARASITIZE** | The Donation intercepts the action; a recurring payment automates the conscience |
 | **EMERGE** | The seamless continuation of your day, or a slight hardening |
 
 ---

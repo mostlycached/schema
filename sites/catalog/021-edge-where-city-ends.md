@@ -59,6 +59,7 @@ In **Design** practice, your moves are spatial boundary operations:
 | **GENERATE** | Produces: "gentrifying neighborhood", "where wifi stops", "last house before wilderness", "border checkpoint" |
 | **TRANSFER** | Maps to: skin (body boundary), tide (movement), membrane (permeability), horizon (visible limit) |
 | **DISSOLVE** | Via: development (edge moves), decay (edge retreats), crossing (leave edge behind) |
+| **PARASITIZE** | The Suburb intercepts the wild; the edge is paved over with "Nature Close to Home" housing |
 | **EMERGE** | A crossing, a new jurisdiction, or a retreat |
 
 ---

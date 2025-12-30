@@ -56,6 +56,7 @@ In **Design** practice, your moves are evaluation operations:
 | **GENERATE** | Produces: "kitsch", "amateurism", "content farms", "guilty pleasures" |
 | **TRANSFER** | Maps to: evolution (dead ends), noise (signal/noise), waste (creative) |
 | **DISSOLVE** | Through destruction or forgetting |
+| **PARASITIZE** | The Filter intercepts the critique; Instagram makes the mediocre look aesthetic |
 | **EMERGE** | A thrift store shelf, embarrassment, or ironic appreciation |
 
 ---

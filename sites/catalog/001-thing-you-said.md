@@ -55,6 +55,7 @@ In **Writing** practice, your moves are narrative operations:
 | **GENERATE** | Produces variants: "secret you let slip", "insult as joke", "promise you can't keep" |
 | **TRANSFER** | Maps to: cooking (salt), archaeology (strata), performance (mask slipped), medicine (iatrogenic) |
 | **DISSOLVE** | Rarely succeeds — residue persists; requires plot-level intervention |
+| **PARASITIZE** | The Rumor intercepts the intent; the words become an independent virus |
 | **EMERGE** | A changed relationship, a permanent scar, or a new carefulness |
 
 ---

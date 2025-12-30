@@ -350,50 +350,94 @@ Transfer applies speculation: what if this structure existed in that domain?
 
 ### Warm-up
 
-**12.1** Speculate a field that doesn't currently exist by re-bounding something familiar:
-- Take "sleep" and bound it differently. What field emerges?
+**12.1 Re-Bound Sleep**
 
-**12.2** You wake up tomorrow with a new practice installed — you see everything phenomenologically but can also dissolve at will.
+**Position**: Take "Sleep" and re-bound it.
 
-What domain would you explore first? Why?
+| Re-Bounding | Emergent Field |
+|-------------|----------------|
+| **Temporal** (only the first 5 minutes) | "The Descent" |
+| **Phenomenal** (only the paralysis) | "The Trap Body" |
+| **Social** (only sleeping near others) | "The Shared Unconscious" |
+
+**Question**: What field emerges from your re-bounding?
+
+**12.2 The New Practice**
+
+**Position**: You wake up with a new practice: Phenomenological Attention + DISSOLVE on command.
+
+| Domain | Why This One? |
+|--------|---------------|
+| *Your Childhood Home* | To dissolve the accumulated meaning |
+| *A Traffic Jam* | To make rage dissolve |
+
+**Question**: What domain would you explore first?
 
 ---
 
 ### Standard
 
-**12.3** Speculate at the domain level:
-- Pick a practice you know
-- Cross it with a field you've never engaged through that practice
-- Generate three sites that might exist in this speculative domain
+**12.3 Speculative Domain**
 
-Were any sites surprising?
+**Position**: Cross a known practice with an unfamiliar field.
 
-**12.4** Speculate a site at unexplored dimensional coordinates:
-- Ontological: virtuality
-- Temporal: trans-lifetime
-- Perceptual: other-mediated
+| Practice | Unfamiliar Field | Speculative Domain |
+|----------|------------------|-------------------|
+| Engineering | Grief | "Grief Engineering" — optimizing the mourning process |
+| Music | Surgery | "Surgical Composition" — cuts as rhythm |
 
-What site lives there? Is it habitable?
+**Question**: Generate 3 sites in your speculative domain. Were any surprising?
 
-**12.5** The chapter describes four ways to speculate sites:
-1. Unexplored dimensional coordinates
-2. Inverted gesture profiles
-3. Constraint composition
-4. MVA limits
+**12.4 Unexplored Coordinates**
 
-Apply each method to generate one site. Compare the results. Which method produces the most vertigo?
+**Position**: Generate a site at these coordinates:
+- Ontological: Virtuality
+- Temporal: Trans-lifetime
+- Perceptual: Other-mediated
+
+**Example**: "The Family Legend" (a story about a dead ancestor, mediated by those who remember).
+
+**Question**: What site lives there? Is it habitable?
+
+**12.5 Four Speculation Methods**
+
+**Position**: Apply each method once.
+
+| Method | Your Result |
+|--------|-------------|
+| **Unexplored dimensions** | ? |
+| **Inverted gestures** | ? |
+| **Constraint composition** | ? |
+| **MVA limits** | ? |
+
+**Question**: Which method produces the most vertigo?
 
 ---
 
 ### Challenge
 
-**12.6** Speculate a practice that currently can't exist — one that requires capacities humans don't have.
+**12.6 The Impossible Practice**
 
-What would this practice reveal? What domains would it open? Is there any way to approximate it with existing capacities?
+**Position**: Speculate a practice requiring capacities humans don't have.
 
-**12.7** The chapter says "Speculation extends generation to the hypothetical."
+| Capacity | Practice |
+|----------|----------|
+| **Perceiving infrared** | "Heat-Reading" — seeing emotional states as thermal maps |
+| **Remembering everything** | "Total Recall" — no forgetting, only accumulation |
 
-But what's the difference between speculation and fiction? Between speculation and delusion? Where are the boundaries of productive speculation?
+**Question**: What domains would this open? Can you approximate it?
+
+**12.7 Speculation vs. Fiction vs. Delusion**
+
+**Position**: Where are the boundaries?
+
+| Mode | Test |
+|------|------|
+| **Speculation** | Produces new sites; can be tested (even if hypothetically) |
+| **Fiction** | Produces entertainment; no test required |
+| **Delusion** | Produces comfort; resists testing |
+
+**Question**: What is the boundary of *productive* speculation?
 
 ---
 

@@ -57,6 +57,7 @@ In **Music** practice, your moves are temporal/rhythmic operations:
 | **GENERATE** | Produces: "meeting after bad news", "family dinner after fight", "after someone says the unsayable" |
 | **TRANSFER** | Maps to: vacuum (demands filling), hot potato (no one wants), auction (first mover), threshold (no return) |
 | **DISSOLVE** | **INEVITABLE**: someone will crack; silence cannot persist |
+| **PARASITIZE** | The Impulse to Fill (Nervousness) intercepts the weight; someone speaks "just to end it" (low quality) |
 | **EMERGE** | A new conflict, a released truth, or a lie that defuses tension |
 
 ---

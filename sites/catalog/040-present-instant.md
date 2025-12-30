@@ -59,6 +59,7 @@ In **Mathematics** practice, your moves are limiting operations:
 | **GENERATE** | Produces: "now of this breath", "now of reading this", "now of dying star" |
 | **TRANSFER** | Maps to: knife-edge (boundary), meditation (dwelling), Zeno (paradox), photograph (frozen) |
 | **DISSOLVE** | Constantly — every present dissolves into past |
+| **PARASITIZE** | Memory/Anticipation intercepts the Now; you are never here, always before or after |
 | **EMERGE** | A memory, a missed opportunity, or the next instant |
 
 ---

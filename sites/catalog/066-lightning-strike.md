@@ -61,6 +61,7 @@ In **Engineering** practice, your moves are observation operations:
 | **GENERATE** | Produces: "inspiration striking", "sudden insight", "moment everything changed", "being struck" |
 | **TRANSFER** | Maps to: inspiration (sudden), revelation (divine), discharge (tension release), shock |
 | **DISSOLVE** | **IS** dissolution — the strike IS the collapse of potential |
+| **PARASITIZE** | The Lightning Rod intercepts the anger; directing the divine fire into the grounding wire (taming) |
 | **EMERGE** | Thunder, ozone smell, fire, or the stunned survivor |
 
 ---

@@ -58,6 +58,7 @@ In **Science** practice, moves become auto-operations:
 | **GENERATE** | Produces: "auto-ethnographies", "chaos magic", "body hacking", "psychosis" |
 | **TRANSFER** | Maps to: mysticism (oneness), quantum mechanics (collapse), psychoanalysis (transference) |
 | **DISSOLVE** | Through stopping the observation (death or sleep) |
+| **PARASITIZE** | The Quantification intercepts the collapse; you stop feeling the change and start tracking the data points |
 | **EMERGE** | A new organ, a changed mind, or nothing at all |
 
 ---

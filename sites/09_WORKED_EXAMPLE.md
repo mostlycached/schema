@@ -320,45 +320,94 @@ Patterns derived from applying the ontology to multiple works.
 
 ### Warm-up
 
-**9.1** Think of a recent experience where your world "cracked open" — something ordinary became strange or unbearable.
+**9.1 The Crack**
 
-What was your "blind man"? What site did you suddenly see?
+**Position**: Think of a recent experience where your world "cracked open."
 
-**9.2** Ana's dominant gesture throughout the story is SUSPEND — she can't resolve what she's seen.
+| Your "Blind Man" | The Site Revealed |
+|------------------|-------------------|
+| *A homeless person's face* | The fragility of my own security |
+| *A child's tantrum in public* | The violence beneath socialization |
 
-What would the story be if she had executed RESOLVE instead? Would it still be a story?
+**Question**: What was your entry site? What dimension shifted? (Ontological? Perceptual?)
+
+**9.2 The Counter-Story**
+
+**Position**: Ana's dominant gesture is SUSPEND. What if she had executed RESOLVE?
+
+| Gesture | Story Result |
+|---------|--------------|
+| **SUSPEND** | The crack stays open. The story ends in question. |
+| **RESOLVE** | She "gets over it." The story becomes a self-help arc. |
+
+**Question**: Would RESOLVE have produced a story worth telling? (Hint: No. Resolution closes the tension loop.)
 
 ---
 
 ### Standard
 
-**9.3** Apply the analysis template to a scene from your own life:
-1. What was the field? (Domain = ?)
-2. What was the entry site? (Dimensions, gesture profile)
-3. What gestures executed in sequence?
-4. Was RESOLVE blocked? Available? Dominant?
+**9.3 The Life-Text**
 
-Did anything analogous to Lispector's "raw world beneath domestic order" become visible?
+**Position**: Apply the analysis template to a scene from your life:
 
-**9.4** The story's central constraint is: "Things visible only when the structure that normally hides them cracks."
+| Element | Your Case |
+|---------|-----------|
+| **Field** | ? |
+| **Entry Site** | ? |
+| **Gesture Sequence** | ? |
+| **RESOLVE Blocked?** | ? |
 
-Apply this constraint to a domain you know well. What sites emerge that you wouldn't normally see? Generate at least three.
+**Question**: Did anything analogous to "the raw world beneath the order" become visible?
 
-**9.5** The chapter claims Ana's domain was "barrenness: familiarity" before the encounter.
+**9.4 Apply the Central Constraint**
 
-Think of a domain in your life that feels familiar-barren. What would your "blind man" be — what encounter could crack it open?
+**Position**: Constraint = "Things visible only when structure cracks."
+
+| Domain | Applied Constraint | Sites Revealed |
+|--------|-------------------|----------------|
+| **Health** | Illness | "The Body's Secret Maintenance" |
+| **Work** | Layoff | "The Real Value You Provided" |
+| **Relationship** | Fight | "The Assumptions That Held It Together" |
+
+**Question**: Generate three sites from a domain you know. Were they surprising?
+
+**9.5 The Familiar-Barren Domain**
+
+**Position**: You have a domain that feels familiar-barren. What would crack it open?
+
+| Your Domain | Potential "Blind Man" |
+|-------------|----------------------|
+| *My Commute* | A major accident (forced stillness) |
+| *My Marriage* | A terminal diagnosis (time constraint) |
+
+**Question**: What encounter would defamiliarize your domain? (Note: This is dangerous knowledge.)
 
 ---
 
 ### Challenge
 
-**9.6** The analysis says the story is a gesture sequence: SUSPEND → WIDEN → SUSPEND (no RESOLVE).
+**9.6 The Alternate Sequence**
 
-Design a story with a different gesture sequence — same starting site, but NARROW instead of WIDEN. What happens? What story do you get?
+**Position**: Design a story with a different gesture sequence.
 
-**9.7** Lispector didn't write this story by applying a system. The chapter claims the ontology can describe what she did — but is that description *predictive*? 
+| Original (Lispector) | Alternate |
+|--------------------- |-----------|
+| SUSPEND → WIDEN → SUSPEND | SUSPEND → NARROW → COMMIT |
 
-Could you generate "Love" from the constraint and gesture sequence, or only recognize them after reading? What's the limit of the ontology?
+**Alternate Result**: Ana fixates on a single detail, makes a rash decision, story becomes tragedy instead of meditation.
+
+**Question**: What story do you get? Is it as good?
+
+**9.7 Predictive vs. Descriptive**
+
+**Position**: Can the ontology *generate* "Love," or only *recognize* it?
+
+| Mode | Capability |
+|------|------------|
+| **Descriptive** | After the fact: "Ah, that was SUSPEND blocking RESOLVE." |
+| **Predictive** | Before the fact: "If I apply this constraint, I will get *this* story." |
+
+**Question**: What is the limit of the ontology? (Hint: It can predict *structure*, not *content*.)
 
 ---
 

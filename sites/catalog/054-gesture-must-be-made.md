@@ -58,6 +58,7 @@ In **Contemplation** practice, your moves are ritual operations:
 | **GENERATE** | Produces: "salute to the fallen", "talking to photograph", "kept promise no one knows about", "prayer to silence" |
 | **TRANSFER** | Maps to: ritual (sacred gesture), absurd (meaning without purpose), dignity (intrinsic worth), grief (mourning acts) |
 | **DISSOLVE** | Doesn't — the gesture is its own completion |
+| **PARASITIZE** | The Performative intercepts the sacred; you film the gesture to prove you made it, voiding its silent necessity |
 | **EMERGE** | Dignity, a memory, or the act itself |
 
 ---

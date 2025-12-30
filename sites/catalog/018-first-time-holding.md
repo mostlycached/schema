@@ -58,6 +58,7 @@ In **Design** practice, your moves are exploration operations:
 | **GENERATE** | Produces: "first day at job", "learning to drive", "first time holding a baby" |
 | **TRANSFER** | Maps to: foreign territory (lost), language (stuttering), birth (emergence), childhood |
 | **DISSOLVE** | Via: practice (becomes familiar) or abandonment (put down forever) |
+| **PARASITIZE** | The Tutorial intercepts the awkwardness; you play the scale perfectly but with zero understanding |
 | **EMERGE** | A musician, a frustrated quitter, or a specific technique |
 
 ---

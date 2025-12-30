@@ -59,6 +59,7 @@ In **Sociology** practice, moves are forced by the clock:
 | **GENERATE** | Produces: "last words", "testaments", "heroic suicide", "brutal predation" |
 | **TRANSFER** | Maps to: Titanic (sinking), hospice (dying), Trolley Problem (forced choice) |
 | **DISSOLVE** | At T=0 (Death or Rescue) |
+| **PARASITIZE** | The Timer App intercepts the end; digital precision replaces the felt sense of fading time |
 | **EMERGE** | Silence, a final confession, or a corpse |
 
 ---

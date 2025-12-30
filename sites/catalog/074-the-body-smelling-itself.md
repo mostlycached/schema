@@ -57,6 +57,7 @@ In **Contemplation** practice, your moves are sensory operations:
 | **GENERATE** | Produces: "shame", "hygiene industry", "intimacy barriers", "self-disgust" |
 | **TRANSFER** | Maps to: biology (metabolism), social class (smell markers), aging (decay) |
 | **DISSOLVE** | Through washing (temporary) |
+| **PARASITIZE** | The Body Spray intercepts the chemistry; Axe disguises the animal, replacing musk with "Cool Sport" |
 | **EMERGE** | A shower, social rejection, or musk |
 
 ---

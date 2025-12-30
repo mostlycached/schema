@@ -56,8 +56,10 @@ In **Philosophy** practice, your moves are reflexive operations:
 | Operation | Philosophical Consequence |
 |-----------|--------------------------|
 | **GENERATE** | Produces: "doubting whether you doubt", "knowing that you know", "deciding to decide", "feeling the feeling" |
+| **SPECULATE** | What if the thought thinks you? What if the loop is a circuit? |
 | **TRANSFER** | Maps to: strange loop (Hofstadter), ouroboros, mirror-facing-mirror, hand-drawing-hand (Escher) |
 | **DISSOLVE** | Via: distraction (external interrupt), vertigo (too many levels), arbitrary decision |
+| **PARASITIZE** | The Body (Hunger/Pain) intercepts the recursion; the loop breaks for biological necessity |
 | **EMERGE** | A headache, sleep, or a linear thought |
 
 ---

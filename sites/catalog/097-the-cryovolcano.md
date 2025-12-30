@@ -57,6 +57,7 @@ In **Physics** practice, your moves are thermodynamic operations in reverse:
 | **GENERATE** | Produces: "superfluids", "time capsules", "absolute zero events" |
 | **TRANSFER** | Maps to: depression (eruption of sadness), stasis (force of stopping), preservation (cryogenics) |
 | **DISSOLVE** | Via warming — turning into mundane water/gas |
+| **PARASITIZE** | The Liquid Nitrogen Cocktail intercepts the physics; we consume the dangerous cold as a novelty drink |
 | **EMERGE** | A perfect fossil, a frozen error, or the idea of absolute zero |
 
 ---
