@@ -36,6 +36,7 @@ Start with Chapter 1 and proceed in order. Each chapter builds on the previous.
 | | Title | Purpose |
 |-|-------|---------|
 | A | [Constraint Hygiene](./APPENDIX_A_CONSTRAINT_HYGIENE.md) | Prevent imposing constraints that aren't given |
+| B | [Sanitization Resistance](./APPENDIX_B_SANITIZATION_RESISTANCE.md) | Map and enter territories that get systematically avoided |
 
 ---
 

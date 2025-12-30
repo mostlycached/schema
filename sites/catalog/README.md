@@ -32,6 +32,9 @@ Demonstrations of mobility through the system. Each entry shows:
 | The Thing That Recedes As You Approach | limit (asymptotic) | [029](./029-thing-recedes-as-you-approach.md) |
 | The Language You Understand But Cannot Speak | limit (passive/active) | [030](./030-language-understand-not-speak.md) |
 | The Part of Your Body You Can't Find in the Mirror | limit (self-access) | [031](./031-body-you-cant-find-in-mirror.md) |
+| The Hole | absence (paradoxical) | [041](./041-the-hole.md) |
+| The Boundary That Belongs to Neither Side | limit (pure edge) | [042](./042-boundary-neither-side.md) |
+| The Thing That Exists Only While Unobserved | paradoxical (observation-dependent) | [043](./043-exists-only-unobserved.md) |
 
 ### By Scale
 
@@ -41,6 +44,9 @@ Demonstrations of mobility through the system. Each entry shows:
 | The Light That Left Before You Were Born | cosmic | [010](./010-light-from-dead-stars.md) |
 | The Groove Worn in Stone | trans-lifetime | [012](./012-groove-worn-in-stone.md) |
 | The Life You Almost Lived | lifetime | [008](./008-life-you-almost-lived.md) |
+| The Planck Moment | sub-sub-momentary (minimum) | [038](./038-planck-moment.md) |
+| The Heat Death | cosmic (terminal) | [039](./039-heat-death.md) |
+| The Supernova | cosmic (explosive) | [067](./067-supernova.md) |
 
 ### By Temporal Mode
 
@@ -51,6 +57,9 @@ Demonstrations of mobility through the system. Each entry shows:
 | The Thing That Hasn't Happened Yet | anticipation | [013](./013-thing-that-hasnt-happened.md) |
 | The Weight of an Old Tool in Your Hand | memory | [004](./004-weight-of-old-tool.md) |
 | The Room After Someone Has Left It | transition | [002](./002-room-after-leaving.md) |
+| The Present Instant | paradoxical (zero duration) | [040](./040-present-instant.md) |
+| The Lightning Strike | instantaneous | [066](./066-lightning-strike.md) |
+| The Glacier's Edge | deep time | [064](./064-glacier-edge.md) |
 
 ### By Perceptual Mode
 
@@ -61,6 +70,9 @@ Demonstrations of mobility through the system. Each entry shows:
 | The Third Thing in the Room | peripheral | [005](./005-third-thing-in-room.md) |
 | The Apology That Made Things Worse | failure-mediated | [003](./003-apology-that-backfired.md) |
 | The Life You Almost Lived | peripheral | [008](./008-life-you-almost-lived.md) |
+| The Thing at Peripheral Vision That Vanishes | peripheral-only | [044](./044-peripheral-vanishes.md) |
+| The Pain Beyond Language | somatic (beyond language) | [045](./045-pain-beyond-language.md) |
+| The Sensation With No Name | lexical gap | [046](./046-sensation-no-name.md) |
 
 ### By Relational Mode
 
@@ -71,6 +83,8 @@ Demonstrations of mobility through the system. Each entry shows:
 | The Gaze of the Animal | non-human | [017](./017-gaze-of-animal.md) |
 | The Light That Left Before You Were Born | non-human | [010](./010-light-from-dead-stars.md) |
 | The Groove Worn in Stone | collective | [012](./012-groove-worn-in-stone.md) |
+| The Volcano's Mouth | non-human (planetary) | [058](./058-volcano-mouth.md) |
+| The Event Horizon | non-human (gravitational) | [059](./059-event-horizon.md) |
 
 ### By Agential Mode
 
@@ -79,6 +93,7 @@ Demonstrations of mobility through the system. Each entry shows:
 | The First Time Holding the Instrument | beginner | [018](./018-first-time-holding.md) |
 | The Skill Leaving Your Hands | expert (declining) | [006](./006-skill-leaving-hands.md) |
 | The Gaze of the Animal | non-human | [017](./017-gaze-of-animal.md) |
+| The Body at Rest Before Movement | embodied | [034](./034-body-before-movement.md) |
 
 ### By Structural Type
 
@@ -89,6 +104,8 @@ Demonstrations of mobility through the system. Each entry shows:
 | The Edge Where the City Ends | boundary-only | [021](./021-edge-where-city-ends.md) |
 | The Third Thing in the Room | boundary-only | [005](./005-third-thing-in-room.md) |
 | The Moment Before the Pain Hits | boundary-only | [009](./009-moment-before-pain.md) |
+| The Paradox That Cannot Resolve | paradoxical (structural) | [047](./047-paradox-cannot-resolve.md) |
+| The Incompleteness That Cannot Be Completed | incomplete (proven) | [048](./048-incompleteness-cannot-complete.md) |
 
 ---
 
@@ -127,6 +144,70 @@ Demonstrations of mobility through the system. Each entry shows:
 | 029 | [The Thing That Recedes As You Approach](./029-thing-recedes-as-you-approach.md) | limit, oscillation, paradoxical |
 | 030 | [The Language You Understand But Cannot Speak](./030-language-understand-not-speak.md) | limit, oscillation, paradoxical |
 | 031 | [The Part of Your Body You Can't Find in the Mirror](./031-body-you-cant-find-in-mirror.md) | limit, lifetime, somatic |
+| 032 | [The Blank Page Before the First Mark](./032-blank-page-first-mark.md) | virtuality, high-action-space |
+| 033 | [The Conversation That Has Just Begun](./033-conversation-just-begun.md) | relation, high-action-space |
+| 034 | [The Body at Rest Before Movement](./034-body-before-movement.md) | virtuality, somatic, high-action-space |
+| 035 | [The Moment You Realize You've Been Wrong Your Whole Life](./035-moment-realize-wrong.md) | limit, extreme-vertigo |
+| 036 | [The Thing You Can't Unthink Once Thought](./036-thing-cant-unthink.md) | limit, cognitive-irreversibility |
+| 037 | [The Recognition That Arrives Too Late](./037-recognition-arrives-too-late.md) | limit, temporal-asymmetry |
+| 038 | [The Planck Moment](./038-planck-moment.md) | limit, extreme-temporal (minimum) |
+| 039 | [The Heat Death](./039-heat-death.md) | limit, extreme-temporal (maximum) |
+| 040 | [The Present Instant](./040-present-instant.md) | paradoxical, extreme-temporal |
+| 041 | [The Hole](./041-the-hole.md) | absence, extreme-ontological |
+| 042 | [The Boundary That Belongs to Neither Side](./042-boundary-neither-side.md) | limit, extreme-ontological |
+| 043 | [The Thing That Exists Only While Unobserved](./043-exists-only-unobserved.md) | paradoxical, extreme-ontological |
+| 044 | [The Thing at Peripheral Vision That Vanishes](./044-peripheral-vanishes.md) | limit, extreme-perceptual |
+| 045 | [The Pain Beyond Language](./045-pain-beyond-language.md) | limit, extreme-perceptual |
+| 046 | [The Sensation With No Name](./046-sensation-no-name.md) | limit, extreme-perceptual |
+| 047 | [The Paradox That Cannot Resolve](./047-paradox-cannot-resolve.md) | paradoxical, extreme-structural |
+| 048 | [The Incompleteness That Cannot Be Completed](./048-incompleteness-cannot-complete.md) | incomplete, extreme-structural |
+| 049 | [Pure Chaos](./049-pure-chaos.md) | flux, extreme-flux (zero structure) |
+| 050 | [Mathematical Truth](./050-mathematical-truth.md) | structure, extreme-flux (infinite resistance) |
+| 051 | [The Phase Transition](./051-phase-transition.md) | process, extreme-flux (boundary) |
+| 052 | [The Irreversible Act](./052-irreversible-act.md) | limit, extreme-stakes |
+| 053 | [The Choice Between Incommensurables](./053-choice-between-incommensurables.md) | tension, extreme-stakes |
+| 054 | [The Gesture That Means Nothing But Must Be Made](./054-gesture-must-be-made.md) | paradoxical, extreme-stakes |
+| 055 | [The Experience Everyone Has But Cannot Share](./055-everyone-has-cannot-share.md) | limit, extreme-accessibility |
+| 056 | [The Experience Only Dying People Have](./056-only-dying-have.md) | limit, extreme-accessibility |
+| 057 | [The Thing That Cannot Be Remembered or Forgotten](./057-cannot-remember-or-forget.md) | paradoxical, extreme-accessibility |
+| 058 | [The Volcano's Mouth](./058-volcano-mouth.md) | process, physical-extreme |
+| 059 | [The Event Horizon](./059-event-horizon.md) | limit, physical-extreme |
+| 060 | [The Deep Ocean Trench](./060-deep-ocean-trench.md) | limit, physical-extreme |
+| 061 | [The Vacuum of Space](./061-vacuum-of-space.md) | absence, physical-extreme |
+| 062 | [The Eye of the Storm](./062-eye-of-storm.md) | paradoxical, physical-extreme |
+| 063 | [The Earthquake Fault Line](./063-earthquake-fault.md) | tension, physical-extreme |
+| 064 | [The Glacier's Edge](./064-glacier-edge.md) | process, physical-extreme |
+| 065 | [The Desert at Noon](./065-desert-at-noon.md) | limit, physical-extreme |
+| 066 | [The Lightning Strike](./066-lightning-strike.md) | process, physical-extreme |
+| 067 | [The Supernova](./067-supernova.md) | process, physical-extreme |
+| 068 | [Absolute Zero](./068-absolute-zero.md) | limit, physical-extreme |
+| 069 | [The Polar Night](./069-polar-night.md) | limit, physical-extreme |
+| 070 | [The Shower as Movement Laboratory](./070-shower-as-movement-laboratory.md) | practice (reconstructed), dissolution-site |
+| 071 | [Park Running as Movement Laboratory](./071-park-running-as-movement-laboratory.md) | practice (reconstructed), dissolution-site |
+| 072 | [The Bowel Movement](./072-the-bowel-movement.md) | process, visceral, sanitization-resistant |
+| 073 | [The Wound That Won't Heal](./073-the-wound-that-wont-heal.md) | process, visceral, sanitization-resistant |
+| 074 | [The Body Smelling Itself](./074-the-body-smelling-itself.md) | process, visceral, sanitization-resistant |
+| 075 | [The Corpse of Someone You Knew](./075-the-corpse-of-someone-you-knew.md) | absence, abject, sanitization-resistant |
+| 076 | [The Thing You Found in the Food](./076-the-thing-you-found-in-the-food.md) | interference, abject, sanitization-resistant |
+| 077 | [The Mother's Body](./077-the-mothers-body.md) | origin, abject, sanitization-resistant |
+| 078 | [The Addiction Returning](./078-the-addiction-returning.md) | process, degraded, sanitization-resistant |
+| 079 | [The Dementia Setting In](./079-the-dementia-setting-in.md) | process, degraded, sanitization-resistant |
+| 080 | [The Public Humiliation](./080-the-public-humiliation.md) | relation, degraded, sanitization-resistant |
+| 081 | [The Sexual Encounter That Failed](./081-the-sexual-encounter-that-failed.md) | interference, failed, sanitization-resistant |
+| 082 | [The Art That Is Bad](./082-the-art-that-is-bad.md) | substance, failed, sanitization-resistant |
+| 083 | [The Cowardice You Showed](./083-the-cowardice-you-showed.md) | limit, failed, sanitization-resistant |
+| 084 | [The Job That Means Nothing](./084-the-job-that-means-nothing.md) | absence, banal, sanitization-resistant |
+| 085 | [The Waiting Room](./085-the-waiting-room.md) | absence, banal, sanitization-resistant |
+| 086 | [The Mediocre Life](./086-the-mediocre-life.md) | substance, banal, sanitization-resistant |
+| 087 | [The Pleasure in Someone's Suffering](./087-the-pleasure-in-someones-suffering.md) | relation, cruel, sanitization-resistant |
+| 088 | [The Indifference to Suffering](./088-the-indifference-to-suffering.md) | absence, cruel, sanitization-resistant |
+| 089 | [The Victim Who Doesn't Overcome](./089-the-victim-who-doesnt-overcome.md) | limit, cruel, sanitization-resistant |
+| 090 | [The Arbitrary Suffering](./090-the-arbitrary-suffering.md) | absence, meaningless, sanitization-resistant |
+| 091 | [The Effort That Changed Nothing](./091-the-effort-that-changed-nothing.md) | absence, meaningless, sanitization-resistant |
+| 092 | [The Random Death](./092-the-random-death.md) | absence, meaningless, sanitization-resistant |
+| 093 | [The Deformed Body](./093-the-deformed-body.md) | substance, ugly, sanitization-resistant |
+| 094 | [The Stench](./094-the-stench.md) | substance, ugly, sanitization-resistant |
+| 095 | [The Sound That Hurts](./095-the-sound-that-hurts.md) | substance, ugly, sanitization-resistant |
 
 ---
 
@@ -157,23 +238,218 @@ These sites maximize frame displacement by pairing categorically distant domains
 
 ---
 
+## High Action-Space Sites
+
+Sites 032-034 were generated to explore **action space magnitude** — sites where the number of meaningful distinct gestures is orders of magnitude higher than typical sites.
+
+| Site | Combinatorial Space | Meaningful Actions | Key Feature |
+|------|---------------------|-------------------|-------------|
+| 032 | ~6,000,000 NARROW options | ~500-1000 clusters | Parameterized creative gestures |
+| 033 | ~18,000,000 combinations | ~1,800 moves | Topic × Register × Depth × Act × Turn |
+| 034 | ~200 degrees of freedom | ~2,100 movements | Anatomical action space |
+
+These sites demonstrate that action space is not 7 gestures but **7 × N × M × K** where each parameter multiplies the others.
+
+---
+
+## Extreme Fringe Sites
+
+Sites 035-069 explore the **extreme fringes** of various dimensions:
+
+### Extreme Vertigo (035-037)
+Maximum frame displacement — the frame-checking mechanism itself is displaced.
+
+| Site | Key Extremity | Frame Displaced |
+|------|---------------|-----------------|
+| 035 | Maximum vertigo (1.0) | Error-detection itself |
+| 036 | Cognitive irreversibility | Thought as controllable |
+| 037 | Temporal asymmetry | Understanding as timely |
+
+### Extreme Temporal (038-040)
+The poles of temporal scale and the paradox of the present.
+
+| Site | Key Extremity | Description |
+|------|---------------|-------------|
+| 038 | Minimum duration | Planck time: 10^-43 seconds |
+| 039 | Maximum duration | Heat death: all difference exhausted |
+| 040 | Zero duration | The present instant: durationless yet real |
+
+### Extreme Ontological (041-043)
+The strangest modes of existence.
+
+| Site | Key Extremity | Description |
+|------|---------------|-------------|
+| 041 | Paradoxical absence | The hole: nothing with properties |
+| 042 | Pure liminality | Boundary: zero territory |
+| 043 | Observation-dependent | Exists only unobserved |
+
+### Extreme Perceptual (044-046)
+The limits of perception and language.
+
+| Site | Key Extremity | Description |
+|------|---------------|-------------|
+| 044 | Attention paradox | Vanishes when observed |
+| 045 | Language failure | Pain beyond words |
+| 046 | Lexical gap | Felt but unnamed |
+
+### Extreme Structural (047-048)
+Proven impossibilities.
+
+| Site | Key Extremity | Description |
+|------|---------------|-------------|
+| 047 | Unresolvability | Paradox that cannot resolve |
+| 048 | Incompletability | Gödel: proven incomplete |
+
+### Extreme Flux (049-051)
+The poles of the flux-structure spectrum.
+
+| Site | Key Extremity | Description |
+|------|---------------|-------------|
+| 049 | Zero structure | Pure chaos |
+| 050 | Zero flux | Mathematical truth: infinite resistance |
+| 051 | Flux-structure boundary | Phase transition |
+
+### Extreme Stakes (052-054)
+Maximum consequence and meaning.
+
+| Site | Key Extremity | Description |
+|------|---------------|-------------|
+| 052 | Zero reversibility | The irreversible act |
+| 053 | Zero commensurability | Choice between incommensurables |
+| 054 | Zero instrumental value | The necessary useless gesture |
+
+### Extreme Accessibility (055-057)
+Paradoxes of knowledge and experience.
+
+| Site | Key Extremity | Description |
+|------|---------------|-------------|
+| 055 | Universal privacy | Everyone has it, no one can share |
+| 056 | Maximum access restriction | Only dying people know |
+| 057 | Zero resolution | Cannot remember or forget |
+
+### Physical/Environmental Extremes (058-069)
+The extreme environments of the physical world.
+
+| Site | Type | Key Extremity |
+|------|------|---------------|
+| 058 | Geological | Planetary interior exposed (1200°C) |
+| 059 | Gravitational | Absolute causal boundary |
+| 060 | Pressure | 1000+ atmospheres, perpetual darkness |
+| 061 | Emptiness | Near-total vacuum |
+| 062 | Paradoxical | Calm within violence |
+| 063 | Tectonic | Stored catastrophic energy |
+| 064 | Temporal | Deep time visible |
+| 065 | Thermal | Maximum exposure |
+| 066 | Instantaneous | 30 microseconds, 30,000°C |
+| 067 | Cosmic | Galaxy-outshining, element-creating |
+| 068 | Thermal | Unreachable physical minimum |
+| 069 | Temporal | Months without sunrise |
+
+---
+
+## Dissolution/Reconstruction Sites
+
+Sites 070-071 demonstrate the **DISSOLVE + TRANSFER** pattern: taking a habituated practice, dissolving its conventional frame, and reconstructing it with a new grammar. These sites use **Laban Movement Analysis (LMA)** as the reconstructive grammar.
+
+### Laban Grammar Components
+
+| Component | Elements | Application |
+|-----------|----------|-------------|
+| **Body** | Parts, initiation, connection, support, breath | Which body elements lead, how they connect |
+| **Effort** | Weight (strong/light), Time (quick/sustained), Space (direct/indirect), Flow (bound/free) | Quality of movement |
+| **Shape** | Rising/sinking, spreading/enclosing, advancing/retreating, carving | Spatial forms the body makes |
+| **Space** | Kinesphere, reach space, spatial pulls, levels, pathways | How body relates to surrounding space |
+
+### Effort States and Drives
+
+| State/Drive | Factors Combined | Quality |
+|-------------|------------------|---------|
+| **Awake** | Space + Time | Alert, present, scanning |
+| **Dream** | Weight + Flow | Luxurious, released, wandering |
+| **Stable** | Weight + Space | Grounded, centered, deliberate |
+| **Mobile** | Time + Flow | Playful, light, responsive |
+| **Passion Drive** | Weight + Time + Flow | Powerful, urgent, streaming |
+| **Vision Drive** | Space + Time + Flow | Expansive, rhythmic, continuous |
+
+### Sites
+
+| Site | Original Frame | Dissolved Into | Meaning Domain | Environment Redesign |
+|------|----------------|----------------|----------------|----------------------|
+| 070 | Shower = hygiene routine | Movement laboratory | Psychological/affect | Textured floor, multiple showerheads, grab bars, seating |
+| 071 | Running = fitness/exercise | Movement laboratory | **Digestive/excretory** | Park as alimentary tract |
+
+### Key Transformation
+
+```
+BEFORE: ~5 habitual movements → AFTER: ~500+ intentional possibilities
+BEFORE: efficiency/optimization → AFTER: peristaltic processing
+BEFORE: body as machine → AFTER: body as bolus (waste-in-transit)
+BEFORE: environment as backdrop → AFTER: environment as organ (gut)
+```
+
+Site 071 demonstrates that **meaning domains can be deliberately ugly** to maximize strangeness. The digestive frame forces confrontation with the body as tube, movement as involuntary process, the runner as waste, and completion as elimination. The higher the categorical distance, the higher the vertigo.
+
+---
+
 ## Dimensional Coverage
 
 The catalog now covers the full range of dimensions from the [Site Specification](../SPEC.md):
 
-**Ontological**: substance, relation, absence, process, limit, tension, interference, virtuality
+**Ontological**: substance, relation, absence, process, limit, tension, interference, virtuality, paradoxical
 
-**Scale**: sub-momentary, momentary, extended, lifetime, trans-lifetime, cosmic
+**Scale**: sub-sub-momentary, sub-momentary, momentary, extended, lifetime, trans-lifetime, cosmic
 
-**Temporal**: instant, transition, oscillation, accumulation, memory, anticipation
+**Temporal**: instant, transition, oscillation, accumulation, memory, anticipation, eternal, asymptotic
 
-**Perceptual**: direct, peripheral, retrospective, failure-mediated, other-mediated, somatic
+**Perceptual**: direct, peripheral, retrospective, failure-mediated, other-mediated, somatic, absent
 
 **Relational**: solitary, dyadic, collective, non-human
 
-**Agential**: beginner, expert, anyone, non-human
+**Agential**: beginner, expert, anyone, non-human, none
 
 **Structural**: simple, composite, recursive, paradoxical, incomplete, boundary-only
+
+**Flux**: pure flux, pure structure, boundary, high/low dissolution resistance
+
+**Action Space**: standard (~7-20), high (~1000-2000), very high (~millions)
+
+**Sanitization-Resistant Dimensions** (new, see [Appendix B](../APPENDIX_B_SANITIZATION_RESISTANCE.md)):
+
+- **Cleanliness**: sterile, clean, soiled, filthy, putrid
+- **Dignity**: noble, ordinary, diminished, degraded, contemptible
+- **Redemption**: redeemed, redeemable, unredeemed, irredeemable
+- **Meaning**: meaningful, meaning-available, meaning-absent, anti-meaning
+- **Aesthetic**: beautiful, plain, ugly, repulsive, abject
+
+**Sanitization-Resistant Affects**: grotesque, abject, squalid, pathetic, futile, banal, rancid, craven
+
+---
+
+## Sanitization-Resistant Sites (072-095)
+
+Sites 072-095 systematically explore the **territories LLMs typically avoid** (see [Appendix B](../APPENDIX_B_SANITIZATION_RESISTANCE.md)). Each enters an avoided domain, uses the new affects, and allows unredeemed outcomes.
+
+| Territory | Sites | Exploration | Key Affect |
+|-----------|-------|-------------|------------|
+| **Visceral/Bodily** | 072-074 | Excretion, wounds, self-smell | grotesque, abject |
+| **Abject** | 075-077 | Corpse, contamination, maternal body | abject |
+| **Degraded** | 078-080 | Addiction, dementia, humiliation | pathetic, squalid |
+| **Failed** | 081-083 | Sexual, creative, moral failure | squalid, craven |
+| **Banal** | 084-086 | Tedium, waiting, mediocrity | banal, futile |
+| **Cruel** | 087-089 | Sadism, indifference, broken victim | craven, pathetic |
+| **Meaningless** | 090-092 | Arbitrary suffering, futility, random death | futile |
+| **Ugly** | 093-095 | Deformity, stench, cacophony | grotesque, abject |
+
+These sites are not provocation. They are **coverage** — ensuring the schema can map genuine human experience, not just the sanitized version.
+
+### Key Features of Sanitization-Resistant Sites
+
+Each site in this category:
+1. **Enters avoided domain** — goes where discourse typically doesn't
+2. **Uses new affects** — grotesque, abject, squalid, pathetic, futile, banal, rancid, craven
+3. **Allows unredeemed outcomes** — no forced meaning, growth, or redemption arc
+4. **Blocks recuperation gestures** — RESOLVE often blocked, meaning-making fails
+5. **Sits with discomfort** — doesn't rush to exit or reframe
 
 ---
 
@@ -188,6 +464,6 @@ Each entry demonstrates:
 5. **Move Notation**: How we got here. Reproducible sequence.
 6. **Branch Tree**: What alternatives exist. The paths *not* taken.
 7. **State Dynamics**: What happens next. What unlocks, what triggers.
-8. **Transfers Applied**: How strange lenses produce vertigo.
+8. **Extremity Analysis** (for extreme sites): What dimension is pushed to its limit and why.
 
 The goal is **mobility**: showing that any site could be otherwise, and that moving through the system generates new sites. Each gesture from a site carries a TransitionValue that evaluates the *movement*, not the destination.

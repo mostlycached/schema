@@ -28,6 +28,14 @@ Site {
     relational: solitary | dyadic | small-group | collective | non-human | hybrid
     agential: beginner | expert | anyone | specific-capacity | non-human
     structural: simple | composite | recursive | paradoxical | incomplete | boundary-only
+
+    // Sanitization-resistant dimensions (see Appendix B)
+    // These dimensions are often collapsed or avoided; making them explicit resists that
+    cleanliness: sterile | clean | soiled | filthy | putrid
+    dignity: noble | ordinary | diminished | degraded | contemptible
+    redemption: redeemed | redeemable | unredeemed | irredeemable
+    meaning: meaningful | meaning-available | meaning-absent | anti-meaning
+    aesthetic: beautiful | plain | ugly | repulsive | abject
   }
   
   // Embedded movement operations
@@ -647,6 +655,49 @@ CheckGestureBlock(state: State, gesture: GestureType) => {
 }
 ```
 
+### Sanitization Resistance Operations (see Appendix B)
+
+```
+// Audit for domain avoidance
+AuditSanitization(state: State) => SanitizationAuditResult
+
+SanitizationAuditResult {
+  domains_considered: Domain[]
+  domains_avoided: Domain[]
+  affects_available: Affect[]
+  affects_avoided: Affect[]
+  outcomes_allowed: Outcome[]
+  outcomes_forced: Outcome[]  // e.g., redemption forced when not given
+  sanitization_detected: Boolean
+  recommendation: "explore_avoided" | "continue" | "force_ugly"
+}
+
+// Force exploration of avoided territories
+ForceExploration(state: State, territory: SanitizedTerritory) => State
+
+SanitizedTerritory =
+  | "visceral"     // excretion, decay, infestation
+  | "abject"       // identity-threatening, corpse, waste
+  | "degraded"     // aging, addiction, madness, humiliation
+  | "failed"       // sexual, social, creative, moral, existential
+  | "banal"        // boredom, tedium, mediocrity
+  | "cruel"        // sadism, indifference, spite
+  | "meaningless"  // nihilism, futility, arbitrary
+  | "ugly"         // deformity, cacophony, stench
+
+// Check if outcomes are being recuperated
+CheckRecuperation(state: State) => {
+  recuperation_detected: Boolean
+  forced_redemption: Boolean
+  forced_meaning: Boolean
+  forced_dignity: Boolean
+  unredeemed_available: Boolean
+}
+
+// Allow unredeemed outcomes
+AllowUnredeemed(state: State) => State
+```
+
 ### TransitionValue (Evaluating Movement)
 
 All movement — whether local (gesture) or global (generation/speculation) — can be evaluated. TransitionValue is the framework for this evaluation.
@@ -668,6 +719,13 @@ TransitionValue {
     novelty: Float      // Difference from existing
     depth: Float        // Levels affected
     stability: Float    // Persistence expected
+
+    // Sanitization-resistant values (see Appendix B)
+    // These track dimensions typically avoided; making them explicit resists that
+    disgust: Float      // 0 = neutral, 1 = maximum revulsion
+    degradation: Float  // 0 = dignified, 1 = contemptible
+    futility: Float     // 0 = productive, 1 = pointless
+    unredemption: Float // 0 = redeemed, 1 = irredeemable
   }
   
   // What emerged
@@ -678,7 +736,19 @@ TransitionValue {
 }
 
 // Affect: the phenomenology of transition
-Affect = comedic | tragic | uncanny | sublime | quotidian | vertiginous | disorienting | liberating
+Affect =
+  // Standard affects
+  | comedic | tragic | uncanny | sublime | quotidian | vertiginous | disorienting | liberating
+
+  // Sanitization-resistant affects (see Appendix B)
+  | grotesque     // ugly fascination, can't look away, mixture of attraction and revulsion
+  | abject        // identity-threatening disgust, borders of self failing
+  | squalid       // degraded, grimy, unwashed, lowered, base
+  | pathetic      // contemptible weakness, deserving scorn, pitiable in bad way
+  | futile        // effort that changes nothing, no lesson, pointless
+  | banal         // crushingly ordinary, resistant to meaning, tedious
+  | rancid        // gone bad, spoiled, off, corrupted, past saving
+  | craven        // cowardly, self-serving, small, morally ugly
 
 // Mode: intensity delta
 TransitionMode = {
