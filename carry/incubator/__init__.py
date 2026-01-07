@@ -73,6 +73,18 @@ from carry.incubator.viz import (
     visualize_incubation,
 )
 
+from carry.incubator.accessibility import (
+    AccessMode,
+    AccessibilityPath,
+    AssemblageLens,
+    AccessibilityMatrix,
+    build_assemblage_lens,
+    build_accessibility_matrix,
+    generate_accessibility_report,
+    generate_path_narrative,
+    visualize_accessibility,
+)
+
 __all__ = [
     # Proximity
     "ProximityScore",
@@ -119,6 +131,16 @@ __all__ = [
     "visualize_proximity",
     "visualize_clusters",
     "visualize_incubation",
+    # Accessibility
+    "AccessMode",
+    "AccessibilityPath",
+    "AssemblageLens",
+    "AccessibilityMatrix",
+    "build_assemblage_lens",
+    "build_accessibility_matrix",
+    "generate_accessibility_report",
+    "generate_path_narrative",
+    "visualize_accessibility",
 ]
 
 
@@ -162,8 +184,8 @@ def main():
 
     # Mode
     parser.add_argument(
-        "--mode", choices=["cluster", "incubate", "full"], default="full",
-        help="Mode: cluster (just cluster), incubate (analyze), full (with emergence)"
+        "--mode", choices=["cluster", "incubate", "full", "accessibility"], default="full",
+        help="Mode: cluster (just cluster), incubate (analyze), full (with emergence), accessibility (perception paths)"
     )
     parser.add_argument(
         "--cluster-id", type=int,
@@ -237,6 +259,31 @@ def main():
                 print(f"  Saved cluster network to {cluster_viz}")
 
                 print("\nOpen the HTML files in a browser to explore interactively.")
+        return
+
+    # Accessibility mode
+    if args.mode == "accessibility":
+        print("\nBuilding accessibility matrix...")
+        acc_matrix = build_accessibility_matrix(all_assemblages)
+        total_paths = sum(len(p) for p in acc_matrix.paths.values())
+        print(f"  Computed {total_paths} accessibility paths")
+
+        # Generate report
+        report = generate_accessibility_report(acc_matrix, all_assemblages)
+        print("\n" + report[:3000] + "\n...(truncated)")
+
+        if args.output:
+            output_file = args.output / "accessibility.md"
+            output_file.parent.mkdir(parents=True, exist_ok=True)
+            output_file.write_text(report)
+            print(f"\nSaved accessibility report to {output_file}")
+
+            # Generate accessibility visualization
+            if args.viz:
+                viz_file = args.output / "accessibility.html"
+                visualize_accessibility(acc_matrix, all_assemblages, str(viz_file))
+                print(f"Saved accessibility network to {viz_file}")
+
         return
 
     # Incubate clusters
